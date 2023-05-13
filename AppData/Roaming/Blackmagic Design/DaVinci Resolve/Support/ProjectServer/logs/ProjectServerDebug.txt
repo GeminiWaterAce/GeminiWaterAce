@@ -1,0 +1,9 @@
+[0x00001e48] | SyManager            | WARN  | 2021-10-17 16:24:09,764 | Failed to load user preferences.
+[0x00001e48] | Main                 | INFO  | 2021-10-17 16:24:09,773 | Installed custom font: Open Sans
+[0x00001e48] | Main                 | INFO  | 2021-10-17 16:24:09,774 | Installed custom font: Open Sans Semibold
+[0x00001e48] | Main                 | INFO  | 2021-10-17 16:24:09,775 | Installed custom font: Open Sans
+[0x00001e48] | Main                 | INFO  | 2021-10-17 16:24:09,782 | Finished loading Application style sheet
+[0x00001e48] | SyManager.Lut        | ERROR | 2021-10-17 16:24:10,039 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
+[0x00001e48] | SyManager.Lut        | ERROR | 2021-10-17 16:24:10,040 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
+[0x00001e48] | SyManager.Lut        | ERROR | 2021-10-17 16:24:10,040 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
+[0x00001e48] | DbCommon2            | ERROR | 2021-10-17 16:24:10,142 | No valid database connection!

@@ -1,0 +1,30 @@
+2023-05-01T11:38:52.108Z - info: [main] Received possible protocol arguments: 2
+2023-05-01T11:38:52.111Z - error: [main] Malformed launch arguments received: C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\GitHubDesktop.exe,--squirrel-firstrun
+2023-05-01T11:38:52.450Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-05-01T11:38:52.450Z - info: [ui] [AppStore] found account: GeminiWaterAce (GeminiWaterAce)
+2023-05-01T11:38:52.767Z - warn: [ui] Error refreshing account 'GeminiWaterAce'
+Error: Cannot update an account which doesn't have a token: GeminiWaterAce
+    at Je (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\fatal-error.ts:3:9)
+    at C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:214:12
+    at zr.tryUpdateAccount (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:134:20)
+    at C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:114:37
+    at Array.map (<anonymous>)
+    at zr.refresh (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:114:21)
+    at zr.loadInitialState (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\app-store.ts:1904:24)
+2023-05-01T11:38:52.855Z - info: [ui] launching: 2.9.12 (Windows 10.0.19045)
+2023-05-01T11:38:52.856Z - info: [ui] execPath: 'C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\GitHubDesktop.exe'
+2023-05-01T11:38:53.331Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-05-01T11:38:53.545Z - info: [ui] Stats reported.
+2023-05-01T11:38:54.005Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-05-01T11:38:54.180Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-05-01T11:38:54.272Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-05-01T11:39:18.321Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
+2023-05-01T11:39:23.626Z - info: [ui] [BranchPruner] Last prune took place in 31 seconds - skipping
+2023-05-01T11:39:24.936Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.139s)
+2023-05-01T11:39:24.937Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.327s)
+2023-05-01T11:44:59.252Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 21.966s)
+2023-05-01T11:44:59.254Z - error: [ui] `git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/': schannel: failed to receive handshake, SSL/TLS connection failed
+
+2023-05-01T11:50:12.495Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.142s)

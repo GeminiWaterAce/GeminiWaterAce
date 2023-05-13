@@ -1,0 +1,4 @@
+2023-04-28 19:01:03.479 [info] Started initializing default profile extensions in extensions installation folder. file:///c%3A/Users/GeminiWaterAce/.vscode/extensions
+2023-04-28 19:01:03.493 [info] Completed initializing default profile extensions in extensions installation folder. file:///c%3A/Users/GeminiWaterAce/.vscode/extensions
+2023-04-28 19:01:03.599 [info] WSL is not installed, so could not detect WSL profiles
+2023-04-28 19:01:03.640 [info] Starting worker process with pid 13956 (type: fileWatcher, window: 1).

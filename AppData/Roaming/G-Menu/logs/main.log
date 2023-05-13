@@ -1,0 +1,156 @@
+[2022-06-20 21:16:34.739] [info]  [ '--urls', 'http://*:10000' ]
+[2022-06-20 21:16:34.962] [info]  electron初始化中...
+[2022-06-20 21:16:34.993] [info]  electron初始化完成
+[2022-06-20 21:16:36.769] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2022-06-20 21:16:36.815] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-06-20 21:16:38.398] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2022-06-20 21:17:45.166] [info]  [ '--urls', 'http://*:10000' ]
+[2022-06-20 21:17:45.390] [info]  electron初始化中...
+[2022-06-20 21:17:45.419] [info]  electron初始化完成
+[2022-06-20 21:17:45.899] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-06-20 21:17:45.953] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-06-20 21:17:47.077] [info]  1219946965e2d64315a84cf69d4af06b3d.4.790..04d9f5633aa1
+[2022-06-20 21:17:47.077] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=1219946965e2d64315a84cf69d4af06b3d.4.790..04d9f5633aa1
+[2022-07-13 22:06:36.339] [info]  [ '--urls', 'http://*:10000' ]
+[2022-07-13 22:06:36.367] [info]  electron初始化中...
+[2022-07-13 22:06:36.400] [info]  electron初始化完成
+[2022-07-13 22:06:44.995] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2022-07-13 22:06:45.046] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-13 22:06:49.936] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2022-07-13 22:20:10.020] [info]  [ '--urls', 'http://*:10000' ]
+[2022-07-13 22:20:10.051] [info]  electron初始化中...
+[2022-07-13 22:20:10.095] [info]  electron初始化完成
+[2022-07-13 22:20:10.569] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-07-13 22:20:10.629] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-13 22:20:11.905] [info]  11facd4a1511154635b88d50e8fbcc8fa1.4.790..04d9f5633aa1
+[2022-07-13 22:20:11.910] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=11facd4a1511154635b88d50e8fbcc8fa1.4.790..04d9f5633aa1
+[2022-07-15 19:49:05.121] [info]  [ '--urls', 'http://*:10000' ]
+[2022-07-15 19:49:05.352] [info]  electron初始化中...
+[2022-07-15 19:49:05.391] [info]  electron初始化完成
+[2022-07-15 19:49:05.904] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-07-15 19:49:05.956] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-15 19:49:06.968] [info]  1086b8efc373cf463d9a05e6fd661f67e7.4.790..04d9f5633aa1
+[2022-07-15 19:49:06.969] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=1086b8efc373cf463d9a05e6fd661f67e7.4.790..04d9f5633aa1
+[2022-07-15 19:49:07.979] [info]  get updateinfo success https://cache.zeasn.tv/prod/zeasn-saas-pp/apk/202242150542171657863737352.exe 3.10.00
+[2022-07-15 19:49:51.198] [info]  [ '--urls', 'http://*:10000' ]
+[2022-07-15 19:49:51.426] [info]  electron初始化中...
+[2022-07-15 19:49:51.458] [info]  electron初始化完成
+[2022-07-15 19:49:52.824] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-07-15 19:49:52.879] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-15 19:49:53.754] [info]  12d17bb3e2c1bd4445a84db6224c988023.4.790..04d9f5633aa1
+[2022-07-15 19:49:53.755] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=31000&token=12d17bb3e2c1bd4445a84db6224c988023.4.790..04d9f5633aa1
+[2022-07-15 19:52:45.109] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-15 19:52:45.129] [info]  [ '--urls', 'http://*:10001' ]
+[2022-07-15 19:52:45.269] [info]  electron初始化中...
+[2022-07-15 19:52:45.285] [info]  electron初始化完成
+[2022-07-15 20:39:43.143] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-07-15 20:39:43.174] [info]  [ '--urls', 'http://*:10001' ]
+[2022-07-15 20:39:43.313] [info]  electron初始化中...
+[2022-07-15 20:39:43.332] [info]  electron初始化完成
+[2022-08-12 21:25:39.775] [info]  [ '--urls', 'http://*:10000' ]
+[2022-08-12 21:25:40.002] [info]  electron初始化中...
+[2022-08-12 21:25:40.031] [info]  electron初始化完成
+[2022-08-12 21:26:00.777] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-08-12 21:26:00.829] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-08-12 21:26:01.868] [info]  12767615723f50476891c088105d02b855.4.790..04d9f5633aa1
+[2022-08-12 21:26:01.868] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=31000&token=12767615723f50476891c088105d02b855.4.790..04d9f5633aa1
+[2022-08-12 21:44:41.127] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-08-12 21:44:41.151] [info]  [ '--urls', 'http://*:10001' ]
+[2022-08-12 21:44:41.288] [info]  electron初始化中...
+[2022-08-12 21:44:41.306] [info]  electron初始化完成
+[2022-08-21 12:19:56.483] [info]  [ '--urls', 'http://*:10000' ]
+[2022-08-21 12:19:56.711] [info]  electron初始化中...
+[2022-08-21 12:19:56.741] [info]  electron初始化完成
+[2022-08-21 12:19:58.212] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-08-21 12:19:58.269] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-08-21 12:19:59.248] [info]  11b71cdc3d21b74ed79bdba3b25a7a8531.4.790..04d9f5633aa1
+[2022-08-21 12:19:59.248] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=31000&token=11b71cdc3d21b74ed79bdba3b25a7a8531.4.790..04d9f5633aa1
+[2022-09-10 20:06:59.124] [info]  [ '--urls', 'http://*:10000' ]
+[2022-09-10 20:06:59.155] [info]  electron初始化中...
+[2022-09-10 20:06:59.170] [info]  electron初始化完成
+[2022-09-10 20:07:15.549] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2022-09-10 20:07:15.599] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-09-10 20:07:17.084] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2022-09-11 12:48:30.161] [info]  [ '--urls', 'http://*:10000' ]
+[2022-09-11 12:48:30.200] [info]  electron初始化中...
+[2022-09-11 12:48:30.288] [info]  electron初始化完成
+[2022-09-11 12:48:32.996] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2022-09-11 12:48:33.127] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-09-11 12:48:37.065] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2022-09-11 12:50:15.769] [info]  [ '--urls', 'http://*:10000' ]
+[2022-09-11 12:50:15.799] [info]  electron初始化中...
+[2022-09-11 12:50:15.837] [info]  electron初始化完成
+[2022-09-11 12:50:16.317] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-09-11 12:50:16.383] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-09-11 12:50:19.218] [info]  10d803637cd58c42d2b0eddc34e3bdda27.4.790..04d9f5633aa1
+[2022-09-11 12:50:19.224] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=10d803637cd58c42d2b0eddc34e3bdda27.4.790..04d9f5633aa1
+[2022-09-11 12:50:26.043] [info]  get updateinfo success https://cache.zeasn.tv/prod/zeasn-saas-pp/apk/202210081110061662635406639.exe 3.11.00
+[2022-09-11 12:53:16.619] [info]  [ '--urls', 'http://*:10000' ]
+[2022-09-11 12:53:16.648] [info]  electron初始化中...
+[2022-09-11 12:53:16.693] [info]  electron初始化完成
+[2022-09-11 12:53:17.169] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-09-11 12:53:17.235] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-09-11 12:53:19.808] [info]  10251af03117dc4bb98cf1a64f7e0f1534.4.790..04d9f5633aa1
+[2022-09-11 12:53:19.814] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=31100&token=10251af03117dc4bb98cf1a64f7e0f1534.4.790..04d9f5633aa1
+[2022-09-11 12:56:14.876] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-09-11 12:56:14.914] [info]  [ '--urls', 'http://*:10001' ]
+[2022-09-11 12:56:14.929] [info]  electron初始化中...
+[2022-09-11 12:56:14.953] [info]  electron初始化完成
+[2022-10-12 21:40:20.816] [info]  [ '--urls', 'http://*:10000' ]
+[2022-10-12 21:40:20.846] [info]  electron初始化中...
+[2022-10-12 21:40:20.876] [info]  electron初始化完成
+[2022-10-12 21:40:37.385] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2022-10-12 21:40:37.444] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-10-12 21:40:38.906] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2022-10-12 21:41:17.481] [info]  [ '--urls', 'http://*:10000' ]
+[2022-10-12 21:41:17.510] [info]  electron初始化中...
+[2022-10-12 21:41:17.546] [info]  electron初始化完成
+[2022-10-12 21:41:18.934] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-10-12 21:41:18.991] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-10-12 21:41:19.998] [info]  12343606e6ebee4738ab47f28affc288f1.4.790..04d9f5633aa1
+[2022-10-12 21:41:20.005] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=12343606e6ebee4738ab47f28affc288f1.4.790..04d9f5633aa1
+[2022-10-12 21:41:21.177] [info]  get updateinfo success https://cache.zeasn.tv/prod/zeasn-saas-pp/apk/202210081110061662635406639.exe 3.11.00
+[2022-10-12 21:44:19.811] [info]  [ '--urls', 'http://*:10000' ]
+[2022-10-12 21:44:19.843] [info]  electron初始化中...
+[2022-10-12 21:44:19.886] [info]  electron初始化完成
+[2022-10-12 21:44:20.725] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2022-10-12 21:44:21.065] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2022-10-12 21:44:21.925] [info]  118042d6f4607e404b9be7da8ca3f6173b.4.790..04d9f5633aa1
+[2022-10-12 21:44:21.933] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=31100&token=118042d6f4607e404b9be7da8ca3f6173b.4.790..04d9f5633aa1
+[2023-01-26 01:10:16.951] [info]  [ '--urls', 'http://*:10000' ]
+[2023-01-26 01:10:16.983] [info]  electron初始化中...
+[2023-01-26 01:10:17.024] [info]  electron初始化完成
+[2023-01-26 01:10:39.337] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2023-01-26 01:10:39.393] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2023-01-26 01:10:47.101] [info]  get updateinfo success http://cache.zeasn.tv/static/windows/202226150926361655285196754.exe 3.9.00
+[2023-01-26 01:11:10.929] [info]  [ '--urls', 'http://*:10000' ]
+[2023-01-26 01:11:10.960] [info]  electron初始化中...
+[2023-01-26 01:11:11.001] [info]  electron初始化完成
+[2023-01-26 01:11:33.238] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2023-01-26 01:11:33.295] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2023-01-26 01:11:45.280] [info]  1072835a4a19044a0b980ba83953713e88.4.790..04d9f5633aa1
+[2023-01-26 01:11:45.287] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&versionNum=3900&token=1072835a4a19044a0b980ba83953713e88.4.790..04d9f5633aa1
+[2023-01-26 01:11:46.220] [info]  get updateinfo success https://cache.zeasn.tv/prod/zeasn-saas-pp/apk/202328160928141673861294645.exe 3.14.00
+[2023-01-26 01:12:59.452] [info]  [ '--urls', 'http://*:10000' ]
+[2023-01-26 01:12:59.481] [info]  electron初始化中...
+[2023-01-26 01:12:59.520] [info]  electron初始化完成
+[2023-01-26 01:13:22.063] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2023-01-26 01:13:22.900] [info]  1248bdf3892c4b4c4985ae2d87c6bcb206.4.790..04d9f5633aa1
+[2023-01-26 01:13:22.906] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&langCode=zh&versionNum=31400&token=1248bdf3892c4b4c4985ae2d87c6bcb206.4.790..04d9f5633aa1
+[2023-03-02 23:35:33.966] [info]  [ '--urls', 'http://*:10000' ]
+[2023-03-02 23:35:33.999] [info]  electron初始化中...
+[2023-03-02 23:35:34.094] [info]  electron初始化完成
+[2023-03-02 23:35:35.933] [info]  get token:https://saas.zeasn.tv/auth-api/api/v1/auth/deviceSign?productId=790&brandId=4&mac=04:d9:f5:63:3a:a1
+[2023-03-02 23:35:36.139] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2023-03-02 23:35:36.991] [info]  102b5f40579eee442583c46686acf5af90.4.790..04d9f5633aa1
+[2023-03-02 23:35:36.992] [info]  check update info from sever:https://saas.zeasn.tv/sp/api/device/v1/clientUpg?channelId=1&pkg=windows.test.gmenu&langCode=zh&versionNum=31400&token=102b5f40579eee442583c46686acf5af90.4.790..04d9f5633aa1
+[2023-04-28 19:01:38.648] [info]  [ '--urls', 'http://*:10000' ]
+[2023-04-28 19:01:38.679] [info]  electron初始化中...
+[2023-04-28 19:01:38.712] [info]  electron初始化完成
+[2023-04-28 19:01:41.181] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2023-04-28 19:01:41.234] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]
+[2023-05-01 19:42:29.683] [info]  [ '--urls', 'http://*:10000' ]
+[2023-05-01 19:42:29.713] [info]  electron初始化中...
+[2023-05-01 19:42:29.753] [info]  electron初始化完成
+[2023-05-01 19:42:30.212] [info]  check update info from sever:http://smarttv.zeasn.tv/BluePortServlets/client/info/update?productId=790&channelId=1&clientPackageName=windows.test.gmenu&exeCptionString=Jesus Love You , Hallelujah&versionNum=3800&mac=04:d9:f5:63:3a:a1
+[2023-05-01 19:42:30.262] [info]  是否开机自启？ false [ 'C:\\G-Menu\\G-Menu.exe' ]

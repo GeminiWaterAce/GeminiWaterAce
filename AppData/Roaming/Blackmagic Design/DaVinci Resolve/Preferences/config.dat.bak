@@ -1,0 +1,107 @@
+Site.Count = 1
+
+Site.1.LocalEnabled = 1
+
+Site.1.Svc.Count = 7
+Site.1.Svc.1 = SyManager.1
+Site.1.Svc.2 = GsManager.1
+Site.1.Svc.3 = DpManager.1
+Site.1.Svc.4 = DtManager.1
+Site.1.Svc.5 = LsManager.1
+Site.1.Svc.6 = LsManager.2
+Site.1.Svc.7 = LsManager.3
+
+Site.1.FS.Count = 2
+
+Site.1.FS.1.Type = IOFileSys
+Site.1.FS.1.Root = C:\vol0
+Site.1.FS.1.DIO = 1
+Site.1.FS.1.BrightClip = 0
+
+Site.1.FS.2.Type = IOFileSys
+Site.1.FS.2.Root = ResolveVirtual
+Site.1.FS.2.DIO = 1
+Site.1.FS.2.BrightClip = 0
+
+Site.1.CmdRT.Count = 1
+Site.1.CmdRT.1.Type = Mem
+
+Site.1.DataRT.Count = 1
+Site.1.DataRT.1.Type = Mem
+
+SyManager.Count = 1
+SyManager.1.Guid = 10
+
+GsManager.Count = 1
+GsManager.1.Guid = 20
+
+DtManager.Count = 1
+DtManager.1.Guid = 50
+
+DpManager.Count = 1
+DpManager.Output.Processing = yes
+DpManager.Display.Type = rgb10
+
+DpManager.1.Guid = 60
+DpManager.1.Output.Count = 2
+DpManager.1.Output.1.Type = VGA
+DpManager.1.Output.2.Type = WFM
+DpManager.1.Output.Processing.Type = hardware
+DpManager.1.Lut.Process = hardware
+
+LsManager.Count = 3
+
+LsManager.1.Guid = 30
+LsManager.1.Algo.1 = IpWindowTrackingObj
+
+LsManager.2.Guid = 31
+LsManager.2.Algo.1 = IpConvertObj
+LsManager.2.Processing = Input
+
+LsManager.3.Guid = 32
+LsManager.3.Algo.1 = IpVaGPUGraphObj
+LsManager.3.Processing = InputOutput
+
+Local.Resource.Processors.1 = 2
+
+Local.Resource.Buffers.1 = 4000
+
+Local.Gui.AutoStart = 1
+Local.Gui.UseTex = 1
+Local.Gui.ENABLEPBO = 1
+Local.Gui.ENABLESDI = 0
+Local.Gui.CombineClips = 1
+
+Local.DtManager.1.Threads = 8
+
+Local.DB.DisableIntegrityCheck = 0
+
+Local.Audio.Type = DeckLink
+
+RenderCaching.DtGuid = 50
+RenderCaching.FsNo = 1
+RenderCaching.CacheDir = CacheClip
+RenderCaching.CacheMaxNum = 10000
+
+System.Gallery.DtMgr.Guid = 50
+System.Gallery.DtMgr.FileSys = 1
+System.Gallery.Folder = .gallery
+
+System.Playback.Policy = RoundRobin
+
+System.Playback.Lookahead = 20
+System.Record.Lookahead = 0
+System.VTR.Type = DeckLink
+
+System.Panel.Type = none
+
+DPDecoder.Count = 1
+DPDecoder.1.IP = localhost
+DPDecoder.1.Instances = 8
+
+//Parameters for crash feedback
+
+//CrashFeedback.FromEmail =
+//CrashFeedback.ToEmail = rslvlogs@blackmagicdesign.com
+//CrashFeedback.SMTPServer =
+//CrashFeedback.ProgramName = Resolve

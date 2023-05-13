@@ -1,0 +1,959 @@
+19:55:57.359: CPU Name: AMD Ryzen 9 5950X 16-Core Processor            
+19:55:57.359: CPU Speed: 3400MHz
+19:55:57.359: Physical Cores: 16, Logical Cores: 32
+19:55:57.359: Physical Memory: 130986MB Total, 125064MB Free
+19:55:57.359: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 2006; 64-bit)
+19:55:57.359: Running as administrator: false
+19:55:57.359: Windows 10/11 Gaming Features:
+19:55:57.359: 	Game Bar: On
+19:55:57.359: 	Game DVR: On
+19:55:57.359: 	Game DVR Background Recording: Off
+19:55:57.359: 	Game Mode: Probably On (no reg key set)
+19:55:57.359: 	Hardware GPU Scheduler: On
+19:55:57.363: Sec. Software Status:
+19:55:57.364: Current Date/Time: 2023-04-27, 19:55:57
+19:55:57.364: Browser Hardware Acceleration: true
+19:55:57.364: Hide OBS windows from screen capture: false
+19:55:57.364: Qt Version: 6.3.1 (runtime), 6.3.1 (compiled)
+19:55:57.364: Portable mode: false
+19:55:57.913: OBS 29.0.0 (64-bit, windows)
+19:55:57.913: ---------------------------------
+19:55:57.913: ---------------------------------
+19:55:57.913: audio settings reset:
+19:55:57.913: 	samples per sec: 48000
+19:55:57.913: 	speakers:        2
+19:55:57.913: 	max buffering:   960 milliseconds
+19:55:57.913: 	buffering type:  dynamically increasing
+19:55:57.914: ---------------------------------
+19:55:57.914: Initializing D3D11...
+19:55:57.914: Available Video Adapters: 
+19:55:57.916: 	Adapter 0: NVIDIA GeForce RTX 3090
+19:55:57.916: 	  Dedicated VRAM: 4047503360
+19:55:57.916: 	  Shared VRAM:    4250277888
+19:55:57.916: 	  PCI ID:         10de:2204
+19:55:57.916: 	  Driver Version: 31.0.15.3168
+19:55:57.917: 	  output 0:
+19:55:57.917: 	    name=PD32M
+19:55:57.917: 	    pos={0, 0}
+19:55:57.917: 	    size={3840, 2160}
+19:55:57.917: 	    attached=true
+19:55:57.917: 	    refresh=144
+19:55:57.917: 	    space=RGB_FULL_G22_NONE_P709
+19:55:57.917: 	    sdr_white_nits=80
+19:55:57.917: 	    nit_range=[min=0.050300, max=1670.847534, max_full_frame=1207.396851]
+19:55:57.917: 	  output 1:
+19:55:57.917: 	    name=U32U1WR6B
+19:55:57.917: 	    pos={-3840, 0}
+19:55:57.917: 	    size={3840, 2160}
+19:55:57.917: 	    attached=true
+19:55:57.917: 	    refresh=60
+19:55:57.917: 	    space=RGB_FULL_G22_NONE_P709
+19:55:57.917: 	    sdr_white_nits=80
+19:55:57.917: 	    nit_range=[min=0.049000, max=603.698425, max_full_frame=351.276398]
+19:55:57.919: Loading up D3D11 on adapter NVIDIA GeForce RTX 3090 (0)
+19:55:58.008: D3D11 loaded successfully, feature level used: b000
+19:55:58.008: DXGI increase maximum frame latency success
+19:55:58.008: D3D11 GPU priority setup failed (not admin?)
+19:55:59.082: ---------------------------------
+19:55:59.082: video settings reset:
+19:55:59.082: 	base resolution:   3840x2160
+19:55:59.082: 	output resolution: 1920x1080
+19:55:59.082: 	downscale filter:  Lanczos
+19:55:59.082: 	fps:               30/1
+19:55:59.082: 	format:            NV12
+19:55:59.082: 	YUV mode:          sRGB/Full
+19:55:59.083: NV12 texture support enabled
+19:55:59.083: P010 texture support not available
+19:55:59.086: Audio monitoring device:
+19:55:59.086: 	name: 默认
+19:55:59.086: 	id: default
+19:55:59.087: ---------------------------------
+19:55:59.102: No AJA devices found, skipping loading AJA UI plugin
+19:55:59.102: Failed to initialize module 'aja-output-ui.dll'
+19:55:59.116: No AJA devices found, skipping loading AJA plugin
+19:55:59.116: Failed to initialize module 'aja.dll'
+19:55:59.117: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+19:55:59.126: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+19:55:59.128: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+19:55:59.130: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+19:55:59.140: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:55:59.140: Failed to initialize module 'decklink.dll'
+19:55:59.173: [AMF] Unable to load 'amfrt64.dll', error code 126.
+19:55:59.173: [AMF] AMF Test failed due to one or more errors.
+19:55:59.174: Failed to initialize module 'enc-amf.dll'
+19:55:59.214: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+19:55:59.215: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+19:55:59.216: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+19:55:59.285: [obs-browser]: Version 2.19.0
+19:55:59.285: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+19:55:59.339: NVENC supported
+19:55:59.475: [NVENC] AV1 is not supported
+19:55:59.486: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+19:55:59.487: Failed to get NVVideoEffects.dll version info size
+19:55:59.507: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+19:55:59.584: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+19:55:59.584: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.3.1 | Qt version (run-time): 6.3.1
+19:55:59.584: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+19:55:59.605: [obs-websocket] [obs_module_load] Module loaded.
+19:55:59.646: [vlc-video]: VLC 3.0.18 Vetinari found, VLC video source enabled
+19:55:59.677: ---------------------------------
+19:55:59.677:   Loaded Modules:
+19:55:59.677:     win-wasapi.dll
+19:55:59.677:     win-mf.dll
+19:55:59.677:     win-dshow.dll
+19:55:59.677:     win-capture.dll
+19:55:59.677:     vlc-video.dll
+19:55:59.677:     text-freetype2.dll
+19:55:59.677:     rtmp-services.dll
+19:55:59.677:     obs-x264.dll
+19:55:59.677:     obs-websocket.dll
+19:55:59.677:     obs-vst.dll
+19:55:59.677:     obs-transitions.dll
+19:55:59.677:     obs-text.dll
+19:55:59.677:     obs-qsv11.dll
+19:55:59.677:     obs-outputs.dll
+19:55:59.677:     obs-filters.dll
+19:55:59.677:     obs-ffmpeg.dll
+19:55:59.677:     obs-browser.dll
+19:55:59.677:     image-source.dll
+19:55:59.677:     frontend-tools.dll
+19:55:59.677:     decklink-output-ui.dll
+19:55:59.677:     decklink-captions.dll
+19:55:59.677:     coreaudio-encoder.dll
+19:55:59.677: ---------------------------------
+19:55:59.679: ==== Startup complete ===============================================
+19:55:59.835: All scene data cleared
+19:55:59.835: ------------------------------------------------
+19:55:59.849: [win-wasapi: '桌面音频'] update settings:
+19:55:59.849: 	device id: default
+19:55:59.849: 	use device timing: 1
+19:55:59.851: [Loaded global audio device]: '桌面音频'
+19:55:59.851: [win-wasapi: '麦克风/Aux'] update settings:
+19:55:59.851: 	device id: default
+19:55:59.851: 	use device timing: 0
+19:55:59.851: [Loaded global audio device]: '麦克风/Aux'
+19:55:59.877: WASAPI: Device '扬声器 (Sound Blaster AE-9)' [96000 Hz] initialized
+19:55:59.877: WASAPI: Device '耳机式麦克风 (Wireless Controller)' [48000 Hz] initialized
+19:55:59.920: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: 麦克风/Aux)
+19:55:59.920: 
+19:56:00.434: Switched to scene '心渊梦境'
+19:56:00.434: ------------------------------------------------
+19:56:00.434: Loaded scenes:
+19:56:00.434: - scene '暗影火炬城':
+19:56:00.434:     - source: '暗影火炬城游戏' (game_capture)
+19:56:00.434: - scene '最终幻想7重制版':
+19:56:00.434:     - source: '最终幻想7重制版游戏' (game_capture)
+19:56:00.434: - scene '战神':
+19:56:00.434:     - source: '战神游戏' (game_capture)
+19:56:00.434: - scene '艾尔登法环':
+19:56:00.434:     - source: '艾尔登法环游戏' (game_capture)
+19:56:00.434: - scene '茶杯头':
+19:56:00.434:     - source: '茶杯头游戏' (game_capture)
+19:56:00.434: - scene '忍者龟施莱德的复仇':
+19:56:00.434:     - source: '忍者龟施莱德的复仇游戏' (game_capture)
+19:56:00.434: - scene '边境猎人':
+19:56:00.434:     - source: '边境猎人游戏源' (game_capture)
+19:56:00.434:     - source: '边境猎人文本 (GDI+)' (text_gdiplus_v2)
+19:56:00.434: - scene '游聚实况':
+19:56:00.434:     - source: '游聚游戏源' (game_capture)
+19:56:00.434: - scene '魔兽争霸3重铸版':
+19:56:00.434:     - source: '魔兽争霸3重铸版游戏' (game_capture)
+19:56:00.434: - scene '审判之眼死神的遗言':
+19:56:00.434:     - source: '审判之眼死神的遗言游戏' (game_capture)
+19:56:00.434: - scene '卧龙':
+19:56:00.434:     - source: '卧龙游戏' (game_capture)
+19:56:00.434: - scene '心渊梦境':
+19:56:00.434:     - source: '心渊梦境游戏' (game_capture)
+19:56:00.434: ------------------------------------------------
+19:57:49.830: Max audio buffering reached!
+19:57:49.830: adding 938 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: 桌面音频)
+19:57:49.830: 
+19:57:49.851: Source 桌面音频 audio is lagging (over by 22078.20 ms) at max audio buffering. Restarting source audio.
+19:58:49.948: Source 桌面音频 audio is lagging (over by 57774.63 ms) at max audio buffering. Restarting source audio.
+20:01:51.686: Source 桌面音频 audio is lagging (over by 91923.82 ms) at max audio buffering. Restarting source audio.
+20:04:38.045: ---------------------------------
+20:04:38.045: [x264 encoder: 'advanced_video_stream'] preset: veryfast
+20:04:38.046: [x264 encoder: 'advanced_video_stream'] settings:
+20:04:38.046: 	rate_control: CBR
+20:04:38.046: 	bitrate:      2000
+20:04:38.046: 	buffer size:  2000
+20:04:38.046: 	crf:          23
+20:04:38.046: 	fps_num:      30
+20:04:38.046: 	fps_den:      1
+20:04:38.046: 	width:        1920
+20:04:38.046: 	height:       1080
+20:04:38.046: 	keyint:       250
+20:04:38.046: 
+20:04:38.055: ---------------------------------
+20:04:38.055: [FFmpeg aac encoder: 'adv_stream_aac'] bitrate: 192, channels: 2, channel_layout: stereo
+20:04:38.055: 
+20:04:38.061: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-push.bilivideo.com/live-bvc/...
+20:04:38.078: [rtmp stream: 'adv_stream'] Interface: Intel(R) I211 Gigabit Network Connection (ethernet, 1000 mbps)
+20:04:40.452: [rtmp stream: 'adv_stream'] Connection to rtmp://live-push.bilivideo.com/live-bvc/ successful
+20:04:40.453: [rtmp stream: 'adv_stream'] Socket send buffer is 65536 bytes
+20:04:40.458: ==== Streaming Start ===============================================
+20:05:14.488: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:05:14.492: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:05:14.495: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:05:17.521: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:05:17.532: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:05:17.532:     BufferDesc.Width: 3840
+20:05:17.532:     BufferDesc.Height: 2160
+20:05:17.532:     BufferDesc.RefreshRate.Numerator: 0
+20:05:17.532:     BufferDesc.RefreshRate.Denominator: 0
+20:05:17.532:     BufferDesc.Format: 24
+20:05:17.532:     BufferDesc.ScanlineOrdering: 0
+20:05:17.532:     BufferDesc.Scaling: 0
+20:05:17.532:     SampleDesc.Count: 1
+20:05:17.532:     SampleDesc.Quality: 0
+20:05:17.532:     BufferUsage: 48
+20:05:17.532:     BufferCount: 2
+20:05:17.532:     Windowed: 1
+20:05:17.532:     SwapEffect: 4
+20:05:17.532:     Flags: 2050
+20:05:17.532: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:05:17.554: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:05:21.531: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:05:21.531: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:05:21.531: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:05:21.531: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:05:21.531: [game-capture: '心渊梦境游戏'] Hooked GL
+20:05:27.763: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:05:28.035: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:05:28.035: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:05:28.035:     BufferDesc.Width: 3840
+20:05:28.035:     BufferDesc.Height: 2160
+20:05:28.035:     BufferDesc.RefreshRate.Numerator: 0
+20:05:28.035:     BufferDesc.RefreshRate.Denominator: 0
+20:05:28.035:     BufferDesc.Format: 24
+20:05:28.035:     BufferDesc.ScanlineOrdering: 0
+20:05:28.035:     BufferDesc.Scaling: 0
+20:05:28.035:     SampleDesc.Count: 1
+20:05:28.035:     SampleDesc.Quality: 0
+20:05:28.035:     BufferUsage: 48
+20:05:28.035:     BufferCount: 2
+20:05:28.035:     Windowed: 0
+20:05:28.035:     SwapEffect: 4
+20:05:28.035:     Flags: 2050
+20:05:28.035: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:05:28.054: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:05:28.655: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:05:28.674: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:05:28.674: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:05:28.674:     BufferDesc.Width: 3840
+20:05:28.674:     BufferDesc.Height: 2160
+20:05:28.674:     BufferDesc.RefreshRate.Numerator: 0
+20:05:28.674:     BufferDesc.RefreshRate.Denominator: 0
+20:05:28.674:     BufferDesc.Format: 24
+20:05:28.674:     BufferDesc.ScanlineOrdering: 0
+20:05:28.674:     BufferDesc.Scaling: 0
+20:05:28.674:     SampleDesc.Count: 1
+20:05:28.674:     SampleDesc.Quality: 0
+20:05:28.674:     BufferUsage: 48
+20:05:28.674:     BufferCount: 2
+20:05:28.674:     Windowed: 1
+20:05:28.674:     SwapEffect: 4
+20:05:28.674:     Flags: 2050
+20:05:28.674: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:05:28.687: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:05:30.792: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:05:30.793: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:05:30.793: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:05:30.793:     BufferDesc.Width: 3840
+20:05:30.793:     BufferDesc.Height: 2160
+20:05:30.793:     BufferDesc.RefreshRate.Numerator: 0
+20:05:30.793:     BufferDesc.RefreshRate.Denominator: 0
+20:05:30.793:     BufferDesc.Format: 24
+20:05:30.793:     BufferDesc.ScanlineOrdering: 0
+20:05:30.793:     BufferDesc.Scaling: 0
+20:05:30.793:     SampleDesc.Count: 1
+20:05:30.793:     SampleDesc.Quality: 0
+20:05:30.793:     BufferUsage: 48
+20:05:30.793:     BufferCount: 2
+20:05:30.793:     Windowed: 0
+20:05:30.793:     SwapEffect: 4
+20:05:30.793:     Flags: 2050
+20:05:30.794: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:05:30.821: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:05:42.521: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+20:05:42.521: [game-capture: '心渊梦境游戏'] capture stopped
+20:05:54.688: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:05:54.691: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:05:54.693: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:05:57.721: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:05:57.729: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:05:57.729:     BufferDesc.Width: 3840
+20:05:57.729:     BufferDesc.Height: 2160
+20:05:57.729:     BufferDesc.RefreshRate.Numerator: 0
+20:05:57.729:     BufferDesc.RefreshRate.Denominator: 0
+20:05:57.729:     BufferDesc.Format: 24
+20:05:57.729:     BufferDesc.ScanlineOrdering: 0
+20:05:57.729:     BufferDesc.Scaling: 0
+20:05:57.729:     SampleDesc.Count: 1
+20:05:57.729:     SampleDesc.Quality: 0
+20:05:57.729:     BufferUsage: 48
+20:05:57.729:     BufferCount: 2
+20:05:57.729:     Windowed: 1
+20:05:57.729:     SwapEffect: 4
+20:05:57.729:     Flags: 2050
+20:05:57.729: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:05:57.754: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:01.730: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:06:01.730: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:06:01.730: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:06:01.730: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:06:01.730: [game-capture: '心渊梦境游戏'] Hooked GL
+20:06:05.492: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:06:05.631: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:06:05.631: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:06:05.631:     BufferDesc.Width: 3840
+20:06:05.631:     BufferDesc.Height: 2160
+20:06:05.631:     BufferDesc.RefreshRate.Numerator: 0
+20:06:05.631:     BufferDesc.RefreshRate.Denominator: 0
+20:06:05.631:     BufferDesc.Format: 24
+20:06:05.631:     BufferDesc.ScanlineOrdering: 0
+20:06:05.631:     BufferDesc.Scaling: 0
+20:06:05.631:     SampleDesc.Count: 1
+20:06:05.631:     SampleDesc.Quality: 0
+20:06:05.631:     BufferUsage: 48
+20:06:05.631:     BufferCount: 2
+20:06:05.631:     Windowed: 0
+20:06:05.631:     SwapEffect: 4
+20:06:05.631:     Flags: 2050
+20:06:05.631: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:06:05.654: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:23.229: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:06:23.230: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:06:23.230: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:06:23.230:     BufferDesc.Width: 3840
+20:06:23.230:     BufferDesc.Height: 2160
+20:06:23.230:     BufferDesc.RefreshRate.Numerator: 0
+20:06:23.230:     BufferDesc.RefreshRate.Denominator: 0
+20:06:23.230:     BufferDesc.Format: 24
+20:06:23.230:     BufferDesc.ScanlineOrdering: 0
+20:06:23.230:     BufferDesc.Scaling: 0
+20:06:23.230:     SampleDesc.Count: 1
+20:06:23.230:     SampleDesc.Quality: 0
+20:06:23.230:     BufferUsage: 48
+20:06:23.230:     BufferCount: 2
+20:06:23.230:     Windowed: 1
+20:06:23.230:     SwapEffect: 4
+20:06:23.230:     Flags: 2050
+20:06:23.230: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:06:23.254: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:23.756: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:06:23.758: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:06:23.758: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:06:23.758:     BufferDesc.Width: 3840
+20:06:23.758:     BufferDesc.Height: 2160
+20:06:23.758:     BufferDesc.RefreshRate.Numerator: 0
+20:06:23.758:     BufferDesc.RefreshRate.Denominator: 0
+20:06:23.758:     BufferDesc.Format: 24
+20:06:23.758:     BufferDesc.ScanlineOrdering: 0
+20:06:23.758:     BufferDesc.Scaling: 0
+20:06:23.758:     SampleDesc.Count: 1
+20:06:23.758:     SampleDesc.Quality: 0
+20:06:23.758:     BufferUsage: 48
+20:06:23.758:     BufferCount: 2
+20:06:23.758:     Windowed: 0
+20:06:23.758:     SwapEffect: 4
+20:06:23.758:     Flags: 2050
+20:06:23.758: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:06:23.787: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:24.124: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:06:24.126: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:06:24.126: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:06:24.126:     BufferDesc.Width: 3840
+20:06:24.126:     BufferDesc.Height: 2160
+20:06:24.126:     BufferDesc.RefreshRate.Numerator: 0
+20:06:24.126:     BufferDesc.RefreshRate.Denominator: 0
+20:06:24.126:     BufferDesc.Format: 24
+20:06:24.126:     BufferDesc.ScanlineOrdering: 0
+20:06:24.126:     BufferDesc.Scaling: 0
+20:06:24.126:     SampleDesc.Count: 1
+20:06:24.126:     SampleDesc.Quality: 0
+20:06:24.126:     BufferUsage: 48
+20:06:24.126:     BufferCount: 2
+20:06:24.126:     Windowed: 1
+20:06:24.126:     SwapEffect: 4
+20:06:24.126:     Flags: 2050
+20:06:24.126: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:06:24.154: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:25.010: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:06:25.013: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:06:25.013: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:06:25.013:     BufferDesc.Width: 3840
+20:06:25.013:     BufferDesc.Height: 2160
+20:06:25.013:     BufferDesc.RefreshRate.Numerator: 0
+20:06:25.013:     BufferDesc.RefreshRate.Denominator: 0
+20:06:25.013:     BufferDesc.Format: 24
+20:06:25.013:     BufferDesc.ScanlineOrdering: 0
+20:06:25.013:     BufferDesc.Scaling: 0
+20:06:25.013:     SampleDesc.Count: 1
+20:06:25.013:     SampleDesc.Quality: 0
+20:06:25.013:     BufferUsage: 48
+20:06:25.013:     BufferCount: 2
+20:06:25.013:     Windowed: 0
+20:06:25.013:     SwapEffect: 4
+20:06:25.013:     Flags: 2050
+20:06:25.013: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:06:25.021: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:06:30.487: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+20:06:30.488: [game-capture: '心渊梦境游戏'] capture stopped
+20:07:17.274: Source 桌面音频 audio is lagging (over by 44865.05 ms) at max audio buffering. Restarting source audio.
+20:07:22.096: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:07:22.099: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:07:22.102: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:07:25.128: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:07:25.133: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:07:25.133:     BufferDesc.Width: 3840
+20:07:25.133:     BufferDesc.Height: 2160
+20:07:25.133:     BufferDesc.RefreshRate.Numerator: 0
+20:07:25.133:     BufferDesc.RefreshRate.Denominator: 0
+20:07:25.133:     BufferDesc.Format: 24
+20:07:25.133:     BufferDesc.ScanlineOrdering: 0
+20:07:25.133:     BufferDesc.Scaling: 0
+20:07:25.133:     SampleDesc.Count: 1
+20:07:25.133:     SampleDesc.Quality: 0
+20:07:25.133:     BufferUsage: 48
+20:07:25.133:     BufferCount: 2
+20:07:25.133:     Windowed: 1
+20:07:25.133:     SwapEffect: 4
+20:07:25.133:     Flags: 2050
+20:07:25.134: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:07:25.154: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:07:29.141: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:07:29.141: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:07:29.141: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:07:29.141: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:07:29.141: [game-capture: '心渊梦境游戏'] Hooked GL
+20:07:33.730: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:07:33.929: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:07:33.929: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:07:33.929:     BufferDesc.Width: 3840
+20:07:33.929:     BufferDesc.Height: 2160
+20:07:33.929:     BufferDesc.RefreshRate.Numerator: 0
+20:07:33.929:     BufferDesc.RefreshRate.Denominator: 0
+20:07:33.929:     BufferDesc.Format: 24
+20:07:33.929:     BufferDesc.ScanlineOrdering: 0
+20:07:33.929:     BufferDesc.Scaling: 0
+20:07:33.929:     SampleDesc.Count: 1
+20:07:33.929:     SampleDesc.Quality: 0
+20:07:33.929:     BufferUsage: 48
+20:07:33.929:     BufferCount: 2
+20:07:33.929:     Windowed: 0
+20:07:33.929:     SwapEffect: 4
+20:07:33.929:     Flags: 2050
+20:07:33.929: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:07:33.954: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:07:58.997: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:07:59.008: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:07:59.008: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:07:59.008:     BufferDesc.Width: 3840
+20:07:59.008:     BufferDesc.Height: 2160
+20:07:59.008:     BufferDesc.RefreshRate.Numerator: 0
+20:07:59.008:     BufferDesc.RefreshRate.Denominator: 0
+20:07:59.008:     BufferDesc.Format: 24
+20:07:59.008:     BufferDesc.ScanlineOrdering: 0
+20:07:59.008:     BufferDesc.Scaling: 0
+20:07:59.008:     SampleDesc.Count: 1
+20:07:59.008:     SampleDesc.Quality: 0
+20:07:59.008:     BufferUsage: 48
+20:07:59.008:     BufferCount: 2
+20:07:59.008:     Windowed: 1
+20:07:59.008:     SwapEffect: 4
+20:07:59.008:     Flags: 2050
+20:07:59.008: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:07:59.021: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:08:01.061: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:08:01.067: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:08:01.067: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:08:01.067:     BufferDesc.Width: 3840
+20:08:01.067:     BufferDesc.Height: 2160
+20:08:01.067:     BufferDesc.RefreshRate.Numerator: 0
+20:08:01.067:     BufferDesc.RefreshRate.Denominator: 0
+20:08:01.067:     BufferDesc.Format: 24
+20:08:01.067:     BufferDesc.ScanlineOrdering: 0
+20:08:01.067:     BufferDesc.Scaling: 0
+20:08:01.067:     SampleDesc.Count: 1
+20:08:01.067:     SampleDesc.Quality: 0
+20:08:01.067:     BufferUsage: 48
+20:08:01.067:     BufferCount: 2
+20:08:01.067:     Windowed: 0
+20:08:01.067:     SwapEffect: 4
+20:08:01.067:     Flags: 2050
+20:08:01.079: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:08:01.087: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:08:09.259: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:08:09.263: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:08:09.263: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:08:09.263:     BufferDesc.Width: 3840
+20:08:09.263:     BufferDesc.Height: 2160
+20:08:09.263:     BufferDesc.RefreshRate.Numerator: 0
+20:08:09.263:     BufferDesc.RefreshRate.Denominator: 0
+20:08:09.263:     BufferDesc.Format: 24
+20:08:09.263:     BufferDesc.ScanlineOrdering: 0
+20:08:09.263:     BufferDesc.Scaling: 0
+20:08:09.263:     SampleDesc.Count: 1
+20:08:09.263:     SampleDesc.Quality: 0
+20:08:09.263:     BufferUsage: 48
+20:08:09.263:     BufferCount: 2
+20:08:09.263:     Windowed: 1
+20:08:09.263:     SwapEffect: 4
+20:08:09.263:     Flags: 2050
+20:08:09.263: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:08:09.287: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:08:30.917: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:08:30.918: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:08:30.918: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:08:30.918:     BufferDesc.Width: 3840
+20:08:30.918:     BufferDesc.Height: 2160
+20:08:30.918:     BufferDesc.RefreshRate.Numerator: 0
+20:08:30.918:     BufferDesc.RefreshRate.Denominator: 0
+20:08:30.918:     BufferDesc.Format: 24
+20:08:30.918:     BufferDesc.ScanlineOrdering: 0
+20:08:30.918:     BufferDesc.Scaling: 0
+20:08:30.918:     SampleDesc.Count: 1
+20:08:30.918:     SampleDesc.Quality: 0
+20:08:30.918:     BufferUsage: 48
+20:08:30.918:     BufferCount: 2
+20:08:30.918:     Windowed: 0
+20:08:30.918:     SwapEffect: 4
+20:08:30.918:     Flags: 2050
+20:08:30.919: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:08:30.921: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:08:34.287: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+20:08:34.288: [game-capture: '心渊梦境游戏'] capture stopped
+20:08:55.554: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:08:55.557: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:08:55.559: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:08:58.588: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:08:58.597: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:08:58.597:     BufferDesc.Width: 3840
+20:08:58.597:     BufferDesc.Height: 2160
+20:08:58.597:     BufferDesc.RefreshRate.Numerator: 0
+20:08:58.597:     BufferDesc.RefreshRate.Denominator: 0
+20:08:58.597:     BufferDesc.Format: 24
+20:08:58.597:     BufferDesc.ScanlineOrdering: 0
+20:08:58.597:     BufferDesc.Scaling: 0
+20:08:58.597:     SampleDesc.Count: 1
+20:08:58.597:     SampleDesc.Quality: 0
+20:08:58.597:     BufferUsage: 48
+20:08:58.597:     BufferCount: 2
+20:08:58.597:     Windowed: 1
+20:08:58.597:     SwapEffect: 4
+20:08:58.597:     Flags: 2050
+20:08:58.597: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:08:58.621: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:09:02.601: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:09:02.601: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:09:02.601: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:09:02.601: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:09:02.601: [game-capture: '心渊梦境游戏'] Hooked GL
+20:09:06.982: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:09:07.112: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:09:07.112: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:09:07.112:     BufferDesc.Width: 3840
+20:09:07.112:     BufferDesc.Height: 2160
+20:09:07.112:     BufferDesc.RefreshRate.Numerator: 0
+20:09:07.112:     BufferDesc.RefreshRate.Denominator: 0
+20:09:07.112:     BufferDesc.Format: 24
+20:09:07.112:     BufferDesc.ScanlineOrdering: 0
+20:09:07.112:     BufferDesc.Scaling: 0
+20:09:07.112:     SampleDesc.Count: 1
+20:09:07.112:     SampleDesc.Quality: 0
+20:09:07.112:     BufferUsage: 48
+20:09:07.112:     BufferCount: 2
+20:09:07.112:     Windowed: 0
+20:09:07.112:     SwapEffect: 4
+20:09:07.112:     Flags: 2050
+20:09:07.114: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:09:07.121: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:09:19.296: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:09:19.434: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:09:19.434: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:09:19.434:     BufferDesc.Width: 3840
+20:09:19.434:     BufferDesc.Height: 2160
+20:09:19.434:     BufferDesc.RefreshRate.Numerator: 0
+20:09:19.434:     BufferDesc.RefreshRate.Denominator: 0
+20:09:19.434:     BufferDesc.Format: 24
+20:09:19.434:     BufferDesc.ScanlineOrdering: 0
+20:09:19.434:     BufferDesc.Scaling: 0
+20:09:19.434:     SampleDesc.Count: 1
+20:09:19.434:     SampleDesc.Quality: 0
+20:09:19.434:     BufferUsage: 48
+20:09:19.434:     BufferCount: 2
+20:09:19.434:     Windowed: 1
+20:09:19.434:     SwapEffect: 4
+20:09:19.434:     Flags: 2050
+20:09:19.435: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:09:19.454: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:09:19.972: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:09:20.098: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:09:20.098: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:09:20.098:     BufferDesc.Width: 3840
+20:09:20.098:     BufferDesc.Height: 2160
+20:09:20.098:     BufferDesc.RefreshRate.Numerator: 0
+20:09:20.098:     BufferDesc.RefreshRate.Denominator: 0
+20:09:20.098:     BufferDesc.Format: 24
+20:09:20.098:     BufferDesc.ScanlineOrdering: 0
+20:09:20.098:     BufferDesc.Scaling: 0
+20:09:20.098:     SampleDesc.Count: 1
+20:09:20.098:     SampleDesc.Quality: 0
+20:09:20.098:     BufferUsage: 48
+20:09:20.098:     BufferCount: 2
+20:09:20.098:     Windowed: 0
+20:09:20.098:     SwapEffect: 4
+20:09:20.098:     Flags: 2050
+20:09:20.098: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:09:20.121: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:09:47.987: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+20:09:47.988: [game-capture: '心渊梦境游戏'] capture stopped
+20:10:36.999: Source 桌面音频 audio is lagging (over by 47061.27 ms) at max audio buffering. Restarting source audio.
+20:10:42.621: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:10:42.624: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:10:42.626: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:10:45.654: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:10:45.711: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:10:45.711:     BufferDesc.Width: 3840
+20:10:45.711:     BufferDesc.Height: 2160
+20:10:45.711:     BufferDesc.RefreshRate.Numerator: 0
+20:10:45.711:     BufferDesc.RefreshRate.Denominator: 0
+20:10:45.711:     BufferDesc.Format: 24
+20:10:45.711:     BufferDesc.ScanlineOrdering: 0
+20:10:45.711:     BufferDesc.Scaling: 0
+20:10:45.711:     SampleDesc.Count: 1
+20:10:45.711:     SampleDesc.Quality: 0
+20:10:45.711:     BufferUsage: 48
+20:10:45.711:     BufferCount: 2
+20:10:45.711:     Windowed: 1
+20:10:45.711:     SwapEffect: 4
+20:10:45.711:     Flags: 2050
+20:10:45.717: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:10:45.721: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:10:49.664: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:10:49.664: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:10:49.664: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:10:49.664: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:10:49.664: [game-capture: '心渊梦境游戏'] Hooked GL
+20:10:53.515: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:10:53.726: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:10:53.726: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:10:53.726:     BufferDesc.Width: 3840
+20:10:53.726:     BufferDesc.Height: 2160
+20:10:53.726:     BufferDesc.RefreshRate.Numerator: 0
+20:10:53.726:     BufferDesc.RefreshRate.Denominator: 0
+20:10:53.726:     BufferDesc.Format: 24
+20:10:53.726:     BufferDesc.ScanlineOrdering: 0
+20:10:53.726:     BufferDesc.Scaling: 0
+20:10:53.726:     SampleDesc.Count: 1
+20:10:53.726:     SampleDesc.Quality: 0
+20:10:53.726:     BufferUsage: 48
+20:10:53.726:     BufferCount: 2
+20:10:53.726:     Windowed: 0
+20:10:53.726:     SwapEffect: 4
+20:10:53.726:     Flags: 2050
+20:10:53.727: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:10:53.754: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:10:56.376: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:10:56.394: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:10:56.394: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:10:56.394:     BufferDesc.Width: 3840
+20:10:56.394:     BufferDesc.Height: 2160
+20:10:56.394:     BufferDesc.RefreshRate.Numerator: 0
+20:10:56.394:     BufferDesc.RefreshRate.Denominator: 0
+20:10:56.394:     BufferDesc.Format: 24
+20:10:56.394:     BufferDesc.ScanlineOrdering: 0
+20:10:56.394:     BufferDesc.Scaling: 0
+20:10:56.394:     SampleDesc.Count: 1
+20:10:56.394:     SampleDesc.Quality: 0
+20:10:56.394:     BufferUsage: 48
+20:10:56.394:     BufferCount: 2
+20:10:56.394:     Windowed: 1
+20:10:56.394:     SwapEffect: 4
+20:10:56.394:     Flags: 2050
+20:10:56.394: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:10:56.421: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:07.885: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:07.887: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:07.887: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:07.887:     BufferDesc.Width: 3840
+20:11:07.887:     BufferDesc.Height: 2160
+20:11:07.887:     BufferDesc.RefreshRate.Numerator: 0
+20:11:07.887:     BufferDesc.RefreshRate.Denominator: 0
+20:11:07.887:     BufferDesc.Format: 24
+20:11:07.887:     BufferDesc.ScanlineOrdering: 0
+20:11:07.887:     BufferDesc.Scaling: 0
+20:11:07.887:     SampleDesc.Count: 1
+20:11:07.887:     SampleDesc.Quality: 0
+20:11:07.887:     BufferUsage: 48
+20:11:07.887:     BufferCount: 2
+20:11:07.887:     Windowed: 0
+20:11:07.887:     SwapEffect: 4
+20:11:07.887:     Flags: 2050
+20:11:07.887: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:07.887: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:11.858: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:11.861: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:11.861: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:11.861:     BufferDesc.Width: 3840
+20:11:11.861:     BufferDesc.Height: 2160
+20:11:11.861:     BufferDesc.RefreshRate.Numerator: 0
+20:11:11.861:     BufferDesc.RefreshRate.Denominator: 0
+20:11:11.861:     BufferDesc.Format: 24
+20:11:11.861:     BufferDesc.ScanlineOrdering: 0
+20:11:11.861:     BufferDesc.Scaling: 0
+20:11:11.861:     SampleDesc.Count: 1
+20:11:11.861:     SampleDesc.Quality: 0
+20:11:11.861:     BufferUsage: 48
+20:11:11.861:     BufferCount: 2
+20:11:11.861:     Windowed: 1
+20:11:11.861:     SwapEffect: 4
+20:11:11.861:     Flags: 2050
+20:11:11.862: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:11.887: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:15.027: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:15.028: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:15.028: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:15.028:     BufferDesc.Width: 3840
+20:11:15.028:     BufferDesc.Height: 2160
+20:11:15.028:     BufferDesc.RefreshRate.Numerator: 0
+20:11:15.028:     BufferDesc.RefreshRate.Denominator: 0
+20:11:15.028:     BufferDesc.Format: 24
+20:11:15.028:     BufferDesc.ScanlineOrdering: 0
+20:11:15.028:     BufferDesc.Scaling: 0
+20:11:15.028:     SampleDesc.Count: 1
+20:11:15.028:     SampleDesc.Quality: 0
+20:11:15.028:     BufferUsage: 48
+20:11:15.028:     BufferCount: 2
+20:11:15.028:     Windowed: 0
+20:11:15.028:     SwapEffect: 4
+20:11:15.028:     Flags: 2050
+20:11:15.029: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:15.054: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:20.406: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:20.408: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:20.408: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:20.408:     BufferDesc.Width: 3840
+20:11:20.408:     BufferDesc.Height: 2160
+20:11:20.408:     BufferDesc.RefreshRate.Numerator: 0
+20:11:20.408:     BufferDesc.RefreshRate.Denominator: 0
+20:11:20.408:     BufferDesc.Format: 24
+20:11:20.408:     BufferDesc.ScanlineOrdering: 0
+20:11:20.408:     BufferDesc.Scaling: 0
+20:11:20.408:     SampleDesc.Count: 1
+20:11:20.408:     SampleDesc.Quality: 0
+20:11:20.408:     BufferUsage: 48
+20:11:20.408:     BufferCount: 2
+20:11:20.408:     Windowed: 1
+20:11:20.408:     SwapEffect: 4
+20:11:20.408:     Flags: 2050
+20:11:20.408: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:20.421: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:25.862: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:25.863: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:25.864: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:25.864:     BufferDesc.Width: 3840
+20:11:25.864:     BufferDesc.Height: 2160
+20:11:25.864:     BufferDesc.RefreshRate.Numerator: 0
+20:11:25.864:     BufferDesc.RefreshRate.Denominator: 0
+20:11:25.864:     BufferDesc.Format: 24
+20:11:25.864:     BufferDesc.ScanlineOrdering: 0
+20:11:25.864:     BufferDesc.Scaling: 0
+20:11:25.864:     SampleDesc.Count: 1
+20:11:25.864:     SampleDesc.Quality: 0
+20:11:25.864:     BufferUsage: 48
+20:11:25.864:     BufferCount: 2
+20:11:25.864:     Windowed: 0
+20:11:25.864:     SwapEffect: 4
+20:11:25.864:     Flags: 2050
+20:11:25.864: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:25.887: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:27.648: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:27.655: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:27.655: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:27.655:     BufferDesc.Width: 3840
+20:11:27.655:     BufferDesc.Height: 2160
+20:11:27.655:     BufferDesc.RefreshRate.Numerator: 0
+20:11:27.655:     BufferDesc.RefreshRate.Denominator: 0
+20:11:27.655:     BufferDesc.Format: 24
+20:11:27.655:     BufferDesc.ScanlineOrdering: 0
+20:11:27.655:     BufferDesc.Scaling: 0
+20:11:27.655:     SampleDesc.Count: 1
+20:11:27.655:     SampleDesc.Quality: 0
+20:11:27.655:     BufferUsage: 48
+20:11:27.655:     BufferCount: 2
+20:11:27.655:     Windowed: 1
+20:11:27.655:     SwapEffect: 4
+20:11:27.655:     Flags: 2050
+20:11:27.656: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:27.687: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:11:59.826: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:11:59.828: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:11:59.828: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:11:59.828:     BufferDesc.Width: 3840
+20:11:59.828:     BufferDesc.Height: 2160
+20:11:59.828:     BufferDesc.RefreshRate.Numerator: 0
+20:11:59.828:     BufferDesc.RefreshRate.Denominator: 0
+20:11:59.828:     BufferDesc.Format: 24
+20:11:59.828:     BufferDesc.ScanlineOrdering: 0
+20:11:59.828:     BufferDesc.Scaling: 0
+20:11:59.828:     SampleDesc.Count: 1
+20:11:59.828:     SampleDesc.Quality: 0
+20:11:59.828:     BufferUsage: 48
+20:11:59.828:     BufferCount: 2
+20:11:59.828:     Windowed: 0
+20:11:59.828:     SwapEffect: 4
+20:11:59.828:     Flags: 2050
+20:11:59.829: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:11:59.854: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:12:02.421: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+20:12:02.421: [game-capture: '心渊梦境游戏'] capture stopped
+20:12:21.298: WASAPI: Default input device changed
+20:12:21.300: Device '耳机式麦克风 (Wireless Controller)' invalidated.  Retrying (source: 麦克风/Aux)
+20:12:21.395: WASAPI: Device '麦克风 (Sound Blaster AE-9)' [48000 Hz] initialized
+20:12:24.352: WASAPI: Default input device changed
+20:12:24.455: Device '麦克风 (Sound Blaster AE-9)' invalidated.  Retrying (source: 麦克风/Aux)
+20:12:24.468: WASAPI: Device '耳机式麦克风 (Wireless Controller)' [48000 Hz] initialized
+20:12:28.016: Source 桌面音频 audio is lagging (over by 23658.20 ms) at max audio buffering. Restarting source audio.
+20:13:00.088: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:13:00.091: [game-capture: '心渊梦境游戏'] using helper (compatibility hook)
+20:13:00.093: [game-capture: '心渊梦境游戏'] hook not loaded yet, retrying..
+20:13:03.121: [game-capture: '心渊梦境游戏'] attempting to hook process: Afterimage-Win64-Shipping.exe
+20:13:03.125: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:13:03.125:     BufferDesc.Width: 3840
+20:13:03.125:     BufferDesc.Height: 2160
+20:13:03.125:     BufferDesc.RefreshRate.Numerator: 0
+20:13:03.125:     BufferDesc.RefreshRate.Denominator: 0
+20:13:03.125:     BufferDesc.Format: 24
+20:13:03.125:     BufferDesc.ScanlineOrdering: 0
+20:13:03.125:     BufferDesc.Scaling: 0
+20:13:03.125:     SampleDesc.Count: 1
+20:13:03.125:     SampleDesc.Quality: 0
+20:13:03.125:     BufferUsage: 48
+20:13:03.125:     BufferCount: 2
+20:13:03.125:     Windowed: 1
+20:13:03.125:     SwapEffect: 4
+20:13:03.125:     Flags: 2050
+20:13:03.136: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:13:03.154: [game-capture: '心渊梦境游戏'] shared texture capture successful
+20:13:07.134: [game-capture: '心渊梦境游戏'] Hooked SwapBuffers
+20:13:07.134: [game-capture: '心渊梦境游戏'] Hooked wglDeleteContext
+20:13:07.134: [game-capture: '心渊梦境游戏'] Hooked wglSwapLayerBuffers
+20:13:07.134: [game-capture: '心渊梦境游戏'] Hooked wglSwapBuffers
+20:13:07.134: [game-capture: '心渊梦境游戏'] Hooked GL
+20:13:11.611: [game-capture: '心渊梦境游戏'] ----------------- d3d11 capture freed ----------------
+20:13:11.758: [game-capture: '心渊梦境游戏'] Found D3D11 11.0 device on swap chain
+20:13:11.758: [game-capture: '心渊梦境游戏'] DXGI_SWAP_CHAIN_DESC:
+20:13:11.758:     BufferDesc.Width: 3840
+20:13:11.758:     BufferDesc.Height: 2160
+20:13:11.758:     BufferDesc.RefreshRate.Numerator: 0
+20:13:11.758:     BufferDesc.RefreshRate.Denominator: 0
+20:13:11.758:     BufferDesc.Format: 24
+20:13:11.758:     BufferDesc.ScanlineOrdering: 0
+20:13:11.758:     BufferDesc.Scaling: 0
+20:13:11.758:     SampleDesc.Count: 1
+20:13:11.758:     SampleDesc.Quality: 0
+20:13:11.758:     BufferUsage: 48
+20:13:11.758:     BufferCount: 2
+20:13:11.758:     Windowed: 0
+20:13:11.758:     SwapEffect: 4
+20:13:11.758:     Flags: 2050
+20:13:11.759: [game-capture: '心渊梦境游戏'] d3d11 shared texture capture successful
+20:13:11.787: [game-capture: '心渊梦境游戏'] shared texture capture successful
+02:09:23.387: [game-capture: '心渊梦境游戏'] capture window no longer exists, terminating capture
+02:09:23.387: [game-capture: '心渊梦境游戏'] capture stopped
+02:31:43.217: [rtmp stream: 'adv_stream'] User stopped the stream
+02:31:43.217: [rtmp stream: 'adv_stream'] Socket send buffer is 524288 bytes
+02:31:43.217: Output 'adv_stream': stopping
+02:31:43.217: Output 'adv_stream': Total frames output: 696634
+02:31:43.217: Output 'adv_stream': Total drawn frames: 696754
+02:31:43.220: ==== Streaming Stop ================================================
+02:31:45.010: Source 桌面音频 audio is lagging (over by 1339766.68 ms) at max audio buffering. Restarting source audio.
+02:33:04.007: ==== Shutting down ==================================================
+02:33:04.020: WASAPI: Device '扬声器 (Sound Blaster AE-9)' Terminated
+02:33:04.088: WASAPI: Device '耳机式麦克风 (Wireless Controller)' Terminated
+02:33:04.135: All scene data cleared
+02:33:04.135: ------------------------------------------------
+02:33:04.252: [obs-websocket] [obs_module_unload] Shutting down...
+02:33:04.253: [obs-websocket] [obs_module_unload] Finished shutting down.
+02:33:04.303: [Scripting] Total detached callbacks: 0
+02:33:04.303: Freeing OBS context data
+02:33:04.303: 1 views remain at shutdown
+02:33:04.379: == Profiler Results =============================
+02:33:04.379: run_program_init: 3257.53 ms
+02:33:04.379:  ┣OBSApp::AppInit: 33.723 ms
+02:33:04.379:  ┃ ┗OBSApp::InitLocale: 11.99 ms
+02:33:04.379:  ┗OBSApp::OBSInit: 3209.6 ms
+02:33:04.379:    ┣obs_startup: 4.499 ms
+02:33:04.379:    ┗OBSBasic::OBSInit: 2655.68 ms
+02:33:04.379:      ┣OBSBasic::InitBasicConfig: 0.33 ms
+02:33:04.379:      ┣OBSBasic::ResetAudio: 0.15 ms
+02:33:04.379:      ┣OBSBasic::ResetVideo: 1172.09 ms
+02:33:04.379:      ┣OBSBasic::InitOBSCallbacks: 0.319 ms
+02:33:04.379:      ┣OBSBasic::InitHotkeys: 0.301 ms
+02:33:04.379:      ┣obs_load_all_modules2: 589.888 ms
+02:33:04.379:      ┃ ┣obs_init_module(aja-output-ui.dll): 1.968 ms
+02:33:04.379:      ┃ ┣obs_init_module(aja.dll): 1.92 ms
+02:33:04.379:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.658 ms
+02:33:04.379:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+02:33:04.379:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+02:33:04.379:      ┃ ┣obs_init_module(decklink.dll): 1.752 ms
+02:33:04.379:      ┃ ┣obs_init_module(enc-amf.dll): 22.034 ms
+02:33:04.379:      ┃ ┣obs_init_module(frontend-tools.dll): 17.372 ms
+02:33:04.379:      ┃ ┣obs_init_module(image-source.dll): 0.005 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-browser.dll): 7.651 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 162.204 ms
+02:33:04.379:      ┃ ┃ ┗nvenc_check: 0.55 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-filters.dll): 21.277 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-outputs.dll): 0.008 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-qsv11.dll): 21.265 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-text.dll): 1.423 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-transitions.dll): 0.007 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-websocket.dll): 20.576 ms
+02:33:04.379:      ┃ ┣obs_init_module(obs-x264.dll): 0.002 ms
+02:33:04.379:      ┃ ┣obs_init_module(rtmp-services.dll): 1.172 ms
+02:33:04.379:      ┃ ┣obs_init_module(text-freetype2.dll): 0.041 ms
+02:33:04.379:      ┃ ┣obs_init_module(vlc-video.dll): 8.175 ms
+02:33:04.379:      ┃ ┣obs_init_module(win-capture.dll): 2.979 ms
+02:33:04.379:      ┃ ┣obs_init_module(win-dshow.dll): 2.188 ms
+02:33:04.379:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+02:33:04.379:      ┃ ┣obs_init_module(win-wasapi.dll): 0.006 ms
+02:33:04.379:      ┃ ┗reset_win32_symbol_paths: 0.341 ms
+02:33:04.379:      ┣OBSBasic::ResetOutputs: 1.776 ms
+02:33:04.379:      ┣OBSBasic::CreateHotkeys: 0.297 ms
+02:33:04.379:      ┣OBSBasic::InitService: 2.876 ms
+02:33:04.379:      ┣OBSBasic::InitPrimitives: 0.103 ms
+02:33:04.379:      ┗OBSBasic::Load: 745.159 ms
+02:33:04.379: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.004 ms, max=87.155 ms, 99th percentile=0.06 ms, 99.9921% below 25 ms
+02:33:04.379: audio_thread(Audio): min=0.007 ms, median=0.296 ms, max=4.234 ms, 99th percentile=0.459 ms
+02:33:04.379:  ┗receive_audio: min=0.001 ms, median=0.267 ms, max=4.21 ms, 99th percentile=0.424 ms
+02:33:04.379:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.149 ms, 99th percentile=0.002 ms
+02:33:04.379:    ┗do_encode: min=0.03 ms, median=0.263 ms, max=4.207 ms, 99th percentile=0.42 ms
+02:33:04.379:      ┣encode(adv_stream_aac): min=0.027 ms, median=0.257 ms, max=4.205 ms, 99th percentile=0.412 ms
+02:33:04.379:      ┗send_packet: min=0.001 ms, median=0.005 ms, max=0.254 ms, 99th percentile=0.017 ms
+02:33:04.379: obs_graphics_thread(33.3333 ms): min=0.046 ms, median=0.463 ms, max=577.962 ms, 99th percentile=0.74 ms, 99.9993% below 33.333 ms
+02:33:04.379:  ┣tick_sources: min=0 ms, median=0.016 ms, max=577.875 ms, 99th percentile=0.029 ms
+02:33:04.379:  ┣output_frame: min=0.03 ms, median=0.316 ms, max=32.822 ms, 99th percentile=0.513 ms
+02:33:04.379:  ┃ ┣gs_context(video->graphics): min=0.029 ms, median=0.133 ms, max=32.63 ms, 99th percentile=0.218 ms
+02:33:04.379:  ┃ ┃ ┣render_video: min=0.002 ms, median=0.046 ms, max=1.448 ms, 99th percentile=0.075 ms
+02:33:04.379:  ┃ ┃ ┃ ┣render_main_texture: min=0.001 ms, median=0.018 ms, max=1.383 ms, 99th percentile=0.03 ms
+02:33:04.379:  ┃ ┃ ┃ ┣render_output_texture: min=0.004 ms, median=0.007 ms, max=0.915 ms, 99th percentile=0.014 ms
+02:33:04.379:  ┃ ┃ ┃ ┣render_convert_texture: min=0.004 ms, median=0.008 ms, max=0.444 ms, 99th percentile=0.014 ms
+02:33:04.379:  ┃ ┃ ┃ ┗stage_output_texture: min=0.001 ms, median=0.011 ms, max=0.429 ms, 99th percentile=0.019 ms
+02:33:04.379:  ┃ ┃ ┣gs_flush: min=0.017 ms, median=0.034 ms, max=32.076 ms, 99th percentile=0.101 ms
+02:33:04.379:  ┃ ┃ ┗download_frame: min=0 ms, median=0.052 ms, max=32.567 ms, 99th percentile=0.105 ms
+02:33:04.379:  ┃ ┗output_video_data: min=0.151 ms, median=0.181 ms, max=2.011 ms, 99th percentile=0.318 ms
+02:33:04.379:  ┗render_displays: min=0 ms, median=0.124 ms, max=55.04 ms, 99th percentile=0.225 ms
+02:33:04.379: video_thread(video): min=0.661 ms, median=0.855 ms, max=4.897 ms, 99th percentile=1.279 ms
+02:33:04.380:  ┗receive_video: min=0.661 ms, median=0.854 ms, max=4.894 ms, 99th percentile=1.277 ms
+02:33:04.380:    ┗do_encode: min=0.66 ms, median=0.853 ms, max=4.891 ms, 99th percentile=1.276 ms
+02:33:04.380:      ┣encode(advanced_video_stream): min=0.656 ms, median=0.842 ms, max=4.883 ms, 99th percentile=1.262 ms
+02:33:04.380:      ┗send_packet: min=0.002 ms, median=0.01 ms, max=0.359 ms, 99th percentile=0.021 ms
+02:33:04.380: =================================================
+02:33:04.380: == Profiler Time Between Calls ==================
+02:33:04.380: obs_hotkey_thread(25 ms): min=24.048 ms, median=25.023 ms, max=111.605 ms, 96.6597% within ±2% of 25 ms (0.00252402% lower, 3.3378% higher)
+02:33:04.380: obs_graphics_thread(33.3333 ms): min=6.747 ms, median=33.333 ms, max=577.971 ms, 99.9964% within ±2% of 33.333 ms (0.00181885% lower, 0.00181885% higher)
+02:33:04.380: =================================================
+02:33:04.602: Number of memory leaks: 0

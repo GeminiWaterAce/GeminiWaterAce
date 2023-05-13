@@ -1,0 +1,7 @@
+IoFsNum = 1
+IoFsMount_1 = C:\Users\GeminiWater\Videos
+
+BrawGPUEnable = 1
+GPUProcessingMode = CUDA
+RedGPUEnable = 2
+

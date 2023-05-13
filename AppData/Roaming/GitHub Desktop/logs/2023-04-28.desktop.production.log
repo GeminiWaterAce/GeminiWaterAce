@@ -1,0 +1,31 @@
+2023-04-28T10:48:47.904Z - info: [main] Received possible protocol arguments: 2
+2023-04-28T10:48:47.907Z - error: [main] Malformed launch arguments received: C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\GitHubDesktop.exe,--squirrel-firstrun
+2023-04-28T10:48:48.222Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-28T10:48:48.222Z - info: [ui] [AppStore] found account: GeminiWaterAce (GeminiWaterAce)
+2023-04-28T10:48:48.602Z - warn: [ui] Error refreshing account 'GeminiWaterAce'
+Error: Cannot update an account which doesn't have a token: GeminiWaterAce
+    at Je (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\fatal-error.ts:3:9)
+    at C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:214:12
+    at zr.tryUpdateAccount (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:134:20)
+    at C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:114:37
+    at Array.map (<anonymous>)
+    at zr.refresh (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\accounts-store.ts:114:21)
+    at zr.loadInitialState (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\app-store.ts:1904:24)
+2023-04-28T10:48:48.743Z - info: [ui] launching: 2.9.12 (Windows 10.0.19045)
+2023-04-28T10:48:48.744Z - info: [ui] execPath: 'C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\GitHubDesktop.exe'
+2023-04-28T10:48:49.235Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-28T10:48:49.463Z - info: [ui] Stats reported.
+2023-04-28T10:48:49.871Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-28T10:48:49.875Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.592s)
+2023-04-28T10:48:49.875Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.187s)
+2023-04-28T10:48:50.144Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-28T10:48:50.255Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-28T10:49:04.431Z - warn: [ui] failed fetching updated PRs for repository AUTOMATIC1111/stable-diffusion-webui
+Error: got max pull requests, aborting
+    at Object.continue (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\api.ts:976:19)
+    at Un.fetchAll (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\api.ts:1307:50)
+    at Un.fetchUpdatedPullRequests (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\api.ts:992:7)
+    at OB.constructor.fetchAndStoreUpdatedPullRequests (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\pull-request-store.ts:120:11)
+    at Object.refreshPullRequests (C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\app-2.9.12\webpack:\[name]\app\src\lib\stores\pull-request-coordinator.ts:160:45)
+2023-04-28T10:49:15.858Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.314s)
+2023-04-28T10:49:43.189Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
