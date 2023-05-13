@@ -5494,3 +5494,21 @@ WaterAce\AppData\Roaming\Netease\UU\uu_lsp.log
 [2023-05-14 06:05:45:208] file:main_form_v40.cpp line: 3098)<<<<child_game_acced showed 
 [2023-05-14 06:05:45:975] file: line: 87)<<<<[StatLog::SendStatInfo] action=lnet_detect, code=0, len=626
 [2023-05-14 06:06:37:961] file: line: 87)<<<<[StatLog::SendStatInfo] action=alarm, code=0, len=505
+[2023-05-14 06:51:35:708] file:log_service.cpp line: 1328)<<<<[UserHabit] CMainFormV40_fileChanged.
+[2023-05-14 06:51:35:847] file:main_form_v40.cpp line: 5095)<<<<MonitorDiffGameToLocalGame
+[2023-05-14 06:51:35:848] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65539, context=8
+[2023-05-14 06:51:35:862] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65539, context=8, len=4872
+[2023-05-14 06:51:35:864] file:link_socket.cpp line: 813)<<<<[LinkSocket::ParsePacket] uncompressed body len=4839/13229
+[2023-05-14 06:51:35:865] file:link_socket.cpp line: 868)<<<<[LinkSocket::ParsePacket]  get game list successed
+[2023-05-14 06:51:35:866] file:app_service.cpp line: 689)<<<<[AppService::OnGetGameList] num=11
+[2023-05-14 06:51:35:867] file:app_service.cpp line: 1047)<<<<new_load_threshold is 70
+[2023-05-14 06:51:35:867] file:app_service.cpp line: 1056)<<<<score_random_value is 10
+[2023-05-14 06:51:35:867] file:app_service.cpp line: 1249)<<<<hot games info [
+   "6161688f04c215bc511648d6",
+   "5e8bec9a04c2154fb7e29c23",
+   "60af48bd04c2155fb79e8905",
+   "5f6aae2f04c215a2e943db79",
+   "5d849c9b04c2150d0719986e"
+]
+
+[2023-05-14 06:51:36:235] file: line: 87)<<<<[StatLog::SendStatInfo] action=habit, code=0, len=415

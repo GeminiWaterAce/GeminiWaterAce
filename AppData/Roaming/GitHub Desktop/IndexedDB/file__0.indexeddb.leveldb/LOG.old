@@ -1,6 +1,0 @@
-2023/04/28-18:48:48.186 2bf0 Reusing MANIFEST C:\Users\GeminiWaterAce\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb/MANIFEST-000001
-2023/04/28-18:48:48.190 2bf0 Recovering log #3
-2023/04/28-18:48:48.216 2bf0 Reusing old log C:\Users\GeminiWaterAce\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb/000003.log 
-2023/04/28-18:49:24.729 2bf0 Level-0 table #5: started
-2023/04/28-18:49:24.744 2bf0 Level-0 table #5: 1139435 bytes OK
-2023/04/28-18:49:24.746 2bf0 Delete type=0 #3

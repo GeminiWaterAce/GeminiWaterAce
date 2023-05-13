@@ -1,4 +1,0 @@
-2023-05-14 04:47:45.221 [info] update#setState idle
-2023-05-14 04:47:45.983 [info] Starting extension host with pid 7020 (fork() took 8 ms).
-2023-05-14 04:47:49.969 [info] Waiting for extension host with pid 7020 to exit.
-2023-05-14 04:47:49.981 [info] Extension host with pid 7020 exited with code: 0, signal: null.

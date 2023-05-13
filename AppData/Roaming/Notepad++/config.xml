@@ -15,16 +15,15 @@
         <Replace name="," />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="I:\Workspace\Magic\&#x65B0;&#x5EFA;&#x6587;&#x672C;&#x6587;&#x6863;.json" />
-        <File filename="I:\Repository\Python\novelaileak\readme.txt" />
-        <File filename="I:\Backup\Software\Matlab R2022b\&#x5BC6;&#x94A5;.txt" />
-        <File filename="I:\Repository\Python\novelaileak\&#x6240;&#x9700;&#x5168;&#x90E8;&#x4F5C;&#x53CA;&#x8F6F;&#x4EF6;&#x94FE;&#x63A5;.txt" />
         <File filename="I:\Download\[&#x5408;&#x96C6;]&#x5929;&#x4F7F;&#x9A9A;&#x9A9A;&#x76F8;&#x5173;&#x8D44;&#x6E90;&#x6574;&#x7406;@&#x685C;&#x30CE;&#x7389;&#x5B50;.txt" />
         <File filename="C:\Users\GeminiWaterAce\.gitconfig" />
         <File filename="C:\Users\GeminiWaterAce\AppData\LocalLow\Studio MDHR\Cuphead\output_log.txt" />
         <File filename="C:\Users\GeminiWaterAce\AppData\Roaming\EldenRing\GraphicsConfig.xml" />
         <File filename="C:\Users\GeminiWaterAce\AppData\Roaming\CoreAVC.ini" />
-        <File filename="C:\Users\GeminiWaterAce\.gitignore" />
+        <File filename="C:\Users\GeminiWaterAce\AppData\Roaming\Notepad++\session.xml" />
+        <File filename="C:\Users\GeminiWaterAce\Documents\desktop.ini" />
+        <File filename="C:\Users\GeminiWaterAce\AppData\Roaming\Notepad++\config.xml" />
+        <File filename="C:\Users\GeminiWaterAce\.vscode\argv.json" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
