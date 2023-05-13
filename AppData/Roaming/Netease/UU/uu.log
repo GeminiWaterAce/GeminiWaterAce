@@ -5343,3 +5343,154 @@ WaterAce\AppData\Roaming\Netease\UU\uu_lsp.log
 [2023-05-14 05:27:34:476] file:lsp_installer.cpp line: 130)<<<<[LspService::X64System] os = x64
 [2023-05-14 05:27:34:989] file:AsyncSocketEx.cpp line: 181)<<<<0x9e06cc wnd destory
 [2023-05-14 05:27:34:990] file:AsyncSocketEx.cpp line: 181)<<<<0x607ae wnd destory
+[2023-05-14 06:05:37:322] file:lsp_installer.cpp line: 130)<<<<[LspService::X64System] os = x64
+[2023-05-14 06:05:37:323] file:log_impl.cpp line: 176)<<<<[nbase::LogServer] log port = 1096, lsp log path = C:\Users\GeminiWaterAce\AppData\Roaming\Netease\UU\uu_lsp.log
+[2023-05-14 06:05:37:330] file: line: 2775)<<<<System Architecture is[9]
+[2023-05-14 06:05:37:336] file: line: 617)<<<<[for test] system is 64 bit
+[2023-05-14 06:05:37:336] file:session_key_service.cpp line: 54)<<<<[StartTime] 379941015
+[2023-05-14 06:05:37:438] file:session_key_service.cpp line: 61)<<<<[EndTime] 379941125
+[2023-05-14 06:05:37:451] file:domain_service.cpp line: 59)<<<<[GetDomainHtmlInfo] HttpGet code=0
+[2023-05-14 06:05:37:451] file:domain_service.cpp line: 453)<<<<[Machine time zone] 8
+[2023-05-14 06:05:37:451] file:domain_service.cpp line: 470)<<<<[Machine location] 45
+[2023-05-14 06:05:37:513] file:link_socket.cpp line: 416)<<<<[LinkSocket::CreateSocket] server=42.186.122.38:443
+[2023-05-14 06:05:37:528] file:link_socket.cpp line: 161)<<<<[LinkSocket::OnSend] code=0
+[2023-05-14 06:05:37:542] file:link_socket.cpp line: 889)<<<<[LinkSocket::OnHandshake] handshake ok
+[2023-05-14 06:05:37:545] file: line: 4789)<<<<Get time zone [8]
+[2023-05-14 06:05:37:546] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65537, context=0
+[2023-05-14 06:05:37:590] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65537, context=0, len=436
+[2023-05-14 06:05:37:590] file:app_service.cpp line: 2108)<<<<ExternalIp:114.92.164.159
+[2023-05-14 06:05:37:590] file:auth_form_v40.cpp line: 430)<<<<ParseCache successed
+[2023-05-14 06:05:37:590] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65539, context=1
+[2023-05-14 06:05:37:621] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65539, context=1, len=23184
+[2023-05-14 06:05:37:623] file:link_socket.cpp line: 813)<<<<[LinkSocket::ParsePacket] uncompressed body len=23150/71401
+[2023-05-14 06:05:37:626] file:link_socket.cpp line: 868)<<<<[LinkSocket::ParsePacket]  get game list successed
+[2023-05-14 06:05:37:632] file:app_service.cpp line: 689)<<<<[AppService::OnGetGameList] num=64
+[2023-05-14 06:05:37:686] file:app_service.cpp line: 1047)<<<<new_load_threshold is 70
+[2023-05-14 06:05:37:686] file:app_service.cpp line: 1056)<<<<score_random_value is 10
+[2023-05-14 06:05:37:686] file:app_service.cpp line: 1249)<<<<hot games info [
+   "6161688f04c215bc511648d6",
+   "60af48bd04c2155fb79e8905",
+   "5e8bec9a04c2154fb7e29c23",
+   "5f6aae2f04c215a2e943db79",
+   "5d849c9b04c2150d0719986e"
+]
+
+[2023-05-14 06:05:37:719] file:auth_form_v40.cpp line: 575)<<<<match local games
+[2023-05-14 06:05:37:840] file:localhttp_service.cpp line: 106)<<<< can not find http_proxy_ip
+[2023-05-14 06:05:37:840] file:localhttp_service.cpp line: 109)<<<<need not launch 
+[2023-05-14 06:05:37:860] file:checkbsod_service.cpp line: 119)<<<<minidump folder is [C:\Windows\Minidump\]
+[2023-05-14 06:05:37:860] file:checkbsod_service.cpp line: 135)<<<<minidump folder[C:\Windows\Minidump\] does not existes
+[2023-05-14 06:05:37:863] file:http_server.cpp line: 127)<<<<[HttpServer::Start] create socket, port=2013
+[2023-05-14 06:05:37:879] file:main_form_v40.cpp line: 3098)<<<<child_home_page showed 
+[2023-05-14 06:05:37:879] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65550, context=2
+[2023-05-14 06:05:37:880] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65561, context=3
+[2023-05-14 06:05:37:880] file:main_form_v40.cpp line: 336)<<<<check update timer 3600
+[2023-05-14 06:05:37:880] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65563, context=4
+[2023-05-14 06:05:37:880] file:self_protocol_service.cpp line: 146)<<<<cmd_line is 
+[2023-05-14 06:05:37:880] file:self_protocol_service.cpp line: 93)<<<<parse cmd failed
+[2023-05-14 06:05:37:880] file:main_form_v40.cpp line: 8300)<<<<C:\Program Files (x86)\Netease\UU\uu_ball.exe /main_form_wnd 18746466 /show_flag 0 /pos_x -1 /pos_y -1 /version 4086 /client_id 646009b15832cf05a47d58ca /gray 0
+[2023-05-14 06:05:37:897] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65550, context=2, len=8745
+[2023-05-14 06:05:37:898] file:link_socket.cpp line: 813)<<<<[LinkSocket::ParsePacket] uncompressed body len=8712/62329
+[2023-05-14 06:05:37:909] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65561, context=3, len=110
+[2023-05-14 06:05:37:909] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65563, context=4, len=743
+[2023-05-14 06:05:37:917] file:app_service.cpp line: 689)<<<<[AppService::OnGetGameList] num=1
+[2023-05-14 06:05:37:917] file:app_service.cpp line: 1240)<<<<game level is empty
+[2023-05-14 06:05:38:030] file:main_form_v40.cpp line: 2594)<<<<moudle switch {
+   "modules" : [ "display_info", "game_rg_search" ],
+   "result" : 200,
+   "uid" : "15026919082"
+}
+
+[2023-05-14 06:05:38:381] file:main_form_v40.cpp line: 3339)<<<<[see see] in AutoAccWhenStartUp
+[2023-05-14 06:05:39:137] file: line: 87)<<<<[StatLog::SendStatInfo] action=login, code=0, len=429
+[2023-05-14 06:05:39:173] file:log_service.cpp line: 1328)<<<<[UserHabit] CMainFormHomePage_CGameCard_start_acc_59531699e3a8b26643f1c001.
+[2023-05-14 06:05:39:174] file:main_form_v40.cpp line: 3811)<<<<v40 --- Steam商店 全部分区 所有服务器 ---
+[2023-05-14 06:05:39:174] file: line: 4789)<<<<Get time zone [8]
+[2023-05-14 06:05:39:174] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65541, context=5
+[2023-05-14 06:05:39:188] file:main_form_v40.cpp line: 3098)<<<<child_home_page showed 
+[2023-05-14 06:05:39:218] file: line: 87)<<<<[StatLog::SendStatInfo] action=habit, code=0, len=404
+[2023-05-14 06:05:39:311] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65541, context=5, len=131183
+[2023-05-14 06:05:39:315] file:link_socket.cpp line: 813)<<<<[LinkSocket::ParsePacket] uncompressed body len=131149/2363581
+[2023-05-14 06:05:39:344] file: line: 87)<<<<[StatLog::SendStatInfo] action=habit, code=0, len=406
+[2023-05-14 06:05:39:442] file: line: 87)<<<<[StatLog::SendStatInfo] action=competitor_info, code=0, len=429
+[2023-05-14 06:05:39:540] file: line: 87)<<<<[StatLog::SendStatInfo] action=client_cost_time, code=0, len=1004
+[2023-05-14 06:05:39:557] file:app_service.cpp line: 1786)<<<<game_sort_random_value is [-1]
+[2023-05-14 06:05:39:631] file: line: 87)<<<<[StatLog::SendStatInfo] action=pvuv, code=0, len=457
+[2023-05-14 06:05:39:759] file: line: 87)<<<<[StatLog::SendStatInfo] action=habit, code=0, len=455
+[2023-05-14 06:05:39:772] file:app_service.cpp line: 2971)<<<<net_to_ping_ips:
+""
+
+[2023-05-14 06:05:39:784] file:localhttp_service.cpp line: 106)<<<< can not find http_proxy_ip
+[2023-05-14 06:05:39:784] file:localhttp_service.cpp line: 109)<<<<need not launch 
+[2023-05-14 06:05:39:784] file:ping_service.cpp line: 747)<<<<cdn_test_url 
+[2023-05-14 06:05:39:784] file:ping_service.cpp line: 757)<<<<cdn_test_url empty
+[2023-05-14 06:05:39:807] file: line: 789)<<<<UUPing::PingTaskRunNew icmp addr count = 1, udp addr count = 25, max_concurrent_send = 30, sleep_milli = 10, ping_times = 10, total_timeout = 3000,
+[2023-05-14 06:05:41:038] file:wmi_service.cpp line: 780)<<<<cpu_arch is[9] and cpu_family is[107],
+[2023-05-14 06:05:41:133] file: line: 87)<<<<[StatLog::SendStatInfo] action=computer_info, code=0, len=508
+[2023-05-14 06:05:42:818] file: line: 916)<<<<UUPing::PingTaskRunNew timepass = 3016
+[2023-05-14 06:05:42:818] file: line: 955)<<<<PingTaskRun end
+[2023-05-14 06:05:42:818] file:ping_socket.cpp line: 267)<<<<[last port] 9999
+[2023-05-14 06:05:42:819] file:ping_socket.cpp line: 88)<<<<[mode_weight] tun2proxy_weight is 80,proxy_weight is 100
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1417)<<<<tproxy_random_threshold_score is 5
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1515)<<<<urn tproxy have 0 different regions, all tproxy are urn 1
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1017)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5cede55504c215b7ecb37423, loc=香港电信13353, netask_port=1081, rtt_weight=1.00,rtt=([udp]29)+[acc2game]5=34, loss=([udp]0), load=12, p=[rtt]266+[lose]100+[load]300+[mode]200+[node]100=966
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=8, sid=6422d3cf4da9e2491f5590bc, loc=香港电信26826, netask_port=1081, rtt_weight=1.00,rtt=([udp]28)+[acc2game]4=32, loss=([udp]0), load=12, p=[rtt]268+[lose]100+[load]300+[mode]160+[node]100=928
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c6693dae3a8b25fc4dcc0e7, loc=香港电信10083, netask_port=1081, rtt_weight=1.00,rtt=([udp]29)+[acc2game]5=34, loss=([udp]0), load=11, p=[rtt]266+[lose]100+[load]300+[mode]200+[node]100=966
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5a4b8877e3a8b2ddc079da1f, loc=香港电信4034, netask_port=1081, rtt_weight=1.00,rtt=([udp]27)+[acc2game]6=33, loss=([udp]0), load=15, p=[rtt]267+[lose]100+[load]300+[mode]200+[node]100=967
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6181191c04c215b494c95634, loc=香港电信19464, netask_port=1081, rtt_weight=1.00,rtt=([udp]33)+[acc2game]5=38, loss=([udp]0), load=21, p=[rtt]262+[lose]100+[load]300+[mode]200+[node]100=962
+[2023-05-14 06:05:42:923] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c789b71e3a8b2638a7c62e3, loc=香港电信11856, netask_port=1081, rtt_weight=1.00,rtt=([udp]5)+[acc2game]27=32, loss=([udp]0), load=6, p=[rtt]268+[lose]100+[load]300+[mode]200+[node]100=968
+[2023-05-14 06:05:42:926] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5ecf4f4a04c2156671d6b433, loc=香港北方电信397, netask_port=1081, rtt_weight=1.00,rtt=([udp]27)+[acc2game]34=61, loss=([udp]0), load=2, p=[rtt]239+[lose]100+[load]300+[mode]200+[node]100=939
+[2023-05-14 06:05:42:928] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=62d7c0e004c2158a51385be0, loc=香港全球会员6940, netask_port=1081, rtt_weight=1.00,rtt=([udp]30)+[acc2game]1=31, loss=([udp]0), load=6, p=[rtt]269+[lose]100+[load]300+[mode]200+[node]0=869
+[2023-05-14 06:05:42:928] file:ping_socket.cpp line: 1017)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c789b14e3a8b2637b7c634f, loc=香港联通6013, netask_port=1081, rtt_weight=1.00,rtt=([udp]5)+[acc2game]27=32, loss=([udp]0), load=5, p=[rtt]268+[lose]100+[load]300+[mode]200+[node]0=868
+[2023-05-14 06:05:42:928] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6180f39304c215b43ac32bd3, loc=香港联通11264, netask_port=1081, rtt_weight=1.00,rtt=([udp]30)+[acc2game]5=35, loss=([udp]0), load=16, p=[rtt]265+[lose]100+[load]300+[mode]200+[node]0=865
+[2023-05-14 06:05:42:928] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c78abc9e3a8b263e87c62ef, loc=香港移动5652, netask_port=1081, rtt_weight=1.00,rtt=([udp]8)+[acc2game]27=35, loss=([udp]0), load=4, p=[rtt]265+[lose]100+[load]300+[mode]200+[node]0=865
+[2023-05-14 06:05:42:929] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6422d53826a449a671863192, loc=香港联通16218, netask_port=1081, rtt_weight=1.00,rtt=([udp]32)+[acc2game]4=36, loss=([udp]0), load=12, p=[rtt]264+[lose]100+[load]300+[mode]200+[node]0=864
+[2023-05-14 06:05:42:929] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6389eb70c7cac1c1a10c450b, loc=香港联通14368, netask_port=1081, rtt_weight=1.00,rtt=([udp]32)+[acc2game]4=36, loss=([udp]0), load=13, p=[rtt]264+[lose]100+[load]300+[mode]200+[node]0=864
+[2023-05-14 06:05:42:929] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6181197e04c215b494c95706, loc=香港联通11615, netask_port=1081, rtt_weight=1.00,rtt=([udp]32)+[acc2game]5=37, loss=([udp]0), load=11, p=[rtt]263+[lose]100+[load]300+[mode]200+[node]0=863
+[2023-05-14 06:05:42:930] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6389eb84340d055d236c7879, loc=香港移动15100, netask_port=1081, rtt_weight=1.00,rtt=([udp]34)+[acc2game]4=38, loss=([udp]0), load=11, p=[rtt]262+[lose]100+[load]300+[mode]200+[node]0=862
+[2023-05-14 06:05:42:930] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5a4b887ee3a8b2ddc479db28, loc=香港联通2092, netask_port=1081, rtt_weight=1.00,rtt=([udp]33)+[acc2game]6=39, loss=([udp]0), load=11, p=[rtt]261+[lose]100+[load]300+[mode]200+[node]0=861
+[2023-05-14 06:05:42:930] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6422d3f532b2fe8860aea822, loc=香港移动16887, netask_port=1081, rtt_weight=1.00,rtt=([udp]35)+[acc2game]4=39, loss=([udp]0), load=13, p=[rtt]261+[lose]100+[load]300+[mode]200+[node]0=861
+[2023-05-14 06:05:42:931] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=612873ec04c215cafbe999f9, loc=香港移动10872, netask_port=1081, rtt_weight=1.00,rtt=([udp]37)+[acc2game]5=42, loss=([udp]0), load=6, p=[rtt]258+[lose]100+[load]300+[mode]200+[node]0=858
+[2023-05-14 06:05:42:932] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6389edc4c7cac1c1a10c4889, loc=香港移动15477, netask_port=1081, rtt_weight=1.00,rtt=([udp]38)+[acc2game]5=43, loss=([udp]0), load=10, p=[rtt]257+[lose]100+[load]300+[mode]200+[node]0=857
+[2023-05-14 06:05:42:932] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c66ccd1e3a8b27c5fe39a51, loc=香港移动5158, netask_port=1081, rtt_weight=1.00,rtt=([udp]38)+[acc2game]6=44, loss=([udp]0), load=11, p=[rtt]256+[lose]100+[load]300+[mode]200+[node]0=856
+[2023-05-14 06:05:42:933] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5c6d0bd8e3a8b274ee342b52, loc=香港北方移动142, netask_port=1081, rtt_weight=1.00,rtt=([udp]29)+[acc2game]34=63, loss=([udp]0), load=4, p=[rtt]237+[lose]100+[load]300+[mode]200+[node]0=837
+[2023-05-14 06:05:42:933] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=5ecf4f4a04c2156671d6b4b3, loc=香港北方联通340, netask_port=1081, rtt_weight=1.00,rtt=([udp]29)+[acc2game]34=63, loss=([udp]0), load=9, p=[rtt]237+[lose]100+[load]300+[mode]200+[node]0=837
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=62d7c0b704c2158a52508fa7, loc=香港全球会员6868, netask_port=1081, rtt_weight=1.00,rtt=([udp]89)+[acc2game]1=90, loss=([udp]0), load=7, p=[rtt]210+[lose]100+[load]300+[mode]200+[node]0=810
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=628778b804c215398a47ffab, loc=香港全球会员6842, netask_port=1081, rtt_weight=1.00,rtt=([udp]228)+[acc2game]36=264, loss=([udp]0), load=4, p=[rtt]36+[lose]100+[load]300+[mode]200+[node]0=636
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6287760704c215398a47ff3a, loc=香港全球会员6780, netask_port=1081, rtt_weight=1.00,rtt=([udp]332)+[acc2game]56=388, loss=([udp]0), load=1, p=[rtt]0+[lose]100+[load]300+[mode]200+[node]0=600
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1039)<<<<[PingSokcet::WriteAccServerLog] type=5, sid=6287770804c215398cd2fb3d, loc=香港全球会员6795, netask_port=1081, rtt_weight=1.00,rtt=([udp]334)+[acc2game]22=356, loss=([udp]0), load=1, p=[rtt]0+[lose]100+[load]300+[mode]200+[node]0=600
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1045)<<<<[PingSokcet::WriteAccServerLog] acc_num=8317
+[2023-05-14 06:05:42:935] file:ping_socket.cpp line: 1046)<<<<[PingSokcet::WriteAccServerLog] max_game_rtt=86/-1, min_acc_rtt=-1/-1
+[2023-05-14 06:05:42:940] file:ping_socket.cpp line: 1075)<<<<[PingSokcet::IsNeedAcc] fast mode 1
+[2023-05-14 06:05:42:950] file:local_service.cpp line: 1086)<<<<[节点备选] 香港电信13353
+[2023-05-14 06:05:42:950] file:local_service.cpp line: 1086)<<<<[节点备选] 香港电信26826
+[2023-05-14 06:05:42:950] file:local_service.cpp line: 1086)<<<<[节点备选] 香港电信10083
+[2023-05-14 06:05:42:950] file:main_form_v40.cpp line: 4312)<<<<connect node 59531699e3a8b26643f1c001,0,0
+[2023-05-14 06:05:42:951] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65557, context=6
+[2023-05-14 06:05:42:988] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65557, context=6, len=62
+[2023-05-14 06:05:42:988] file:app_service.cpp line: 3125)<<<<[PASSWORD] get new password
+[2023-05-14 06:05:42:988] file:acc_service.cpp line: 959)<<<<[AccService::StartVPN] [ACC] type=PROXY, auto=false
+[2023-05-14 06:05:43:309] file:acc_service.cpp line: 961)<<<<[AccService::StartVPN] init finished
+[2023-05-14 06:05:43:311] file:lnet_detect_service.cpp line: 511)<<<<default interface is 3, addr 192.168.1.102, gateway 192.168.1.1, is_local_internal 1
+[2023-05-14 06:05:43:311] file: line: 5048)<<<<hosts items are empty
+[2023-05-14 06:05:43:311] file: line: 5108)<<<<time_zone_str is empty
+[2023-05-14 06:05:43:311] file:link_socket.cpp line: 491)<<<<[LinkSocket::SendPacket] cmd=65556, context=7
+[2023-05-14 06:05:43:312] file:proxy_socket.cpp line: 91)<<<<[ProxySocket::ResetSocket] reconnect = false
+[2023-05-14 06:05:43:312] file:proxy_socket.cpp line: 59)<<<<[ProxySocket::CreateSocket] server=59.37.129.111:2082, via_acclink = false
+[2023-05-14 06:05:43:324] file:link_socket.cpp line: 699)<<<<[LinkSocket::ParsePacket] cmd=65556, context=7, len=529
+[2023-05-14 06:05:43:393] file: line: 87)<<<<[StatLog::SendStatInfo] action=cert_install, code=0, len=418
+[2023-05-14 06:05:43:405] file:lnet_detect_service.cpp line: 520)<<<<client nat server tcp test success, test cost 93 ms
+[2023-05-14 06:05:43:827] file: line: 87)<<<<[StatLog::SendStatInfo] action=pvuv, code=0, len=457
+[2023-05-14 06:05:43:952] file:proxy_socket.cpp line: 506)<<<<[ProxySocket::OnLoginRes] login ok, session_id=139874
+[2023-05-14 06:05:43:952] file:acc_service.cpp line: 1262)<<<<[AccService::DoAfterVPNCallback] vpn_type = 0x5, status = 0x4, is_auto_mode = false, error_code = 0
+[2023-05-14 06:05:43:952] file:acc_service.cpp line: 5287)<<<<local_tcp_sni_hosts is empty,don't need start tcp proxy is null
+[2023-05-14 06:05:43:953] file:acc_service.cpp line: 1307)<<<<[AccService::DoAfterVPNCallback] begin driver acc
+[2023-05-14 06:05:43:957] file:main_form_v40.cpp line: 5651)<<<<[AccServiceCallbackHandler] vpn_type:5,vpn_status:4,error_code:0
+[2023-05-14 06:05:43:958] file:ball_msg_service.cpp line: 105)<<<<[ball ping port] 9999
+[2023-05-14 06:05:44:056] file: line: 87)<<<<[StatLog::SendStatInfo] action=acc_start, code=0, len=842
+[2023-05-14 06:05:44:649] file:lnet_detect_service.cpp line: 536)<<<<client nat type is "port_restricted_nat", test cost 1243 ms
+[2023-05-14 06:05:44:654] file:lnet_detect_service.cpp line: 553)<<<<client upnp get wan ip 1, address 192.168.0.101, test cost 5 ms
+[2023-05-14 06:05:44:654] file:lnet_detect_service.cpp line: 582)<<<<reported: version 2, nat available 1, unpn available 1, nat type "port_restricted_nat", local 192.168.1.102, wan 192.168.0.101, is_local_public 0, is_wan_public 0
+[2023-05-14 06:05:45:208] file:main_form_v40.cpp line: 3098)<<<<child_game_acced showed 
+[2023-05-14 06:05:45:975] file: line: 87)<<<<[StatLog::SendStatInfo] action=lnet_detect, code=0, len=626
+[2023-05-14 06:06:37:961] file: line: 87)<<<<[StatLog::SendStatInfo] action=alarm, code=0, len=505
