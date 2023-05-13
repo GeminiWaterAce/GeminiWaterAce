@@ -1,0 +1,28 @@
+{
+   "as" : "j/Qvlh+306M=",
+   "graphics" : {
+      "quality_setting" : {
+         "depth_of_field" : "Enable",
+         "effect" : "ExtraHigh",
+         "lighting" : "ExtraHigh",
+         "model_detail" : "High",
+         "motion_blur_amount" : "Large",
+         "postprocess" : "ExtraHigh",
+         "shadow" : "Medium",
+         "ssao" : "ExtraHigh",
+         "texture" : "High",
+         "texture_filtering" : "Medium",
+         "volumetric_clouds" : "On"
+      },
+      "version" : 1,
+      "videoout_setting" : {
+         "display_index" : 0,
+         "framerate_control" : "Auto",
+         "height" : 2160,
+         "vsync" : "Disable",
+         "width" : 3840,
+         "window_mode" : "FullScreen"
+      }
+   },
+   "project" : "tpp"
+}

@@ -1,0 +1,16 @@
+Log file created: 2023-01-23 01:26:51
+---------------------------------------
+Ticks = 703      <11428> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 703      <11428> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 703      <11428> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 719      <13724> <DynamicLink> <5> Increase wait time to 2
+Ticks = 1312      <13724> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 2723
+Ticks = 6859      <11428> <DisplaySurface> <5> [DirectX] Initializing DirectXContext...
+Ticks = 6984      <11428> <DisplaySurface> <5> [DirectX] Initialize DirectXContext succeeded.
+Ticks = 7172      <13724> <GPUFoundation> <5> Done loading modules, sec: 0.315127, device: CUDA(0)
+Ticks = 7750      <11428> <AMEApp> <0> Time taken to load MediaCore plugins: 764.236 milliseconds.
+Ticks = 8297      <11428> <AMEApp> <1> Entering RunEventLoop
+Ticks = 15922      <11428> <AMEApp> <1> Exited RunEventLoop
+----------------------------------------
+Log file closed: 2023-01-23 01:27:06
+

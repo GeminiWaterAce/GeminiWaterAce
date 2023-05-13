@@ -1,0 +1,146 @@
+ActionMapResource
+{
+	name "buildModeActionMapv3"
+	composite_action_map
+	stick_to_action_map
+	key_to_action_map
+	{
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rotate_right"
+				}
+
+			}
+
+			key "514"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rotate_right"
+				}
+
+			}
+
+			key "281"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "SELECT_BUILDING"
+				}
+
+			}
+
+			key "263"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "build"
+				}
+
+			}
+
+			key "513"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "build"
+				}
+
+			}
+
+			key "260"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "exit"
+				}
+
+			}
+
+			key "512"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "exit"
+				}
+
+			}
+
+			key "261"
+		}
+
+	}
+
+	trigger_to_action_map
+	{
+		Pair_int_String
+		{
+			value "_GUI_RT"
+			key "1"
+		}
+
+		Pair_int_String
+		{
+			value "_GUI_LT"
+			key "0"
+		}
+
+	}
+
+	non_blocking_action_set
+	mouse_axis_action_names
+	{
+		String
+		String
+	}
+
+	mouse_absolute_action_names
+	{
+		String
+		String
+	}
+
+	mouse_wheel_action "rotate"
+}
+

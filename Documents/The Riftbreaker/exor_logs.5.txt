@@ -1,0 +1,789 @@
+[20:38:12.271] [info]  - Creating resource group General
+[20:38:12.271] [info]  - Creating resource group Internal
+[20:38:12.271] [info]  - Creating resource group Autodetect
+[20:38:12.271] [info]  - SceneManagerFactory for type 'DefaultSceneManager' registered.
+[20:38:12.272] [info]  - Registering ResourceManager for type Material
+[20:38:12.272] [info]  - Registering ResourceManager for type Mesh
+[20:38:12.272] [info]  - Registering ResourceManager for type Skeleton
+[20:38:12.272] [info]  - MovableObjectFactory for type 'ParticleSystem' registered.
+[20:38:12.272] [info]  - Registering ResourceManager for type Font
+[20:38:12.272] [info]  - DDS codec registering
+[20:38:12.272] [info]  - FreeImage version: 3.15.3
+[20:38:12.272] [info]  - This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+[20:38:12.272] [info]  - Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
+[20:38:12.272] [info]  - Registering ResourceManager for type HighLevelGpuProgram
+[20:38:12.272] [info]  - MovableObjectFactory for type 'Light' registered.
+[20:38:12.272] [info]  - MovableObjectFactory for type 'BillboardSet' registered.
+[20:38:12.272] [info]  - MovableObjectFactory for type 'ManualObject' registered.
+[20:38:12.272] [info]  - MovableObjectFactory for type 'BillboardChain' registered.
+[20:38:12.272] [info]  - MovableObjectFactory for type 'RibbonTrail' registered.
+[20:38:12.272] [info]  - *-*-* OGRE Initialising
+[20:38:12.272] [info]  - *-*-* Version 1.7.0 (EXOR Edition)
+[20:38:12.272] [info] RiftbreakerApp.cpp:123 - The Riftbreaker SVN_26269.TC_478
+[20:38:12.276] [info] Save.cpp:100 - Save load started. Name config
+[20:38:12.308] [info] Framework.cpp:804 - -------------------------
+[20:38:12.308] [info] Framework.cpp:805 - Config Variables:
+[20:38:12.308] [info] Framework.cpp:806 - -------------------------
+[20:38:12.308] [info] Framework.cpp:807 -  * Render System: dx12
+[20:38:12.308] [info] Framework.cpp:808 -  * Adapter Name: 
+[20:38:12.308] [info] Framework.cpp:809 -  * Display Name: \\.\DISPLAY2
+[20:38:12.308] [info] Framework.cpp:810 -  * Video Mode: 3840x2160:32
+[20:38:12.462] [info] OgreD3D12DeviceWin32.cpp:466 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[20:38:12.579] [info] OgreD3D12DeviceWin32.cpp:466 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[20:38:12.580] [info]  - RenderSystem
+[20:38:12.580] [info]  - -------------------------
+[20:38:12.580] [info]  - Name: dx12
+[20:38:12.581] [info]  - GPU Vendor: NVIDIA
+[20:38:12.581] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[20:38:12.581] [info]  - Device Memory: 24348MB
+[20:38:12.581] [info]  - Driver Version: 30.0.14.9649
+[20:38:12.581] [info]  - Device outputs:
+[20:38:12.581] [info]  -  * XB323QK NV: \\.\DISPLAY1 resolution: 3840x2160, primary: true
+[20:38:12.581] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
+[20:38:12.581] [info]  - Device capabilities:
+[20:38:12.581] [info]  -  * Supported Shader Profiles: cs_5_0 cs_5_1 cs_6_0 dxc gs_5_0 gs_5_1 gs_6_0 hlsl lib_6_3 ps_4_0 ps_4_1 ps_5_0 ps_5_1 ps_6_0 vs_4_0 vs_4_1 vs_5_0 vs_5_1 vs_6_0
+[20:38:12.581] [info]  -  * DirectX tearing support: true
+[20:38:12.581] [info]  -  * DirectX raytracing support: true
+[20:38:12.581] [info]  -  * DirectX variable rate shading support: true
+[20:38:12.581] [info]  -  * DirectX min presicion 16bit: true
+[20:38:12.582] [info]  - D3D12: dx12 created.
+[20:38:12.584] [info] OgreVideoManager.cpp:75 - Theora workers thread count: 1
+[20:38:12.584] [info]  - Registering Texture Controller: Type = ogg_video Name = TheoraVideoPlugin
+[20:38:12.584] [info]  - Platform information:
+[20:38:12.584] [info]  - -------------------------
+[20:38:12.584] [info]  -  *   SYSTEM: Windows 10 Pro 19043
+[20:38:12.584] [info]  -  *   CPU ID: AuthenticAMD: AMD Ryzen 9 5950X 16-Core Processor
+[20:38:12.584] [info]  -  *      SSE: yes
+[20:38:12.584] [info]  -  *     SSE2: yes
+[20:38:12.584] [info]  -  *     SSE3: yes
+[20:38:12.584] [info]  -  *      MMX: yes
+[20:38:12.584] [info]  -  *   MMXEXT: yes
+[20:38:12.584] [info]  -  *    3DNOW: no
+[20:38:12.584] [info]  -  * 3DNOWEXT: no
+[20:38:12.584] [info]  -  *     CMOV: yes
+[20:38:12.584] [info]  -  *      TSC: yes
+[20:38:12.584] [info]  -  *      FPU: yes
+[20:38:12.584] [info]  -  *      PRO: yes
+[20:38:12.584] [info]  -  *       HT: no
+[20:38:12.584] [info]  - -------------------------
+[20:38:12.585] [info]  - 
+[20:38:12.585] [info]  - Memory info
+[20:38:12.585] [info]  - -------------------------
+[20:38:12.585] [info]  -  * There is 5  percent of memory in use.
+[20:38:12.585] [info]  -  * There are 130986 total MB of physical memory.
+[20:38:12.585] [info]  -  * There are 123858 free  MB of physical memory.
+[20:38:12.585] [info]  -  * There are 150442 total MB of paging file.
+[20:38:12.585] [info]  -  * There are 140681 free  MB of paging file.
+[20:38:12.585] [info]  -  * There are 134217727 total MB of virtual memory.
+[20:38:12.585] [info]  -  * There are 134212984 free  MB of virtual memory.
+[20:38:12.585] [info]  -  * There are 0 free  MB of extended memory.
+[20:38:12.585] [info]  - -------------------------
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.0345566%)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23580MB (budget)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 8.14844MB usage)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11918MB (available for reserve)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.0105796%)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.2MB (budget)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 6.84766MB (usage)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[20:38:12.745] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.6MB (available for reserve)
+[20:38:12.952] [info]  - Registering ResourceManager for type Texture
+[20:38:12.993] [info]  - RenderSystem
+[20:38:12.993] [info]  - -------------------------
+[20:38:12.993] [info]  - Name: dx12
+[20:38:12.993] [info]  - GPU Vendor: NVIDIA
+[20:38:12.993] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[20:38:12.993] [info]  - Device Memory: 24348MB
+[20:38:12.993] [info]  - Driver Version: 30.0.14.9649
+[20:38:12.993] [info]  - Device outputs:
+[20:38:12.993] [info]  -  * XB323QK NV: \\.\DISPLAY1 resolution: 3840x2160, primary: true
+[20:38:12.993] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
+[20:38:12.993] [info]  - Device capabilities:
+[20:38:12.993] [info]  -  * Supported Shader Profiles: cs_5_0 cs_5_1 cs_6_0 dxc gs_5_0 gs_5_1 gs_6_0 hlsl lib_6_3 ps_4_0 ps_4_1 ps_5_0 ps_5_1 ps_6_0 vs_4_0 vs_4_1 vs_5_0 vs_5_1 vs_6_0
+[20:38:12.993] [info]  -  * DirectX tearing support: true
+[20:38:12.993] [info]  -  * DirectX raytracing support: true
+[20:38:12.993] [info]  -  * DirectX variable rate shading support: true
+[20:38:12.993] [info]  -  * DirectX min presicion 16bit: true
+[20:38:12.994] [info] WindowWin32.cpp:146 - CreateWindow: 3840x2160
+[20:38:12.995] [info] WindowWin32.cpp:43 - WM_SIZE
+[20:38:12.996] [info] WindowWin32.cpp:55 - WM_SETFOCUS
+[20:38:12.998] [info] MouseWin32.cpp:424 - WM_WINDOWPOSCHANGED 3840x2160
+[20:38:12.998] [info] MouseWin32.cpp:432 - ClientRect 3840x2160
+[20:38:12.999] [info] OgreD3D12RenderWindowWin32.cpp:72 - [DEBUG] Create Render Window
+[20:38:12.999] [info] OgreD3D12RenderWindowWin32.cpp:73 - [DEBUG] factory 000001A30D9BE460
+[20:38:12.999] [info] OgreD3D12RenderWindowWin32.cpp:74 - [DEBUG] device 000001A316604E20
+[20:38:12.999] [info] OgreD3D12RenderWindowWin32.cpp:75 - [DEBUG] adapter 000001A316C57120
+[20:38:12.999] [info] OgreD3D12RenderWindowWin32.cpp:76 - [DEBUG] command queue 000001A3166BE1B0
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:90 - [DEBUG] hwnd 00000000000605C2
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:91 - [DEBUG] display name \\.\DISPLAY2
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:30 - [DEBUG] Preferred Output ( prefix: \\.\DISPLAY2 )
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 000001A3188FA830
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY1
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:52 - [DEBUG] preferred output
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 000001A3188FDA50
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY2
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:52 - [DEBUG] preferred output
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:109 - [DEBUG] width 3840
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:110 - [DEBUG] height 2160
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:111 - [DEBUG] fullscreen 1
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:112 - [DEBUG] borderless 0
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:113 - [DEBUG] tearing 1
+[20:38:13.000] [info] OgreD3D12RenderWindowWin32.cpp:114 - [DEBUG] output 000001A3188FDA50
+[20:38:13.102] [info] MouseWin32.cpp:424 - WM_WINDOWPOSCHANGED 3840x2160
+[20:38:13.102] [info] MouseWin32.cpp:432 - ClientRect 3840x2160
+[20:38:13.175] [info] MouseWin32.cpp:424 - WM_WINDOWPOSCHANGED 3840x2160
+[20:38:13.175] [info] MouseWin32.cpp:432 - ClientRect 3840x2160
+[20:38:13.178] [info] MouseWin32.cpp:424 - WM_WINDOWPOSCHANGED 3840x2160
+[20:38:13.178] [info] MouseWin32.cpp:432 - ClientRect 3840x2160
+[20:38:13.256] [info] MouseWin32.cpp:424 - WM_WINDOWPOSCHANGED 3840x2160
+[20:38:13.256] [info] MouseWin32.cpp:432 - ClientRect 3840x2160
+[20:38:13.261] [info] OgreD3D12RenderWindowWin32.cpp:158 - RenderWindow create:
+[20:38:13.261] [info] OgreD3D12RenderWindowWin32.cpp:159 - Fullscreen
+[20:38:13.261] [info] OgreD3D12RenderWindowWin32.cpp:162 - Resolution=3840x2160
+[20:38:13.261] [info]  - DefaultWorkQueue('Root') initialising on thread main.
+[20:38:13.264] [info]  - Particle Renderer Type 'billboard' registered
+[20:38:13.265] [info] Framework.cpp:804 - -------------------------
+[20:38:13.265] [info] Framework.cpp:805 - Config Variables:
+[20:38:13.265] [info] Framework.cpp:806 - -------------------------
+[20:38:13.265] [info] Framework.cpp:807 -  * Render System: dx12
+[20:38:13.265] [info] Framework.cpp:808 -  * Adapter Name: 
+[20:38:13.265] [info] Framework.cpp:809 -  * Display Name: \\.\DISPLAY2
+[20:38:13.265] [info] Framework.cpp:810 -  * Video Mode: 3840x2160:32
+[20:38:13.267] [info] ApplicationAbstract.cpp:122 - Sound is enabled
+[20:38:13.287] [info] AudioXAudio2.cpp:222 - XAudio2 engine started. Detected 5/5 devices:
+[20:38:13.287] [info] AudioXAudio2.cpp:225 -  (#0) 扬声器 (Sound Blaster AE-9) <default>
+[20:38:13.287] [info] AudioXAudio2.cpp:225 -  (#1) Digital Audio (S/PDIF) (High Definition Audio Device)
+[20:38:13.287] [info] AudioXAudio2.cpp:225 -  (#2) Digital Audio (S/PDIF) (Sound Blaster AE-9s)
+[20:38:13.287] [info] AudioXAudio2.cpp:225 -  (#3) U32U1WR6B (NVIDIA High Definition Audio)
+[20:38:13.287] [info] AudioXAudio2.cpp:225 -  (#4) XB323QK NV (NVIDIA High Definition Audio)
+[20:38:13.311] [info] AudioXAudio2.cpp:317 - Initializing XAudio2. Channels: 2.0; Sample rate: 96000Hz
+[20:38:13.312] [info] SoundLibrary.cpp:37 - Audio submix config: SFX: 2, MUSIC: 4, Dialogs: 6, Events: 8, Announcements: 10
+[20:38:13.320] [info]  - Creating resource group general
+[20:38:13.383] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_engine.zip` as `/`
+[20:38:13.390] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_engine.crc' crc32: 0xc1cc0d52 (43701B)
+[20:38:13.391] [info] VfsZipArchive.cpp:457 - CD offset = 7598803/7666502
+[20:38:13.392] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine.zip` as `/`
+[20:38:13.397] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine.crc' crc32: 0x572f44ff (36392B)
+[20:38:13.397] [info] VfsZipArchive.cpp:457 - CD offset = 1985757/2040197
+[20:38:13.407] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine_audio.zip` as `/`
+[20:38:13.412] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine_audio.crc' crc32: 0x43853ba3 (74B)
+[20:38:13.412] [info] VfsZipArchive.cpp:457 - CD offset = 132481/132572
+[20:38:13.412] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\02_win_engine.zip` as `/`
+[20:38:13.417] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\02_win_engine.crc' crc32: 0x32a2d2d7 (35056B)
+[20:38:13.419] [info] VfsZipArchive.cpp:457 - CD offset = 1307366/1359665
+[20:38:13.421] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\03_win_engine.zip` as `/`
+[20:38:13.426] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\03_win_engine.crc' crc32: 0xbbf3a651 (35056B)
+[20:38:13.426] [info] VfsZipArchive.cpp:457 - CD offset = 1307452/1359751
+[20:38:13.428] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\04_win_engine.zip` as `/`
+[20:38:13.433] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\04_win_engine.crc' crc32: 0x8fc0317b (35056B)
+[20:38:13.433] [info] VfsZipArchive.cpp:457 - CD offset = 1307405/1359704
+[20:38:13.434] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\05_win_engine.zip` as `/`
+[20:38:13.439] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\engine\05_win_engine.crc' crc32: 0x6860f289 (35140B)
+[20:38:13.439] [info] VfsZipArchive.cpp:457 - CD offset = 1311932/1364385
+[20:38:13.440] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup.zip` as `/`
+[20:38:13.446] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup.crc' crc32: 0xac736778 (7384B)
+[20:38:13.446] [info] VfsZipArchive.cpp:457 - CD offset = 131843194/131855360
+[20:38:13.447] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup_audio.zip` as `/`
+[20:38:13.453] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup_audio.crc' crc32: 0x92de1646 (176B)
+[20:38:13.453] [info] VfsZipArchive.cpp:457 - CD offset = 1772220/1772482
+[20:38:13.453] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup_video.zip` as `/`
+[20:38:13.459] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup_video.crc' crc32: 0xdb4aac5a (237B)
+[20:38:13.459] [info] VfsZipArchive.cpp:457 - CD offset = 11004442/11004765
+[20:38:13.459] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_startup.zip` as `/`
+[20:38:13.464] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_startup.crc' crc32: 0xc39dcbd5 (1674B)
+[20:38:13.464] [info] VfsZipArchive.cpp:457 - CD offset = 1759865/1762646
+[20:38:13.464] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\02_win_startup.zip` as `/`
+[20:38:13.470] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\02_win_startup.crc' crc32: 0x96b58c29 (695B)
+[20:38:13.470] [info] VfsZipArchive.cpp:457 - CD offset = 26254/27251
+[20:38:13.470] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\03_win_startup.zip` as `/`
+[20:38:13.475] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\03_win_startup.crc' crc32: 0x57ec3f98 (837B)
+[20:38:13.475] [info] VfsZipArchive.cpp:457 - CD offset = 364434/365678
+[20:38:13.475] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\04_win_startup.zip` as `/`
+[20:38:13.480] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\04_win_startup.crc' crc32: 0x595c783d (1008B)
+[20:38:13.480] [info] VfsZipArchive.cpp:457 - CD offset = 1037565/1039120
+[20:38:13.480] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\05_win_startup.zip` as `/`
+[20:38:13.485] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\startup\05_win_startup.crc' crc32: 0x27b41ae (995B)
+[20:38:13.485] [info] VfsZipArchive.cpp:457 - CD offset = 1101945/1103487
+[20:38:13.554] [info] Framework.cpp:506 - Loaded entity types from `scripts/physics/physics_user_flags.kvp`:
+[20:38:13.554] [info] Framework.cpp:516 -  * scannable(0)
+[20:38:13.558] [info] Framework.cpp:481 - Loaded entity types from `scripts/types.kvp`:
+[20:38:13.558] [info] Framework.cpp:491 -  * building(1)
+[20:38:13.558] [info] Framework.cpp:491 -  * decorations(2)
+[20:38:13.558] [info] Framework.cpp:491 -  * defense(3)
+[20:38:13.558] [info] Framework.cpp:491 -  * energy(4)
+[20:38:13.558] [info] Framework.cpp:491 -  * ground_unit(5)
+[20:38:13.558] [info] Framework.cpp:491 -  * ground_unit_small(6)
+[20:38:13.558] [info] Framework.cpp:491 -  * ground_unit_medium(7)
+[20:38:13.558] [info] Framework.cpp:491 -  * ground_unit_large(8)
+[20:38:13.558] [info] Framework.cpp:491 -  * headquarters(9)
+[20:38:13.558] [info] Framework.cpp:491 -  * ground_unit_artillery(10)
+[20:38:13.558] [info] Framework.cpp:491 -  * main(11)
+[20:38:13.558] [info] Framework.cpp:491 -  * player(12)
+[20:38:13.558] [info] Framework.cpp:491 -  * prop(13)
+[20:38:13.558] [info] Framework.cpp:491 -  * resource(14)
+[20:38:13.558] [info] Framework.cpp:491 -  * shield(15)
+[20:38:13.558] [info] Framework.cpp:491 -  * spawner(16)
+[20:38:13.558] [info] Framework.cpp:491 -  * tower(17)
+[20:38:13.558] [info] Framework.cpp:491 -  * water(18)
+[20:38:13.558] [info] Framework.cpp:491 -  * wall(19)
+[20:38:13.558] [info] Framework.cpp:491 -  * quelver(20)
+[20:38:13.558] [info] Framework.cpp:491 -  * air_unit(21)
+[20:38:13.558] [info] Framework.cpp:491 -  * drones(22)
+[20:38:13.558] [info] Framework.cpp:491 -  * invisible(23)
+[20:38:13.558] [info] Framework.cpp:491 -  * flora(24)
+[20:38:13.558] [info] Framework.cpp:491 -  * crystal(25)
+[20:38:13.558] [info] Framework.cpp:491 -  * light(26)
+[20:38:13.558] [info] Framework.cpp:491 -  * not_move_to_target(27)
+[20:38:13.558] [info] Framework.cpp:491 -  * scannable(28)
+[20:38:13.558] [info] Framework.cpp:491 -  * spikybulb(29)
+[20:38:13.558] [info] Framework.cpp:491 -  * wreck_small(30)
+[20:38:13.558] [info] Framework.cpp:491 -  * wreck_medium(31)
+[20:38:13.558] [info] Framework.cpp:491 -  * wreck_large(32)
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnableEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDisableEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnSelectEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDeselectEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnNeutralActivatePositiveEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnNeutralActivateNegativeEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnActiveActivateNegativeEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDisabledActivateNegativeEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnActiveActivatePositiveEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterNeutralEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitNeutralEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterNeutralSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitNeutralSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterActiveEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitActiveEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterActiveSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitActiveSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterDisabledEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitDisabledEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterDisabledSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitDisabledSelectedEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnShowEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnHideEffect
+[20:38:13.746] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: invalidEventEffect
+[20:38:13.759] [info]  - Installing plugin: ParticleUniverse
+[20:38:13.759] [info]  - MovableObjectFactory for type 'PUParticleSystem' registered.
+[20:38:13.760] [info]  - MovableObjectFactory for type 'BoxSet' registered.
+[20:38:13.760] [info]  - MovableObjectFactory for type 'SphereSet' registered.
+[20:38:13.760] [info]  - ParticleUniverse: Particle Renderer Type 'Beam' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Renderer Type 'Billboard' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Renderer Type 'Box' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Renderer Type 'Sphere' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Renderer Type 'RibbonTrail' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Renderer Type 'Light' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Point' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Line' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Box' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Circle' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'SphereSurface' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Vertex' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'MeshSurface' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Position' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Emitter Type 'Slave' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Dummy01' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'LinearForce' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Gravity' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'ParticleFollower' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Vortex' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Randomiser' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Line' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Scale' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'ScaleVelocity' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'GeometryRotator' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'TextureRotator' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'TextureAnimator' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Jet' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Align' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'FlockCentering' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'CollisionAvoidance' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'VelocityMatching' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Colour' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'SineForce' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'Dummy02' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'SphereCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'PlaneCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'BoxCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'InterParticleCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'PathFollower' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Affector Type 'ForceField' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnExpire' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnEmission' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnCount' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnEventFlag' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnCollision' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnVelocity' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnTime' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnPosition' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnClear' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnQuota' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Observer Type 'OnRandom' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoExpire' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoFreeze' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoPlacementParticle' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoStopSystem' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoEnableComponent' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoAffector' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle EventHandler Type 'DoScale' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Extern Type 'Gravity' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Extern Type 'SphereCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Extern Type 'BoxCollider' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Extern Type 'Vortex' registered
+[20:38:13.761] [info]  - ParticleUniverse: Particle Behaviour Type 'Slave' registered
+[20:38:13.761] [info]  - Plugin successfully installed
+[20:38:13.770] [info] VfsNativeArchive.cpp:52 - [VFS] mounting: `C:\Users\GeminiWaterAce\Documents\The Riftbreaker\cache\dx12` as `/`
+[20:38:14.049] [info] GpuProgramCompiler.cpp:44 - ERROR[materials\programs\raytracing\raytracing.program]: program `raytracing_resolve_soft_shadows_directional_psr_cp` references missing shader file: `materials/programs/raytracing/resolve_soft_shadows_psr.hlsl`!
+[20:38:14.049] [info] GpuProgramCompiler.cpp:44 - ERROR[materials\programs\raytracing\raytracing.program]: program `raytracing_resolve_soft_shadows_point_psr_cp` references missing shader file: `materials/programs/raytracing/resolve_soft_shadows_psr.hlsl`!
+[20:38:14.049] [info] GpuProgramCompiler.cpp:44 - ERROR[materials\programs\raytracing\raytracing.program]: program `raytracing_resolve_soft_shadows_spotlight_psr_cp` references missing shader file: `materials/programs/raytracing/resolve_soft_shadows_psr.hlsl`!
+[20:38:14.049] [info] GpuProgramCompiler.cpp:44 - ERROR[materials\programs\raytracing\raytracing.program]: program `raytracing_resolve_ambient_psr_cp` references missing shader file: `materials/programs/raytracing/resolve_ambient_psr.hlsl`!
+[20:38:14.098] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/programs/raytracing/raytracing.material:125']: failed to parse material: reference to a non existing object: 
+[20:38:14.098] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/programs/raytracing/raytracing.material:156']: failed to parse material: reference to a non existing object: 
+[20:38:14.098] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/programs/raytracing/raytracing.material:187']: failed to parse material: reference to a non existing object: 
+[20:38:14.098] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/programs/raytracing/raytracing.material:218']: failed to parse material: reference to a non existing object: 
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_no_alpha'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_no_alpha'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_tree'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_tree'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_tree_no_alpha'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_tree_no_alpha'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_deform'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_deform'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_deform_no_alpha'
+[20:38:14.108] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_deform_no_alpha'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_no_alpha_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_no_alpha_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/vegetation_tree_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/vegetation_tree_twosided'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/buildings/main/destroyed_building_emissive.dds' in material: 'pbr/flammable'
+[20:38:14.109] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gradient/cloudy_gradient_0.dds' in material: 'pbr/flammable'
+[20:38:14.122] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/scripts/vrs.material:88']: failed to parse material: reference to a non existing object: 
+[20:38:14.268] [info] MaterialPlugin.cpp:140 - Init ParticleTechniqueGenerator
+[20:38:14.269] [info] MaterialPlugin.cpp:146 - Init ShadowTechniqueGenerator
+[20:38:14.269] [info] MaterialPlugin.cpp:152 - Init VelocityTechniqueGenerator
+[20:38:14.269] [info] MaterialPlugin.cpp:158 - Init DecalTechniqueGenerator
+[20:38:14.269] [info] MaterialPlugin.cpp:164 - Init GBufferTechniqueGenerator
+[20:38:14.273] [info] GuiImage.cpp:25 - Error: material '' is invalid
+[20:38:14.289] [info] CmdParser.cpp:14 - Warning: Console command already registered: refresh_gui_text_items
+[20:38:14.293] [info] CmdParser.cpp:14 - Warning: Console command already registered: refresh_gui_text_items
+[20:38:14.307] [info] TeamManager.cpp:21 - Creating team relation escape id :0
+[20:38:14.307] [info] TeamManager.cpp:21 - Creating team relation hostility id :1
+[20:38:14.336] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_audio.zip` as `/`
+[20:38:14.341] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_audio.crc' crc32: 0x882dc7e (137853B)
+[20:38:14.342] [info] VfsZipArchive.cpp:457 - CD offset = 784803161/785009953
+[20:38:14.346] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_data.zip` as `/`
+[20:38:14.352] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_data.crc' crc32: 0x4d2e600e (2301719B)
+[20:38:14.361] [info] VfsZipArchive.cpp:564 - Found Zip64 EOCD locator
+[20:38:14.361] [info] VfsZipArchive.cpp:575 - Found Zip64 EOCD confirmed
+[20:38:14.361] [info] VfsZipArchive.cpp:457 - CD offset = 4066562918/4070423842
+[20:38:14.611] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_video.zip` as `/`
+[20:38:14.618] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\00_win_video.crc' crc32: 0x8fcc58c2 (939B)
+[20:38:14.618] [info] VfsZipArchive.cpp:457 - CD offset = 472701280/472702663
+[20:38:14.618] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\01_win_audio.zip` as `/`
+[20:38:14.624] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\01_win_audio.crc' crc32: 0xb1e5b3d9 (72562B)
+[20:38:14.625] [info] VfsZipArchive.cpp:457 - CD offset = 325745420/325851396
+[20:38:14.627] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\01_win_data.zip` as `/`
+[20:38:14.631] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\01_win_data.crc' crc32: 0xfaf8f89f (166013B)
+[20:38:14.633] [info] VfsZipArchive.cpp:457 - CD offset = 244812441/245066469
+[20:38:14.637] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\02_win_data.zip` as `/`
+[20:38:14.641] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\02_win_data.crc' crc32: 0xb93ddc4 (5936B)
+[20:38:14.642] [info] VfsZipArchive.cpp:457 - CD offset = 9694498/9703539
+[20:38:14.642] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\03_win_data.zip` as `/`
+[20:38:14.647] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\03_win_data.crc' crc32: 0xac65c916 (10237B)
+[20:38:14.647] [info] VfsZipArchive.cpp:457 - CD offset = 24896857/24912929
+[20:38:14.648] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\04_win_data.zip` as `/`
+[20:38:14.656] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\04_win_data.crc' crc32: 0x3dc2977 (8203B)
+[20:38:14.656] [info] VfsZipArchive.cpp:457 - CD offset = 22475933/22488571
+[20:38:14.657] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\05_win_audio.zip` as `/`
+[20:38:14.663] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\05_win_audio.crc' crc32: 0x6399a469 (633B)
+[20:38:14.663] [info] VfsZipArchive.cpp:457 - CD offset = 988924/989826
+[20:38:14.663] [info] VfsZipArchive.cpp:165 - [VFS] mounting: `D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\05_win_data.zip` as `/`
+[20:38:14.669] [info] VfsZipArchive.cpp:72 - Checksum file: 'D:\Steam Games\steamapps\common\Riftbreaker\bin\..\packs\05_win_data.crc' crc32: 0x47a46c20 (56869B)
+[20:38:14.669] [info] VfsZipArchive.cpp:457 - CD offset = 58928082/59015496
+[20:38:14.790] [info] CompositorGraph.cpp:34 - Created compositor: `gui`
+[20:38:14.896] [info] CompositorGraph.cpp:515 - 0 CompositorNode : gui
+[20:38:14.896] [info] CompositorGraph.cpp:515 - 1 CompositorNode : gui_final
+[20:38:14.896] [info] CompositorGraph.cpp:586 - RenderTarget: main start: 0 end: 1
+[20:38:14.896] [info] CompositorGraph.cpp:589 - RenderTargets Memory : 19619732
+[20:38:14.896] [info] CompositorGraph.cpp:621 - Compositor Memory Usage (optimized): 19619732
+[20:38:14.897] [info]  - RenderTarget: main: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:14.899] [info] RenderingState.cpp:981 - Change compositor: `gui`
+[20:38:16.193] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/trees/leaky_small_01_emissive.dds' in material: 'props/trees/leaky_small_01'
+[20:38:16.229] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/mud/mud_01_albedo.dds' in material: 'ground/mud/mud_01'
+[20:38:16.229] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/mud/mud_01_normal.dds' in material: 'ground/mud/mud_01'
+[20:38:16.229] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/mud/mud_01_packed.dds' in material: 'ground/mud/mud_01'
+[20:38:16.265] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/hud/keys/transparent/key_280' in material: 'gui/hud/keys/transparent/key_280'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_cryo_albedo.dds' in material: 'units/ground/lesigian_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_cryo_normal.dds' in material: 'units/ground/lesigian_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_cryo_packed.dds' in material: 'units/ground/lesigian_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_cryo_emissive.dds' in material: 'units/ground/lesigian_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_fire_albedo.dds' in material: 'units/ground/lesigian_boss_fire'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_fire_normal.dds' in material: 'units/ground/lesigian_boss_fire'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_fire_packed.dds' in material: 'units/ground/lesigian_boss_fire'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/lesigian_boss_fire_emissive.dds' in material: 'units/ground/lesigian_boss_fire'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_acid_albedo.dds' in material: 'units/ground/gnerot_boss_acid'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_acid_normal.dds' in material: 'units/ground/gnerot_boss_acid'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_acid_packed.dds' in material: 'units/ground/gnerot_boss_acid'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_acid_emissive.dds' in material: 'units/ground/gnerot_boss_acid'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_cryo_albedo.dds' in material: 'units/ground/gnerot_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_cryo_normal.dds' in material: 'units/ground/gnerot_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_cryo_packed.dds' in material: 'units/ground/gnerot_boss_cryo'
+[20:38:16.362] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_cryo_emissive.dds' in material: 'units/ground/gnerot_boss_cryo'
+[20:38:16.363] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_fire_albedo.dds' in material: 'units/ground/gnerot_boss_fire'
+[20:38:16.363] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_fire_normal.dds' in material: 'units/ground/gnerot_boss_fire'
+[20:38:16.363] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_fire_packed.dds' in material: 'units/ground/gnerot_boss_fire'
+[20:38:16.363] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/units/ground/gnerot_boss_fire_emissive.dds' in material: 'units/ground/gnerot_boss_fire'
+[20:38:16.410] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/grid_albedo.dds' in material: 'pbr/ground_template'
+[20:38:16.410] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/grid_packed.dds' in material: 'pbr/ground_template'
+[20:38:16.410] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/grid_packed.dds' in material: 'pbr/ground_template'
+[20:38:16.410] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/ground/grid_packed.dds' in material: 'pbr/ground_template'
+[20:38:16.440] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/hud/keys/ps5/key_280' in material: 'gui/hud/keys/ps5/key_280'
+[20:38:16.452] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/interactive/drill.dds' in material: 'gui/menu/items_icons/interactive/drill'
+[20:38:16.452] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/interactive/drill_disabled.dds' in material: 'gui/menu/items_icons/interactive/drill_disabled'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/repair_tools_extreme.dds' in material: 'gui/menu/items_icons/upgrades/repair_tools_extreme'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/repair_tools_superior.dds' in material: 'gui/menu/items_icons/upgrades/repair_tools_superior'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/repair_tools_advanced.dds' in material: 'gui/menu/items_icons/upgrades/repair_tools_advanced'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/defense_gear_extreme.dds' in material: 'gui/menu/items_icons/upgrades/defense_gear_extreme'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/defense_gear_superior.dds' in material: 'gui/menu/items_icons/upgrades/defense_gear_superior'
+[20:38:16.459] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/items_icons/upgrades/defense_gear_advanced.dds' in material: 'gui/menu/items_icons/upgrades/defense_gear_advanced'
+[20:38:16.466] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/bulb_acid_yellow.dds' in material: 'gui/menu/species/flora/bulb_acid_yellow'
+[20:38:16.466] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/bulb_acid_pink.dds' in material: 'gui/menu/species/flora/bulb_acid_pink'
+[20:38:16.466] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/bulb_acid_red.dds' in material: 'gui/menu/species/flora/bulb_acid_red'
+[20:38:16.466] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/bulb_acid_black.dds' in material: 'gui/menu/species/flora/bulb_acid_black'
+[20:38:16.467] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/bulb_acid_orange.dds' in material: 'gui/menu/species/flora/bulb_acid_orange'
+[20:38:16.467] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/gui/menu/species/flora/mushroom_fluorescent.dds' in material: 'gui/menu/species/flora/mushroom_fluorescent'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_02_albedo.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_02'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_02_normal.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_02'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_02_packed.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_02'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_04_albedo.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_04'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_04_normal.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_04'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_04_packed.ddd.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_04'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_06_albedo.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_06'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_06_normal.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_06'
+[20:38:16.522] [info] MaterialPlugin.cpp:310 - ERROR: missing texture: 'materials/textures/props/rocks/ovoid/ovoid_boulder_big_06_packeacked.dds' in material: 'props/rocks/ovoid/ovoid_boulder_big_06'
+[20:38:16.546] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/scripts/selector.material:527']: failed to parse material: number expected: extra parameters required by constant definition time_0_1
+[20:38:16.546] [info] MaterialPlugin.cpp:427 - [ERROR 'materials/scripts/selector.material:550']: failed to parse material: number expected: extra parameters required by constant definition time_0_1
+[20:38:16.566] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/defense/tower_heavy_artillery_projectile must have name. Autogenerating name.
+[20:38:16.583] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/weapons/aa_missile_launcher_projectile must have name. Autogenerating name.
+[20:38:16.583] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of mech/atom_bomb_projectile must have name. Autogenerating name.
+[20:38:16.583] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/weapons/rocket_laucher_projectile must have name. Autogenerating name.
+[20:38:16.586] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of spawners/loot_container_spawner_standard must have name. Autogenerating name.
+[20:38:16.586] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of spawners/loot_container_spawner_advanced must have name. Autogenerating name.
+[20:38:16.586] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of spawners/loot_container_spawner_superior must have name. Autogenerating name.
+[20:38:16.586] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of spawners/loot_container_spawner_extreme must have name. Autogenerating name.
+[20:38:16.601] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/defense/tower_artillery_projectile must have name. Autogenerating name.
+[20:38:16.606] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/main/headquarters must have name. Autogenerating name.
+[20:38:16.623] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/consumables/grenade must have name. Autogenerating name.
+[20:38:16.624] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/consumables/grenade_gravity must have name. Autogenerating name.
+[20:38:16.632] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/weapons/corrosive_gun_projectile must have name. Autogenerating name.
+[20:38:16.633] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/weapons/debug_rifle_projectile must have name. Autogenerating name.
+[20:38:16.633] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of items/weapons/grenade_launcher_projectile must have name. Autogenerating name.
+[20:38:16.635] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of mech/sniper_rifle_projectile must have name. Autogenerating name.
+[20:38:16.636] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of mech/sniper_rifle_projectile_charged must have name. Autogenerating name.
+[20:38:16.636] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of mech/swarm_missiles_projectile must have name. Autogenerating name.
+[20:38:16.645] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of units/ground/gnerot/underground_rock_alpha must have name. Autogenerating name.
+[20:38:16.645] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of units/ground/gnerot/underground_rock must have name. Autogenerating name.
+[20:38:16.646] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of units/ground/gnerot/underground_rock_burning must have name. Autogenerating name.
+[20:38:16.646] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of units/ground/gnerot/underground_rock_ultra must have name. Autogenerating name.
+[20:38:16.663] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/defense/shield_generator must have name. Autogenerating name.
+[20:38:16.663] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/defense/shield_generator_lvl_2 must have name. Autogenerating name.
+[20:38:16.663] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/defense/shield_generator_lvl_3 must have name. Autogenerating name.
+[20:38:16.675] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of buildings/main/outpost must have name. Autogenerating name.
+[20:38:16.682] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of effects/buildings_and_machines/tower_white_searchlight must have name. Autogenerating name.
+[20:38:16.684] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of effects/weapons_bullet/sniper_rifle_projectile must have name. Autogenerating name.
+[20:38:16.704] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of player/character must have name. Autogenerating name.
+[20:38:16.704] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of player/character must have name. Autogenerating name.
+[20:38:16.704] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of player/character must have name. Autogenerating name.
+[20:38:16.704] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of player/character must have name. Autogenerating name.
+[20:38:16.704] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of player/character must have name. Autogenerating name.
+[20:38:16.775] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of resources/volume_template_resource must have name. Autogenerating name.
+[20:38:16.775] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of resources/volume_template_resource must have name. Autogenerating name.
+[20:38:16.775] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of resources/volume_template_resource must have name. Autogenerating name.
+[20:38:16.775] [info] EntityBlueprintResourcePlugin.cpp:90 - Child blueprint of resources/volume_template_resource must have name. Autogenerating name.
+[20:38:16.795] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:16.795] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:16.796] [info]  - Texture: black_1x1_video_#internal: 1 faces(PF_X8R8G8B8,1x1x1) with 0 custom mipmaps from PF_X8R8G8B8,1x1x1. Src/dst size: 0, 0
+[20:38:16.804] [info]  - Texture: materials/textures/gui/logos/riftbreaker_logo_animated.ogv: 1 faces(PF_X8R8G8B8,1920x1088x1) with 0 custom mipmaps from PF_X8R8G8B8,1920x1088x1. Src/dst size: 0, 0
+[20:38:16.812] [info]  - Texture: materials/textures/gui/logos/exor_logo_animated.ogv: 1 faces(PF_X8R8G8B8,1920x1088x1) with 0 custom mipmaps from PF_X8R8G8B8,1920x1088x1. Src/dst size: 0, 0
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (1.51083%)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23580MB (budget)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 356.254MB usage)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11918MB (available for reserve)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.243608%)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.2MB (budget)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 157.676MB (usage)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[20:38:16.818] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.6MB (available for reserve)
+[20:38:16.840] [info] AudioManager.cpp:349 - Audio: Missing precache: sound\samples\exor_logo_animated.wav
+[20:38:16.908] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/exor_logo_animated.ogv
+[20:38:16.910] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[20:38:16.912] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[20:38:16.976] [info]  - Compiler error: unknown error in scripts/particles/building_electric_damage_04.pu(128): PU Compiler: token "emitter" is not recognized
+[20:38:16.976] [info]  - Compiler error: unknown error in scripts/particles/building_electric_damage_04.pu(129): token "emission_rate" is not recognized
+[20:38:18.293] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:20.666] [info] TheoraVideoClip_Theora.cpp:87 - materials/textures/gui/logos/exor_logo_animated.ogv finished playing
+[20:38:20.926] [info] AudioManager.cpp:349 - Audio: Missing precache: sound\samples\riftbreaker_logo_animated.wav
+[20:38:21.758] [info] ControllerState.cpp:333 - OnMainResourcesInitialized
+[20:38:28.862] [info] TheoraVideoClip_Theora.cpp:87 - materials/textures/gui/logos/riftbreaker_logo_animated.ogv finished playing
+[20:38:29.097] [info] RenderingState.cpp:675 - ReleaseRenderingAccess
+[20:38:29.112] [info] ControllerState.cpp:351 - OnStartupLogosFinishedEvent
+[20:38:29.114] [info] CmdParser.cpp:14 - Warning: Console command already registered: refresh_gui_text_items
+[20:38:29.135] [info] SignInState.cpp:71 - Entering SignInState...
+[20:38:29.135] [info] DefaultSignIn.cpp:82 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( PAD, 1 )
+[20:38:29.146] [info] RenderingState.cpp:981 - Change compositor: `gui`
+[20:38:29.149] [info] Save.cpp:100 - Save load started. Name user_config
+[20:38:29.150] [info] OgreVideoManager.cpp:319 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv state=paused
+[20:38:29.150] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[20:38:29.150] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[20:38:29.150] [info] OgreVideoManager.cpp:319 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv state=paused
+[20:38:29.150] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[20:38:29.150] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[20:38:29.150] [info] OgreVideoManager.cpp:319 - frameStarted: Destroy Clip: materials/textures/gui/logos/exor_logo_animated.ogv state=paused
+[20:38:29.150] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/exor_logo_animated.ogv
+[20:38:29.150] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[20:38:29.150] [info] Save.cpp:160 - Save get save list started.
+[20:38:29.151] [info] SaveRequestProcessor.cpp:175 - Load took : 0.0015042
+[20:38:29.151] [info] Save.cpp:100 - Save load started. Name user_profile
+[20:38:29.151] [info] Save.cpp:100 - Save load started. Name 98081668.campaign
+[20:38:29.152] [info] SaveRequestProcessor.cpp:175 - Load took : 0.0016074
+[20:38:29.156] [info] Save.cpp:100 - Save load started. Name 98081668.campaign
+[20:38:29.157] [info]  - Texture: materials/textures/gui/logos/riftbreaker_logo_loop.ogv: 1 faces(PF_X8R8G8B8,1920x1088x1) with 0 custom mipmaps from PF_X8R8G8B8,1920x1088x1. Src/dst size: 0, 0
+[20:38:29.209] [info] Save.cpp:160 - Save get save list started.
+[20:38:29.210] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[20:38:29.220] [info] SignInState.cpp:105 - Config variables:
+[20:38:29.220] [info] SignInState.cpp:117 -  * autosave_timer : 60
+[20:38:29.220] [info] SignInState.cpp:117 -  * camera_mode : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * camera_shake : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * d3d12_debug_layer : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * d3d12_disable_residency_manager : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * d3d12_gpu_dump : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * d3d12_gpu_validation : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * difficulty : brutal
+[20:38:29.220] [info] SignInState.cpp:117 -  * enable_pause_on_platform_overlay_event : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * full_screen : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * g_boss_health_bars : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * g_dynamic_vegetation : 2
+[20:38:29.220] [info] SignInState.cpp:117 -  * g_enable_tutorials : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * g_mech_health_bars : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * gamepad_buttons_scheme : 
+[20:38:29.220] [info] SignInState.cpp:117 -  * hud_pop_cumulate : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * hud_pop_damage_display : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * hud_pop_non_player_damage_display : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * hud_pop_only_critical : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * hud_pop_show_damage_type_icons : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * lamp_context_support : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * languages : CHINESE_SP
+[20:38:29.220] [info] SignInState.cpp:117 -  * light_limits : 2
+[20:38:29.220] [info] SignInState.cpp:117 -  * minimap_zoom : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * monitor : \\.\DISPLAY2
+[20:38:29.220] [info] SignInState.cpp:117 -  * mouse_clamp : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * mouse_cursor_size : 
+[20:38:29.220] [info] SignInState.cpp:117 -  * mouse_sensitivity : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * pad_triggers_feedback : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * pad_vibrations_function : 2
+[20:38:29.220] [info] SignInState.cpp:117 -  * play_voice_over_alerts : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_ambient_occlusion : hbao
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_ambient_occlusion_quality_ray : low
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_ambient_occlusion_ray : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_anti_aliasing : txaa
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_cas : cas
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_debug_rendering : none
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_fsr : ultra_quality
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_gamma : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_max_fps : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_screen_size : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_shadow_quality : ultra
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_shadow_quality_ray : high
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_soft_shadows : pcss
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_soft_shadows_ray : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_textures_filtering : 16
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_textures_mipmap_level : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_upscale : 100%
+[20:38:29.220] [info] SignInState.cpp:117 -  * r_vrs : none
+[20:38:29.220] [info] SignInState.cpp:117 -  * render_system : dx12
+[20:38:29.220] [info] SignInState.cpp:117 -  * shadow_const_bias : 5
+[20:38:29.220] [info] SignInState.cpp:117 -  * shadow_slope_bias : 5
+[20:38:29.220] [info] SignInState.cpp:117 -  * shadow_texture_size : 2048
+[20:38:29.220] [info] SignInState.cpp:117 -  * show_controls_hud : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * show_missing_ammo : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * showed_change_info : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * showed_rotate_info : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * slot_change_counter : 10
+[20:38:29.220] [info] SignInState.cpp:117 -  * stream_events_negative : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * stream_events_positive : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * stream_voting_time : 40
+[20:38:29.220] [info] SignInState.cpp:117 -  * tooltips_delay : 0.400000006
+[20:38:29.220] [info] SignInState.cpp:117 -  * twelve_hours_time_policy : 0
+[20:38:29.220] [info] SignInState.cpp:117 -  * vibration : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * video_adapter : 
+[20:38:29.220] [info] SignInState.cpp:117 -  * video_mode : 3840x2160:32
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_announcement : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_dialog : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_event : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_master : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_music : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * volume_sfx : 1
+[20:38:29.220] [info] SignInState.cpp:117 -  * vsync : 0
+[20:38:29.261] [info] RenderingState.cpp:675 - ReleaseRenderingAccess
+[20:38:29.295] [info] CmdParser.cpp:14 - Warning: Console command already registered: refresh_gui_text_items
+[20:38:29.295] [info] CmdParser.cpp:14 - Warning: Console command already registered: refresh_gui_text_items
+[20:38:29.295] [info] ControllerState.cpp:249 - [ControllerState] activating: MenuState
+[20:38:29.295] [info] DefaultSignIn.cpp:82 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( KEYBOARD, 0 )ControllerId( PAD, 1 )ControllerId( MOUSE, 0 )
+[20:38:29.315] [info] VirtualSoundScene.cpp:29 - Aabb minimum: -64 -20 -64
+[20:38:29.315] [info] VirtualSoundScene.cpp:30 - Aabb size: 128 120 128
+[20:38:29.319] [info] MusicPlayerBase.cpp:181 - [MusicPlayer] requested playlist: 'music/loading'
+[20:38:29.319] [info] MusicPlayerEmulator.cpp:113 - SND|Music play: sound/music/riftbreaker_loading.ogg of 'music/loading' playlist.
+[20:38:29.320] [info] RenderingState.cpp:981 - Change compositor: `gui`
+[20:38:29.324] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:29.324] [info] OgreVideoManager.cpp:319 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
+[20:38:29.324] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[20:38:29.324] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[20:38:29.338] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[20:38:29.620] [info] MusicPlayerBase.cpp:181 - [MusicPlayer] requested playlist: 'music/main_menu'
+[20:38:29.641] [info] RenderingState.cpp:675 - ReleaseRenderingAccess
+[20:38:29.649] [info] OgreVideoManager.cpp:319 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
+[20:38:29.649] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[20:38:29.649] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[20:38:29.664] [info] CompositorGraph.cpp:34 - Created compositor: `pbr_compositor`
+[20:38:29.699] [info] MainMenuScreen.cpp:156 - The Riftbreaker SVN_26269.TC_478.DATA_26205.TC_72 
+[20:38:29.702] [info] AudioManager.cpp:349 - Audio: Missing precache: sound\samples\gui_navigation\main_menu_highlight_07.wav
+[20:38:29.707] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
+[20:38:29.726] [info]  - Creating resource group DfShResources
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 0 CompositorNode : pbr_velocity
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 1 CompositorNode : pbr_vrs
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 2 CompositorNode : pbr_gbuffer
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 3 CompositorNode : pbr_shadow
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 4 CompositorNode : pbr_raytracing
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 5 CompositorNode : pbr_linear_depth
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 6 CompositorNode : pbr_ssao
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 7 CompositorNode : pbr_lights
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 8 CompositorNode : pbr_forward
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 9 CompositorNode : pbr_bloom
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 10 CompositorNode : pbr_tonemap_fxaa
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 11 CompositorNode : pbr_distortion
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 12 CompositorNode : pbr_minimap
+[20:38:29.767] [info] CompositorGraph.cpp:515 - 13 CompositorNode : pbr_final
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: velocity start: 0 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: vrs start: 1 end: 11
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gbuffer start: 2 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: shadows start: 3 end: 7
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: shadow start: 4 end: 7
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: linear_depth start: 5 end: 7
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: occlusion start: 6 end: 8
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: bilateral_occlusion start: 6 end: 6
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: half_linear_depth start: 6 end: 6
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: illuminance start: 7 end: 8
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: main start: 8 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: a0 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: a1 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: b0 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: b1 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: c0 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: c1 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: d0 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: d1 start: 9 end: 9
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: tonemap start: 10 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: txaa start: 10 end: 10
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: ldr start: 10 end: 11
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: distortion start: 11 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: distortion_1 start: 11 end: 11
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: minimap start: 12 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: fsr_0 start: 13 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: fsr_1 start: 13 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gui_main start: 13 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gui_half_1 start: 13 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:586 - RenderTarget: gui_half_2 start: 13 end: 13
+[20:38:29.767] [info] CompositorGraph.cpp:589 - RenderTargets Memory : 557410209
+[20:38:29.767] [info] CompositorGraph.cpp:621 - Compositor Memory Usage (optimized): 557410209
+[20:38:29.768] [info]  - RenderTarget: velocity: 1 faces(PF_FLOAT16_GR,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_GR,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.770] [info]  - RenderTarget: vrs: 1 faces(PF_UINT8_R,369x207x1) with 0 custom mipmaps from PF_UINT8_R,369x207x1. Src/dst size: 0, 0
+[20:38:29.772] [info]  - RenderTarget: Albedo: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.774] [info]  - RenderTarget: Normal: 1 faces(PF_FLOAT16_RGBA,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_RGBA,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.775] [info]  - RenderTarget: OcclusionRoughnessMetalness: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.777] [info]  - RenderTarget: Emissive: 1 faces(PF_FLOAT16_RGBA,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_RGBA,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.778] [info]  - RenderTarget: SubsurfaceScattering: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.780] [info]  - RenderTarget: occlusion: 1 faces(PF_R8G8B8A8,16x16x1) with 0 custom mipmaps from PF_R8G8B8A8,16x16x1. Src/dst size: 0, 0
+[20:38:29.781] [info]  - RenderTarget: linear_depth: 1 faces(PF_FLOAT16_R,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_R,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.781] [info]  - RenderTarget: occlusion: 1 faces(PF_FLOAT16_GR,1280x720x1) with 0 custom mipmaps from PF_FLOAT16_GR,1280x720x1. Src/dst size: 0, 0
+[20:38:29.782] [info]  - RenderTarget: bilateral_occlusion: 1 faces(PF_FLOAT16_GR,1280x720x1) with 0 custom mipmaps from PF_FLOAT16_GR,1280x720x1. Src/dst size: 0, 0
+[20:38:29.782] [info]  - RenderTarget: half_linear_depth: 1 faces(PF_FLOAT16_R,1280x720x1) with 0 custom mipmaps from PF_FLOAT16_R,1280x720x1. Src/dst size: 0, 0
+[20:38:29.784] [info]  - RenderTarget: deferred: 1 faces(PF_FLOAT16_RGBA,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_RGBA,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.786] [info]  - RenderTarget: main: 1 faces(PF_FLOAT16_RGBA,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_RGBA,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.787] [info]  - RenderTarget: a0: 1 faces(PF_R11G11B10_FLOAT,1476x830x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,1476x830x1. Src/dst size: 0, 0
+[20:38:29.788] [info]  - RenderTarget: a1: 1 faces(PF_R11G11B10_FLOAT,1476x830x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,1476x830x1. Src/dst size: 0, 0
+[20:38:29.788] [info]  - RenderTarget: b0: 1 faces(PF_R11G11B10_FLOAT,738x415x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,738x415x1. Src/dst size: 0, 0
+[20:38:29.788] [info]  - RenderTarget: b1: 1 faces(PF_R11G11B10_FLOAT,738x415x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,738x415x1. Src/dst size: 0, 0
+[20:38:29.789] [info]  - RenderTarget: c0: 1 faces(PF_R11G11B10_FLOAT,369x207x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,369x207x1. Src/dst size: 0, 0
+[20:38:29.789] [info]  - RenderTarget: c1: 1 faces(PF_R11G11B10_FLOAT,369x207x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,369x207x1. Src/dst size: 0, 0
+[20:38:29.789] [info]  - RenderTarget: d0: 1 faces(PF_R11G11B10_FLOAT,184x103x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,184x103x1. Src/dst size: 0, 0
+[20:38:29.790] [info]  - RenderTarget: d1: 1 faces(PF_R11G11B10_FLOAT,184x103x1) with 0 custom mipmaps from PF_R11G11B10_FLOAT,184x103x1. Src/dst size: 0, 0
+[20:38:29.791] [info]  - RenderTarget: tonemap: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.792] [info]  - RenderTarget: txaa: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.793] [info]  - RenderTarget: ldr: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.794] [info]  - RenderTarget: distortion: 1 faces(PF_R8G8B8A8,2953x1661x1) with 0 custom mipmaps from PF_R8G8B8A8,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.796] [info]  - RenderTarget: distortion_1: 1 faces(PF_FLOAT16_RGBA,2953x1661x1) with 0 custom mipmaps from PF_FLOAT16_RGBA,2953x1661x1. Src/dst size: 0, 0
+[20:38:29.798] [info]  - RenderTarget: minimap: 1 faces(PF_R8G8B8A8,2048x2048x1) with 0 custom mipmaps from PF_R8G8B8A8,2048x2048x1. Src/dst size: 0, 0
+[20:38:29.800] [info]  - RenderTarget: fsr_0: 1 faces(PF_R8G8B8A8,3840x2160x1) with 0 custom mipmaps from PF_R8G8B8A8,3840x2160x1. Src/dst size: 0, 0
+[20:38:29.802] [info]  - RenderTarget: fsr_1: 1 faces(PF_R8G8B8A8,3840x2160x1) with 0 custom mipmaps from PF_R8G8B8A8,3840x2160x1. Src/dst size: 0, 0
+[20:38:29.804] [info]  - RenderTarget: gui_main: 1 faces(PF_R8G8B8A8,3840x2160x1) with 0 custom mipmaps from PF_R8G8B8A8,3840x2160x1. Src/dst size: 0, 0
+[20:38:29.807] [info]  - RenderTarget: gui_half_1: 1 faces(PF_R8G8B8A8,1920x1080x1) with 0 custom mipmaps from PF_R8G8B8A8,1920x1080x1. Src/dst size: 0, 0
+[20:38:29.808] [info]  - RenderTarget: gui_half_2: 1 faces(PF_R8G8B8A8,1920x1080x1) with 0 custom mipmaps from PF_R8G8B8A8,1920x1080x1. Src/dst size: 0, 0
+[20:38:29.823] [info] RenderingState.cpp:981 - Change compositor: `pbr_compositor`
+[20:38:31.220] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:31.228] [info]  - Texture: materials/textures/gui/menu/movies/riftbreaker_main_menu.ogv: 1 faces(PF_X8R8G8B8,1920x1088x1) with 0 custom mipmaps from PF_X8R8G8B8,1920x1088x1. Src/dst size: 0, 0
+[20:38:31.341] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/menu/movies/riftbreaker_main_menu.ogv
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (13.6042%)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23580MB (budget)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 3207.86MB usage)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11918MB (available for reserve)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.37148%)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.2MB (budget)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 240.441MB (usage)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[20:38:31.820] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.6MB (available for reserve)
+[20:38:33.016] [info] MusicPlayerEmulator.cpp:60 - SND|Music stop.
+[20:38:33.016] [info] MusicPlayerEmulator.cpp:113 - SND|Music play: sound/music/riftbreaker_main_menu.ogg of 'music/main_menu' playlist.
+[20:38:33.643] [info] MenuScreen.cpp:304 - Create Popup: gui/popup/popup_template_2buttons
+[20:38:33.664] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:34.491] [info] MenuScreen.cpp:320 - ClosePopup: gui/popup/popup_template_2buttons
+[20:38:34.491] [info] MainMenuScreen.cpp:262 - OnClick: BUTTON_exit_game
+[20:38:34.493] [info] MouseCursorResource.cpp:25 - Warning: unable to find cursor material for size: 0
+[20:38:34.554] [info] RenderingState.cpp:675 - ReleaseRenderingAccess
+[20:38:34.591] [info] GuiRenderableInjector.cpp:224 - GUI renderables current/max: 22/34
+[20:38:34.591] [info] GuiRenderableInjector.cpp:225 -     stencil cmd current/max: 2/9
+[20:38:34.592] [info] GuiRenderableInjector.cpp:226 -     render cmd current/max:  22/34
+[20:38:34.592] [info] GuiRenderableInjector.cpp:227 -     camera cmd current/max:  2/2
+[20:38:34.592] [info] GuiRenderableInjector.cpp:228 - GUI vertex buffer max count: 1
+[20:38:34.592] [info] GuiRenderableInjector.cpp:229 -     index buffer max count:  1
+[20:38:34.597] [info] MusicPlayerEmulator.cpp:211 - SND|Music stop.
+[20:38:34.599] [info]  - Unloading resource group general
+[20:38:34.607] [info]  - Finished unloading resource group general
+[20:38:34.607] [info]  - Destroying resource group general
+[20:38:34.607] [info]  - Unloading resource group general
+[20:38:34.608] [info]  - Finished unloading resource group general
+[20:38:34.658] [info] AudioBase.cpp:71 - Audio shutdown starts...
+[20:38:34.658] [info] AudioBase.cpp:101 - Audio shutdown finished successfully in ~0ms
+[20:38:34.737] [info] AudioBase.cpp:71 - Audio shutdown starts...
+[20:38:34.737] [info] AudioBase.cpp:101 - Audio shutdown finished successfully in ~0ms
+[20:38:34.746] [info]  - Unregistering ResourceManager for type Texture
+[20:38:35.041] [info]  - DefaultWorkQueue('Root') shutting down on thread main.
+[20:38:35.041] [info]  - *-*-* OGRE Shutdown
+[20:38:35.041] [info]  - Unregistering ResourceManager for type Font
+[20:38:35.041] [info]  - Unregistering ResourceManager for type Skeleton
+[20:38:35.041] [info]  - Unregistering ResourceManager for type Mesh
+[20:38:35.041] [info]  - Unregistering ResourceManager for type HighLevelGpuProgram
+[20:38:35.041] [info]  - Unregistering ResourceManager for type Material
+[20:38:35.043] [info] WindowWin32.cpp:48 - WM_KILLFOCUS
+[20:38:35.044] [info] ApplicationAbstract.cpp:61 - Destroying application

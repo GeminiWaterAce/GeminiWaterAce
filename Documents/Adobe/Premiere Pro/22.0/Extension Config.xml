@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ExtensionConfig>
+<!-- Native, enable native project panel. Flash, hide native project panel and enable flash library. -->
+<ProjectPanel>Native</ProjectPanel>
+</ExtensionConfig>

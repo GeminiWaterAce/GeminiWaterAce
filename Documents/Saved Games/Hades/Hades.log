@@ -1,0 +1,396 @@
+date       time     [thread name/id ]                   file:line    v |
+2021-10-23 17:50:20 [MainThread     ]                log.cpp:279   INFO| Opened log file Hades.log
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:1459   DBG| Previous stack guard size was 0 bytes
+2021-10-23 17:50:20 [MainThread     ]    platformservice.cpp:387    DBG| Processor Count : 32
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:1669   DBG| TotalRam: 34270052352
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:1670   DBG| Running Hades in 64-bit
+2021-10-23 17:50:20 [MainThread     ]       pcsavedevice.cpp:249   INFO| Opening save file for reading: activeProfile
+2021-10-23 17:50:20 [MainThread     ]     binaryloaddata.cpp:12    INFO| Reading 16 bytes
+2021-10-23 17:50:20 [MainThread     ]     profilemanager.cpp:40    INFO| Loading default profile C:\Users\GeminiWaterAce\Documents\Saved Games\Hades Profile1
+2021-10-23 17:50:20 [MainThread     ]     profilemanager.cpp:187   INFO| ProfileManager::Load(): Profile1.sjson 
+2021-10-23 17:50:20 [MainThread     ]       pcsavedevice.cpp:249   INFO| Opening save file for reading: Profile1.sjson
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: WindowHeight = 2160
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: NewUpdateSoundRevisionViewed = 38177
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: LastRoadmapRevisionViewed = 38177
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: SwapInterval = 0
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: DisplayIndex = 0
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1539  INFO| ConfigOption: ShowGameplayTimer = true
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: LastPatchNoteRevisionViewed = 38177
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: Y = 2160
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: X = 3840
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1546  INFO| ConfigOption: WindowWidth = 3840
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1539  INFO| ConfigOption: UseGamepadGlyphs = true
+2021-10-23 17:50:20 [MainThread     ]     profilemanager.cpp:207   INFO| Load profile successful
+2021-10-23 17:50:20 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: C:\Users\GeminiWaterAce\Documents\Saved Games\Hades\GEMINIWATERACE.sjson -- rb (error: No such file or directory)
+2021-10-23 17:50:20 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\Game\Hades\Content\ConfigOptions\GEMINIWATERACE.sjson -- rb (error: No such file or directory)
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1567  INFO| ConfigOption: NextUpdateDate = NextUpdateCountdownCustom
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1567  INFO| ConfigOption: LastUpdateDate = 07-03-2020
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1567  INFO| ConfigOption: UpdateWarningDate = 11-01-2020
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1567  INFO| ConfigOption: SaveCollectionBeginDate = 10-05-2020
+2021-10-23 17:50:20 [MainThread     ]      configoptions.cpp:1567  INFO| ConfigOption: SaveCollectionEndDate = 10-09-2020
+2021-10-23 17:50:20 [MainThread     ]     binarysavedata.cpp:17    INFO| Writing 16 bytes
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:1790   DBG| Initial startup in 0.0 msec
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:1791   DBG| Profile load in 0.0 msec
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:358   INFO| ----Begin printing all displays available on the system----
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:362   INFO| Number of detected displays: 2
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:507   INFO| Display[0]: XB323QK NV
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (640 x 480) (720 x 480) (720 x 576) (800 x 600) (1176 x 664) (1280 x 720) (1024 x 768) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1280 x 768) (1360 x 768) (1366 x 768) (1280 x 800) (1152 x 864) (1440 x 900) (1600 x 900) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1280 x 960) (1280 x 1024) (1600 x 1024) (1680 x 1050) (1920 x 1080) (1600 x 1200) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1920 x 1200) (1920 x 1440) (2560 x 1440) (2048 x 1536) (2560 x 1600) (1920 x 2160) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:519   INFO| (3840 x 2160) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:507   INFO| Display[1]: AOC U32U1WR6B
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (640 x 480) (720 x 480) (720 x 576) (800 x 600) (1176 x 664) (1280 x 720) (1024 x 768) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1280 x 768) (1360 x 768) (1366 x 768) (1280 x 800) (1152 x 864) (1440 x 900) (1600 x 900) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1280 x 960) (1280 x 1024) (1600 x 1024) (1680 x 1050) (1920 x 1080) (1600 x 1200) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:515   INFO| (1920 x 1200) (1920 x 1440) (2560 x 1440) (2048 x 1536) (2560 x 1600) (1920 x 2160) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:519   INFO| (3840 x 2160) 
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:523   INFO| ----Finish printing all displays available on the system----
+2021-10-23 17:50:20 [MainThread     ]        windowsbase.cpp:682   INFO| Created window app Hades
+2021-10-23 17:50:20 [MainThread     ]          sdlwindow.cpp:54     DBG| SDL Initialized with UseNativeGaInputNoControllers
+2021-10-23 17:50:20 [MainThread     ]         resolution.cpp:163    DBG| Monitor modes:
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:2033  INFO| DisplayModes Configured
+2021-10-23 17:50:20 [MainThread     ]     discord_client.cpp:70    INFO| [Discord SDK] Discord init error: 4
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:2048  INFO| PlatformService Initialized
+2021-10-23 17:50:20 [MainThread     ]     inputsystemsdl.cpp:738    DBG| InputSystemSDL Initialized with UseNativeGaInputNoControllers
+2021-10-23 17:50:20 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\Game\Hades\Content\gamecontrollerdb.txt -- rb (error: No such file or directory)
+2021-10-23 17:50:20 [MainThread     ]            gamepad.cpp:186   INFO| Gamepad added: Index = 1, Name = Xbox 360 Controller, GUID = 030000005e0400008e02000000007200
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:2055  INFO| InputSystem Initialized
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:833   INFO| Created DXGI1.2 factory.
+2021-10-23 17:50:20 [MainThread     ]         filesystem.cpp:307    ERR| Trying to get an unset resource directory '8', make sure the resourceDirectory is set on start of the application
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1012  INFO| gpuCount = 1
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1088  INFO| GPU[0] detected. Vendor ID: 10de, Model ID: 2204, Revision ID: a1, Preset: high, GPU Name: NVIDIA GeForce RTX 3090
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:187   INFO| ----Begin printing all graphics adapters available on the system----
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:124   INFO| Number of GPUs detected: 3
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:150   INFO| Adapter Name: NVIDIA GeForce RTX 3090
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:160   INFO| Driver Version: 30.0.14.9613
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:170   INFO| Driver Date: 10-6-2021
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:189   INFO| ----Finish printing all graphics adapters available on the system----
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1122  INFO| GPU[0] is selected as default GPU
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1123  INFO| Name of selected gpu: NVIDIA GeForce RTX 3090
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1124  INFO| Vendor id of selected gpu: 0x10de
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1125  INFO| Model id of selected gpu: 0x2204
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1126  INFO| Revision id of selected gpu: 0xa1
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1127  INFO| Preset of selected gpu: high
+2021-10-23 17:50:20 [MainThread     ]         direct3d11.cpp:1128  INFO| Available VRAM of selected GPU 25530728448
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:124   INFO| Number of GPUs detected: 3
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:150   INFO| Adapter Name: NVIDIA GeForce RTX 3090
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:160   INFO| Driver Version: 30.0.14.9613
+2021-10-23 17:50:20 [MainThread     ]      gpudetecthelper.h:170   INFO| Driver Date: 10-6-2021
+2021-10-23 17:50:20 [MainThread     ]            program.cpp:2064  INFO| Renderer Initialized
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:1626  INFO| Swapchain creation SUCCEEDED with SwapEffect 0
+2021-10-23 17:50:21 [MainThread     ]            program.cpp:2067  INFO| Renderer Loaded
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:151   INFO| Starting app: Release 38177
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:169    DBG| Pool logging: 1
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:43     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:44     DBG| Target Aspect Ratio :1.777778
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:45     DBG| Screen width: 3840 height: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:46     DBG| keepAspectRatio: 1
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:50     DBG| actualAspectRatio :1.777778
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:54     DBG| height for letterBoxing  :2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:57     DBG| LetterBoxing  :0
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:77     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:95     DBG| ____________________________________Resolution::Resize __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:96     DBG| VIEWPORT: X: 0  Y: 0 W: 3840 H: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:97     DBG| SCALE: X: 2.000000 Y: 2.000000
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:98     DBG| FULL_VIEWPORT: X: 0  Y: 0 W: 3840 H: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:99     DBG| ____________________________________Resolution::Resize__________________
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:176    DBG| Initializing graphics device: 3840x2160
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:183    DBG| Setting fullscreen: true
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:213    DBG| Create components
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:234    DBG| Full screen bloom
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:238    DBG| Frame rate counter
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:244    DBG| Done with constructor
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:247    DBG| Setting RandomSeed: 65403744
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:414    DBG| App Initialize
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:425    DBG| numWorkers = 6
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:515   INFO| Loading package: Launch.pkg
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:436   INFO| Start reading manifest Launch
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:489   INFO| Done reading manifest Launch
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:545   INFO| Package Loaded: Launch
+2021-10-23 17:50:21 [MainThread     ]      screenmanager.cpp:113    DBG| Load Launch Pkg took 0.003067 seconds
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:515   INFO| Loading package: Dev.pkg
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:436   INFO| Start reading manifest Dev
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:489   INFO| Done reading manifest Dev
+2021-10-23 17:50:21 [MainThread     ]   gameassetmanager.cpp:545   INFO| Package Loaded: Dev
+2021-10-23 17:50:21 [MainThread     ]      screenmanager.cpp:119    DBG| Dev Pkg took 0.026784 seconds
+2021-10-23 17:50:21 [MainThread     ]      screenmanager.cpp:126    DBG| Localization::Init() took 0.002877 seconds
+2021-10-23 17:50:21 [MainThread     ]             luaext.cpp:453   INFO| Lua interface destroyed
+2021-10-23 17:50:21 [NoName         ]  windowsfilesystem.cpp:209    ERR| Error opening file: C:\Users\GeminiWaterAce\Documents\Saved Games\Hades\Profile1.ctrls -- rb (error: No such file or directory)
+2021-10-23 17:50:21 [NoName         ]       pcsavedevice.cpp:267   INFO| Unable to find save file: Profile1.ctrls
+2021-10-23 17:50:21 [MainThread     ]    gamedatamanager.cpp:355   INFO| Reading game data from E:\Game\Hades\Content\Game
+2021-10-23 17:50:21 [MainThread     ]                app.cpp:331    DBG| App.resize 3840x2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:43     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:44     DBG| Target Aspect Ratio :1.777778
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:45     DBG| Screen width: 3840 height: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:46     DBG| keepAspectRatio: 1
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:50     DBG| actualAspectRatio :1.777778
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:54     DBG| height for letterBoxing  :2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:57     DBG| LetterBoxing  :0
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:77     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:95     DBG| ____________________________________Resolution::Resize __________________
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:96     DBG| VIEWPORT: X: 0  Y: 0 W: 3840 H: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:97     DBG| SCALE: X: 2.000000 Y: 2.000000
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:98     DBG| FULL_VIEWPORT: X: 0  Y: 0 W: 3840 H: 2160
+2021-10-23 17:50:21 [MainThread     ]         resolution.cpp:99     DBG| ____________________________________Resolution::Resize__________________
+2021-10-23 17:50:21 [MainThread     ]       launchscreen.cpp:135    DBG| new LaunchScreen
+2021-10-23 17:50:21 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\Game\Hades\Content\Game\LaunchScreen.sjson -- rb (error: No such file or directory)
+2021-10-23 17:50:21 [MainThread     ]  platformanalytics.cpp:23     DBG| Initializing Analytics
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:374    DBG| AudioManager.Initialize
+2021-10-23 17:50:21 [MainThread     ]  platformanalytics.cpp:31     DBG| Done initializing Analytics
+2021-10-23 17:50:21 [MainThread     ]            program.cpp:2239  INFO| Application Init+Load 0.522000
+2021-10-23 17:50:21 [MainThread     ]            program.cpp:2253   DBG| User Document Path found!!
+2021-10-23 17:50:21 [MainThread     ]            program.cpp:2267   DBG| Log file created
+2021-10-23 17:50:21 [MainThread     ]            program.cpp:2281   DBG| Data correctly read!!
+2021-10-23 17:50:21 [MainThread     ]        windowsbase.cpp:1150  INFO| Application Init+Load 0.522000
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:464    DBG| FMOD Default Rate 48000 Mode 0 Speakers 0 Software Channels: 64
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:470    DBG| FMOD changed to Rate: 48000 Mode: 3 Speakers: 2 Software Channels: 64
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:526    DBG| FMOD post init Rate 48000 Mode 3 Speakers 2
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:755    DBG| Loading bank: MasterBank.bank
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:755    DBG| Loading bank: MasterBank.strings.bank
+2021-10-23 17:50:21 [NoName         ]       launchscreen.cpp:62     DBG| Load Manifests took 0.072449
+2021-10-23 17:50:21 [NoName         ]       launchscreen.cpp:86     DBG| binkAtlases took 0.024260
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:436   INFO| Start reading manifest GUI
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:755    DBG| Loading bank: Ambience.bank
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:489   INFO| Done reading manifest GUI
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:436   INFO| Start reading manifest GUI_Mouse
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:489   INFO| Done reading manifest GUI_Mouse
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:436   INFO| Start reading manifest Fx
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:489   INFO| Done reading manifest Fx
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:436   INFO| Start reading manifest RoomManager
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:489   INFO| Done reading manifest RoomManager
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:436   INFO| Start reading manifest UIScripts
+2021-10-23 17:50:21 [NoName         ]   gameassetmanager.cpp:489   INFO| Done reading manifest UIScripts
+2021-10-23 17:50:21 [NoName         ]       launchscreen.cpp:103    DBG| Load BasePackages took 0.027727
+2021-10-23 17:50:21 [GameAssetManagerLoadThread]   gameassetmanager.cpp:515   INFO| Loading package: GUI.pkg
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:755    DBG| Loading bank: Music.bank
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:755    DBG| Loading bank: Sounds.bank
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:901    DBG| AudioManager categories loaded
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:556    DBG| AudioManager.FModStartup complete
+2021-10-23 17:50:21 [NoName         ]       audiomanager.cpp:384    DBG| AudioManager.Initialize complete
+2021-10-23 17:50:21 [NoName         ]       launchscreen.cpp:119    DBG| AudioManager::Initialize took 0.253992
+2021-10-23 17:50:21 [GameAssetManagerLoadThread]   gameassetmanager.cpp:545   INFO| Package Loaded: GUI
+2021-10-23 17:50:21 [GameAssetManagerLoadThread]   gameassetmanager.cpp:515   INFO| Loading package: GUI_Mouse.pkg
+2021-10-23 17:50:21 [GameAssetManagerLoadThread]   gameassetmanager.cpp:545   INFO| Package Loaded: GUI_Mouse
+2021-10-23 17:50:21 [GameAssetManagerLoadThread]   gameassetmanager.cpp:515   INFO| Loading package: Fx.pkg
+2021-10-23 17:50:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:545   INFO| Package Loaded: Fx
+2021-10-23 17:50:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:515   INFO| Loading package: RoomManager.pkg
+2021-10-23 17:50:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:545   INFO| Package Loaded: RoomManager
+2021-10-23 17:50:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:515   INFO| Loading package: UIScripts.pkg
+2021-10-23 17:50:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:545   INFO| Package Loaded: UIScripts
+2021-10-23 17:50:22 [NoName         ]       launchscreen.cpp:105    DBG| Finished AssetManager Loading 
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:821   INFO| Reading game data from E:\Game\Hades\Content\Game
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:835    DBG| ReadUnitData took 0.004928 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:904    DBG| ReadWeaponData took 0.010352 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:926    DBG| Projectile took 0.016008 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:941    DBG| ReadObstacleData took 0.029792 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:954    DBG| Other Dat took 0.001199 seconds
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 128202 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 28362 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 2602 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 39882 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 19402 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 30922 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 184559 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 69359 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 115439 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 19439 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8161 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 53961 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 36041 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 10441 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 33481 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 3561 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 51401 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 61641 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8761 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 6161 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 59721 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 52681 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 128201 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 224201 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107721 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 56521 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 10441 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 3801 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45436 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1564 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 41596 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 30844 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38524 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 23164 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 92284 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32380 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 75940 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 101540 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 71844 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 119972 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 17572 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 24740 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 29860 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 50340 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 47771 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 215323 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 183067 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 179483 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 55835 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 75547 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 140059 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 55835 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 215323 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8795 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 236827 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 36123 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 197403 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45083 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45083 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 86299 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 136475 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 138267 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 186651 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 143643 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 161563 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 269083 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 304923 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 204571 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 150811 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 134683 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 27163 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 229659 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 28955 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 304923 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 236827 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 71963 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 122139 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 168295 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 118555 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 134683 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 125723 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 154395 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 149915 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 159323 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 116763 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 44187 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 22683 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 125723 bytes
+2021-10-23 17:50:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 18203 bytes
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:977    DBG| ReadAnimationData took 0.287786 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:982    DBG| ReadTextData took 0.125788 seconds
+2021-10-23 17:50:22 [NoName         ]    gamedatamanager.cpp:990    DBG| ReadGameData took 0.475949 seconds
+2021-10-23 17:50:22 [MainThread     ]       launchscreen.cpp:301    DBG| Done with boot load
+2021-10-23 17:50:22 [MainThread     ]           ingameui.cpp:43    INFO| InGameUI Construct
+2021-10-23 17:50:22 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\Game\Hades\Content\Game\InGameUI.sjson -- rb (error: No such file or directory)
+2021-10-23 17:50:23 [MainThread     ]       launchscreen.cpp:667    DBG| Launch took 2.733049 seconds
+2021-10-23 17:50:23 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\Game\Hades\Content\Game\MainMenuScreen.sjson -- rb (error: No such file or directory)
+2021-10-23 17:50:28 [MainThread     ]     profilemanager.cpp:126   INFO| saveProfile()
+2021-10-23 17:50:28 [NoName         ]     profilemanager.cpp:90    INFO| beginning profile write
+2021-10-23 17:50:28 [NoName         ]     profilemanager.cpp:110   INFO| profile write done
+2021-10-23 17:50:28 [MainThread     ]                app.cpp:255    DBG| Shutting down
+2021-10-23 17:50:28 [MainThread     ]           ingameui.cpp:37    INFO| InGameUI Destroy
+2021-10-23 17:50:28 [MainThread     ]             luaext.cpp:445   INFO| Lua interface destroyed

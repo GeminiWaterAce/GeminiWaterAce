@@ -1,0 +1,17 @@
+clc;
+clear;
+figure(1);
+ezplot('x*y-1', [-10, 10] , [-10, 10]);
+box off;
+figure(2);
+ezplot('x.^2-x*y+1', [-10, 10] , [-10, 10]);
+box off;
+figure(3);
+ezplot('x.^2-x*y-1', [-10, 10] , [-10, 10]);
+box off;
+figure(4);
+ezplot('x.^2+y.^2+x*y-1', [-2, 2] , [-2, 2]);
+box off;
+figure(5);
+ezplot('x.^2+y.^2+2*x*y+2*y+1', [-1, 10] , [-10, 1]);
+box off;

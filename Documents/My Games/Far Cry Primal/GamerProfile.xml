@@ -1,0 +1,34 @@
+<GamerProfile>
+    <SoundProfile MusicEnabled="1" MasterVolume="100" Language="english" OutOfFocus="0" />
+    <ProfileSpecificGameProfile Sensitivity="1" Invert_x="0" Invert_y="0" Invert_y_Flying="1" Swap_Triggers="0" Flip_Triggers="0" InvertSticks="0" DefaultFlickFireDirection_y="0" ControllerLayout="0" UseMouseSmooth="0" WeaponWheelHold="1" Smoothness="1" Smoothness_Ironsight="1" HelpCrosshair="1" Gamepad_vibration="1" UseRoadSignHilight="1" SubtitlesLanguage="schinese" TaggingEnabled="1" MeleeAssistEnabled="1" StoryRecapsEnabled="1" ImmersiveReticleEnabled="1" WikiUpdatedEnabled="0" CollectibleUpdatedEnabled="1" TutorialUpdatedEnabled="1" CraftingTipsEnabled="1" OwlCountdownIconEnabled="1" CompanionIndicatorEnabled="1" ColdBarEnabled="1" InteractionPromptsEnabled="1" DisplayXPEnabled="1" DetectionIndicatorEnabled="1" HitIndicatorEnabled="1" ExplosiveIndicatorEnabled="1" MapIndicatorEnabled="1" HealthIndicatorEnabled="1" CrouchIndicatorEnabled="1" KarmaIndicatorEnabled="0" AmmoIndicatorEnabled="1" MinimapOpacity="2" HostileIcon="1" LootReadoutEnabled="1" CoopPartnerIndicatorEnabled="0" HudIndicatorsEnabled="1" DisableLootAnimations="1" EnableHighLighting="1" CameraTagging="1" CoopFriendlyFire="0" ObjectiveStayOnScreen="0" PlayerTrailEnabled="1" ControlPromptsEnabled="1" HunterVisionDuration="0" ShouldShowTU3Warning="1" HasSeenPrimalMode="1" Autosave="1" Machete="0" UseAimingHelpers="1" DrivingAssistEnabled="1" IronsightToggleMode="0" ShowPVPTips="0" ShowPVPTimer="1" ShowPVPScorebar="1" ShowPVPPlayerTags="1" ShowPVPObituaryMessages="1" ShowPVPNotifications="1" ShowPVPMasterVoiceToggle="1" ShowPVPFactionPowerUpIcons="1" ShowPVPPlayerNames="1" PlayPVPIntroVideo="1" HasVisitedCoopMenu="0" SelectedLanguage="schinese" Coop_Friends_Only="0" DrivingAutoAimEnabled="1" TouchPadEnabled="1" HasOpenedStash="0" EyeTrackerEnabled="1" EyeTrackerLookEnabled="1" EyeTrackerLookAngleLimitX="45" EyeTrackerLookAngleLimitY="45" EyeTrackerAutoPauseEnabled="1" EyeTrackerAutoPauseDelaySeconds="1" EyeTrackerWeaponSelectionEnabled="1" EyeTrackerAimByClosingLeftEyeEnabled="0" EyeTrackerAimByClosingRightEyeEnabled="0" EyeTrackerDofEnabled="0" MouseAcceleration="1" MouseAccelerationOn="0" MouseInvert_y="0" MouseLookSensitivity="1" RunToggle="0" CrouchToggle="1" TooltipsEnabled="1" BenchmarkStarted="1" MouseDeadZoneEnabled="1" HDTexturesOptionSeen="0" Mouse_Invert_y_Flying="0" DiedInPermaDeath="0">
+        <FireConfig QualitySetting="VeryHigh" />
+        <CompressedClasses />
+        <Statistics>
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+            <Stat Value="0" />
+        </Statistics>
+    </ProfileSpecificGameProfile>
+    <RenderProfile GPU="0" MainMonitor="0" Version="1" MultimonitorMode="2" MotionBlur="1" Quality="custom" QualityEditor="editor" WidescreenLetterbox="0" UseWidescreenFOV="1" FOV="120" ViewCenterOffsetX="0" ViewCenterOffsetY="0" VSync="0" VSyncMode="1" VSyncWindow="0" HDTexturesEnabled="0" DisableLoadingMip0="0" GPUMaxBufferedFrames="0" ShowFPS="0" Brightness="1" Contrast="1" CalibrationScreensShown="0" GammaRamp="1" AllowAsynchShaderLoading="1" SafeFrameAreaWidth="0.85" SafeFrameAreaHeight="0.85">
+        <VideoMode adapterIndex="0" displayIndex="0" windowMode="0" width="3840" height="2160" refreshRateNumerator="144" refreshRateDenominator="1" />
+        <CustomQuality>
+            <quality SSAOLevel="0" AntiAliasingMode="2" FurLevel="1" TreeTessellationLevel="0" VolumetricFogQuality="veryhigh" EnvironmentQuality="high" AntiPortalQuality="default" PortalQuality="default" PostFxQuality="high" TextureQuality="high" HDTextureQuality="veryhigh" WaterQuality="veryhigh" DepthPassQuality="" VegetationQuality="ultra" TerrainQuality="veryhigh" GeometryQuality="ultra" LightingQuality="HD" ShadowQuality="ultra" ShadowCinematicQuality="HD" EditorQuality="default" EnableVertexBinding="1" id="custom" />
+        </CustomQuality>
+    </RenderProfile>
+    <NetworkProfile VoiceChatEnabled="1" CustomMapMaxUploadRateInBitsOnline="10240000" OnlineEnginePort="9000" OnlineServicePort="9001" FileTransferHostPort="9002" FileTransferClientPort="9003" LanHostBroadcastPort="9004" LanClientBroadcastPort="9005" ScanFreePorts="1" ScanPortRange="1000" ScanPortStart="9000" SessionProvider="" MaxUploadInbpsOnline="10240000">
+        <Accounts />
+    </NetworkProfile>
+    <GameProfile />
+    <EngineProfile>
+        <PhysicConfig QualitySetting="VeryHigh" />
+        <QcConfig GatherFPS="1" GatherAICnt="1" GatherDialogs="0" IsQcTester="0" />
+        <InputConfig />
+        <ZoneConfig />
+    </EngineProfile>
+</GamerProfile>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<C_GameSettingsProfileSaveBlock>
+			<S_GameSettingsProfile>
+				<m_UnitSystem>0</m_UnitSystem>
+				<m_Subtitles>true</m_Subtitles>
+				<m_HintText>true</m_HintText>
+				<m_UnitSystemChangedByUser>false</m_UnitSystemChangedByUser>
+				<m_OnFootFollowCameraEnabled>true</m_OnFootFollowCameraEnabled>
+				<m_XMargin>96</m_XMargin>
+				<m_YMargin>54</m_YMargin>
+				<m_CarCameraMainModeIndex>22</m_CarCameraMainModeIndex>
+				<m_CarCameraFollowSubModeIndex>0</m_CarCameraFollowSubModeIndex>
+				<m_MotorcycleCameraMainModeIndex>24</m_MotorcycleCameraMainModeIndex>
+				<m_MotorcycleCameraFollowSubModeIndex>1</m_MotorcycleCameraFollowSubModeIndex>
+				<m_BoatCameraMainModeIndex>42</m_BoatCameraMainModeIndex>
+				<m_BoatCameraFollowSubModeIndex>1</m_BoatCameraFollowSubModeIndex>
+				<m_VehicleCameraPitchPresetIndex>1</m_VehicleCameraPitchPresetIndex>
+				<m_FirstTime>false</m_FirstTime>
+				<m_RearviewVisibility>true</m_RearviewVisibility>
+				<m_PlayerCarVisibility>true</m_PlayerCarVisibility>
+				<m_TutorialVisibility>true</m_TutorialVisibility>
+				<m_ObjectiveVisibility>true</m_ObjectiveVisibility>
+				<m_ActionVisibility>true</m_ActionVisibility>
+				<m_HasDeclinedDNALegal>false</m_HasDeclinedDNALegal>
+				<m_HasAgreedSonyBootLegal>false</m_HasAgreedSonyBootLegal>
+				<m_MiniHud>false</m_MiniHud>
+				<m_EnemyOnRadarVisibility>true</m_EnemyOnRadarVisibility>
+				<m_GPSVisibility>true</m_GPSVisibility>
+				<m_TurnByTurnVisibility>true</m_TurnByTurnVisibility>
+			</S_GameSettingsProfile>
+			<m_Id>GameSettings</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_GameSettingsProfileSaveBlock>
+	</m_Blocks>
+</C_SaveDataUnwrapped>¤þé¾

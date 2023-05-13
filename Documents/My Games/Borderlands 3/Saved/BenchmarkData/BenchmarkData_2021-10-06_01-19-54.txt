@@ -1,0 +1,48 @@
+BenchmarkResults                    2021-10-06_01-19-54
+ - FramesPerSecondAvg:              103.80
+ - FrameTimeMsAvg:                  9.63
+
+OS:                                 Windows 10
+ - Version:                         Build 22000
+GraphicsAPI:                        D3D12
+CPU:                                AMD Ryzen 9 5950X 16-Core Processor            
+ - PhysicalCores:                   16
+ - LogicalCores:                    32
+RAM:                                32682.48 MB
+GPU:                                NVIDIA GeForce RTX 3090
+ - VRAM:                            24348 / 0 / 16342 MB (Dedicated / System / Shared)
+ - DriverVersion:                   472.12 (Internal: 30.0.14.7212, Unified: 472.12)
+ - DriverDate:                      9-13-2021
+ScreenResolution:                   3840x2160
+RenderResolution:                   3840x2160
+ScreenPercentage:                   100
+HDR:                                Off
+
+GameUserSettings
+ - FullscreenMode:                  Fullscreen
+ - UseVSync:                        0
+ - PreferredMonitor:                ACR0837
+ - bPrimaryIsPreferredMonitor:      1
+ - PreferredRefreshRate:            0
+ - StatsLevel:                      0
+ - FPSLimit:                        Unlimited
+ - FPSLimitCustom:                  144
+ - GfxQuality-Override:             Undefined
+ - GfxQuality-Recommended:          Ultra
+ - GfxQuality:                      Badass
+ - TextureStreaming:                Ultra
+ - MaterialQuality:                 Ultra
+ - Aniso:                           SixteenX
+ - Shadows:                         Ultra
+ - DrawDistance:                    Ultra
+ - EnvironmentDetail:               Ultra
+ - Terrain:                         Ultra
+ - Foliage:                         Ultra
+ - CharDetail:                      Ultra
+ - CAS:                             1
+ - CameraBlur:                      1
+ - ObjectBlur:                      1
+ - AA:                              FXAA
+ - VolumetricFog:                   Off
+ - SSR:                             Medium
+ - AO:                              High

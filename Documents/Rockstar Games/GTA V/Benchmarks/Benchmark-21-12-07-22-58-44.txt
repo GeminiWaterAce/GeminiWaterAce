@@ -1,0 +1,159 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 9.378549, 129.693268, 96.442505
+Pass 1, 11.392259, 115.616295, 76.315750
+Pass 2, 13.287307, 213.561142, 95.056389
+Pass 3, 12.374338, 210.455429, 102.409714
+Pass 4, 13.302278, 167.835922, 93.627953
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Pass 0, 7.710500, 106.626305, 10.368872
+Pass 1, 8.649300, 87.778908, 13.103455
+Pass 2, 4.682500, 75.259796, 10.520071
+Pass 3, 4.751600, 80.812401, 9.764699
+Pass 4, 5.958200, 75.175095, 10.680571
+
+Frames under 16ms (for 60fps): 
+Pass 0: 864/877 frames (98.52%)
+Pass 1: 676/701 frames (96.43%)
+Pass 2: 852/863 frames (98.73%)
+Pass 3: 927/934 frames (99.25%)
+Pass 4: 10430/10551 frames (98.85%)
+
+Frames under 33ms (for 30fps): 
+Pass 0: 873/877 frames (99.54%)
+Pass 1: 697/701 frames (99.43%)
+Pass 2: 860/863 frames (99.65%)
+Pass 3: 930/934 frames (99.57%)
+Pass 4: 10545/10551 frames (99.94%)
+
+Percentiles in ms for pass 0
+50%,	10.00
+75%,	11.00
+80%,	11.00
+85%,	12.00
+90%,	12.00
+91%,	12.00
+92%,	12.00
+93%,	12.00
+94%,	13.00
+95%,	13.00
+96%,	13.00
+97%,	14.00
+98%,	15.00
+99%,	17.00
+
+Percentiles in ms for pass 1
+50%,	13.00
+75%,	13.00
+80%,	14.00
+85%,	14.00
+90%,	14.00
+91%,	14.00
+92%,	14.00
+93%,	14.00
+94%,	15.00
+95%,	15.00
+96%,	15.00
+97%,	16.00
+98%,	17.00
+99%,	21.00
+
+Percentiles in ms for pass 2
+50%,	10.00
+75%,	12.00
+80%,	12.00
+85%,	12.00
+90%,	13.00
+91%,	13.00
+92%,	13.00
+93%,	13.00
+94%,	13.00
+95%,	13.00
+96%,	14.00
+97%,	14.00
+98%,	14.00
+99%,	16.00
+
+Percentiles in ms for pass 3
+50%,	9.00
+75%,	10.00
+80%,	10.00
+85%,	11.00
+90%,	11.00
+91%,	11.00
+92%,	11.00
+93%,	11.00
+94%,	12.00
+95%,	12.00
+96%,	12.00
+97%,	12.00
+98%,	12.00
+99%,	14.00
+
+Percentiles in ms for pass 4
+50%,	10.00
+75%,	12.00
+80%,	12.00
+85%,	13.00
+90%,	13.00
+91%,	13.00
+92%,	13.00
+93%,	13.00
+94%,	14.00
+95%,	14.00
+96%,	14.00
+97%,	14.00
+98%,	15.00
+99%,	16.00
+
+=== SYSTEM ===
+(oversize string)
+DX Feature Level: 11.0
+AMD Ryzen 9 5950X 16-Core Processor             (32 CPUs), ~3.4GHz
+131072MB RAM
+NVIDIA GeForce RTX 3090, 25530MB, Driver Version 496.76
+Graphics Card Vendor Id 0x10de with Device ID 0x2204
+
+=== SETTINGS ===
+Display: 3840x2160 (FullScreen) @ 143Hz VSync OFF
+Tessellation: 3
+LodScale: 1.000000
+PedLodBias: 0.200000
+VehicleLodBias: 0.000000
+ShadowQuality: 3
+ReflectionQuality: 3
+ReflectionMSAA: 8
+SSAO: 2
+AnisotropicFiltering: 16
+MSAA: 2
+MSAAFragments: 0
+MSAAQuality: 0
+SamplingMode: 0
+TextureQuality: 2
+ParticleQuality: 2
+WaterQuality: 2
+GrassQuality: 3
+ShaderQuality: 2
+Shadow_SoftShadows: 5
+UltraShadows_Enabled: true
+Shadow_ParticleShadows: true
+Shadow_Distance: 1.000000
+Shadow_LongShadows: true
+Shadow_SplitZStart: 0.930000
+Shadow_SplitZEnd: 0.890000
+Shadow_aircraftExpWeight: 0.990000
+Shadow_DisableScreenSizeCheck: false
+Reflection_MipBlur: true
+FXAA_Enabled: false
+TXAA_Enabled: true
+Lighting_FogVolumes: true
+Shader_SSA: true
+DX_Version: 2
+CityDensity: 1.000000
+PedVarietyMultiplier: 1.000000
+VehicleVarietyMultiplier: 1.000000
+PostFX: 3
+DoF: true
+HdStreamingInFlight: true
+MaxLodScale: 1.000000
+MotionBlurStrength: 1.000000

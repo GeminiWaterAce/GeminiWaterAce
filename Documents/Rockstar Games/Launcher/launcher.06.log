@@ -1,0 +1,131 @@
+[2023-01-27 02:49:16.285] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-01-27 02:49:16.289] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
+[2023-01-27 02:49:16.289] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
+[2023-01-27 02:49:16.290] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2023-01-27 02:49:16.305] [DISPLAY] [Main ] [minmode] Running in Epic mode.
+[2023-01-27 02:49:16.305] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2023-01-27 02:49:16.305] [DISPLAY] [Main ] [minmode] Location: E:\EpicLibrary\GTAV
+[2023-01-27 02:49:16.305] [DISPLAY] [Main ] [launcher] Opening log file.
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=6d92293be2b3439c80e9c6e460843017 -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal  -epicusername="GeminiWaterAce" -epicuserid=cd4e0d03a1684cd9ae8d458e57c1f68a -epiclocale=zh-CN -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 @args.txt
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main] Build type: FMB
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main] Version: 1.0.67.1178
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main] Parameters:
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicAppId=gta5
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -AUTH_LOGIN=unused
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -AUTH_PASSWORD=6d92293be2b3439c80e9c6e460843017
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -AUTH_TYPE=exchangecode
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicapp=9d2d0eb64d5c44529cece33fe2a46482
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicenv=Prod
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -EpicPortal
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicusername=GeminiWaterAce
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicuserid=cd4e0d03a1684cd9ae8d458e57c1f68a
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epiclocale=zh-CN
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2023-01-27 02:49:16.308] [DISPLAY] [Main ] [main]     @args.txt
+[2023-01-27 02:49:16.330] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2023-01-27 02:49:16.330] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2023-01-27 02:49:16.339] [DISPLAY] [Main ] [svc] Service version: 1.0.67.1178 (1.0.67.1178)
+[2023-01-27 02:49:16.368] [DISPLAY] [Main ] [fileutils] Version: 2.1.6.5 | 1.0.67.1178 | FFP
+[2023-01-27 02:49:16.384] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2023-01-27 02:49:16.556] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-01-27 02:49:16.746] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2023-01-27 02:49:16.767] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2023-01-27 02:49:17.233] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2023-01-27 02:49:17.233] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2023-01-27 02:49:17.238] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2023-01-27 02:49:17.687] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2023-01-27 02:49:17.729] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2023-01-27 02:49:17.729] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2023-01-27 02:49:19.158] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2023-01-27 02:49:19.158] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2023-01-27 02:49:19.158] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2023-01-27 02:49:19.163] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2023-01-27 02:49:19.165] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2023-01-27 02:49:19.165] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2023-01-27 02:49:19.168] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.1.6.5)
+[2023-01-27 02:49:19.168] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2023-01-27 02:49:21.302] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2023-01-27 02:49:21.302] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
+[2023-01-27 02:49:21.353] [DISPLAY] [Admin] [external] Setting up Epic title...
+[2023-01-27 02:49:21.353] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:49:29.265] [DISPLAY] [Main ] [launcher] OnEpicEvent :: 0 received
+[2023-01-27 02:49:43.997] [DISPLAY] [Main ] [launcher] Time to start up: 27743 ms
+[2023-01-27 02:49:44.000] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
+[2023-01-27 02:49:44.000] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
+[2023-01-27 02:49:44.000] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 680,489 (2558 x 1380)
+[2023-01-27 02:49:44.010] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-01-27 02:49:45.386] [DISPLAY] [Admin] [external] Epic ownership request indicated valid entitlement of at least once audience
+[2023-01-27 02:49:45.386] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2023-01-27 02:49:46.195] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2023-01-27 02:49:46.195] [DISPLAY] [Main ] [launcher] User 'GeminiWaterAce' is now signed in
+[2023-01-27 02:49:46.200] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2023-01-27 02:49:46.200] [DISPLAY] [Main ] [external] Preparing to update/launch...
+[2023-01-27 02:49:46.200] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2023-01-27 02:49:46.200] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:49:46.200] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2023-01-27 02:49:46.205] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2023-01-27 02:49:46.292] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2023-01-27 02:49:46.717] [DISPLAY] [Main ] [scuicallbacks] Setting updated
+[2023-01-27 02:49:46.717] [DISPLAY] [Main ] [scuicallbacks] Launch requested
+[2023-01-27 02:49:46.717] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: gta5, 
+[2023-01-27 02:49:46.717] [DISPLAY] [Main ] [external] Attempting external title launch...
+[2023-01-27 02:49:47.948] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2023-01-27 02:49:47.949] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2023-01-27 02:49:48.060] [DISPLAY] [14776] [gamelaunch] RGL is up to date (current: 1.0.67.1178, minimum: 1.0.33.319)
+[2023-01-27 02:49:48.061] [DISPLAY] [14776] [gamelaunch] Grand Theft Auto V is up to date (current: 1.0.2802.0, minimum: 1.0.2060.0)
+[2023-01-27 02:49:49.439] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2023-01-27 02:49:49.439] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:49:49.439] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2023-01-27 02:49:51.124] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2023-01-27 02:49:56.041] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'gta5'
+[2023-01-27 02:49:56.058] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'gta5'
+[2023-01-27 02:49:56.058] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'gta5' = enabled
+[2023-01-27 02:49:56.058] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'gta5'
+[2023-01-27 02:49:57.318] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'gta5'
+[2023-01-27 02:49:57.318] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'gta5'
+[2023-01-27 02:49:57.335] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'gta5'
+[2023-01-27 02:49:57.335] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'gta5'
+[2023-01-27 02:49:57.352] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'gta5'
+[2023-01-27 02:49:57.352] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'gta5'
+[2023-01-27 02:49:57.369] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'gta5'
+[2023-01-27 02:49:57.369] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'gta5'
+[2023-01-27 02:49:57.386] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'gta5'
+[2023-01-27 02:49:57.386] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'gta5'
+[2023-01-27 02:49:57.403] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'gta5'
+[2023-01-27 02:49:57.437] [DISPLAY] [net3 ] [audio] Valid Audio Device: true
+[2023-01-27 02:49:59.222] [DISPLAY] [14776] [gamelaunch] Launching game...
+[2023-01-27 02:49:59.222] [DISPLAY] [14776] [gamelaunch]  Path: E:\EpicLibrary\GTAV\GTA5.exe
+[2023-01-27 02:49:59.222] [DISPLAY] [14776] [gamelaunch]  Command Line: "E:\EpicLibrary\GTAV\GTA5.exe" -skipPatcherCheck -epicAppId=gta5 -AUTH_LOGIN=unused -AUTH_PASSWORD=6d92293be2b3439c80e9c6e460843017 -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal -epicusername=GeminiWaterAce -epicuserid=cd4e0d03a1684cd9ae8d458e57c1f68a -epiclocale=zh-CN -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 @args.txt @commandline.txt -enableCrashpad -useEpic -scCommerceProvider=4 -rglLanguage=zh-CN
+[2023-01-27 02:49:59.222] [DISPLAY] [14776] [gamelaunch]  Working Directory: E:\EpicLibrary\GTAV
+[2023-01-27 02:50:18.450] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
+[2023-01-27 02:50:18.450] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
+[2023-01-27 02:50:18.450] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 680,489 (2558 x 1380)
+[2023-01-27 02:50:40.740] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2023-01-27 02:50:40.775] [DISPLAY] [Main ] [external] Notifying Social Club UI about external title launch on awake...
+[2023-01-27 02:50:40.775] [DISPLAY] [dsksp] [sysinfo] Drive C:\ has 636.86 GB free, 838.13 GB total
+[2023-01-27 02:50:40.775] [DISPLAY] [dsksp] [sysinfo] Drive D:\ has 439.39 GB free, 1024.00 GB total
+[2023-01-27 02:50:40.776] [DISPLAY] [dsksp] [sysinfo] Drive E:\ has 798.81 GB free, 1.81 TB total
+[2023-01-27 02:50:40.776] [DISPLAY] [dsksp] [sysinfo] Drive F:\ has 8.58 TB free, 16.30 TB total
+[2023-01-27 02:51:58.483] [DISPLAY] [14776] [gamelaunch] Game exited with code 0x0 (0)
+[2023-01-27 02:51:58.529] [DISPLAY] [14776] [crashdetection] Game left no exit file.
+[2023-01-27 02:51:58.529] [DISPLAY] [14776] [crashdetection] Exit code 0x0 indicates a clean game shutdown
+[2023-01-27 02:51:58.531] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'gta5'
+[2023-01-27 02:51:58.548] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'gta5'
+[2023-01-27 02:51:58.549] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'gta5' = enabled
+[2023-01-27 02:51:58.549] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'gta5'
+[2023-01-27 02:51:59.688] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'gta5'
+[2023-01-27 02:51:59.688] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'gta5'
+[2023-01-27 02:51:59.705] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'gta5'
+[2023-01-27 02:51:59.705] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'gta5'
+[2023-01-27 02:51:59.722] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'gta5'
+[2023-01-27 02:51:59.722] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'gta5'
+[2023-01-27 02:51:59.739] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'gta5'
+[2023-01-27 02:51:59.739] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'gta5'
+[2023-01-27 02:51:59.756] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'gta5'
+[2023-01-27 02:51:59.756] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'gta5'
+[2023-01-27 02:51:59.773] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'gta5'
+[2023-01-27 02:52:01.102] [DISPLAY] [14776] [launcher] Shutdown requested: false, false
+[2023-01-27 02:52:01.102] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2023-01-27 02:52:03.337] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)

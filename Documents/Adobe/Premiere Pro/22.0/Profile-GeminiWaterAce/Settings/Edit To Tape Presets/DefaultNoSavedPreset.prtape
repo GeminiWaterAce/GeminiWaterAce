@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<ExportToTapePreset ObjectRef="1"/>
+	<ExportToTapePreset ObjectID="1" ClassID="c44f3ca8-7b5b-4995-a51d-a8d0e0064c08" Version="4">
+		<ExportToTapeDevicePrivateData Encoding="base64" Checksum="2038835496">CAAAAAAAAAAAAAAAAAAAAPAMzoUrAAAAIPdrqgEAAAABAAEAAQEAAAAAAAAAAAAAAE5UU0MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADpgJrnlKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5qCH5YeGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////8AAAAAAADwvwAAAAAAAAAASa+8mvLXmj4AAAAAAAAAAA==</ExportToTapeDevicePrivateData>
+		<UseExportToTapeVTRInOffset>false</UseExportToTapeVTRInOffset>
+		<ExportToTapeVTRInOffset>0.</ExportToTapeVTRInOffset>
+		<ExportToTapeReportDroppedFrames>false</ExportToTapeReportDroppedFrames>
+		<ExportToTapeAbortOnDroppedFrames>false</ExportToTapeAbortOnDroppedFrames>
+		<ExportToTapeDelayStartFloatFrames>0.</ExportToTapeDelayStartFloatFrames>
+		<ExportToTapeDelayStart>false</ExportToTapeDelayStart>
+		<ExportToTapePrerollSeconds>3.</ExportToTapePrerollSeconds>
+		<ExportToTapePreroll>true</ExportToTapePreroll>
+		<ExportToTapeUCL>false</ExportToTapeUCL>
+		<ExportToTapeBlackVideoSeconds>1.</ExportToTapeBlackVideoSeconds>
+		<ExportToTapeBlackVideo>false</ExportToTapeBlackVideo>
+		<ExportToTapeBarsAndToneSeconds>1.</ExportToTapeBarsAndToneSeconds>
+		<ExportToTapeBarsAndTone>false</ExportToTapeBarsAndTone>
+		<ExportToTapeClosedCaption>false</ExportToTapeClosedCaption>
+		<ExportToTapeVideo>true</ExportToTapeVideo>
+		<ExportToTapeRecordMethod>0</ExportToTapeRecordMethod>
+		<ExportToTapeAudio22>false</ExportToTapeAudio22>
+		<ExportToTapeAudio31>false</ExportToTapeAudio31>
+		<ExportToTapeAudio20>false</ExportToTapeAudio20>
+		<ExportToTapeAudio8>true</ExportToTapeAudio8>
+		<ExportToTapeAudio10>true</ExportToTapeAudio10>
+		<ExportToTapeAudio18>false</ExportToTapeAudio18>
+		<ExportToTapeAudio6>true</ExportToTapeAudio6>
+		<ExportToTapeAudio7>true</ExportToTapeAudio7>
+		<ExportToTapeAudio1>true</ExportToTapeAudio1>
+		<ExportToTapeAudio19>false</ExportToTapeAudio19>
+		<ExportToTapeAudio4>true</ExportToTapeAudio4>
+		<ExportToTapeAudio30>false</ExportToTapeAudio30>
+		<ExportToTapeAudio17>false</ExportToTapeAudio17>
+		<ExportToTapeAudio29>false</ExportToTapeAudio29>
+		<ExportToTapeAudio2>true</ExportToTapeAudio2>
+		<ExportToTapeAudio3>true</ExportToTapeAudio3>
+		<ExportToTapeAudio28>false</ExportToTapeAudio28>
+		<ExportToTapeAudio25>false</ExportToTapeAudio25>
+		<ExportToTapeAudio27>false</ExportToTapeAudio27>
+		<ExportToTapeAudio11>true</ExportToTapeAudio11>
+		<ExportToTapeAudio0>true</ExportToTapeAudio0>
+		<ExportToTapeAudio15>false</ExportToTapeAudio15>
+		<ExportToTapeAudio12>false</ExportToTapeAudio12>
+		<ExportToTapeAudio13>false</ExportToTapeAudio13>
+		<ExportToTapeAudio16>false</ExportToTapeAudio16>
+		<ExportToTapeAudio23>false</ExportToTapeAudio23>
+		<ExportToTapeAudio24>false</ExportToTapeAudio24>
+		<ExportToTapeAudio5>true</ExportToTapeAudio5>
+		<ExportToTapeAudio14>false</ExportToTapeAudio14>
+		<ExportToTapeAudio9>true</ExportToTapeAudio9>
+		<ExportToTapeAudio26>false</ExportToTapeAudio26>
+		<ExportToTapeAudio21>false</ExportToTapeAudio21>
+	</ExportToTapePreset>
+</PremiereData>

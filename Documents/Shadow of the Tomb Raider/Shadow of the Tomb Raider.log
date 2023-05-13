@@ -1,0 +1,1568 @@
+03:37:09:226 (00013892) > [Startup] Shadow of the Tomb Raider
+03:37:09:226 (00013892) > [Startup] ==============
+03:37:09:226 (00013892) > [Startup] 
+03:37:09:226 (00013892) > [Startup] Build: v1.0 build 237.6_64
+03:37:09:226 (00013892) > [Startup] Windows 10.0 (build 19044)
+03:37:09:226 (00013892) > [Startup] Game directory: C:\Users\GeminiWaterAce\Documents\Shadow of the Tomb Raider\
+03:37:09:226 (00013892) > [Startup] 
+03:37:09:226 (00013892) > [Startup] Memory statistics:
+03:37:09:226 (00013892) > [Startup]   Total RAM = 127.9 GB (130986 MB)
+03:37:09:226 (00013892) > [Startup]   Avail RAM = 122.3 GB (125197 MB)
+03:37:09:226 (00013892) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+03:37:09:226 (00013892) > [Startup]   Avail virtual memory = 131064.5 GB (134210078 MB)
+03:37:09:226 (00013892) > [Startup] 
+03:37:09:226 (00013892) > [NxApp] PreInit
+03:37:09:226 (00013892) > [Steam] Initializing.
+03:37:09:226 (00013892) > [Steam] Successfully initialized.
+03:37:09:226 (00013892) > [SwapChain] Initializing...
+03:37:09:226 (00013892) > [DXGI] Initializing...
+03:37:09:233 (00013892) > [DXGI] Created DXGIFactory1
+03:37:09:233 (00013892) > [DXGI] Successfully initialized.
+03:37:09:233 (00013892) > [Render] Enumerating adapters:
+03:37:09:233 (00013892) > [Render] 	Adapter 0:
+03:37:09:233 (00013892) > [Monitor] 		Description             : NVIDIA GeForce RTX 3090
+03:37:09:233 (00013892) > [Monitor] 		Vendor                  : nVidia (10de)
+03:37:09:233 (00013892) > [Monitor] 		Device                  : 2204
+03:37:09:233 (00013892) > [Monitor] 		Sub system              : 161919da
+03:37:09:233 (00013892) > [Monitor] 		Revision                : 161
+03:37:09:233 (00013892) > [Monitor] 		Dedicated Video Memory  : 24348 MB
+03:37:09:233 (00013892) > [Monitor] 		Dedicated System Memory : 0000 MB
+03:37:09:233 (00013892) > [Monitor] 		Shared System Memory    : 65493 MB
+03:37:09:233 (00013892) > [Monitor] 
+03:37:09:233 (00013892) > [Render] Loading NVAPI...
+03:37:09:235 (00013892) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+03:37:09:235 (00013892) > [Render] Done loading NVAPI
+03:37:09:235 (00013892) > [Render] 	Adapter 1:
+03:37:09:235 (00013892) > [Monitor] 		Description             : Microsoft Basic Render Driver
+03:37:09:235 (00013892) > [Monitor] 		Vendor                  : Unknown (1414)
+03:37:09:235 (00013892) > [Monitor] 		Device                  : 8c
+03:37:09:235 (00013892) > [Monitor] 		Sub system              : 0
+03:37:09:235 (00013892) > [Monitor] 		Revision                : 0
+03:37:09:235 (00013892) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+03:37:09:235 (00013892) > [Monitor] 		Dedicated System Memory : 0000 MB
+03:37:09:235 (00013892) > [Monitor] 		Shared System Memory    : 65493 MB
+03:37:09:235 (00013892) > [Monitor] 
+03:37:09:235 (00013892) > [Render] Enumerating monitors:
+03:37:09:235 (00013892) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+03:37:09:235 (00013892) > [Render] 	Monitor 1: handle = 0000000000010003, aspect = 1.78
+03:37:09:235 (00013892) > [Render] 
+03:37:09:459 (00013892) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+03:37:09:459 (00013892) > [Render] NVidia 3D Vision is not enabled.
+03:37:09:459 (00013892) > [Render] Enumerating Display Modes:
+03:37:09:460 (00013892) > [Render] Querying NVAPI for Surround modes
+03:37:09:461 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:462 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:463 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:463 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:464 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:465 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:466 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:467 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:467 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:468 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:469 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:470 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:470 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:471 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:472 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:473 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:474 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:474 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:475 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:476 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:477 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:477 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:478 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:479 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:480 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:481 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:481 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:482 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:483 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:484 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:484 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:485 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:486 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:487 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:488 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:488 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:489 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:490 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:491 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:492 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:492 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:493 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:494 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:495 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:495 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:496 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:497 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:498 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:499 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:499 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:500 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:501 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:502 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:502 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:503 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:504 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:505 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:505 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:506 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:507 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:507 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:508 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:509 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:509 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:510 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:511 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:512 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:512 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:513 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:514 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:514 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:516 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:516 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:517 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:518 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:519 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:519 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:520 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:521 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:522 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:522 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:523 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:524 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:525 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:526 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:526 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:527 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:528 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:528 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:529 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:530 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:530 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:531 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:532 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:533 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:533 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:534 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:535 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:535 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:536 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:537 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:538 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:539 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:540 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:540 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:541 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:542 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:543 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:543 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:544 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:545 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:546 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:547 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:547 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:548 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:549 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:550 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:551 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:551 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:552 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:553 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:553 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:554 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:555 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:555 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:556 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:557 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:558 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:558 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:559 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:560 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:561 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:562 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:563 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:563 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:564 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:565 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:566 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:566 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:567 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:568 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:569 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:570 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:570 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:571 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:572 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:573 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:574 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:575 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:575 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:576 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:577 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:578 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:578 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:579 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:580 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:581 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:581 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:582 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:583 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:584 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:584 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:585 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:586 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:587 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:587 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:588 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:589 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:590 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:591 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:591 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:592 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:593 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:594 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:594 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:595 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:596 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:596 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:597 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:598 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:598 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:600 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:600 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:601 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:602 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:603 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:604 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:604 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:605 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:606 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:607 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:608 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:608 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:609 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:610 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:611 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:612 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:613 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:613 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:614 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:615 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:615 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:616 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:617 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:618 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:618 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:619 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:620 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:621 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:622 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:623 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:624 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:625 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:626 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:626 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:627 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:628 (00013892) > [Render] Querying NVAPI for Surround modes
+03:37:09:630 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:631 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:631 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:632 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:633 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:634 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:634 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:635 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:636 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:637 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:638 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:638 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:639 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:640 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:641 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:641 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:642 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:643 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:644 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:644 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:645 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:646 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:647 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:648 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:648 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:649 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:650 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:650 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:651 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:652 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:652 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:654 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:655 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:655 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:656 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:657 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:658 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:658 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:659 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:660 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:661 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:661 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:662 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:663 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:665 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:666 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:667 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:667 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:668 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:669 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:670 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:670 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:671 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:672 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:673 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:673 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:09:673 (00013892) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3090(1))' (0000000000010001):
+03:37:09:674 (00013892) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  5 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  6 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  7 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  8 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  9 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 10 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 11 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 12 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 13 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 18 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 19 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 20 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 23 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 24 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 25 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 26 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 27 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 28 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 29 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 30 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 31 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 32 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 33 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 34 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 35 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 36 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 37 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 38 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 39 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 40 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 41 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 42 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 43 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 44 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 45 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 46 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 47 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 48 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 49 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 51 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 52 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 53 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 54 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 55 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 56 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 57 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 60 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 61 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 62 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 63 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 64 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 65 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 66 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 69 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 70 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 71 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 72 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 73 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 74 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 75 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 76 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 77 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 78 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 83 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 84 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 85 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 86 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 87 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 88 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 89 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 90 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 91 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 92 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 93 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 94 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 95 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 96 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 97 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 98 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 99 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 100 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 101 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 102 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 103 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 104 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 105 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 106 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 107 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 108 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 109 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 110 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 111 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 112 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 113 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 114 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 115 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 116 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 117 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 118 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 119 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 120 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 121 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 122 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 123 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 124 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 125 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 126 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 127 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 128 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 129 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 130 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 131 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 132 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 133 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 134 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 135 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 136 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 137 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 138 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 139 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 140 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 141 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 142 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 143 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 144 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 145 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 146 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 147 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 148 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 149 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 150 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 151 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 152 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 153 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 154 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 155 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 156 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 157 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 158 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 159 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 160 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 161 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 162 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 163 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 164 : 1920 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 165 : 1920 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 166 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 167 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 168 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 169 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 170 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 171 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 172 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 173 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 174 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 175 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 176 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 177 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 178 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 179 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 180 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 181 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 182 : 2048 x 1536 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 183 : 2048 x 1536 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 184 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 185 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 186 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 187 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 188 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 189 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 190 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 191 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 192 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 193 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 194 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 195 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 196 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 197 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 198 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 199 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 200 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 201 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 202 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 203 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 204 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 205 : 2560 x 1600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 206 : 2560 x 1600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 207 : 3840 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 208 : 3840 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 209 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 210 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 211 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 212 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 213 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 214 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 215 : 3840 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] ***** Additional Monitor Output Info *****
+03:37:09:674 (00013892) > [Render] 		BitsPerColor: 10
+03:37:09:674 (00013892) > [Render] 		Primaries: R=0.6787;0.3145  G=0.2695;0.6260  B=0.1465;0.0537  White-Point=0.3135;0.3291
+03:37:09:674 (00013892) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+03:37:09:674 (00013892) > [Render] 		Luminance: Min=0.0467 Max=417.7118 MaxFullFrame=417.7118
+03:37:09:674 (00013892) > [Render] ******************************************
+03:37:09:674 (00013892) > [Render] 	Monitor '2 (NVIDIA GeForce RTX 3090(1))' (0000000000010003):
+03:37:09:674 (00013892) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  5 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  7 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode  9 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 10 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 13 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 14 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 15 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 18 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 19 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 21 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 23 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 24 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 25 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 26 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 27 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 28 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 29 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 30 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 31 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 32 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 33 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 34 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 35 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 36 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 37 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 38 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 39 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 40 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 41 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 42 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 43 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 44 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 45 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 46 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 47 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 48 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 49 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 50 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 51 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 52 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 53 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 54 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] 		- Mode 55 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:09:674 (00013892) > [Render] ***** Additional Monitor Output Info *****
+03:37:09:674 (00013892) > [Render] 		BitsPerColor: 10
+03:37:09:674 (00013892) > [Render] 		Primaries: R=0.6797;0.3135  G=0.2676;0.6846  B=0.1514;0.0547  White-Point=0.3135;0.3291
+03:37:09:674 (00013892) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+03:37:09:674 (00013892) > [Render] 		Luminance: Min=0.0490 Max=603.6984 MaxFullFrame=351.2764
+03:37:09:674 (00013892) > [Render] ******************************************
+03:37:09:674 (00013892) > [Render] 
+03:37:09:674 (00013892) > [SwapChain] Successfully initialized.
+03:37:09:674 (00013892) > [NxApp] PreInit successful.
+03:37:09:674 (00013892) > [Main] Current directory: E:\Game\Shadow of the Tomb Raider
+03:37:09:674 (00013892) > [Main] Working directory: E:\Game\Shadow of the Tomb Raider
+03:37:09:675 (00013892) > [SKU] Activating WWW SKU
+03:37:09:811 (00013892) > [MultiCore] CPU count: logical = 32
+03:37:11:283 (00013892) > [Main] Steam Language: 'schineses'
+03:37:11:283 (00013892) > [Main] Settings: Text Language: 'zh-cn' | VO Language: 'en-us' | Steam Game Language '(null)'
+03:37:11:283 (00013892) > [Main] Using: Text Language: 'zh-cn' | VO Language: 'en-us'
+03:37:11:596 (00013892) > [Validate Settings] Monitor #0
+03:37:11:596 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:11:596 (00013892) > [NxApp] Querying GPU Driver Info...
+03:37:11:597 (00013892) > [NxApp] Enumerating available display adapters:
+03:37:11:598 (00013892) > [NxApp] 		NVIDIA GeForce RTX 3090 (active)
+03:37:11:598 (00013892) > [NxApp] Successfully found GPU Driver Info
+03:37:14:027 (00013892) > [Validate Settings] Monitor #0
+03:37:14:027 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:028 (00013892) > [Validate Settings] Monitor #0
+03:37:14:028 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:030 (00013892) > [Validate Settings] Monitor #0
+03:37:14:030 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:031 (00013892) > [Validate Settings] Monitor #0
+03:37:14:031 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:044 (00013892) > [Validate Settings] Monitor #0
+03:37:14:044 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:045 (00013892) > [Validate Settings] Monitor #0
+03:37:14:045 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:048 (00013892) > [Validate Settings] Monitor #0
+03:37:14:048 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:050 (00013892) > [Validate Settings] Monitor #0
+03:37:14:050 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:051 (00013892) > [Validate Settings] Monitor #0
+03:37:14:051 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:066 (00013892) > [Validate Settings] Monitor #0
+03:37:14:066 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:067 (00013892) > [Validate Settings] Monitor #0
+03:37:14:067 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:068 (00013892) > [Validate Settings] Monitor #0
+03:37:14:068 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:069 (00013892) > [Validate Settings] Monitor #0
+03:37:14:069 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:069 (00013892) > [Validate Settings] Monitor #0
+03:37:14:069 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:069 (00013892) > [Validate Settings] Monitor #0
+03:37:14:069 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:069 (00013892) > [Validate Settings] Monitor #0
+03:37:14:069 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:14:069 (00013892) > [Validate Settings] Monitor #0
+03:37:14:069 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:20:608 (00013892) > [Validate Settings] Monitor #0
+03:37:20:608 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:20:777 (00013892) > [D3D] Max supported feature level: 11.0
+03:37:20:800 (00012952) > [Render] Disabled D3D12 experimentals
+03:37:20:868 (00012952) > [Render] VMEM Budget: 23580 MB
+03:37:20:868 (00012952) > [Render] VMEM Avaialbe: 23547 MB
+03:37:20:913 (00013892) > [NxApp] Querying GPU Driver Info...
+03:37:20:914 (00013892) > [NxApp] Enumerating available display adapters:
+03:37:20:915 (00013892) > [NxApp] 		NVIDIA GeForce RTX 3090 (active)
+03:37:20:915 (00013892) > [NxApp] Successfully found GPU Driver Info
+03:37:20:915 (00013892) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3090
+03:37:20:915 (00013892) > [NxApp] Driver Version: 30.0.15.1179
+03:37:20:915 (00013892) > [Settings] DirectX Version: 12
+03:37:20:915 (00013892) > [Settings] Window mode:
+03:37:20:915 (00013892) > [Settings] 	Fullscreen: 1
+03:37:20:915 (00013892) > [Settings] 	Excl.Fullscreen: 0
+03:37:20:915 (00013892) > [Settings] 	Monitor: 0
+03:37:20:915 (00013892) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 3840 h: 2160
+03:37:20:915 (00013892) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 3840 h: 2100
+03:37:20:915 (00013892) > [Settings] 		Aspect Ratio: 1.778061 (Pixel Aspect Ratio: 0.999841)
+03:37:20:915 (00013892) > [Settings] Fullscreen display mode:
+03:37:20:915 (00013892) > [Settings] 	Display mode: 1920x1080@60
+03:37:20:915 (00013892) > [Settings] 		VSync: 0
+03:37:20:915 (00013892) > [Settings] 		MultiMonitor: 0
+03:37:20:915 (00013892) > [Settings] 		BezelCorrected: 0
+03:37:20:915 (00013892) > [Settings] 		Stereoscopic3D: 0
+03:37:20:915 (00013892) > [Settings] 		SHDR: 0
+03:37:20:915 (00013892) > [Settings] Window settings:
+03:37:20:915 (00013892) > [Settings] 	Window rect: x: 480 y: 270 w: 2880 h: 1620
+03:37:20:915 (00013892) > [Settings] 	User window: w: 2880 h: 1620
+03:37:20:915 (00013892) > [Settings] 	Window maximized: 0
+03:37:20:915 (00013892) > [Settings] Graphics Options:
+03:37:20:915 (00013892) > [Settings] 	TextureQuality: 3, TextureFiltering: 3, ShadowQuality: 3
+03:37:20:915 (00013892) > [Settings] 	AO: 2, DOF: 2, AA: 2, Bloom: 1
+03:37:20:915 (00013892) > [Settings] 	MotionBlur: 1 Tessellation: 1
+03:37:20:915 (00013892) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+03:37:20:915 (00013892) > [Settings] 	Specular Reflection Quality: 0
+03:37:20:915 (00013892) > [Settings] 	FOVCorrection :1.000000
+03:37:20:915 (00013892) > [Settings] 	LevelOfDetail: 3
+03:37:20:915 (00013892) > [Settings] 	StereoSeparation: 0.022000
+03:37:20:915 (00013892) > [Settings] 	StereoPopOut: 5.000000
+03:37:20:915 (00013892) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+03:37:20:915 (00013892) > [Settings] 	HDR luminance :1.000000
+03:37:20:915 (00013892) > [NxApp] Creating window...
+03:37:21:044 (00010704) > [GameWindow] UpdateState bVisible true
+03:37:21:052 (00010704) > [Input] Keyboard language: "中文(简体，中国)" (id: 2052)
+03:37:21:070 (00010704) > [Input] Keyboard physical layout: "Chinese (Simplified) - US Keyboard" (id: 00000804)
+03:37:21:070 (00010704) > [Input] Joystick            ""   product 122 vendor 1130 version 297 usage 1 usagePage 65281 xinput no
+03:37:21:070 (00010704) > [Input] Joystick            "Controller (Xbox One For Windows)"   product 767 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+03:37:21:070 (00010704) > [Input] Joystick            ""   product 178 vendor 1130 version 18 usage 1 usagePage 12 xinput no
+03:37:21:070 (00010704) > [Input] Joystick            ""   product 122 vendor 1130 version 297 usage 1 usagePage 65280 xinput no
+03:37:21:070 (00010704) > [Input] Joystick            ""   product 122 vendor 1130 version 297 usage 1 usagePage 12 xinput no
+03:37:21:070 (00010704) > [Input] Joystick            ""   product 6387 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
+03:37:21:070 (00010704) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 110
+03:37:21:070 (00010704) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+03:37:21:070 (00010704) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 120
+03:37:21:070 (00010704) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+03:37:21:075 (00010704) > [Input] Using LibScePad
+03:37:21:076 (00010704) > [Input] Gamepads connected: 0 -> 1
+03:37:21:076 (00010704) > [Input] Gamepad for main player: 8
+03:37:21:076 (00010704) > [XInput] Enumerating available xusb hid devices:
+
+03:37:21:079 (00010704) > [Xinput] 
+03:37:21:085 (00013892) > [NxApp] Window created.
+03:37:21:085 (00013892) > [NxApp] Initializing swapchain...
+03:37:21:085 (00012952) > [SwapChain] Creating...
+03:37:21:085 (00012952) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+03:37:21:085 (00012952) > [Render] NVidia 3D Vision is not enabled.
+03:37:21:093 (00012952) > [DXGI] Created swapchain.
+03:37:21:113 (00010704) > [Input] new Windows.Gaming.Input raw-controller found 2dc8 2000
+
+03:37:21:122 (00012952) > [SwapChain] Successfully created.
+03:37:21:122 (00013892) > [NxApp] Swapchain initialized
+03:37:21:122 (00013892) > [NxApp] Initializing renderer...
+03:37:21:237 (00013892) > [NxApp] Renderer initialized
+03:37:21:583 (00013892) > [NvShadow] Success: NVGSDK_SUCCESS
+03:37:21:583 (00013892) > [NvShadow] PC is running GFE version 3.25.0.84
+03:37:21:583 (00013892) > [NvShadow] PC is running GfeSDK version 1.1
+03:37:21:583 (00013892) > [Ansel] Successfully initialized Ansel
+03:37:21:583 (00013892) > [Main] Starting Tomb Raider v1.0 build 237.6_64
+03:37:21:722 (00013892) > [DX12] ID3D12Device1 interface detected; enabling additional features
+03:37:21:722 (00013892) > [Render] Using root signature version: 1.0
+03:37:21:722 (00013892) > [Render] Supported shader model: 0x51
+03:37:21:813 (00013892) > [D3D] R11G11B10 Typed UAV Loads are SUPPORTED.
+03:37:21:866 (00013892) > [HBAO+] HBAO+ Context creation succeeded
+03:37:21:946 (00013892) > [D3D] Enabling render target pooling
+03:37:22:083 (00013892) > [D3D] Opened game pipeline cache file: pipe_cache.bin
+03:37:22:314 (00013892) > [D3D] Read 62003 pipelines from cache file. Added 62003 pipelines to cache, found 0 duplicates.
+03:37:22:314 (00013892) > [D3D] Closed game pipeline cache file: pipe_cache.bin
+03:37:22:318 (00013892) > [D3D] Opened user pipeline cache file: C:\Users\GeminiWaterAce\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
+03:37:22:320 (00013892) > [D3D] Read 195 pipelines from cache file. Added 195 pipelines to cache, found 0 duplicates.
+03:37:22:320 (00013892) > [D3D] Closed user pipeline cache file: C:\Users\GeminiWaterAce\AppData\Roaming\Eidos Montreal\Shadow of the Tomb Raider\pipe_cache.bin
+03:37:22:336 (00012824) > [D3D] cdc::PCDX12PipelineCache::AddPipeline: CreateGraphicsPipelineState failed with HRESULT 0x80070057
+03:37:22:753 (00013892) > [Sound] 
+03:37:22:808 (00013892) > [Sound] Initial channel format to 0
+03:37:23:931 (00004544) > [Audio] Using Default Audio Sink
+03:37:24:578 (00004776) > [Audio] Using Default Audio Sink
+03:37:24:945 (00005204) > [Audio] Using Default Audio Sink
+03:37:25:470 (00013892) > [Input] Assigned gamepad 8 to player 0
+03:37:26:841 (00013892) > [NxAppImpl] DXGI isn't the current one, recreating!
+03:37:26:841 (00011036) > [Settings] New display settings are:
+03:37:26:841 (00011036) > [Settings] DirectX Version: 12
+03:37:26:841 (00011036) > [Settings] Window mode:
+03:37:26:841 (00011036) > [Settings] 	Fullscreen: 1
+03:37:26:841 (00011036) > [Settings] 	Excl.Fullscreen: 0
+03:37:26:841 (00011036) > [Settings] 	Monitor: 0
+03:37:26:841 (00011036) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 3840 h: 2160
+03:37:26:841 (00011036) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 3840 h: 2100
+03:37:26:841 (00011036) > [Settings] 		Aspect Ratio: 1.778061 (Pixel Aspect Ratio: 0.999841)
+03:37:26:841 (00011036) > [Settings] Fullscreen display mode:
+03:37:26:841 (00011036) > [Settings] 	Display mode: 1920x1080@60
+03:37:26:841 (00011036) > [Settings] 		VSync: 0
+03:37:26:841 (00011036) > [Settings] 		MultiMonitor: 0
+03:37:26:841 (00011036) > [Settings] 		BezelCorrected: 0
+03:37:26:841 (00011036) > [Settings] 		Stereoscopic3D: 0
+03:37:26:841 (00011036) > [Settings] 		SHDR: 0
+03:37:26:841 (00011036) > [Settings] Window settings:
+03:37:26:841 (00011036) > [Settings] 	Window rect: x: 480 y: 270 w: 2880 h: 1620
+03:37:26:841 (00011036) > [Settings] 	User window: w: 2880 h: 1620
+03:37:26:841 (00011036) > [Settings] 	Window maximized: 0
+03:37:26:841 (00011036) > [Settings] Graphics Options:
+03:37:26:841 (00011036) > [Settings] 	TextureQuality: 3, TextureFiltering: 3, ShadowQuality: 3
+03:37:26:841 (00011036) > [Settings] 	AO: 2, DOF: 2, AA: 2, Bloom: 1
+03:37:26:841 (00011036) > [Settings] 	MotionBlur: 1 Tessellation: 1
+03:37:26:841 (00011036) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+03:37:26:841 (00011036) > [Settings] 	Specular Reflection Quality: 0
+03:37:26:841 (00011036) > [Settings] 	FOVCorrection :1.000000
+03:37:26:841 (00011036) > [Settings] 	LevelOfDetail: 3
+03:37:26:841 (00011036) > [Settings] 	StereoSeparation: 0.022000
+03:37:26:841 (00011036) > [Settings] 	StereoPopOut: 5.000000
+03:37:26:841 (00011036) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+03:37:26:841 (00011036) > [Settings] 	HDR luminance :1.000000
+03:37:26:841 (00011036) > [Settings] End of settings.
+03:37:26:841 (00011036) > [NxApp (Render Thread)] Finished enforcing display settings
+03:37:26:841 (00013892) > [NxApp] Finished enforcing display settings
+03:37:26:841 (00013892) > [NxAppImpl] Recreating DXGI
+03:37:26:841 (00013892) > [DXGI] Initializing...
+03:37:26:842 (00013892) > [DXGI] Successfully initialized.
+03:37:26:842 (00013892) > [Render] Enumerating adapters:
+03:37:26:842 (00013892) > [Render] 	Adapter 0:
+03:37:26:842 (00013892) > [Monitor] 		Description             : NVIDIA GeForce RTX 3090
+03:37:26:842 (00013892) > [Monitor] 		Vendor                  : nVidia (10de)
+03:37:26:842 (00013892) > [Monitor] 		Device                  : 2204
+03:37:26:842 (00013892) > [Monitor] 		Sub system              : 161919da
+03:37:26:842 (00013892) > [Monitor] 		Revision                : 161
+03:37:26:842 (00013892) > [Monitor] 		Dedicated Video Memory  : 24348 MB
+03:37:26:842 (00013892) > [Monitor] 		Dedicated System Memory : 0000 MB
+03:37:26:842 (00013892) > [Monitor] 		Shared System Memory    : 65493 MB
+03:37:26:842 (00013892) > [Monitor] 
+03:37:26:842 (00013892) > [Render] 	Adapter 1:
+03:37:26:842 (00013892) > [Monitor] 		Description             : Microsoft Basic Render Driver
+03:37:26:842 (00013892) > [Monitor] 		Vendor                  : Unknown (1414)
+03:37:26:842 (00013892) > [Monitor] 		Device                  : 8c
+03:37:26:842 (00013892) > [Monitor] 		Sub system              : 0
+03:37:26:842 (00013892) > [Monitor] 		Revision                : 0
+03:37:26:842 (00013892) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+03:37:26:842 (00013892) > [Monitor] 		Dedicated System Memory : 0000 MB
+03:37:26:842 (00013892) > [Monitor] 		Shared System Memory    : 65493 MB
+03:37:26:842 (00013892) > [Monitor] 
+03:37:26:842 (00013892) > [Render] Enumerating monitors:
+03:37:26:842 (00013892) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+03:37:26:842 (00013892) > [Render] 	Monitor 1: handle = 0000000000010003, aspect = 1.78
+03:37:26:842 (00013892) > [Render] 
+03:37:26:842 (00013892) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+03:37:26:842 (00013892) > [Render] NVidia 3D Vision is not enabled.
+03:37:26:842 (00013892) > [Render] Enumerating Display Modes:
+03:37:26:843 (00013892) > [Render] Querying NVAPI for Surround modes
+03:37:26:844 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:846 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:847 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:847 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:848 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:849 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:850 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:850 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:851 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:852 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:853 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:853 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:854 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:855 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:855 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:856 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:857 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:858 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:858 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:859 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:860 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:860 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:861 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:862 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:863 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:863 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:864 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:865 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:865 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:866 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:867 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:868 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:868 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:869 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:870 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:870 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:871 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:872 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:873 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:873 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:874 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:875 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:875 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:876 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:877 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:877 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:878 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:879 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:880 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:880 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:881 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:882 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:883 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:883 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:884 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:885 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:885 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:886 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:887 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:888 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:888 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:889 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:890 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:890 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:891 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:892 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:893 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:893 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:894 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:895 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:895 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:896 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:897 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:898 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:898 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:899 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:900 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:900 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:901 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:902 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:903 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:903 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:904 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:905 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:905 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:906 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:907 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:908 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:908 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:909 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:910 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:911 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:911 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:912 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:913 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:914 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:914 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:915 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:916 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:916 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:917 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:918 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:919 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:919 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:920 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:921 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:921 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:922 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:923 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:924 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:924 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:925 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:926 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:926 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:927 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:928 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:929 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:929 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:930 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:931 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:931 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:932 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:933 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:934 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:934 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:935 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:936 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:936 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:937 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:938 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:939 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:939 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:940 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:941 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:941 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:942 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:943 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:944 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:944 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:945 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:946 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:947 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:947 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:948 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:949 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:949 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:950 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:951 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:952 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:952 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:953 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:954 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:954 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:955 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:956 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:957 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:957 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:958 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:959 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:959 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:960 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:961 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:962 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:962 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:963 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:964 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:965 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:965 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:966 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:967 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:968 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:968 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:969 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:970 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:970 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:971 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:972 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:973 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:973 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:974 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:975 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:975 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:976 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:977 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:978 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:978 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:979 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:980 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:980 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:981 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:982 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:983 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:983 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:984 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:985 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:985 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:986 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:987 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:988 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:988 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:989 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:990 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:990 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:991 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:992 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:993 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:993 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:994 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:995 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:995 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:996 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:997 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:998 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:998 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:26:999 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:000 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:000 (00013892) > [Render] Querying NVAPI for Surround modes
+03:37:27:001 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:002 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:003 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:004 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:004 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:005 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:006 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:007 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:007 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:008 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:009 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:010 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:010 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:011 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:012 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:012 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:013 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:014 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:015 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:015 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:016 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:017 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:017 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:018 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:019 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:020 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:020 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:021 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:022 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:022 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:023 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:024 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:025 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:025 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:026 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:027 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:027 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:028 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:029 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:030 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:030 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:031 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:032 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:033 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:033 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:034 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:035 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:035 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:036 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:037 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:037 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:038 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:039 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:040 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:040 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:041 (00013892) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+03:37:27:041 (00013892) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3090(1))' (0000000000010001):
+03:37:27:041 (00013892) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  5 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  6 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  7 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  8 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode  9 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 10 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 11 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 12 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 13 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 18 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 19 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 20 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 23 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 24 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 25 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 26 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 27 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 28 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 29 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 30 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 31 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 32 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 33 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 34 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 35 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 36 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 37 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 38 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 39 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 40 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 41 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 42 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 43 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 44 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 45 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 46 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 47 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 48 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 49 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 51 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 52 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 53 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 54 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 55 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 56 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 57 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 60 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 61 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 62 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 63 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 64 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 65 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 66 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 69 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 70 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 71 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 72 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 73 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 74 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 75 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 76 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 77 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 78 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 83 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 84 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 85 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 86 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 87 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 88 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 89 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 90 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 91 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 92 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 93 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 94 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 95 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 96 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 97 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 98 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 99 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 100 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 101 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 102 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 103 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 104 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 105 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 106 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 107 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 108 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 109 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 110 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 111 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 112 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 113 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 114 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 115 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 116 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 117 : 1600 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 118 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 119 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 120 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 121 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 122 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:041 (00013892) > [Render] 		- Mode 123 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 124 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 125 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 126 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 127 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 128 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 129 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 130 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 131 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 132 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 133 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 134 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 135 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 136 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 137 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 138 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 139 : 1920 x 1200 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 140 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 141 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 142 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 143 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 144 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 145 : 1920 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 146 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 147 : 1920 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 148 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 149 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 150 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 151 : 1920 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 152 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 153 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 154 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 155 : 1920 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 156 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 157 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 158 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 159 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 160 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 161 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 162 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 163 : 1920 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 164 : 1920 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 165 : 1920 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 166 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 167 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 168 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 169 : 2048 x 1536 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 170 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 171 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 172 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 173 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 174 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 175 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 176 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 177 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 178 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 179 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 180 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 181 : 2048 x 1536 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 182 : 2048 x 1536 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 183 : 2048 x 1536 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 184 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 185 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 186 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 187 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 188 : 2560 x 1440 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 189 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 190 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 191 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 192 : 2560 x 1600 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 193 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 194 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 195 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 196 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 197 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 198 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 199 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 200 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 201 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 202 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 203 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 204 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 205 : 2560 x 1600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 206 : 2560 x 1600 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 207 : 3840 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 208 : 3840 x 2160 @  24 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 209 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 210 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 211 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 212 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 213 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 214 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 215 : 3840 x 2160 @ 144 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] ***** Additional Monitor Output Info *****
+03:37:27:042 (00013892) > [Render] 		BitsPerColor: 10
+03:37:27:042 (00013892) > [Render] 		Primaries: R=0.6787;0.3145  G=0.2695;0.6260  B=0.1465;0.0537  White-Point=0.3135;0.3291
+03:37:27:042 (00013892) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+03:37:27:042 (00013892) > [Render] 		Luminance: Min=0.0467 Max=417.7118 MaxFullFrame=417.7118
+03:37:27:042 (00013892) > [Render] ******************************************
+03:37:27:042 (00013892) > [Render] 	Monitor '2 (NVIDIA GeForce RTX 3090(1))' (0000000000010003):
+03:37:27:042 (00013892) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  5 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  7 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode  9 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 10 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 13 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 14 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 15 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 18 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 19 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 21 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 23 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 24 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 25 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 26 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 27 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 28 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 29 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 30 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 31 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 32 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 33 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 34 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 35 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 36 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 37 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 38 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 39 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 40 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 41 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 42 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 43 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 44 : 1920 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 45 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 46 : 2048 x 1536 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 47 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 48 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 49 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 50 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 51 : 2560 x 1600 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 52 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 53 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 54 : 3840 x 2160 @  30 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] 		- Mode 55 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+03:37:27:042 (00013892) > [Render] ***** Additional Monitor Output Info *****
+03:37:27:042 (00013892) > [Render] 		BitsPerColor: 10
+03:37:27:042 (00013892) > [Render] 		Primaries: R=0.6797;0.3135  G=0.2676;0.6846  B=0.1514;0.0547  White-Point=0.3135;0.3291
+03:37:27:042 (00013892) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+03:37:27:042 (00013892) > [Render] 		Luminance: Min=0.0490 Max=603.6984 MaxFullFrame=351.2764
+03:37:27:042 (00013892) > [Render] ******************************************
+03:37:27:042 (00013892) > [Render] 
+03:37:27:042 (00013892) > [Validate Settings] Monitor #0
+03:37:27:042 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:37:27:553 (00013892) > [NvShadow] Configuring highlight result = NVGSDK_SUCCESS
+03:37:27:560 (00005844) > [Audio] Using Default Audio Sink
+03:37:27:574 (00013892) > [Input] Windows.Gaming.Input controller connected. index: 0
+03:37:27:574 (00013892) > [Input] Gamepads connected: 1 -> 2
+03:37:27:574 (00013892) > [Input] Gamepad for main player: 0
+03:37:27:575 (00013892) > [Input] XInput disabled, disconnecting controller. index: 0
+03:37:27:575 (00013892) > [Input] Gamepads connected: 2 -> 1
+03:37:27:575 (00013892) > [Input] Gamepad for main player: 0
+03:37:28:214 (00013892) > [NvShadow] Configuring highlight result = NVGSDK_SUCCESS
+03:38:09:880 (00013892) > [Validate Settings] Monitor #0
+03:38:09:880 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:885 (00013892) > [Validate Settings] Monitor #0
+03:38:09:885 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:886 (00013892) > [Validate Settings] Monitor #0
+03:38:09:886 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:886 (00013892) > [Validate Settings] Monitor #0
+03:38:09:886 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:886 (00013892) > [Validate Settings] Monitor #0
+03:38:09:886 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:886 (00013892) > [Validate Settings] Monitor #0
+03:38:09:886 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:09:886 (00013892) > [Validate Settings] Monitor #0
+03:38:09:886 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:18:199 (00013892) > [Validate Settings] Monitor #1
+03:38:18:199 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:19:190 (00013892) > [Validate Settings] Monitor #0
+03:38:19:190 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:19:614 (00013892) > [Validate Settings] Monitor #1
+03:38:19:614 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:20:175 (00013892) > [Validate Settings] Monitor #0
+03:38:20:175 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:24:359 (00013892) > [Validate Settings] Monitor #0
+03:38:24:359 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:24:359 (00013892) > [Validate Settings] Monitor #0
+03:38:24:359 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:24:359 (00013892) > [Validate Settings] Monitor #0
+03:38:24:359 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:24:366 (00011036) > [Settings] New display settings are:
+03:38:24:366 (00011036) > [Settings] DirectX Version: 12
+03:38:24:366 (00011036) > [Settings] Window mode:
+03:38:24:366 (00011036) > [Settings] 	Fullscreen: 1
+03:38:24:366 (00011036) > [Settings] 	Excl.Fullscreen: 0
+03:38:24:366 (00011036) > [Settings] 	Monitor: 0
+03:38:24:366 (00011036) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 3840 h: 2160
+03:38:24:366 (00011036) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 3840 h: 2100
+03:38:24:366 (00011036) > [Settings] 		Aspect Ratio: 1.778061 (Pixel Aspect Ratio: 0.999841)
+03:38:24:366 (00011036) > [Settings] Fullscreen display mode:
+03:38:24:366 (00011036) > [Settings] 	Display mode: 1920x1080@60
+03:38:24:366 (00011036) > [Settings] 		VSync: 0
+03:38:24:366 (00011036) > [Settings] 		MultiMonitor: 0
+03:38:24:366 (00011036) > [Settings] 		BezelCorrected: 0
+03:38:24:366 (00011036) > [Settings] 		Stereoscopic3D: 0
+03:38:24:366 (00011036) > [Settings] 		SHDR: 0
+03:38:24:366 (00011036) > [Settings] Window settings:
+03:38:24:366 (00011036) > [Settings] 	Window rect: x: 480 y: 270 w: 2880 h: 1620
+03:38:24:366 (00011036) > [Settings] 	User window: w: 2880 h: 1620
+03:38:24:366 (00011036) > [Settings] 	Window maximized: 0
+03:38:24:366 (00011036) > [Settings] Graphics Options:
+03:38:24:366 (00011036) > [Settings] 	TextureQuality: 0, TextureFiltering: 0, ShadowQuality: 0
+03:38:24:366 (00011036) > [Settings] 	AO: 0, DOF: 0, AA: 2, Bloom: 0
+03:38:24:366 (00011036) > [Settings] 	MotionBlur: 0 Tessellation: 0
+03:38:24:366 (00011036) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 0 HairQuality: 0
+03:38:24:366 (00011036) > [Settings] 	Specular Reflection Quality: 0
+03:38:24:366 (00011036) > [Settings] 	FOVCorrection :1.000000
+03:38:24:366 (00011036) > [Settings] 	LevelOfDetail: 0
+03:38:24:366 (00011036) > [Settings] 	StereoSeparation: 0.022000
+03:38:24:366 (00011036) > [Settings] 	StereoPopOut: 5.000000
+03:38:24:366 (00011036) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+03:38:24:366 (00011036) > [Settings] 	HDR luminance :1.000000
+03:38:24:366 (00011036) > [Settings] End of settings.
+03:38:24:366 (00011036) > [NxApp (Render Thread)] Finished enforcing display settings
+03:38:24:367 (00013892) > [NxApp] Finished enforcing display settings
+03:38:24:367 (00013892) > [D3D] PCDX12SwapChain::Resize(1920, 1080, False)
+03:38:24:367 (00013892) > [D3D] PCDX12SwapChain::Resize no change
+03:38:24:376 (00013892) > [HBAO+] HBAO+ Context creation succeeded
+03:38:24:377 (00013892) > [Validate Settings] Monitor #0
+03:38:24:377 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:312 (00013892) > [Validate Settings] Monitor #0
+03:38:25:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:25:319 (00011036) > [Settings] New display settings are:
+03:38:25:319 (00011036) > [Settings] DirectX Version: 12
+03:38:25:319 (00011036) > [Settings] Window mode:
+03:38:25:319 (00011036) > [Settings] 	Fullscreen: 1
+03:38:25:319 (00011036) > [Settings] 	Excl.Fullscreen: 0
+03:38:25:319 (00011036) > [Settings] 	Monitor: 0
+03:38:25:319 (00011036) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 3840 h: 2160
+03:38:25:319 (00011036) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 3840 h: 2100
+03:38:25:319 (00011036) > [Settings] 		Aspect Ratio: 1.778061 (Pixel Aspect Ratio: 0.999841)
+03:38:25:319 (00011036) > [Settings] Fullscreen display mode:
+03:38:25:319 (00011036) > [Settings] 	Display mode: 1920x1080@60
+03:38:25:319 (00011036) > [Settings] 		VSync: 0
+03:38:25:319 (00011036) > [Settings] 		MultiMonitor: 0
+03:38:25:319 (00011036) > [Settings] 		BezelCorrected: 0
+03:38:25:319 (00011036) > [Settings] 		Stereoscopic3D: 0
+03:38:25:319 (00011036) > [Settings] 		SHDR: 0
+03:38:25:319 (00011036) > [Settings] Window settings:
+03:38:25:319 (00011036) > [Settings] 	Window rect: x: 480 y: 270 w: 2880 h: 1620
+03:38:25:319 (00011036) > [Settings] 	User window: w: 2880 h: 1620
+03:38:25:319 (00011036) > [Settings] 	Window maximized: 0
+03:38:25:319 (00011036) > [Settings] Graphics Options:
+03:38:25:319 (00011036) > [Settings] 	TextureQuality: 3, TextureFiltering: 3, ShadowQuality: 3
+03:38:25:319 (00011036) > [Settings] 	AO: 2, DOF: 2, AA: 2, Bloom: 1
+03:38:25:319 (00011036) > [Settings] 	MotionBlur: 1 Tessellation: 1
+03:38:25:319 (00011036) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+03:38:25:319 (00011036) > [Settings] 	Specular Reflection Quality: 0
+03:38:25:319 (00011036) > [Settings] 	FOVCorrection :1.000000
+03:38:25:319 (00011036) > [Settings] 	LevelOfDetail: 3
+03:38:25:319 (00011036) > [Settings] 	StereoSeparation: 0.022000
+03:38:25:319 (00011036) > [Settings] 	StereoPopOut: 5.000000
+03:38:25:319 (00011036) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+03:38:25:319 (00011036) > [Settings] 	HDR luminance :1.000000
+03:38:25:319 (00011036) > [Settings] End of settings.
+03:38:25:319 (00011036) > [NxApp (Render Thread)] Finished enforcing display settings
+03:38:25:319 (00013892) > [NxApp] Finished enforcing display settings
+03:38:25:319 (00013892) > [D3D] PCDX12SwapChain::Resize(1920, 1080, False)
+03:38:25:319 (00013892) > [D3D] PCDX12SwapChain::Resize no change
+03:38:25:328 (00013892) > [HBAO+] HBAO+ Context creation succeeded
+03:38:25:328 (00013892) > [Validate Settings] Monitor #0
+03:38:25:328 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:38:35:243 (00013892) > [Benchmark] Benchmark started.
+03:38:35:243 (00013892) > [Benchmark] Benchmark delay expired (delay of 0); starting statistics capture.
+03:38:36:291 (00013892) > [Ansel] Set Ansel-Active: available = 1 active = 0
+03:38:50:146 (00004776) > [Audio] Using Default Audio Sink
+03:38:50:498 (00004488) > [Audio] Using Default Audio Sink
+03:39:09:336 (00013892) > [NvShadow] Opening group Game -> NVGSDK_SUCCESS
+03:39:09:355 (00013892) > [NvShadow] Get Number of highlights Game -> NVGSDK_ERR_GROUP_NOT_FOUND
+03:39:09:362 (00013892) > [NvShadow] Get Number of highlights Game -> NVGSDK_ERR_GROUP_NOT_FOUND
+03:39:09:375 (00013892) > [NvShadow] Get Number of highlights Game -> NVGSDK_ERR_GROUP_NOT_FOUND
+03:39:09:388 (00013892) > [NvShadow] Get Number of highlights Game -> NVGSDK_ERR_GROUP_NOT_FOUND
+03:39:51:642 (00006644) > [Audio] Using Default Audio Sink
+03:42:06:793 (00013892) > [Benchmark] Benchmark stopped.
+03:42:07:968 (00013892) > [NvShadow] Close group Game -> NVGSDK_SUCCESS
+03:42:12:287 (00013892) > [Validate Settings] Monitor #0
+03:42:12:287 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:307 (00013892) > [Validate Settings] Monitor #0
+03:42:12:307 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:312 (00013892) > [Validate Settings] Monitor #0
+03:42:12:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:312 (00013892) > [Validate Settings] Monitor #0
+03:42:12:312 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:313 (00013892) > [Validate Settings] Monitor #0
+03:42:12:313 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:313 (00013892) > [Validate Settings] Monitor #0
+03:42:12:313 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+03:42:12:313 (00013892) > [Validate Settings] Monitor #0
+03:42:12:313 (00013892) > [Validate Settings] Desktop settings (Resolution: 3840 x 2160, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)

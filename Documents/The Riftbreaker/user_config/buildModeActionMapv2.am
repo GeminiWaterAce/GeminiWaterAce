@@ -1,0 +1,189 @@
+ActionMapResource
+{
+	name "buildModeActionMapv2"
+	composite_action_map
+	{
+		CompositePair
+		{
+			name "build_upgraded"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "build"
+					String "upgrade_modifier"
+				}
+
+			}
+
+		}
+
+	}
+
+	stick_to_action_map
+	{
+		Pair_StickKey_String
+		{
+			value "_aim_strafe_left_right"
+			key
+			{
+				axis "0"
+				stick_no "1"
+			}
+
+		}
+
+		Pair_StickKey_String
+		{
+			value "_aim_forward_backward"
+			key
+			{
+				axis "1"
+				stick_no "1"
+			}
+
+		}
+
+	}
+
+	key_to_action_map
+	{
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "exit"
+				}
+
+			}
+
+			key "261"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "exit"
+				}
+
+			}
+
+			key "512"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "build"
+				}
+
+			}
+
+			key "513"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "upgrade_modifier"
+				}
+
+			}
+
+			key "164"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "upgrade_modifier"
+				}
+
+			}
+
+			key "282"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rotate_right"
+				}
+
+			}
+
+			key "281"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rotate_right"
+				}
+
+			}
+
+			key "514"
+		}
+
+	}
+
+	trigger_to_action_map
+	{
+		Pair_int_String
+		{
+			value "_GUI_LT"
+			key "0"
+		}
+
+		Pair_int_String
+		{
+			value "_GUI_RT"
+			key "1"
+		}
+
+	}
+
+	non_blocking_action_set
+	mouse_axis_action_names
+	{
+		String
+		String
+	}
+
+	mouse_absolute_action_names
+	{
+		String "_move_left_right_mouse"
+		String "_move_forward_backward_mouse"
+	}
+
+	mouse_wheel_action "rotate"
+}
+

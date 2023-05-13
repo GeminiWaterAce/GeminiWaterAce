@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<recentcontainers Version="2">
+		<containercount>4</containercount>
+		<container.1 Version="1">
+			<containeritemcount>6</containeritemcount>
+			<containeritem.5 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>本地驱动器</containername>
+			</containeritem.5>
+			<containeritem.4 Version="1">
+				<containerpath>/Y/Y?/YC:/Y</containerpath>
+				<containername>C: (本地磁盘)</containername>
+			</containeritem.4>
+			<containeritem.3 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers</containerpath>
+				<containername>用户</containername>
+			</containeritem.3>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YGeminiWaterAce/YVideos</containerpath>
+				<containername>视频</containername>
+			</containeritem.1>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YGeminiWaterAce/YVideos/YCuphead</containerpath>
+				<containername>Cuphead</containername>
+			</containeritem.0>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YGeminiWaterAce</containerpath>
+				<containername>GeminiWaterAce</containername>
+			</containeritem.2>
+		</container.1>
+		<container.2 Version="1">
+			<containeritemcount>4</containeritemcount>
+			<containeritem.3 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>本地驱动器</containername>
+			</containeritem.3>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YD:/YExport Video</containerpath>
+				<containername>Export Video</containername>
+			</containeritem.1>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YD:/YExport Video/YElden Ring</containerpath>
+				<containername>Elden Ring</containername>
+			</containeritem.0>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YD:/Y</containerpath>
+				<containername>D: (Entertainment)</containername>
+			</containeritem.2>
+		</container.2>
+		<container.3 Version="1">
+			<containeritemcount>5</containeritemcount>
+			<containeritem.4 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>本地驱动器</containername>
+			</containeritem.4>
+			<containeritem.3 Version="1">
+				<containerpath>/Y/Y?/YC:/Y</containerpath>
+				<containername>C: (本地磁盘)</containername>
+			</containeritem.3>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YGeminiWaterAce</containerpath>
+				<containername>GeminiWaterAce</containername>
+			</containeritem.1>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers/YGeminiWaterAce/YVideos</containerpath>
+				<containername>视频</containername>
+			</containeritem.0>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YC:/YUsers</containerpath>
+				<containername>用户</containername>
+			</containeritem.2>
+		</container.3>
+		<container.0 Version="1">
+			<containeritemcount>4</containeritemcount>
+			<containeritem.3 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>本地驱动器</containername>
+			</containeritem.3>
+			<containeritem.1 Version="1">
+				<containerpath>/Y/Y?/YF:/YExport Video</containerpath>
+				<containername>Export Video</containername>
+			</containeritem.1>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YF:/YExport Video/YWarcraft3</containerpath>
+				<containername>Warcraft3</containername>
+			</containeritem.0>
+			<containeritem.2 Version="1">
+				<containerpath>/Y/Y?/YF:/Y</containerpath>
+				<containername>F: (Entertainment)</containername>
+			</containeritem.2>
+		</container.0>
+	</recentcontainers>
+</PremiereData>

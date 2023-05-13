@@ -1,0 +1,6 @@
+Number of NVIDIA Multi-GPUs detected (by AFR groups) = 1
+
+
+3D Engine shutdown error: resources leaked!
+
+

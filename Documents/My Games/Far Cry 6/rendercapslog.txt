@@ -1,0 +1,12 @@
+[22:56:34:572] 
+[22:56:34:572] Nv performance data: device[8708], clock[0], count[10496]. 
+[22:56:34:572] 
+[22:57:05:356] 
+[22:57:05:356] Adapter: NVIDIA GeForce RTX 3090. 
+[22:57:05:356] 
+[22:57:05:356] 
+[22:57:05:356] Nv score: device[8708], score[0]. 
+[22:57:05:356] 
+[22:57:05:611] 
+[22:57:05:611] Adapter: Microsoft Basic Render Driver. 
+[22:57:05:611] 

@@ -1,0 +1,2310 @@
+ActionMapResource
+{
+	name "mechActionMapv2"
+	composite_action_map
+	{
+		CompositePair
+		{
+			name "move_forward_backward"
+			compositeAction "CompositeAbsMaxAction"
+			{
+				actions
+				{
+					String "_move_forward_backward_stick"
+					String "_move_forward_backward_key"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "move_left_right"
+			compositeAction "CompositeAbsMaxAction"
+			{
+				actions
+				{
+					String "_move_left_right_key"
+					String "_move_left_right_stick"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_not_right_hand"
+			compositeAction "CompositeNegateAction"
+			{
+				action "_right_hand"
+			}
+
+		}
+
+		CompositePair
+		{
+			name "abs_left_hand"
+			compositeAction "CompositeAbsMaxAction"
+			{
+				actions
+				{
+					String "_left_hand"
+					String "_left_hand_mouse"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "abs_right_hand"
+			compositeAction "CompositeAbsMaxAction"
+			{
+				actions
+				{
+					String "_right_hand"
+					String "_right_hand_mouse"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "left_hand"
+			compositeAction "CompositeBinaryAction"
+			{
+				threshold "0.100"
+				action "abs_left_hand"
+			}
+
+		}
+
+		CompositePair
+		{
+			name "right_hand"
+			compositeAction "CompositeBinaryAction"
+			{
+				threshold "0.100"
+				action "abs_right_hand"
+			}
+
+		}
+
+		CompositePair
+		{
+			name "BIOSCANNER1"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "__consumable_action"
+					String "__skill_action"
+					String "_not_right_hand"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "BIOSCANNER"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "BIOSCANNER1"
+					String "BIOSCANNER2"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_skill_and_consumable_action"
+			compositeAction "CompositeSelectAction"
+			{
+				active_action "-1"
+				actions
+				{
+					String "__consumable_action"
+					String "__skill_action"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_skill_action"
+			compositeAction "CompositeEqualAction"
+			{
+				action_condition "_skill_and_consumable_action"
+				compare_value "1.000"
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_consumable_action"
+			compositeAction "CompositeEqualAction"
+			{
+				action_condition "_skill_and_consumable_action"
+				compare_value "0.000"
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_skill_action_1"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_skill_action"
+					String "_key_pad_a"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_skill_action_2"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_skill_action"
+					String "_key_pad_b"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_skill_action_3"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_skill_action"
+					String "_key_pad_x"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_skill_action_4"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_skill_action"
+					String "_key_pad_y"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "skill_action_1"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_skill_action_1"
+					String "_pad_skill_action_1"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "skill_action_2"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_skill_action_2"
+					String "_pad_skill_action_2"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "skill_action_3"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_skill_action_3"
+					String "_pad_skill_action_3"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "skill_action_4"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_skill_action_4"
+					String "_pad_skill_action_4"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_consumable_action_1"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_consumable_action"
+					String "_key_pad_a"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_consumable_action_2"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_consumable_action"
+					String "_key_pad_b"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_consumable_action_3"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_consumable_action"
+					String "_key_pad_x"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "_pad_consumable_action_4"
+			compositeAction "CompositeAndAction"
+			{
+				actions
+				{
+					String "_consumable_action"
+					String "_key_pad_y"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "consumable_action_1"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_consumable_action_1"
+					String "_pad_consumable_action_1"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "consumable_action_2"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_consumable_action_2"
+					String "_pad_consumable_action_2"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "consumable_action_3"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_consumable_action_3"
+					String "_pad_consumable_action_3"
+				}
+
+			}
+
+		}
+
+		CompositePair
+		{
+			name "consumable_action_4"
+			compositeAction "CompositeOrAction"
+			{
+				actions
+				{
+					String "_consumable_action_4"
+					String "_pad_consumable_action_4"
+				}
+
+			}
+
+		}
+
+	}
+
+	stick_to_action_map
+	{
+		Pair_StickKey_String
+		{
+			value "_move_left_right_stick"
+			key
+			{
+				axis "0"
+				stick_no "0"
+			}
+
+		}
+
+		Pair_StickKey_String
+		{
+			value "_move_forward_backward_stick"
+			key
+			{
+				axis "1"
+				stick_no "0"
+			}
+
+		}
+
+		Pair_StickKey_String
+		{
+			value "_aim_strafe_left_right"
+			key
+			{
+				axis "0"
+				stick_no "1"
+			}
+
+		}
+
+		Pair_StickKey_String
+		{
+			value "_aim_forward_backward"
+			key
+			{
+				axis "1"
+				stick_no "1"
+			}
+
+		}
+
+	}
+
+	key_to_action_map
+	{
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "picker"
+				}
+
+			}
+
+			key "66"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "-1.000"
+					action_name "_move_forward_backward_key"
+				}
+
+			}
+
+			key "83"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_move_forward_backward_key"
+				}
+
+			}
+
+			key "87"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "dash_skill_action"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_key_pad_b"
+				}
+
+			}
+
+			key "261"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_skill_action_1"
+				}
+
+			}
+
+			key "49"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "-1.000"
+					action_name "_move_left_right_key"
+				}
+
+			}
+
+			key "65"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_move_left_right_key"
+				}
+
+			}
+
+			key "68"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "__skill_action"
+				}
+
+			}
+
+			key "280"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_basic"
+				}
+
+			}
+
+			key "88"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_right_hand_mouse"
+				}
+
+			}
+
+			key "512"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "inventory"
+				}
+
+			}
+
+			key "73"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "left_slot"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "picker"
+				}
+
+			}
+
+			key "259"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "enter_build_mode"
+				}
+
+			}
+
+			key "162"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_consumable_action_4"
+				}
+
+			}
+
+			key "56"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "interact"
+				}
+
+			}
+
+			key "32"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "crafting"
+				}
+
+			}
+
+			key "85"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_skill_action_4"
+				}
+
+			}
+
+			key "52"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "enter_build_mode"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_key_pad_y"
+				}
+
+			}
+
+			key "264"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "left_slot"
+				}
+
+			}
+
+			key "81"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pause_menu"
+				}
+
+			}
+
+			key "266"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "dash_skill_action"
+				}
+
+			}
+
+			key "160"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_consumable_action_2"
+				}
+
+			}
+
+			key "54"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "research"
+				}
+
+			}
+
+			key "79"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "BIOSCANNER2"
+				}
+
+			}
+
+			key "514"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "energy_connector"
+				}
+
+			}
+
+			key "90"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "sell"
+				}
+
+			}
+
+			key "70"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_stone_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_stone_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_g2"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_plasma"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_gold_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "ai_hub"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_big_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_medium_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_mushroom_lumio_small_03"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_violet"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_big_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_standard_medium_skin3"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "research_station"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_standard_medium_skin2"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_standard_medium_skin5"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_standard_medium_skin4"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_mushroom_winding_small"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_green"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_red"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_gold_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "carbonium_factory"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_mine_layer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "cryo_station"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "gas_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "water_filtering_plant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "energy_storage"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "snowman"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "communications_hub"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_acid_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_metal_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_heavy_artillery"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "nuclear_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_mushroom_medium_skin1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_ray_flower_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "carbonium_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_cyan"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_gold_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_mushroom_medium_skin2"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "ammunition_storage"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "flora_cultivator"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "outpost"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_blue"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_big_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bulb_acid_small"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_military_green_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_gtwo_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tombstone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_big_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_gold_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "solid_material_storage"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_f"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_d"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_artillery"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_e"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_concrete_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_b"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_metal_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_medium_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_c"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_sector_a"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_station"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_ray_flower_small"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "supercoolant_refinery"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "headquarters"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_medium_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "solar_panels"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_shockwave"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_stone_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "eraser"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "ironium_synthesizer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_yellow_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "geothermal_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "armory"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "fusion_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_tech_bright_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "animal_biomass_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_rockets"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_flamer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "steel_factory"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "uranium_centrifuge"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_metal_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "planet_scanner"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_railgun"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_stone_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_medium_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_minigun"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_desert_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_medium_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_metal_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_stone_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_drone_attack"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_yellow"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "laboratory"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "base_lamp_orange"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_plastic_black_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_magnetic_stabilizer_alien"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "wind_turbine"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "carbonium_synthesizer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "gas_filtering_plant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_crystal_03"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "wall_small_floor"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_crystal_02"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_metal_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "repair_facility"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_crystal_01"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "ionizer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_ammunition_factory"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "bio_composter"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_big_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_stone_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_crystal_04"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_mushroom_vulgaris_small"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_medium_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_magnetic_stabilizer"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "floor_steam_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "plant_biomass_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pipeline"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_laser"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "shield_generator"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_aa_basic"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "weather_controller"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pot_bush_standard_medium_skin11_f"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "wall_gate"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pumpkin"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "flora_collector"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_canoptrix_big_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "liquid_material_storage"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_gold_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_long_logo"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_gold_medium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_stone"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_arachnoid_sentinel_metal"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "liquid_pump"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "plasma_converter"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_kafferroceros_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rare_element_mine"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "mast_01_short_logo"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "crystal_collector"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "short_range_radar"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_jurvine_metal_big"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "magma_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "statue_mech_gold"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "decorations"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "defense"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "energy"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "main"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "resources"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tools"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "liquid_compressor"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "hitech_structure_big_01"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "eraser_1x1"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_lightning"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "liquid_decompressor"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "morphium_powerplant"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "hitech_structure_medium_01"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "hitech_structure_very_small_01"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "hitech_structure_small_01"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "test_dummy_enemy"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "switch"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "test_dummy_neutral"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_alien_influence"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "consumable"
+				}
+
+			}
+
+			key "1024"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_left_hand"
+				}
+
+			}
+
+			key "282"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pause"
+				}
+
+			}
+
+			key "80"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pause"
+				}
+
+			}
+
+			key "27"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "journal"
+				}
+
+			}
+
+			key "74"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "planetary_scanner"
+				}
+
+			}
+
+			key "89"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_left_hand_mouse"
+				}
+
+			}
+
+			key "513"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "interact"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_key_pad_x"
+				}
+
+			}
+
+			key "263"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_skill_action_3"
+				}
+
+			}
+
+			key "51"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "bestiary"
+				}
+
+			}
+
+			key "84"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "right_slot"
+				}
+
+			}
+
+			key "258"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "right_slot"
+				}
+
+			}
+
+			key "69"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_right_hand"
+				}
+
+			}
+
+			key "281"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "__consumable_action"
+				}
+
+			}
+
+			key "279"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "wall_small"
+				}
+
+			}
+
+			key "67"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_key_pad_a"
+				}
+
+			}
+
+			key "260"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_skill_action_2"
+				}
+
+			}
+
+			key "50"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_consumable_action_1"
+				}
+
+			}
+
+			key "53"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "_consumable_action_3"
+				}
+
+			}
+
+			key "55"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_map"
+				}
+
+			}
+
+			key "267"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_map"
+				}
+
+			}
+
+			key "77"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "rift_map"
+				}
+
+			}
+
+			key "9"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "portal"
+				}
+
+			}
+
+			key "86"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "repair"
+				}
+
+			}
+
+			key "82"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "upgrade"
+				}
+
+			}
+
+			key "71"
+		}
+
+	}
+
+	trigger_to_action_map
+	non_blocking_action_set
+	mouse_axis_action_names
+	{
+		String
+		String
+	}
+
+	mouse_absolute_action_names
+	{
+		String "_aim_left_right_mouse"
+		String "_aim_forward_backward_mouse"
+	}
+
+	mouse_wheel_action "zoom"
+}
+

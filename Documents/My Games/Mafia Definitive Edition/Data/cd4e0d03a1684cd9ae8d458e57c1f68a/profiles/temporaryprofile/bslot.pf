@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<C_SaveBlockScriptDataStorage>
+			<m_DataGroupNew />
+			<m_Id>C_SaveBlockScriptDataStorage</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_SaveBlockScriptDataStorage>
+		<C_GameSettingsSlotSaveBlock>
+			<S_GameSettingsSlot>
+				<m_Difficulty>2</m_Difficulty>
+				<m_AimingAssistanceLevel>2</m_AimingAssistanceLevel>
+				<m_PoliceLvl>0</m_PoliceLvl>
+				<m_ArcadeDriving>true</m_ArcadeDriving>
+				<m_ManualShifting>false</m_ManualShifting>
+				<m_FlankingIndicators>true</m_FlankingIndicators>
+				<m_UseLethalTakedowns>true</m_UseLethalTakedowns>
+				<m_PlayerCanSkipRides>false</m_PlayerCanSkipRides>
+			</S_GameSettingsSlot>
+			<m_Id>GameSettingsSlot</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_GameSettingsSlotSaveBlock>
+		<C_My2KSaveBlock>
+			<S_My2KSaveData>
+				<m_GameSessionId></m_GameSessionId>
+				<m_GameStartEventSent>false</m_GameStartEventSent>
+				<m_GameEndedEventSent>false</m_GameEndedEventSent>
+			</S_My2KSaveData>
+			<m_Id>My2KSaveBlock</m_Id>
+			<m_Layer>0</m_Layer>
+		</C_My2KSaveBlock>
+	</m_Blocks>
+</C_SaveDataUnwrapped>R…

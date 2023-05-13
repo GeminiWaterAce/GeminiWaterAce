@@ -1,0 +1,498 @@
+[11:32:44.147] [info]  - Creating resource group General
+[11:32:44.147] [info]  - Creating resource group Internal
+[11:32:44.147] [info]  - Creating resource group Autodetect
+[11:32:44.148] [info]  - SceneManagerFactory for type 'DefaultSceneManager' registered.
+[11:32:44.148] [info]  - Registering ResourceManager for type Material
+[11:32:44.149] [info]  - Registering ResourceManager for type Mesh
+[11:32:44.149] [info]  - Registering ResourceManager for type Skeleton
+[11:32:44.149] [info]  - Registering ResourceManager for type Font
+[11:32:44.150] [info]  - DDS codec registering
+[11:32:44.152] [info]  - FreeImage version: 3.15.3
+[11:32:44.152] [info]  - This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+[11:32:44.152] [info]  - Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
+[11:32:44.152] [info]  - Registering ResourceManager for type HighLevelGpuProgram
+[11:32:44.153] [info]  - *-*-* OGRE Initialising
+[11:32:44.153] [info]  - *-*-* Version 1.7.0 (EXOR Edition)
+[11:32:44.269] [info] Save.cpp:101 - Save load started. Name config
+[11:32:44.273] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:44.273] [info] Save.cpp:109 -   * local.cfg
+[11:32:44.295] [info] Framework.cpp:774 - -------------------------
+[11:32:44.295] [info] Framework.cpp:775 - Config Variables:
+[11:32:44.295] [info] Framework.cpp:776 - -------------------------
+[11:32:44.295] [info] Framework.cpp:777 -  * Render System: dx12
+[11:32:44.295] [info] Framework.cpp:778 -  * Adapter Name: 
+[11:32:44.295] [info] Framework.cpp:779 -  * Display Name: 
+[11:32:44.295] [info] Framework.cpp:780 -  * Video Mode: 
+[11:32:44.598] [info] OgreD3D12DeviceWin32.cpp:466 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[11:32:44.598] [info] OgreD3D12DeviceWin32.cpp:472 - [DEBUG] adapter ignored: 'NVIDIA GeForce RTX 3090' because it has no attached outputs!
+[11:32:44.789] [info] OgreD3D12DeviceWin32.cpp:466 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[11:32:44.789] [info] OgreD3D12DeviceWin32.cpp:472 - [DEBUG] adapter ignored: 'NVIDIA GeForce RTX 3090' because it has no attached outputs!
+[11:32:44.789] [info]  - RenderSystem
+[11:32:44.789] [info]  - -------------------------
+[11:32:44.789] [info]  - Name: dx12
+[11:32:44.790] [info]  - GPU Vendor: NVIDIA
+[11:32:44.790] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[11:32:44.790] [info]  - Device Memory: 24340MB
+[11:32:44.790] [info]  - Driver Version: 31.0.15.2756
+[11:32:44.790] [info]  - Device outputs:
+[11:32:44.790] [info]  -  * PD32M: \\.\DISPLAY2 resolution: 3840x2160, primary: true
+[11:32:44.790] [info]  -  * U32U1WR6B: \\.\DISPLAY1 resolution: 3840x2160, primary: false
+[11:32:44.790] [info]  - Device capabilities:
+[11:32:44.790] [info]  -  * Supported Shader Profiles: cs_5_0 cs_5_1 cs_6_0 cs_6_2 dxc gs_5_0 gs_5_1 gs_6_0 hlsl lib_6_3 ps_4_0 ps_4_1 ps_5_0 ps_5_1 ps_6_0 vs_4_0 vs_4_1 vs_5_0 vs_5_1 vs_6_0
+[11:32:44.790] [info]  -  * DirectX tearing support: true
+[11:32:44.790] [info]  -  * DirectX raytracing support: true
+[11:32:44.790] [info]  -  * DirectX min presicion 16bit: true
+[11:32:44.790] [info]  - D3D12: dx12 created.
+[11:32:44.791] [info] OgreVideoManager.cpp:70 - Theora workers thread count: 1
+[11:32:44.791] [info]  - Registering Texture Controller: Type = ogg_video Name = TheoraVideoPlugin
+[11:32:44.791] [info]  - Platform information:
+[11:32:44.791] [info]  - -------------------------
+[11:32:44.791] [info]  -  *   SYSTEM: Windows 10 Pro 19045
+[11:32:44.791] [info]  -  *   CPU ID: AuthenticAMD: AMD Ryzen 9 5950X 16-Core Processor
+[11:32:44.791] [info]  -  *      SSE: yes
+[11:32:44.791] [info]  -  *     SSE2: yes
+[11:32:44.791] [info]  -  *     SSE3: yes
+[11:32:44.791] [info]  -  *      MMX: yes
+[11:32:44.791] [info]  -  *   MMXEXT: yes
+[11:32:44.791] [info]  -  *    3DNOW: no
+[11:32:44.791] [info]  -  * 3DNOWEXT: no
+[11:32:44.791] [info]  -  *     CMOV: yes
+[11:32:44.791] [info]  -  *      TSC: yes
+[11:32:44.791] [info]  -  *      FPU: yes
+[11:32:44.791] [info]  -  *      PRO: yes
+[11:32:44.791] [info]  -  *       HT: no
+[11:32:44.791] [info]  - -------------------------
+[11:32:44.791] [info]  - 
+[11:32:44.791] [info]  - Memory info
+[11:32:44.791] [info]  - -------------------------
+[11:32:44.791] [info]  -  * There is 10  percent of memory in use.
+[11:32:44.791] [info]  -  * There are 130986 total MB of physical memory.
+[11:32:44.791] [info]  -  * There are 117661 free  MB of physical memory.
+[11:32:44.791] [info]  -  * There are 150442 total MB of paging file.
+[11:32:44.791] [info]  -  * There are 131488 free  MB of paging file.
+[11:32:44.791] [info]  -  * There are 134217727 total MB of virtual memory.
+[11:32:44.791] [info]  -  * There are 134065515 free  MB of virtual memory.
+[11:32:44.791] [info]  -  * There are 0 free  MB of extended memory.
+[11:32:44.791] [info]  - -------------------------
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.10204771550992703%)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 24.0546875MB (usage)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.03304224473621199%)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.380859375MB (budget)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 21.38671875MB (usage)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[11:32:45.010] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.6904296875MB (available for reserve)
+[11:32:45.137] [info]  - RenderSystem
+[11:32:45.137] [info]  - -------------------------
+[11:32:45.137] [info]  - Name: dx12
+[11:32:45.137] [info]  - GPU Vendor: NVIDIA
+[11:32:45.137] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[11:32:45.137] [info]  - Device Memory: 24340MB
+[11:32:45.137] [info]  - Driver Version: 31.0.15.2756
+[11:32:45.137] [info]  - Device outputs:
+[11:32:45.137] [info]  -  * PD32M: \\.\DISPLAY2 resolution: 3840x2160, primary: true
+[11:32:45.137] [info]  -  * U32U1WR6B: \\.\DISPLAY1 resolution: 3840x2160, primary: false
+[11:32:45.137] [info]  - Device capabilities:
+[11:32:45.137] [info]  -  * Supported Shader Profiles: cs_5_0 cs_5_1 cs_6_0 cs_6_2 dxc gs_5_0 gs_5_1 gs_6_0 hlsl lib_6_3 ps_4_0 ps_4_1 ps_5_0 ps_5_1 ps_6_0 vs_4_0 vs_4_1 vs_5_0 vs_5_1 vs_6_0
+[11:32:45.137] [info]  -  * DirectX tearing support: true
+[11:32:45.137] [info]  -  * DirectX raytracing support: true
+[11:32:45.137] [info]  -  * DirectX min presicion 16bit: true
+[11:32:45.138] [info] WindowWin32.cpp:127 - CreateWindow: 3840x2160
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:30 - [DEBUG] Preferred Output ( prefix: \\.\DISPLAY2 )
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x25e57a90cc0 
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY2
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:52 - [DEBUG] preferred output
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x25e57a93ee0 
+[11:32:45.146] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY1
+[11:32:45.511] [info] OgreD3D12RenderWindowWin32.cpp:158 - RenderWindow create:
+[11:32:45.511] [info] OgreD3D12RenderWindowWin32.cpp:159 - Fullscreen
+[11:32:45.511] [info] OgreD3D12RenderWindowWin32.cpp:162 - Resolution=3840x2160
+[11:32:45.511] [info]  - DefaultWorkQueue('Root') initialising on thread main.
+[11:32:45.513] [info] Framework.cpp:774 - -------------------------
+[11:32:45.513] [info] Framework.cpp:775 - Config Variables:
+[11:32:45.513] [info] Framework.cpp:776 - -------------------------
+[11:32:45.513] [info] Framework.cpp:777 -  * Render System: dx12
+[11:32:45.513] [info] Framework.cpp:778 -  * Adapter Name: 
+[11:32:45.513] [info] Framework.cpp:779 -  * Display Name: \\.\DISPLAY2
+[11:32:45.513] [info] Framework.cpp:780 -  * Video Mode: 3840x2160:32
+[11:32:45.546] [info] AudioXAudio2.cpp:201 - XAudio2 engine started. Detected 1/1 device:
+[11:32:45.546] [info] AudioXAudio2.cpp:204 -  (#0) 扬声器 (Sound Blaster AE-9) <default>
+[11:32:45.590] [info] AudioXAudio2.cpp:232 - Initializing XAudio2. Channels: 2.0, sample rate: 96000Hz 
+[11:32:45.590] [info] SoundLibrary.cpp:40 - Audio submix config: SFX: 2, MUSIC: 4, Dialogs: 6, Events: 8, Announcements: 10
+[11:32:45.592] [info]  - Creating resource group general
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnableEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDisableEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnSelectEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDeselectEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnNeutralActivatePositiveEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnNeutralActivateNegativeEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnActiveActivateNegativeEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnDisabledActivateNegativeEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnActiveActivatePositiveEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterNeutralEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitNeutralEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterNeutralSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitNeutralSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterActiveEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitActiveEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterActiveSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitActiveSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterDisabledEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitDisabledEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnEnterDisabledSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnExitDisabledSelectedEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnShowEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: OnHideEffect
+[11:32:45.596] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: invalidEventEffect
+[11:32:45.731] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_audio.zip` as `/`
+[11:32:45.740] [info] VfsZipArchive.cpp:464 - CD offset = 132481/132572
+[11:32:45.741] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_engine.zip` as `/`
+[11:32:45.750] [info] VfsZipArchive.cpp:464 - CD offset = 11716582/11759797
+[11:32:45.752] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_audio.zip` as `/`
+[11:32:45.761] [info] VfsZipArchive.cpp:464 - CD offset = 132481/132572
+[11:32:45.761] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\02_win_audio.zip` as `/`
+[11:32:45.769] [info] VfsZipArchive.cpp:464 - CD offset = 132481/132572
+[11:32:45.770] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\02_win_engine.zip` as `/`
+[11:32:45.776] [info] VfsZipArchive.cpp:464 - CD offset = 5670897/5678754
+[11:32:45.776] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\03_win_audio.zip` as `/`
+[11:32:45.787] [info] VfsZipArchive.cpp:464 - CD offset = 132481/132572
+[11:32:45.787] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\03_win_engine.zip` as `/`
+[11:32:45.793] [info] VfsZipArchive.cpp:464 - CD offset = 14192/15063
+[11:32:45.793] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\99_win_shaders_cache.zip` as `/`
+[11:32:45.806] [info] VfsZipArchive.cpp:464 - CD offset = 3082656/3147884
+[11:32:45.808] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup.zip` as `/`
+[11:32:45.815] [info] VfsZipArchive.cpp:464 - CD offset = 132063683/132074986
+[11:32:45.816] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_video.zip` as `/`
+[11:32:45.823] [info] VfsZipArchive.cpp:464 - CD offset = 11510625/11510948
+[11:32:45.823] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_startup.zip` as `/`
+[11:32:45.830] [info] VfsZipArchive.cpp:464 - CD offset = 767/947
+[11:32:45.830] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_video.zip` as `/`
+[11:32:45.836] [info] VfsZipArchive.cpp:464 - CD offset = 11510625/11510948
+[11:32:45.836] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\02_win_startup.zip` as `/`
+[11:32:45.849] [info] VfsZipArchive.cpp:464 - CD offset = 1193431/1194719
+[11:32:45.849] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\02_win_video.zip` as `/`
+[11:32:45.860] [info] VfsZipArchive.cpp:464 - CD offset = 11510625/11510948
+[11:32:45.860] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\03_win_startup.zip` as `/`
+[11:32:45.869] [info] VfsZipArchive.cpp:464 - CD offset = 665346/666412
+[11:32:45.869] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\03_win_video.zip` as `/`
+[11:32:45.875] [info] VfsZipArchive.cpp:464 - CD offset = 11510625/11510948
+[11:32:45.875] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\99_win_shaders_cache.zip` as `/`
+[11:32:45.882] [info] VfsZipArchive.cpp:464 - CD offset = 45362/46284
+[11:32:45.882] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\startup\00_win_startup_dlc_1.zip` as `/`
+[11:32:45.891] [info] VfsZipArchive.cpp:464 - CD offset = 228939/229132
+[11:32:45.891] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\startup\01_win_startup_dlc_1.zip` as `/`
+[11:32:45.900] [info] VfsZipArchive.cpp:464 - CD offset = 230390/230583
+[11:32:45.953] [info] Framework.cpp:478 - Loaded entity types from `scripts/physics/physics_user_flags.kvp`:
+[11:32:45.953] [info] Framework.cpp:488 -  * scannable(0)
+[11:32:45.957] [info] Framework.cpp:453 - Loaded entity types from `scripts/types.kvp`:
+[11:32:45.957] [info] Framework.cpp:463 -  * building(1)
+[11:32:45.957] [info] Framework.cpp:463 -  * decorations(2)
+[11:32:45.957] [info] Framework.cpp:463 -  * defense(3)
+[11:32:45.957] [info] Framework.cpp:463 -  * energy(4)
+[11:32:45.957] [info] Framework.cpp:463 -  * ground_unit(5)
+[11:32:45.957] [info] Framework.cpp:463 -  * ground_unit_small(6)
+[11:32:45.957] [info] Framework.cpp:463 -  * ground_unit_medium(7)
+[11:32:45.957] [info] Framework.cpp:463 -  * ground_unit_large(8)
+[11:32:45.957] [info] Framework.cpp:463 -  * headquarters(9)
+[11:32:45.957] [info] Framework.cpp:463 -  * ground_unit_artillery(10)
+[11:32:45.957] [info] Framework.cpp:463 -  * main(11)
+[11:32:45.957] [info] Framework.cpp:463 -  * player(12)
+[11:32:45.957] [info] Framework.cpp:463 -  * prop(13)
+[11:32:45.957] [info] Framework.cpp:463 -  * resource(14)
+[11:32:45.957] [info] Framework.cpp:463 -  * shield(15)
+[11:32:45.957] [info] Framework.cpp:463 -  * spawner(16)
+[11:32:45.957] [info] Framework.cpp:463 -  * tower(17)
+[11:32:45.957] [info] Framework.cpp:463 -  * water(18)
+[11:32:45.957] [info] Framework.cpp:463 -  * wall(19)
+[11:32:45.957] [info] Framework.cpp:463 -  * quelver(20)
+[11:32:45.957] [info] Framework.cpp:463 -  * air_unit(21)
+[11:32:45.957] [info] Framework.cpp:463 -  * drones(22)
+[11:32:45.957] [info] Framework.cpp:463 -  * invisible(23)
+[11:32:45.957] [info] Framework.cpp:463 -  * flora(24)
+[11:32:45.957] [info] Framework.cpp:463 -  * crystal(25)
+[11:32:45.957] [info] Framework.cpp:463 -  * light(26)
+[11:32:45.957] [info] Framework.cpp:463 -  * not_move_to_target(27)
+[11:32:45.957] [info] Framework.cpp:463 -  * scannable(28)
+[11:32:45.957] [info] Framework.cpp:463 -  * spikybulb(29)
+[11:32:45.957] [info] Framework.cpp:463 -  * wreck_small(30)
+[11:32:45.957] [info] Framework.cpp:463 -  * wreck_medium(31)
+[11:32:45.957] [info] Framework.cpp:463 -  * wreck_large(32)
+[11:32:45.957] [info] Framework.cpp:463 -  * prop_alien(33)
+[11:32:45.958] [info]  - Installing plugin: ParticleUniverse
+[11:32:45.960] [info]  - Plugin successfully installed
+[11:32:46.175] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.6754736816986254%)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 159.22265625MB (usage)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.12854187591535693%)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.380859375MB (budget)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 83.19921875MB (usage)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[11:32:46.183] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.6904296875MB (available for reserve)
+[11:32:46.188] [info] VfsNativeArchive.cpp:52 - [VFS] mounting: `C:\Users\GeminiWaterAce\Documents\The Riftbreaker\cache\dx12` as `/.cache`
+[11:32:46.196] [info] MaterialPlugin.cpp:122 - Init ParticleTechniqueGenerator
+[11:32:46.196] [info] MaterialPlugin.cpp:128 - Init UpscaleMaskTechniqueGenerator
+[11:32:46.196] [info] MaterialPlugin.cpp:134 - Init ShadowTechniqueGenerator
+[11:32:46.197] [info] MaterialPlugin.cpp:140 - Init VelocityTechniqueGenerator
+[11:32:46.197] [info] MaterialPlugin.cpp:146 - Init DecalTechniqueGenerator
+[11:32:46.197] [info] MaterialPlugin.cpp:152 - Init GBufferTechniqueGenerator
+[11:32:47.432] [info] RiftbreakerApp.cpp:170 - The Riftbreaker EXE: 648 DATA: 274 
+[11:32:47.436] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[11:32:47.511] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: r_upscaler
+[11:32:47.511] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: r_upscaler
+[11:32:47.511] [info] ConfigVarRegistry.cpp:90 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
+[11:32:47.511] [info] CompositorGraph.cpp:36 - Created compositor: `gui`
+[11:32:47.514] [info] CompositorGraph.cpp:552 - 0 CompositorNode : gui
+[11:32:47.514] [info] CompositorGraph.cpp:552 - 1 CompositorNode : gui_final
+[11:32:47.514] [info] CompositorGraph.cpp:623 - RenderTarget: main start: 0 end: 1
+[11:32:47.514] [info] CompositorGraph.cpp:626 - RenderTargets Memory : 33177600
+[11:32:47.514] [info] CompositorGraph.cpp:658 - Compositor Memory Usage (optimized): 33177600
+[11:32:47.519] [info] RenderingState.cpp:388 - Change compositor: `gui`
+[11:32:47.738] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/exor_logo_animated.ogv
+[11:32:47.740] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[11:32:47.742] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[11:32:59.913] [info] RenderingState.cpp:313 - ReleaseRenderingAccess
+[11:32:59.926] [info] ControllerState.cpp:455 - OnStartupLogosFinishedEvent
+[11:32:59.926] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[11:32:59.935] [info] SignInState.cpp:71 - Entering SignInState...
+[11:32:59.935] [info] DefaultSignIn.cpp:82 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( PAD, 0 )
+[11:32:59.944] [info] RenderingState.cpp:388 - Change compositor: `gui`
+[11:32:59.946] [info] Save.cpp:187 - Save get save list started.
+[11:32:59.947] [info] Save.cpp:101 - Save load started. Name user_config
+[11:32:59.948] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:59.948] [info] Save.cpp:109 -   * user.cfg
+[11:32:59.948] [info] Save.cpp:109 -   * steam_mods_disabled.txt
+[11:32:59.948] [info] Save.cpp:109 -   * steam_autocloud.vdf
+[11:32:59.948] [info] Save.cpp:109 -   * modio_mods_disabled.txt
+[11:32:59.948] [info] Save.cpp:109 -   * mechActionMapv2.am
+[11:32:59.948] [info] Save.cpp:109 -   * buildModeScreenActionMapv2.am
+[11:32:59.948] [info] Save.cpp:109 -   * buildModeActionMapv2.am
+[11:32:59.948] [info] SaveRequestProcessor.cpp:175 - Load took : 0.001404
+[11:32:59.948] [info] Save.cpp:101 - Save load started. Name user_profile
+[11:32:59.948] [info] Save.cpp:192 - GetSaveList output:
+[11:32:59.948] [info] Save.cpp:195 -   * 2630994494.campaign
+[11:32:59.948] [info] Save.cpp:195 -   * 2630994494_10112021210745.map
+[11:32:59.948] [info] Save.cpp:195 -   * 2630994494_10112021212430.map
+[11:32:59.948] [info] Save.cpp:195 -   * 2630994494_10112021213406.map
+[11:32:59.948] [info] Save.cpp:195 -   * 98081668.campaign
+[11:32:59.948] [info] Save.cpp:195 -   * 98081668_09112021230552.map
+[11:32:59.948] [info] Save.cpp:195 -   * 98081668_10112021003853.map
+[11:32:59.948] [info] Save.cpp:195 -   * 98081668_10112021204743.map
+[11:32:59.948] [info] Save.cpp:195 -   * 98081668_10112021210350.map
+[11:32:59.949] [info] Save.cpp:101 - Save load started. Name 2630994494.campaign
+[11:32:59.949] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:59.949] [info] Save.cpp:109 -   * steam_autocloud.vdf
+[11:32:59.949] [info] Save.cpp:109 -   * 0
+[11:32:59.949] [info] SaveRequestProcessor.cpp:175 - Load took : 0.001147
+[11:32:59.950] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjM0.inf
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjM0.cs
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjI0.inf
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjI0.cs
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjA3.inf
+[11:32:59.950] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjA3.cs
+[11:32:59.950] [info] OgreVideoManager.cpp:243 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
+[11:32:59.950] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[11:32:59.950] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[11:32:59.950] [info] OgreVideoManager.cpp:243 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv state=paused
+[11:32:59.950] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[11:32:59.950] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[11:32:59.950] [info] OgreVideoManager.cpp:243 - frameStarted: Destroy Clip: materials/textures/gui/logos/exor_logo_animated.ogv state=paused
+[11:32:59.950] [info] TheoraVideoManager.cpp:273 - Destroying video clip: materials/textures/gui/logos/exor_logo_animated.ogv
+[11:32:59.950] [info] TheoraVideoManager.cpp:274 -  - state=paused
+[11:32:59.951] [info] Save.cpp:101 - Save load started. Name 98081668.campaign
+[11:32:59.952] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjE6MDM=.inf
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjE6MDM=.cs
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjA6NDc=.inf
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjA6NDc=.cs
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMDA6Mzg=.inf
+[11:32:59.952] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMDA6Mzg=.cs
+[11:32:59.953] [info] Save.cpp:101 - Save load started. Name 98081668.campaign
+[11:32:59.954] [info] Save.cpp:106 - Load save packagecontent:
+[11:32:59.954] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjE6MDM=.cs
+[11:32:59.954] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMjA6NDc=.cs
+[11:32:59.954] [info] Save.cpp:109 -   * 6Ieq5Yqo5L+d5a2YOiAyMDIxLjExLjEwIC0gMDA6Mzg=.cs
+[11:32:59.969] [info] TheoraVideoManager.cpp:387 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[11:33:00.002] [info] Save.cpp:101 - Save load started. Name 2630994494.campaign
+[11:33:00.004] [info] Save.cpp:106 - Load save packagecontent:
+[11:33:00.004] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjM0.cs
+[11:33:00.004] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjI0.cs
+[11:33:00.004] [info] Save.cpp:109 -   * MjAyMS4xMS4xMCAtIDIxOjA3.cs
+[11:33:00.031] [info] Save.cpp:187 - Save get save list started.
+[11:33:00.033] [info] Save.cpp:192 - GetSaveList output:
+[11:33:00.033] [info] Save.cpp:195 -   * 2630994494.campaign
+[11:33:00.033] [info] Save.cpp:195 -   * 2630994494_10112021210745.map
+[11:33:00.033] [info] Save.cpp:195 -   * 2630994494_10112021212430.map
+[11:33:00.033] [info] Save.cpp:195 -   * 2630994494_10112021213406.map
+[11:33:00.033] [info] Save.cpp:195 -   * 98081668.campaign
+[11:33:00.033] [info] Save.cpp:195 -   * 98081668_09112021230552.map
+[11:33:00.033] [info] Save.cpp:195 -   * 98081668_10112021003853.map
+[11:33:00.033] [info] Save.cpp:195 -   * 98081668_10112021204743.map
+[11:33:00.033] [info] Save.cpp:195 -   * 98081668_10112021210350.map
+[11:33:00.036] [info] SignInState.cpp:105 - Config variables:
+[11:33:00.036] [info] SignInState.cpp:117 -  * autosave_timer : 20
+[11:33:00.036] [info] SignInState.cpp:117 -  * camera_mode : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * camera_shake : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * d3d12_debug_layer : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * d3d12_disable_residency_manager : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * d3d12_gpu_dump : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * d3d12_gpu_validation : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * debug_build_mode_grid : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * decal_max_count : 500
+[11:33:00.036] [info] SignInState.cpp:117 -  * difficulty : brutal
+[11:33:00.036] [info] SignInState.cpp:117 -  * enable_liquid_splashes : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * enable_pause_on_platform_overlay_event : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * enable_seasonal_events : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * full_screen : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_boss_health_bars : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_buildings_damage_annoucements : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_buildings_destroy_annoucements : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_buildings_leave_ruins : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_dynamic_vegetation : 2
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_enable_tutorials : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_fullstorage_annoucements : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_mech_health_bars : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_missing_resources_annoucements : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * g_tower_ammo_missing_annoucements : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * gamepad_buttons_scheme : 
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_enable_ammo_modifier : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_pop_cumulate : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_pop_damage_display : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_pop_non_player_damage_display : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_pop_only_critical : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * hud_pop_show_damage_type_icons : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * lamp_context_support : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * languages : CHINESE_SP
+[11:33:00.036] [info] SignInState.cpp:117 -  * last_upsell_marker_shown : 
+[11:33:00.036] [info] SignInState.cpp:117 -  * light_limits : 2
+[11:33:00.036] [info] SignInState.cpp:117 -  * local_config_version : 2
+[11:33:00.036] [info] SignInState.cpp:117 -  * max_wreck_amount : 400
+[11:33:00.036] [info] SignInState.cpp:117 -  * minimap_zoom : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * mods_warning_popup_shown : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * monitor : \\.\DISPLAY2
+[11:33:00.036] [info] SignInState.cpp:117 -  * mouse_clamp : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * mouse_cursor_size : 1080
+[11:33:00.036] [info] SignInState.cpp:117 -  * mouse_sensitivity : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * neutral_ground_unit_max_count : 300
+[11:33:00.036] [info] SignInState.cpp:117 -  * pad_triggers_feedback : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * pad_vibrations_function : 2
+[11:33:00.036] [info] SignInState.cpp:117 -  * part_effect_chance : 0.75
+[11:33:00.036] [info] SignInState.cpp:117 -  * part_lifetime : 15
+[11:33:00.036] [info] SignInState.cpp:117 -  * part_max_number : 300
+[11:33:00.036] [info] SignInState.cpp:117 -  * play_voice_over_alerts : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_ambient_occlusion : hbao
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_ambient_occlusion_quality_ray : low
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_ambient_occlusion_ray : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_anti_aliasing : txaa
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_debug_rendering : none
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_fsr : ultra_performance
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_max_fps : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_reflections : high
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_shadow_quality : ultra
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_shadow_quality_ray : high
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_soft_shadows : pcss
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_soft_shadows_ray : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_textures_mipmap_level : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_upscale : 100%
+[11:33:00.036] [info] SignInState.cpp:117 -  * r_xess : none
+[11:33:00.036] [info] SignInState.cpp:117 -  * render_system : dx12
+[11:33:00.036] [info] SignInState.cpp:117 -  * season_popup_showed : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * shadow_const_bias : 5
+[11:33:00.036] [info] SignInState.cpp:117 -  * shadow_slope_bias : 5
+[11:33:00.036] [info] SignInState.cpp:117 -  * shadow_texture_size : 2048
+[11:33:00.036] [info] SignInState.cpp:117 -  * show_controls_hud : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * show_missing_ammo : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * showed_change_info : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * showed_rotate_info : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * slot_change_counter : 10
+[11:33:00.036] [info] SignInState.cpp:117 -  * stream_events_negative : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * stream_events_positive : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * stream_voting_time : 40
+[11:33:00.036] [info] SignInState.cpp:117 -  * tooltips_delay : 0.400000006
+[11:33:00.036] [info] SignInState.cpp:117 -  * twelve_hours_time_policy : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_float_0 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_float_1 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_float_2 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_float_3 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_int_0 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_int_1 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_int_2 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * uniform_debug_int_3 : 0
+[11:33:00.036] [info] SignInState.cpp:117 -  * user_config_version : 4
+[11:33:00.036] [info] SignInState.cpp:117 -  * vibration : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * video_adapter : 
+[11:33:00.036] [info] SignInState.cpp:117 -  * video_mode : 3840x2160:32
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_announcement : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_dialog : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_event : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_master : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_music : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * volume_sfx : 1
+[11:33:00.036] [info] SignInState.cpp:117 -  * vsync : 0
+[11:33:00.789] [info] DefaultSignIn.cpp:82 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( KEYBOARD, 0 )ControllerId( PAD, 0 )ControllerId( MOUSE, 0 )
+[11:33:26.056] [info] RenderingState.cpp:447 - OnFocusLost
+[11:33:26.121] [info] OgreD3D12RenderWindowWin32.cpp:243 - RenderWindow focus lost
+[11:33:32.713] [info] RenderingState.cpp:458 - OnFocusGain
+[11:33:32.773] [info] OgreD3D12RenderWindowWin32.cpp:252 - RenderWindow focus gain
+[11:33:39.175] [info] RenderingState.cpp:447 - OnFocusLost
+[11:33:39.176] [info] OgreD3D12RenderWindowWin32.cpp:243 - RenderWindow focus lost
+[11:33:42.489] [warning] ExternalContentModio.cpp:46 - modio: ERROR[ 20489 ]='An error occurred making a HTTP request'
+[11:33:42.543] [info] TeamManager.cpp:21 - Creating team relation escape id :0
+[11:33:42.543] [info] TeamManager.cpp:21 - Creating team relation hostility id :1
+[11:33:42.574] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_audio.zip` as `/`
+[11:33:42.583] [info] VfsZipArchive.cpp:464 - CD offset = 916376365/916628184
+[11:33:42.587] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_data.zip` as `/`
+[11:33:42.613] [info] VfsZipArchive.cpp:573 - Found Zip64 EOCD locator
+[11:33:42.613] [info] VfsZipArchive.cpp:584 - Found Zip64 EOCD confirmed
+[11:33:42.613] [info] VfsZipArchive.cpp:464 - CD offset = 5391492513/5396276529
+[11:33:43.008] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_video.zip` as `/`
+[11:33:43.016] [info] VfsZipArchive.cpp:464 - CD offset = 509534215/509535711
+[11:33:43.016] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_audio.zip` as `/`
+[11:33:43.025] [info] VfsZipArchive.cpp:464 - CD offset = 494790/494925
+[11:33:43.025] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_data.zip` as `/`
+[11:33:43.033] [info] VfsZipArchive.cpp:464 - CD offset = 7432977/7437426
+[11:33:43.033] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\02_win_audio.zip` as `/`
+[11:33:43.039] [info] VfsZipArchive.cpp:464 - CD offset = 20687779/20692355
+[11:33:43.039] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\02_win_data.zip` as `/`
+[11:33:43.046] [info] VfsZipArchive.cpp:464 - CD offset = 528973548/529346595
+[11:33:43.053] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\03_win_audio.zip` as `/`
+[11:33:43.061] [info] VfsZipArchive.cpp:464 - CD offset = 9725230/9727532
+[11:33:43.061] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\03_win_data.zip` as `/`
+[11:33:43.069] [info] VfsZipArchive.cpp:464 - CD offset = 358603893/358698478
+[11:33:43.070] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\99_win_shaders_cache.zip` as `/`
+[11:33:43.076] [info] VfsZipArchive.cpp:464 - CD offset = 601526/612206
+[11:33:43.076] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_audio_dlc_1.zip` as `/`
+[11:33:43.083] [info] VfsZipArchive.cpp:464 - CD offset = 134513324/134551314
+[11:33:43.083] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_data_dlc_1.zip` as `/`
+[11:33:43.092] [info] VfsZipArchive.cpp:464 - CD offset = 380049/386691
+[11:33:43.092] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_video_dlc_1.zip` as `/`
+[11:33:43.098] [info] VfsZipArchive.cpp:464 - CD offset = 742195806/742196123
+[11:33:43.098] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\01_win_audio_dlc_1.zip` as `/`
+[11:33:43.105] [info] VfsZipArchive.cpp:464 - CD offset = 733565/733700
+[11:33:43.105] [info] VfsZipArchive.cpp:172 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\01_win_data_dlc_1.zip` as `/`
+[11:33:43.108] [info] VfsZipArchive.cpp:464 - CD offset = 5279/5711
+[11:33:43.282] [info] RenderingState.cpp:313 - ReleaseRenderingAccess
+[11:33:45.166] [info]  - Uninstalling plugin: ParticleUniverse
+[11:33:45.166] [info]  - Plugin successfully uninstalled
+[11:33:45.510] [info]  - Unloading resource group general
+[11:33:45.510] [info]  - Finished unloading resource group general
+[11:33:45.510] [info]  - Destroying resource group general
+[11:33:45.510] [info]  - Unloading resource group general
+[11:33:45.510] [info]  - Finished unloading resource group general
+[11:33:45.516] [info] AudioBase.cpp:64 - Audio shutdown starts...
+[11:33:45.516] [info] AudioBase.cpp:93 - Audio shutdown finished successfully in ~0ms
+[11:33:45.612] [info] AudioBase.cpp:64 - Audio shutdown starts...
+[11:33:45.612] [info] AudioBase.cpp:93 - Audio shutdown finished successfully in ~0ms
+[11:33:45.629] [info]  - DefaultWorkQueue('Root') shutting down on thread main.
+[11:33:45.629] [info]  - *-*-* OGRE Shutdown
+[11:33:45.629] [info]  - Unregistering ResourceManager for type Font
+[11:33:45.629] [info]  - Unregistering ResourceManager for type Skeleton
+[11:33:45.629] [info]  - Unregistering ResourceManager for type Mesh
+[11:33:45.629] [info]  - Unregistering ResourceManager for type HighLevelGpuProgram
+[11:33:45.629] [info]  - Unregistering ResourceManager for type Material
+[11:33:45.630] [info] ApplicationAbstract.cpp:53 - Destroying application

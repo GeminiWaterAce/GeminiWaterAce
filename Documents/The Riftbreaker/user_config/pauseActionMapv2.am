@@ -1,0 +1,101 @@
+ActionMapResource
+{
+	name "pauseActionMapv2"
+	composite_action_map
+	stick_to_action_map
+	key_to_action_map
+	{
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pause"
+				}
+
+			}
+
+			key "27"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "pause"
+				}
+
+			}
+
+			key "266"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "debug_menu"
+				}
+
+			}
+
+			key "122"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "QUICK_SAVE"
+				}
+
+			}
+
+			key "116"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "QUICK_LOAD"
+				}
+
+			}
+
+			key "119"
+		}
+
+	}
+
+	trigger_to_action_map
+	non_blocking_action_set
+	mouse_axis_action_names
+	{
+		String
+		String
+	}
+
+	mouse_absolute_action_names
+	{
+		String
+		String
+	}
+
+	mouse_wheel_action
+}
+

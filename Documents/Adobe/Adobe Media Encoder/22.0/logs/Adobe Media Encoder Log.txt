@@ -1,0 +1,68 @@
+Log file created: 2023-05-13 23:55:27
+---------------------------------------
+Ticks = 610      <23980> <DynamicLink> <5> Increase wait time to 2
+Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 1781      <10272> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 5657
+Ticks = 4172      <10272> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 4469      <13164> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 5813      <1740> <GPUFoundation> <5> Loading modules took: 1.64014s, device: CUDA(0)
+Ticks = 5891      <13164> <AMEApp> <0> Time taken to load MediaCore plugins: 1419.5 milliseconds.
+Ticks = 6547      <13164> <AMEApp> <1> Entering RunEventLoop
+Ticks = 307063      <13164> <NGL> <5> GoCart invocation failed: 4
+Ticks = 707641      <23980> <LoadProject> <0> 0.0409339s
+Ticks = 707656      <23980> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 707860      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 708203      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 708610      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 711485      <15868> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 711610      <15868> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 711641      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 767766      <24960> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 769625      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1171406      <24608> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1172297      <18632> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1405266      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1447281      <20904> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1456156      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1535485      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1585328      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1649156      <25908> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1654375      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1735219      <24608> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 1992031      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2054297      <22988> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2171610      <25908> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2199266      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2300297      <20856> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2339063      <12172> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+
+Ticks = 2354938      <15868> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 2354953      <15868> <NvidiaCodec> <5> Encoded 224897 Frames Encode FPS = 136.866 Encode Size 3840 x 2160
+Ticks = 2376547      <15868> <EncoderStateH264> <1> Time taken for; video =1399719 audio=33246 mux=21550
+Ticks = 2376813      <15868> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1665.33 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第14期.mp4
+----------------------------------------
+Log file closed: 2023-05-14 01:36:01
+

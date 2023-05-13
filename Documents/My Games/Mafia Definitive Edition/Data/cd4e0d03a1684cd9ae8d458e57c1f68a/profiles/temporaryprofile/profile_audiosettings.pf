@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<C_SaveDataUnwrapped>
+	<m_Blocks>
+		<S_AudioSettingsSaveBlock>
+			<m_MasterVolume>1.00000000e+00</m_MasterVolume>
+			<m_DialogueVolume>1.00000000e+00</m_DialogueVolume>
+			<m_MusicVolume>1.00000000e+00</m_MusicVolume>
+			<m_SFXVolume>1.00000000e+00</m_SFXVolume>
+			<m_DynamicRange>1</m_DynamicRange>
+			<m_CutsceneVolume>1.00000000e+00</m_CutsceneVolume>
+			<m_Id>AudioSettings</m_Id>
+			<m_Layer>0</m_Layer>
+		</S_AudioSettingsSaveBlock>
+	</m_Blocks>
+</C_SaveDataUnwrapped>¢P-
