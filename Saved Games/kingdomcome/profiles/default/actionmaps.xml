@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ActionMaps version="79">
+  <actionmap name="alchemy">
+    <action name="alch_use_bag">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_use_sandglass">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_open_inventory">
+      <rebind device="keyboard" input="i" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_reset">
+      <rebind device="keyboard" input="r" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_use">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_exit">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="alch_back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="book_transcription">
+    <action name="transcription_skip">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="building">
+    <action name="build_overview">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="build_structure">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="build_upgrade">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="build_upgrade2">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="build_outerb">
+      <rebind device="keyboard" input="r" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="carryCorpse">
+    <action name="put_corpse">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="custom_quest_call_horse">
+    <action name="custom_quest_call_horse_action">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="default">
+    <action name="tobii_enable">
+      <rebind device="keyboard" input="f11" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_skipDialog">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_inv_rotate_right">
+      <rebind device="keyboard" input="l" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_reset">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_skipCutscene">
+      <rebind device="keyboard" input="space" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_abortCutscene">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_mouse_left">
+      <rebind device="keyboard" input="mouse1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_mouse_wheel_up">
+      <rebind device="keyboard" input="mwheel_up" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_mouse_wheel_down">
+      <rebind device="keyboard" input="mwheel_down" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_map_center">
+      <rebind device="keyboard" input="mouse3" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_accept">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_confirm">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_clear">
+      <rebind device="keyboard" input="delete" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_inv_rotate_left">
+      <rebind device="keyboard" input="k" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_left">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_horse">
+      <rebind device="keyboard" input="b" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_right">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_map">
+      <rebind device="keyboard" input="m" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_quest">
+      <rebind device="keyboard" input="j" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_down">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="screenshot">
+      <rebind device="keyboard" input="f12" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_up">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_open_skiptime">
+      <rebind device="keyboard" input="t" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_cycle_tabs">
+      <rebind device="keyboard" input="tab" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_codex">
+      <rebind device="keyboard" input="n" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_player">
+      <rebind device="keyboard" input="p" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_start_pause">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_toggle_inventory">
+      <rebind device="keyboard" input="i" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_open_skiptime_inventoryoff">
+      <rebind device="keyboard" input="t" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_scroll_down">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_zoom_down_help">
+      <rebind device="keyboard" input="mwheel_down" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_zoom_up_help">
+      <rebind device="keyboard" input="mwheel_up" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_scroll_up">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="dice">
+    <action name="dice_up">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_down">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_left">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_right">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_end">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_score">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_pass">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="dice_hold">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="dog">
+    <action name="combat_request_dog">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="cancel_dog">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="request_dog">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="game_over">
+    <action name="accept_game_over">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="help_dialog">
+    <action name="open_help_screen">
+      <rebind device="keyboard" input="t" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="helpscreen">
+    <action name="close_help_screen">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="helpscreen_left">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="helpscreen_right">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="horse">
+    <action name="horse_dismount">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_sprint">
+      <rebind device="keyboard" input="lshift" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_toggle_run">
+      <rebind device="keyboard" input="capslock" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_turnleft">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_turnright">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_deccelerate">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="horse_accelerate">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="block">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="weapon_set2">
+      <rebind device="keyboard" input="2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="weapon_set1">
+      <rebind device="keyboard" input="1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack1_mouse">
+      <rebind device="keyboard" input="mouse1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack_abort_mouse">
+      <rebind device="keyboard" input="mouse2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="toggle_torch">
+      <rebind device="keyboard" input="1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack3">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack_abort">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack2">
+      <rebind device="keyboard" input="mouse2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="jump">
+      <rebind device="keyboard" input="space" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="surrender">
+      <rebind device="keyboard" input="g" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="loading">
+    <action name="ui_skipIntro">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="ui_confirmAfterLoad">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="lockpicking">
+    <action name="lock_dir_fwd">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="lock_dir_bck">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="minigame">
+    <action name="back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="pickpocketing">
+    <action name="charge">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="pickpocketing_ui">
+    <action name="turn_right">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="pickpocketing_take">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="turn_left">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="pickpocketing_close">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="pickpocketing_uncover">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="player">
+    <action name="use">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="block">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="weapon_set2">
+      <rebind device="keyboard" input="2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="weapon_set1">
+      <rebind device="keyboard" input="1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="combat_unlock_mouse">
+      <rebind device="keyboard" input="mouse3" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="opponent_lock">
+      <rebind device="keyboard" input="tab" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack1_mouse">
+      <rebind device="keyboard" input="mouse1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack_abort_mouse">
+      <rebind device="keyboard" input="mouse2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="toggle_torch">
+      <rebind device="keyboard" input="1" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack3">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="mount_horse">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="call_horse">
+      <rebind device="keyboard" input="x" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="use_bed">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="use_other">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack_abort">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="attack2">
+      <rebind device="keyboard" input="mouse2" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="moveforward">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="moveright">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="rotateleft">
+      <rebind device="keyboard" input="k" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="toggle_crouch">
+      <rebind device="keyboard" input="c" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="rotateright">
+      <rebind device="keyboard" input="l" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sprint">
+      <rebind device="keyboard" input="lshift" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="jump">
+      <rebind device="keyboard" input="space" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="toggle_run">
+      <rebind device="keyboard" input="capslock" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="moveback">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="moveleft">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="combat_switch_opp_next">
+      <rebind device="keyboard" input="mwheel_up" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="combat_switch_opp_prev">
+      <rebind device="keyboard" input="mwheel_down" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="surrender">
+      <rebind device="keyboard" input="g" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="use_stop">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="reading">
+    <action name="read_back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_prev">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_select">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_next">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_toggle">
+      <rebind device="keyboard" input="q" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_select2">
+      <rebind device="keyboard" input="f" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="read_use">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="sharpening">
+    <action name="sword_pressure_up">
+      <rebind device="keyboard" input="mwheel_up" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sword_pressure_down">
+      <rebind device="keyboard" input="mwheel_down" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="back">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="xi_pedaling">
+      <rebind device="keyboard" input="space" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sword_position_left">
+      <rebind device="keyboard" input="a" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sword_rotation_up">
+      <rebind device="keyboard" input="w" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sword_rotation_down">
+      <rebind device="keyboard" input="s" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sword_position_right">
+      <rebind device="keyboard" input="d" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+  <actionmap name="sitting">
+    <action name="sitting_end">
+      <rebind device="keyboard" input="escape" defaultInput="_keybinds_ref_" />
+    </action>
+    <action name="sitting_sleep">
+      <rebind device="keyboard" input="e" defaultInput="_keybinds_ref_" />
+    </action>
+  </actionmap>
+</ActionMaps>

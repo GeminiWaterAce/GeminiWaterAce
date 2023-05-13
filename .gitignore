@@ -1,1 +1,32 @@
-*.ini
+/.ssh
+/.vscode
+/Downloads
+/Music
+/Desktop
+/.bash_history
+/.gitconfig
+/NTUSER.DAT
+/3D Objects
+/ansel
+/Creative Cloud Files
+/OneDrive
+/Programs
+/Contacts - 副本
+/Links - 副本
+/Videos
+/Favorites
+/Searches
+/Pictures
+/Documents/Tencent Files
+/Documents/TencentMeeting
+/AppData/Local/Afterimage/Saved/Logs
+/AppData/Local/Afterimage/Saved/Config
+/AppData/Local/BloodstainedRotN/Saved/Logs
+/AppData/Local/BloodstainedRotN/Saved/Config
+/AppData/Local/CrashBandicoot4/Saved/Config
+/AppData/Local/CrashBandicoot4/Saved/Logs
+/AppData/Local/CrashBandicoot4/Saved/Profiling
+/AppData/Local/ItTakesTwo/Saved/Config
+/AppData/Local/ItTakesTwo/Saved/Logs
+/AppData/Local/ZingangGame/Saved/Logs
+/AppData/Local/ZingangGame/Saved/Config

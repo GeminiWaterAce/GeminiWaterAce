@@ -1,0 +1,11 @@
+{
+	"WindowMode": "Fullscreen",
+	"Resolution": "3840x2160",
+	"VSync": "Off",
+	"TextureQuality": "Ultra",
+	"ShadowQuality": "Ultra",
+	"AntiAliasing": "MSAA4x",
+	"MaxAnisotropy": "16X",
+	"PostProcessingQuality": "Ultra",
+	"Gamma": "5.000000"
+}

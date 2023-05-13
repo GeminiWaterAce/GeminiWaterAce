@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<Attributes Version="31">
+    <Attr name="LodRatio" value="23" />
+    <Attr name="MergedMeshesRatio" value="76" />
+    <Attr name="ViewDistRatio" value="60" />
+    <Attr name="controller_sensitivity" value="45" />
+    <Attr name="controls_invertCombatMouse" value="false" />
+    <Attr name="controls_invertController" value="false" />
+    <Attr name="controls_invertMouse" value="false" />
+    <Attr name="controls_sensitivity" value="45" />
+    <Attr name="fov" value="75" />
+    <Attr name="fps" value="0" />
+    <Attr name="gamma" value="-1" />
+    <Attr name="keybinds_settings" value="&lt;keybinds /&gt;&#x0A;" />
+    <Attr name="nat_res_x" value="0" />
+    <Attr name="nat_res_y" value="0" />
+    <Attr name="r_AntialiasingMode" value="3" />
+    <Attr name="r_MotionBlur" value="2" />
+    <Attr name="res_fs" value="1" />
+    <Attr name="res_quality" value="0" />
+    <Attr name="res_x" value="3840" />
+    <Attr name="res_y" value="2160" />
+    <Attr name="sound_music" value="0.7" />
+    <Attr name="sound_sound" value="0.7" />
+    <Attr name="sound_video" value="0.7" />
+    <Attr name="sound_voice" value="0.7" />
+    <Attr name="sys_spec_GameEffects" value="7" />
+    <Attr name="sys_spec_ObjectDetail" value="1" />
+    <Attr name="sys_spec_Particles" value="4" />
+    <Attr name="sys_spec_Physics" value="7" />
+    <Attr name="sys_spec_PostProcessing" value="3" />
+    <Attr name="sys_spec_Shading" value="1" />
+    <Attr name="sys_spec_Shadows" value="3" />
+    <Attr name="sys_spec_Texture" value="2" />
+    <Attr name="sys_spec_Vegetation" value="7" />
+    <Attr name="sys_spec_VolumetricEffects" value="7" />
+    <Attr name="sys_spec_Water" value="1" />
+    <Attr name="sys_spec_light" value="7" />
+    <Attr name="tobii_cleanui_on" value="true" />
+    <Attr name="tobii_enabled" value="true" />
+    <Attr name="tobii_eview_sensitivity" value="1" />
+    <Attr name="tobii_ext_view_on" value="true" />
+    <Attr name="tobii_interact_on" value="true" />
+    <Attr name="tobii_lock_target_on" value="true" />
+    <Attr name="vsync" value="0" />
+    <Attr name="wh_pl_LockPickingMode" value="false" />
+    <Attr name="wh_r_HDTextures" value="false" />
+    <Attr name="wh_ui_BubblesEnabled" value="true" />
+    <Attr name="wh_ui_PreferredInputDevice" value="0" />
+    <Attr name="wh_ui_SubtitlesEnabled" value="true" />
+    <Attr name="wh_ui_TutorialsEnabled" value="true" />
+</Attributes>
