@@ -215,3 +215,7 @@ ntuser.*
 /AppData/Roaming/WinRAR
 /AppData/Roaming/thunder
 /AppData/Local/Afterimage/Saved/SaveGames/steam_autocloud.vdf
+/AppData/Roaming/Code
+/AppData/Roaming/GitHub Desktop
+/AppData/Roaming/TortoiseGit
+/AppData/Roaming/vlc
