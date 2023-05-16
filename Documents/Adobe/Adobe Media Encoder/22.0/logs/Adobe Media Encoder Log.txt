@@ -1,68 +1,99 @@
-Log file created: 2023-05-13 23:55:27
+Log file created: 2023-05-15 19:06:00
 ---------------------------------------
-Ticks = 610      <23980> <DynamicLink> <5> Increase wait time to 2
-Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 625      <13164> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 1781      <10272> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 5657
-Ticks = 4172      <10272> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
-Ticks = 4469      <13164> <DisplaySurface> <5> directx display init failed with error: -1598816154
-Ticks = 5813      <1740> <GPUFoundation> <5> Loading modules took: 1.64014s, device: CUDA(0)
-Ticks = 5891      <13164> <AMEApp> <0> Time taken to load MediaCore plugins: 1419.5 milliseconds.
-Ticks = 6547      <13164> <AMEApp> <1> Entering RunEventLoop
-Ticks = 307063      <13164> <NGL> <5> GoCart invocation failed: 4
-Ticks = 707641      <23980> <LoadProject> <0> 0.0409339s
-Ticks = 707656      <23980> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 707860      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+Ticks = 1921      <21352> <DynamicLink> <5> Increase wait time to 2
+Ticks = 2046      <21288> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 2046      <21288> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 2046      <21288> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 3000      <21372> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 1891
+Ticks = 6109      <21352> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 6421      <21288> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 7718      <21368> <GPUFoundation> <5> Loading modules took: 1.5992s, device: CUDA(0)
+Ticks = 8000      <21288> <AMEApp> <0> Time taken to load MediaCore plugins: 1569.84 milliseconds.
+Ticks = 9156      <21288> <AMEApp> <1> Entering RunEventLoop
+Ticks = 45312      <21420> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 236578      <2096> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 236656      <2096> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 309671      <21288> <NGL> <5> GoCart invocation failed: 4
+Ticks = 1335359      <2096> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 1335359      <2096> <NvidiaCodec> <5> Encoded 227553 Frames Encode FPS = 207.163 Encode Size 1920 x 1080
+Ticks = 1345328      <2096> <EncoderStateH264> <1> Time taken for; video =149184 audio=32531 mux=9927
+Ticks = 1345421      <2096> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1108.85 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第11期.mp4
+Ticks = 1346375      <1476> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 1346468      <1476> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 2110234      <1476> <MCCallback> <5> err_printf: Reservoir buffer underflow at frame #123605
 
-Ticks = 708203      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+Ticks = 2518156      <1476> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 2518156      <1476> <NvidiaCodec> <5> Encoded 240751 Frames Encode FPS = 205.521 Encode Size 1920 x 1080
+Ticks = 2529312      <1476> <EncoderStateH264> <1> Time taken for; video =176188 audio=33592 mux=11121
+Ticks = 2529437      <1476> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1183.07 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第12期.mp4
+Ticks = 2530734      <4028> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 2530843      <4028> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 3689421      <4028> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 3689421      <4028> <NvidiaCodec> <5> Encoded 232603 Frames Encode FPS = 200.813 Encode Size 1920 x 1080
+Ticks = 3699375      <4028> <EncoderStateH264> <1> Time taken for; video =170936 audio=31986 mux=9923
+Ticks = 3699500      <4028> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1168.77 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第13期.mp4
+Ticks = 3701781      <3152> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 3701890      <3152> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 4410109      <3152> <MCCallback> <5> err_printf: Reservoir buffer underflow at frame #110432
 
-Ticks = 708610      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+Ticks = 4454031      <3152> <MCCallback> <5> err_printf: Reservoir buffer underflow at frame #117528
 
-Ticks = 711485      <15868> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 711610      <15868> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 711641      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+Ticks = 4812593      <3152> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 4812593      <3152> <NvidiaCodec> <5> Encoded 224897 Frames Encode FPS = 202.52 Encode Size 1920 x 1080
+Ticks = 4822031      <3152> <EncoderStateH264> <1> Time taken for; video =155234 audio=31646 mux=9403
+Ticks = 4822125      <3152> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1120.35 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第14期.mp4
+Ticks = 4825156      <19600> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 4825250      <19600> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 5177593      <19600> <MCCallback> <5> err_printf: Reservoir buffer underflow at frame #56631
 
-Ticks = 767766      <24960> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
+Ticks = 5993484      <19600> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 5993484      <19600> <NvidiaCodec> <5> Encoded 241409 Frames Encode FPS = 206.682 Encode Size 1920 x 1080
+Ticks = 6005359      <19600> <EncoderStateH264> <1> Time taken for; video =132279 audio=33046 mux=11839
+Ticks = 6005453      <19600> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1180.29 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第01期.mp4
+Ticks = 6006593      <4100> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 6006703      <4100> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 7076000      <4100> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 7076000      <4100> <NvidiaCodec> <5> Encoded 219977 Frames Encode FPS = 205.765 Encode Size 1920 x 1080
+Ticks = 7085796      <4100> <EncoderStateH264> <1> Time taken for; video =156177 audio=30905 mux=9766
+Ticks = 7085890      <4100> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1079.29 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第02期.mp4
+Ticks = 7093062      <18560> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 7093156      <18560> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 8133453      <18560> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 8133453      <18560> <NvidiaCodec> <5> Encoded 212024 Frames Encode FPS = 203.856 Encode Size 1920 x 1080
+Ticks = 8143875      <18560> <EncoderStateH264> <1> Time taken for; video =183605 audio=30487 mux=10379
+Ticks = 8143953      <18560> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1050.89 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第03期.mp4
+Ticks = 8145109      <11148> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 8145218      <11148> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 9190281      <11148> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 9190281      <11148> <NvidiaCodec> <5> Encoded 208965 Frames Encode FPS = 200.011 Encode Size 1920 x 1080
+Ticks = 9200750      <11148> <EncoderStateH264> <1> Time taken for; video =165039 audio=30777 mux=10442
+Ticks = 9200937      <11148> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1055.82 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第04期.mp4
+Ticks = 9202062      <12912> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 9202156      <12912> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 9421203      <12912> <MCCallback> <5> err_printf: Reservoir buffer underflow at frame #33826
 
-Ticks = 769625      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1171406      <24608> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1172297      <18632> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1405266      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1447281      <20904> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1456156      <23980> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1535485      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1585328      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1649156      <25908> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1654375      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1735219      <24608> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1992031      <15868> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2054297      <22988> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2171610      <25908> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2199266      <23084> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2300297      <20856> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2339063      <12172> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 2354938      <15868> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 2354953      <15868> <NvidiaCodec> <5> Encoded 224897 Frames Encode FPS = 136.866 Encode Size 3840 x 2160
-Ticks = 2376547      <15868> <EncoderStateH264> <1> Time taken for; video =1399719 audio=33246 mux=21550
-Ticks = 2376813      <15868> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1665.33 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第14期.mp4
+Ticks = 10220406      <12912> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 10220406      <12912> <NvidiaCodec> <5> Encoded 202411 Frames Encode FPS = 198.829 Encode Size 1920 x 1080
+Ticks = 10228562      <12912> <EncoderStateH264> <1> Time taken for; video =165822 audio=29233 mux=8124
+Ticks = 10228671      <12912> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1026.61 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第05期.mp4
+Ticks = 10229453      <13792> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 10229562      <13792> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 11195437      <13792> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 11195437      <13792> <NvidiaCodec> <5> Encoded 193234 Frames Encode FPS = 200.118 Encode Size 1920 x 1080
+Ticks = 11202390      <13792> <EncoderStateH264> <1> Time taken for; video =159638 audio=27484 mux=6919
+Ticks = 11202515      <13792> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 973.058 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第06期.mp4
+Ticks = 11204453      <1608> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 11204546      <1608> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 12321015      <1608> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 12321015      <1608> <NvidiaCodec> <5> Encoded 226025 Frames Encode FPS = 202.487 Encode Size 1920 x 1080
+Ticks = 12332484      <1608> <EncoderStateH264> <1> Time taken for; video =164033 audio=32409 mux=11430
+Ticks = 12332625      <1608> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1128.16 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第07期.mp4
+Ticks = 12333750      <20068> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 12333843      <20068> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 13659000      <20068> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 13659000      <20068> <NvidiaCodec> <5> Encoded 271307 Frames Encode FPS = 204.782 Encode Size 1920 x 1080
+Ticks = 13672562      <20068> <EncoderStateH264> <1> Time taken for; video =231671 audio=37805 mux=13522
+Ticks = 13672718      <20068> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1338.96 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第08期.mp4
 ----------------------------------------
-Log file closed: 2023-05-14 01:36:01
+Log file closed: 2023-05-15 22:54:03
 
