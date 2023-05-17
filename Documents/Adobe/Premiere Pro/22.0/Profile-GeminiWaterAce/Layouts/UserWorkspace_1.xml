@@ -282,10 +282,6 @@
 </string>
 </prop.pair>
 <prop.pair>
-<key>IsFocused</key>
-<true/>
-</prop.pair>
-<prop.pair>
 <key>ReanimTabs</key>
 <array>
 <array.type><string/></array.type>
@@ -433,7 +429,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;Project.ID&lt;/key&gt;
-&lt;ustring&gt;fd3376af-10b9-40a7-8ba5-f1a3deea8e58&lt;/ustring&gt;
+&lt;ustring&gt;73c71411-a2e8-4977-99c4-27124549f669&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;Project.ShouldRestoreTabOnProjectOpen&lt;/key&gt;
@@ -466,8 +462,8 @@
 		&amp;lt;PreviewView.Visible&amp;gt;false&amp;lt;/PreviewView.Visible&amp;gt;
 		&amp;lt;ProjectViewState.ViewHidden&amp;gt;false&amp;lt;/ProjectViewState.ViewHidden&amp;gt;
 		&amp;lt;ProjectViewState.BinID&amp;gt;-1&amp;lt;/ProjectViewState.BinID&amp;gt;
-		&amp;lt;ProjectViewState.OriginalID&amp;gt;010ce724-6933-424d-974c-a325e1ce90f1&amp;lt;/ProjectViewState.OriginalID&amp;gt;
-		&amp;lt;ProjectViewState.ID&amp;gt;9ef79244-e21a-4ab0-916c-bb803f0b0bd6&amp;lt;/ProjectViewState.ID&amp;gt;
+		&amp;lt;ProjectViewState.OriginalID&amp;gt;267ff893-df74-4fea-aaf8-e91dcccea938&amp;lt;/ProjectViewState.OriginalID&amp;gt;
+		&amp;lt;ProjectViewState.ID&amp;gt;048a1fc9-d2e6-4760-a818-391de7d376a6&amp;lt;/ProjectViewState.ID&amp;gt;
 		&amp;lt;ColumnListContents.Version&amp;gt;14&amp;lt;/ColumnListContents.Version&amp;gt;
 	&amp;lt;/ProjectViewState&amp;gt;
 	&amp;lt;ColumnList ObjectID=&amp;quot;2&amp;quot; ClassID=&amp;quot;a1c709cd-35df-4821-8200-03565d374155&amp;quot; Version=&amp;quot;1&amp;quot;&amp;gt;
@@ -978,7 +974,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;ProjectView.ID&lt;/key&gt;
-&lt;ustring&gt;9ef79244-e21a-4ab0-916c-bb803f0b0bd6&lt;/ustring&gt;
+&lt;ustring&gt;048a1fc9-d2e6-4760-a818-391de7d376a6&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
@@ -7145,7 +7141,7 @@
 <key>ReanimTabs</key>
 <array>
 <array.type><string/></array.type>
-<string>Project:fd3376af-10b9-40a7-8ba5-f1a3deea8e58:1000000</string>
+<string>Project:73c71411-a2e8-4977-99c4-27124549f669:1000000</string>
 <string>Project:1aee9e9a-e1ea-4985-80a4-13ace2c4634c:1000000</string>
 <string>Project:6d7a4aae-8aef-440e-a9db-3ddda9e40148:1000000</string>
 <string>Project:e9d94e34-4a6f-4e58-8aa1-322346186b78:1000000</string>
@@ -7174,7 +7170,7 @@
 <string>Effects</string>
 <string>MarkerList</string>
 <string>History</string>
-<string>Project:73c71411-a2e8-4977-99c4-27124549f669:1000000</string>
+<string>Project:fd3376af-10b9-40a7-8ba5-f1a3deea8e58:1000000</string>
 </array>
 </prop.pair>
 <prop.pair>
@@ -7262,7 +7258,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;Project.ID&lt;/key&gt;
-&lt;ustring&gt;73c71411-a2e8-4977-99c4-27124549f669&lt;/ustring&gt;
+&lt;ustring&gt;fd3376af-10b9-40a7-8ba5-f1a3deea8e58&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;Project.ShouldRestoreTabOnProjectOpen&lt;/key&gt;
@@ -7295,8 +7291,8 @@
 		&amp;lt;PreviewView.Visible&amp;gt;false&amp;lt;/PreviewView.Visible&amp;gt;
 		&amp;lt;ProjectViewState.ViewHidden&amp;gt;false&amp;lt;/ProjectViewState.ViewHidden&amp;gt;
 		&amp;lt;ProjectViewState.BinID&amp;gt;-1&amp;lt;/ProjectViewState.BinID&amp;gt;
-		&amp;lt;ProjectViewState.OriginalID&amp;gt;f1ae5598-827b-48b8-a029-bf584de59909&amp;lt;/ProjectViewState.OriginalID&amp;gt;
-		&amp;lt;ProjectViewState.ID&amp;gt;55583190-ddce-4e9a-a5f5-44eee054f2a2&amp;lt;/ProjectViewState.ID&amp;gt;
+		&amp;lt;ProjectViewState.OriginalID&amp;gt;5f6b044e-1ba4-44fd-b39b-8aeaec7a0918&amp;lt;/ProjectViewState.OriginalID&amp;gt;
+		&amp;lt;ProjectViewState.ID&amp;gt;4db02f01-0764-4d3c-8228-702e6ca3ceaa&amp;lt;/ProjectViewState.ID&amp;gt;
 		&amp;lt;ColumnListContents.Version&amp;gt;14&amp;lt;/ColumnListContents.Version&amp;gt;
 	&amp;lt;/ProjectViewState&amp;gt;
 	&amp;lt;ColumnList ObjectID=&amp;quot;2&amp;quot; ClassID=&amp;quot;a1c709cd-35df-4821-8200-03565d374155&amp;quot; Version=&amp;quot;1&amp;quot;&amp;gt;
@@ -7807,7 +7803,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;ProjectView.ID&lt;/key&gt;
-&lt;ustring&gt;55583190-ddce-4e9a-a5f5-44eee054f2a2&lt;/ustring&gt;
+&lt;ustring&gt;4db02f01-0764-4d3c-8228-702e6ca3ceaa&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
@@ -7904,6 +7900,10 @@
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
+</prop.pair>
+<prop.pair>
+<key>IsFocused</key>
+<true/>
 </prop.pair>
 <prop.pair>
 <key>ReanimTabs</key>
@@ -8248,8 +8248,8 @@
 <key>MinPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>-1</int>
-<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-32000</int>
+<int type='signed' size='32'>-32000</int>
 </array>
 </prop.pair>
 <prop.pair>

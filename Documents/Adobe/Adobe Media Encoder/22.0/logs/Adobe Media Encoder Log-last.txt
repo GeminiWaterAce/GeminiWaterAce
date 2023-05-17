@@ -1,109 +1,19 @@
-Log file created: 2023-05-14 22:45:01
+Log file created: 2023-05-16 22:53:13
 ---------------------------------------
-Ticks = 625      <23568> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 625      <23568> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 625      <23568> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 735      <24508> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 13252
-Ticks = 4188      <21368> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
-Ticks = 4250      <23568> <DisplaySurface> <5> directx display init failed with error: -1598816154
-Ticks = 4516      <24508> <GPUFoundation> <5> Loading modules took: 0.319579s, device: CUDA(0)
-Ticks = 5610      <23568> <AMEApp> <0> Time taken to load MediaCore plugins: 1363.35 milliseconds.
-Ticks = 6219      <23568> <AMEApp> <1> Entering RunEventLoop
-Ticks = 59750      <8344> <LoadProject> <0> 0.0380278s
-Ticks = 59766      <8344> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 278407      <21368> <LoadProject> <0> 0.0210219s
-Ticks = 306735      <23568> <NGL> <5> GoCart invocation failed: 4
-Ticks = 584766      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 585016      <21368> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586016      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586141      <11272> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586250      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586391      <21368> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586547      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586688      <11272> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586860      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 586969      <21368> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 587141      <11272> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 589047      <21368> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 589157      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 589375      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 589469      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 803250      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 804797      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 804891      <16312> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 805047      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 805141      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 805250      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 805469      <10592> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 823844      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 836391      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 836485      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 836641      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 836750      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 836985      <10592> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 837141      <5952> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 837266      <21296> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 837375      <10592> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 850063      <5952> <LoadProject> <0> 0.0213971s
-Ticks = 873829      <15960> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 873938      <15960> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 874141      <15960> <MCCallback> <5> wrn_printf: Table A1:Col1 violation. SPS with seq_parameter_set_id = 0 specifies MBs processing rate 1944000 that exceeds level limit 983040 for level_idc = 51
-
-Ticks = 1345344      <15960> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 1345344      <15960> <NvidiaCodec> <5> Encoded 90662 Frames Encode FPS = 192.636 Encode Size 1920 x 1080
-Ticks = 1348579      <15960> <EncoderStateH264> <1> Time taken for; video =86182 audio=13809 mux=3210
-Ticks = 1348641      <15960> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 474.807 seconds. Result code: 0 Destination:C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.13 - 23.10.10.03_1080p素材.mp4
-Ticks = 2043266      <10496> <LoadProject> <0> 0.0253788s
-Ticks = 2194969      <9956> <LoadProject> <0> 0.0310753s
-Ticks = 2318141      <14380> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 2318235      <14380> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 2770563      <14380> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 2770563      <14380> <NvidiaCodec> <5> Encoded 221289 Frames Encode FPS = 489.651 Encode Size 1920 x 1080
-Ticks = 2778750      <14380> <EncoderStateH264> <1> Time taken for; video =264731 audio=31104 mux=8159
-Ticks = 2778922      <14380> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 460.78 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第16期.mp4
-Ticks = 2779438      <15680> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 2779547      <15680> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 3203860      <15680> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 3203860      <15680> <NvidiaCodec> <5> Encoded 207014 Frames Encode FPS = 488.263 Encode Size 1920 x 1080
-Ticks = 3211172      <15680> <EncoderStateH264> <1> Time taken for; video =247291 audio=30087 mux=7284
-Ticks = 3211313      <15680> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 431.883 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第15期.mp4
-Ticks = 3212813      <12596> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 3213032      <12596> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 3617438      <12596> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 3617438      <12596> <NvidiaCodec> <5> Encoded 195783 Frames Encode FPS = 484.802 Encode Size 1920 x 1080
-Ticks = 3624032      <12596> <EncoderStateH264> <1> Time taken for; video =234405 audio=28273 mux=6564
-Ticks = 3624157      <12596> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 411.347 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第17期.mp4
+Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 704      <19984> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 4361
+Ticks = 4172      <5048> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 4235      <7880> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 4516      <4320> <GPUFoundation> <5> Loading modules took: 0.331916s, device: CUDA(0)
+Ticks = 5719      <7880> <AMEApp> <0> Time taken to load MediaCore plugins: 1475.8 milliseconds.
+Ticks = 7016      <7880> <AMEApp> <1> Entering RunEventLoop
+Ticks = 285438      <11272> <LoadProject> <0> 0.0271391s
+Ticks = 285454      <11272> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 307547      <7880> <NGL> <5> GoCart invocation failed: 4
+Ticks = 1016532      <6920> <LoadProject> <0> 0.0148426s
+Ticks = 1094922      <6920> <LoadProject> <0> 0.0126008s
 ----------------------------------------
-Log file closed: 2023-05-14 23:55:04
+Log file closed: 2023-05-16 23:11:31
 
