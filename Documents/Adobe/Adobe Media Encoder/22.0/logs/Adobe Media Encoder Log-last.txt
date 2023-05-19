@@ -1,19 +1,50 @@
-Log file created: 2023-05-16 22:53:13
+Log file created: 2023-05-17 19:20:33
 ---------------------------------------
-Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 594      <7880> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 704      <19984> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 4361
-Ticks = 4172      <5048> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
-Ticks = 4235      <7880> <DisplaySurface> <5> directx display init failed with error: -1598816154
-Ticks = 4516      <4320> <GPUFoundation> <5> Loading modules took: 0.331916s, device: CUDA(0)
-Ticks = 5719      <7880> <AMEApp> <0> Time taken to load MediaCore plugins: 1475.8 milliseconds.
-Ticks = 7016      <7880> <AMEApp> <1> Entering RunEventLoop
-Ticks = 285438      <11272> <LoadProject> <0> 0.0271391s
-Ticks = 285454      <11272> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 307547      <7880> <NGL> <5> GoCart invocation failed: 4
-Ticks = 1016532      <6920> <LoadProject> <0> 0.0148426s
-Ticks = 1094922      <6920> <LoadProject> <0> 0.0126008s
+Ticks = 641      <2708> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 641      <2708> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 641      <2708> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 641      <11884> <DynamicLink> <5> Increase wait time to 2
+Ticks = 1656      <13368> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 14543
+Ticks = 4266      <11884> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 4500      <2708> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 5859      <13368> <GPUFoundation> <5> Loading modules took: 1.59566s, device: CUDA(0)
+Ticks = 5969      <2708> <AMEApp> <0> Time taken to load MediaCore plugins: 1474.89 milliseconds.
+Ticks = 7437      <2708> <AMEApp> <1> Entering RunEventLoop
+Ticks = 37922      <2708> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 56750      <22352> <LoadProject> <0> 0.0162253s
+Ticks = 56906      <22300> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 57031      <22300> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 307953      <2708> <NGL> <5> GoCart invocation failed: 4
+Ticks = 514016      <22300> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 514016      <22300> <NvidiaCodec> <5> Encoded 216540 Frames Encode FPS = 474.26 Encode Size 1920 x 1080
+Ticks = 524797      <22300> <EncoderStateH264> <1> Time taken for; video =269714 audio=31878 mux=10737
+Ticks = 524891      <22300> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 467.985 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第18期.mp4
+Ticks = 525187      <22456> <LoadProject> <0> 0.0154316s
+Ticks = 525344      <16104> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 525484      <16104> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 968156      <16104> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 968172      <16104> <NvidiaCodec> <5> Encoded 204389 Frames Encode FPS = 462.075 Encode Size 1920 x 1080
+Ticks = 977219      <16104> <EncoderStateH264> <1> Time taken for; video =264838 audio=29776 mux=9007
+Ticks = 977344      <16104> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 452.002 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第19期.mp4
+Ticks = 984609      <22352> <LoadProject> <0> 0.0184631s
+Ticks = 984719      <6604> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 984828      <6604> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 1335937      <6604> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 1335937      <6604> <NvidiaCodec> <5> Encoded 169178 Frames Encode FPS = 482.557 Encode Size 1920 x 1080
+Ticks = 1345078      <6604> <EncoderStateH264> <1> Time taken for; video =206633 audio=23314 mux=9098
+Ticks = 1345172      <6604> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 360.451 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第20期.mp4
+Ticks = 1347172      <22456> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 1347266      <22456> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 2561469      <22456> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 2561469      <22456> <NvidiaCodec> <5> Encoded 240918 Frames Encode FPS = 198.472 Encode Size 1920 x 1080
+Ticks = 2572078      <22456> <EncoderStateH264> <1> Time taken for; video =205076 audio=33579 mux=10567
+Ticks = 2572203      <22456> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1225.03 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第09期.mp4
+Ticks = 2573234      <16184> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 2573328      <16184> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 3544703      <16184> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 3544703      <16184> <NvidiaCodec> <5> Encoded 200899 Frames Encode FPS = 206.877 Encode Size 1920 x 1080
+Ticks = 3553969      <16184> <EncoderStateH264> <1> Time taken for; video =149734 audio=28797 mux=9224
+Ticks = 3554078      <16184> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 980.845 seconds. Result code: 0 Destination:I:\Export Video\Afterimage\1080p\《心渊梦境》1周目初见全流程第10期.mp4
 ----------------------------------------
-Log file closed: 2023-05-16 23:11:31
+Log file closed: 2023-05-17 21:22:29
 
