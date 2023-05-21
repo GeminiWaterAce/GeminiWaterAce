@@ -49,6 +49,7 @@ FLT	1	5
 FLTp_DoGlobal(PF_Cmd_GLOBAL_SETUP)	1	5
 GPU Render Pipeline	1	5
 GPUFoundation	1	5
+GPURenderer	1	5
 Highbeam.Assert	1	5
 HwAccEncCodecManager	1	5
 IR.InitIpp	1	5

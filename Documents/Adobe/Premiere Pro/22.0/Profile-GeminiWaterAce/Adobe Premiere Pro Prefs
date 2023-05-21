@@ -69,7 +69,7 @@
 			<BE.Prefs.AutoSave.DoSave>true</BE.Prefs.AutoSave.DoSave>
 			<BE.Prefs.kPrefsAcceleratedRenderer.OverridenIdentifier>7ee0ab59-822d-44cc-ac10-16279d041016</BE.Prefs.kPrefsAcceleratedRenderer.OverridenIdentifier>
 			<BE.Prefs.SyntheticMedia.DefaultIsDropFrame>false</BE.Prefs.SyntheticMedia.DefaultIsDropFrame>
-			<BE.Prefs.SyntheticMedia.DefaultFramerate>4233583066</BE.Prefs.SyntheticMedia.DefaultFramerate>
+			<BE.Prefs.SyntheticMedia.DefaultFramerate>4233760877</BE.Prefs.SyntheticMedia.DefaultFramerate>
 			<BE.Prefs.StillImages.InterpretAlpha>AskUser</BE.Prefs.StillImages.InterpretAlpha>
 			<BE.Prefs.StillImages.DefaultIsDropFrame>false</BE.Prefs.StillImages.DefaultIsDropFrame>
 			<BE.Prefs.StillImages.DefaultFramerate>10160640000</BE.Prefs.StillImages.DefaultFramerate>
@@ -217,7 +217,7 @@
 			<recent.sequence.video.par.denominator>1</recent.sequence.video.par.denominator>
 			<recent.sequence.video.par.numerator>1</recent.sequence.video.par.numerator>
 			<recent.sequence.video.framerate.dropness>false</recent.sequence.video.framerate.dropness>
-			<recent.sequence.video.framerate>4233583066</recent.sequence.video.framerate>
+			<recent.sequence.video.framerate>4233760877</recent.sequence.video.framerate>
 			<recent.sequence.video.frame.height>1080</recent.sequence.video.frame.height>
 			<recent.sequence.video.frame.width>1920</recent.sequence.video.frame.width>
 			<MZ.Prefs.Export.Media.Path>I:\Export Video\</MZ.Prefs.Export.Media.Path>
@@ -294,6 +294,33 @@
 			<ML.Prefs.Capture.UseLimit>false</ML.Prefs.Capture.UseLimit>
 			<ML.Prefs.Capture.AbortOnDroppedFrames>false</ML.Prefs.Capture.AbortOnDroppedFrames>
 			<BE.Prefs.Captioning.EnableScanningOnImport>true</BE.Prefs.Captioning.EnableScanningOnImport>
+			<BE.Prefs.MRU.Document.Size.7>47321</BE.Prefs.MRU.Document.Size.7>
+			<BE.Prefs.MRU.Document.0>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Afterimage.prproj</BE.Prefs.MRU.Document.0>
+			<BE.Prefs.MRU.Document.Date.0>2023-05-20T15:32:53Z</BE.Prefs.MRU.Document.Date.0>
+			<BE.Prefs.MRU.Document.Date.5>2022-11-13T09:49:24Z</BE.Prefs.MRU.Document.Date.5>
+			<BE.Prefs.MRU.Document.Date.1>2023-05-16T14:53:46Z</BE.Prefs.MRU.Document.Date.1>
+			<BE.Prefs.MRU.Document.6>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\游聚实况.prproj</BE.Prefs.MRU.Document.6>
+			<BE.Prefs.MRU.Document.Date.8>2021-12-15T15:53:40Z</BE.Prefs.MRU.Document.Date.8>
+			<BE.Prefs.MRU.Document.Date.3>2023-04-03T12:49:13Z</BE.Prefs.MRU.Document.Date.3>
+			<BE.Prefs.MRU.Document.Date.4>2023-01-25T11:18:45Z</BE.Prefs.MRU.Document.Date.4>
+			<BE.Prefs.MRU.Document.Size.8>6764</BE.Prefs.MRU.Document.Size.8>
+			<BE.Prefs.MRU.Document.Size.5>35870</BE.Prefs.MRU.Document.Size.5>
+			<BE.Prefs.MRU.Document.Size.0>13490</BE.Prefs.MRU.Document.Size.0>
+			<BE.Prefs.MRU.Document.5>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\二次元.prproj</BE.Prefs.MRU.Document.5>
+			<BE.Prefs.MRU.Document.Size.4>58985</BE.Prefs.MRU.Document.Size.4>
+			<BE.Prefs.MRU.Document.Size.3>10150</BE.Prefs.MRU.Document.Size.3>
+			<BE.Prefs.MRU.Document.2>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Elden Ring.prproj</BE.Prefs.MRU.Document.2>
+			<BE.Prefs.MRU.Document.Size.2>21399</BE.Prefs.MRU.Document.Size.2>
+			<BE.Prefs.MRU.Document.Date.7>2022-03-01T12:57:14Z</BE.Prefs.MRU.Document.Date.7>
+			<BE.Prefs.MRU.Document.Size.6>6654</BE.Prefs.MRU.Document.Size.6>
+			<BE.Prefs.MRU.Document.8>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Kena.prproj</BE.Prefs.MRU.Document.8>
+			<BE.Prefs.MRU.Document.3>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\无定形剪辑.prproj</BE.Prefs.MRU.Document.3>
+			<BE.Prefs.MRU.Document.1>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Bilibili_4K60FPS.prproj</BE.Prefs.MRU.Document.1>
+			<BE.Prefs.MRU.Document.Date.6>2022-03-02T12:59:54Z</BE.Prefs.MRU.Document.Date.6>
+			<BE.Prefs.MRU.Document.Size.1>26497</BE.Prefs.MRU.Document.Size.1>
+			<BE.Prefs.MRU.Document.4>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\CupHead.prproj</BE.Prefs.MRU.Document.4>
+			<BE.Prefs.MRU.Document.Date.2>2023-05-10T14:09:07Z</BE.Prefs.MRU.Document.Date.2>
+			<BE.Prefs.MRU.Document.7>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\God of War.prproj</BE.Prefs.MRU.Document.7>
 			<LocateFile.dialog.directorywidth>200</LocateFile.dialog.directorywidth>
 			<LocateFile.dialog.height>629</LocateFile.dialog.height>
 			<LocateFile.dialog.width>1432</LocateFile.dialog.width>
@@ -349,49 +376,31 @@
 			<HandlerCapture.ShowTabFrame>true</HandlerCapture.ShowTabFrame>
 			<WorkspaceSwitcher.Data>{"alwaysConfirmDoubleClickWorkspaceReset":true,"hidden":[],"overflow":["所有面板","元数据记录","作品"],"shown":["学习","组件","编辑","颜色","效果","音频","图形","字幕","库"],"switcherwidth":-1,"version":"V5"}</WorkspaceSwitcher.Data>
 			<FE.Application.LastWorkspaceName>编辑</FE.Application.LastWorkspaceName>
-			<BE.Prefs.MRU.Document.Size.5>35870</BE.Prefs.MRU.Document.Size.5>
-			<BE.Prefs.MRU.Document.Size.0>11839</BE.Prefs.MRU.Document.Size.0>
-			<BE.Prefs.MRU.Document.3>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\无定形剪辑.prproj</BE.Prefs.MRU.Document.3>
-			<BE.Prefs.MRU.Document.Size.4>58985</BE.Prefs.MRU.Document.Size.4>
-			<BE.Prefs.MRU.Document.Size.3>10150</BE.Prefs.MRU.Document.Size.3>
-			<BE.Prefs.MRU.Document.2>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Elden Ring.prproj</BE.Prefs.MRU.Document.2>
-			<BE.Prefs.MRU.Document.8>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Kena.prproj</BE.Prefs.MRU.Document.8>
-			<BE.Prefs.MRU.Document.5>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\二次元.prproj</BE.Prefs.MRU.Document.5>
-			<BE.Prefs.MRU.Document.Size.6>6654</BE.Prefs.MRU.Document.Size.6>
-			<BE.Prefs.MRU.Document.Date.7>2022-03-01T12:57:14Z</BE.Prefs.MRU.Document.Date.7>
-			<BE.Prefs.MRU.Document.Size.2>21399</BE.Prefs.MRU.Document.Size.2>
-			<BE.Prefs.MRU.Document.Date.6>2022-03-02T12:59:54Z</BE.Prefs.MRU.Document.Date.6>
-			<BE.Prefs.MRU.Document.Size.7>47321</BE.Prefs.MRU.Document.Size.7>
-			<BE.Prefs.MRU.Document.0>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Afterimage.prproj</BE.Prefs.MRU.Document.0>
-			<BE.Prefs.MRU.Document.Date.0>2023-05-17T14:34:13Z</BE.Prefs.MRU.Document.Date.0>
-			<BE.Prefs.MRU.Document.Date.5>2022-11-13T09:49:24Z</BE.Prefs.MRU.Document.Date.5>
-			<BE.Prefs.MRU.Document.Date.1>2023-05-16T14:53:46Z</BE.Prefs.MRU.Document.Date.1>
-			<BE.Prefs.MRU.Document.6>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\游聚实况.prproj</BE.Prefs.MRU.Document.6>
-			<BE.Prefs.MRU.Document.Date.8>2021-12-15T15:53:40Z</BE.Prefs.MRU.Document.Date.8>
-			<BE.Prefs.MRU.Document.Date.4>2023-01-25T11:18:45Z</BE.Prefs.MRU.Document.Date.4>
-			<BE.Prefs.MRU.Document.Size.8>6764</BE.Prefs.MRU.Document.Size.8>
-			<BE.Prefs.MRU.Document.Date.3>2023-04-03T12:49:13Z</BE.Prefs.MRU.Document.Date.3>
-			<BE.Prefs.MRU.Document.1>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\Bilibili_4K60FPS.prproj</BE.Prefs.MRU.Document.1>
-			<BE.Prefs.MRU.Document.4>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\CupHead.prproj</BE.Prefs.MRU.Document.4>
-			<BE.Prefs.MRU.Document.7>\\?\C:\Users\GeminiWaterAce\Documents\Adobe\Premiere Pro\22.0\God of War.prproj</BE.Prefs.MRU.Document.7>
-			<BE.Prefs.MRU.Document.Date.2>2023-05-10T14:09:07Z</BE.Prefs.MRU.Document.Date.2>
-			<BE.Prefs.MRU.Document.Size.1>26497</BE.Prefs.MRU.Document.Size.1>
-			<HSL.TimelinePatchingAndTargeting.VideoPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.VideoPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
-			<HSL.TimelinePatchingAndTargeting.VideoPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>[{"mNumber":0,"mState":2},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.VideoPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>
-			<HSL.TimelinePatchingAndTargeting.DataPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[]</HSL.TimelinePatchingAndTargeting.DataPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
-			<HSL.TimelinePatchingAndTargeting.AudioPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[{"mNumber":0,"mState":0},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.AudioPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
-			<HSL.TimelinePatchingAndTargeting.AudioPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>[{"mNumber":0,"mState":2},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.AudioPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>
-			<FE.DocumentManager.MRUImportFile0>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.17 - 21.24.11.01.mp4</FE.DocumentManager.MRUImportFile0>
-			<BE.Prefs.DefaultChannelMapID_95_Stereo>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_Stereo>
 			<BE.Prefs.DefaultChannelMapID_95_MultiMono>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_MultiMono>
-			<BE.Prefs.DefaultChannelMapID_95_Mono>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_Mono>
+			<BE.Prefs.DefaultChannelMapID_95_Stereo>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_Stereo>
 			<BE.Prefs.DefaultChannelMapID_95_51>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_51>
-			<TransmitSerializedDataC_58__92_Program_32_Files_92_Adobe_92_Adobe_32_Premiere_32_Pro_32_2022_92_Plug_45_Ins_92_Common_92_TransmitScopes.prm0 Encoding="base64" Checksum="3478769423">AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQEBAQUAAAAAAAEAAA==</TransmitSerializedDataC_58__92_Program_32_Files_92_Adobe_92_Adobe_32_Premiere_32_Pro_32_2022_92_Plug_45_Ins_92_Common_92_TransmitScopes.prm0>
+			<BE.Prefs.DefaultChannelMapID_95_Mono>0551e2a0-6da1-4691-800e-b3ded5ca94f7</BE.Prefs.DefaultChannelMapID_95_Mono>
+			<FE.DocumentManager.MRUImportFile2>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 02.07.01.06.mp4</FE.DocumentManager.MRUImportFile2>
+			<FE.DocumentManager.MRUImportFile6>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 00.53.29.02.mp4</FE.DocumentManager.MRUImportFile6>
+			<FE.DocumentManager.MRUImportFile0>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 03.21.11.08.mp4</FE.DocumentManager.MRUImportFile0>
+			<FE.DocumentManager.MRUImportFile4>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 01.11.15.04.mp4</FE.DocumentManager.MRUImportFile4>
+			<FE.DocumentManager.MRUImportFile7>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 00.48.30.01.mp4</FE.DocumentManager.MRUImportFile7>
+			<FE.DocumentManager.MRUImportFile1>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 02.43.47.07.mp4</FE.DocumentManager.MRUImportFile1>
+			<FE.DocumentManager.MRUImportFile9>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 00.01.45.08.mp4</FE.DocumentManager.MRUImportFile9>
+			<FE.DocumentManager.MRUImportFile5>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 01.01.30.03.mp4</FE.DocumentManager.MRUImportFile5>
+			<FE.DocumentManager.MRUImportFile8>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 00.14.37.09.mp4</FE.DocumentManager.MRUImportFile8>
+			<FE.DocumentManager.MRUImportFile3>\\?\C:\Users\GeminiWaterAce\Videos\Afterimage\Afterimage 2023.05.20 - 01.49.05.05.mp4</FE.DocumentManager.MRUImportFile3>
+			<Output89a15bb0_45_0e28_45_cbbc_45_4c9a_45_82d800000048>1</Output89a15bb0_45_0e28_45_cbbc_45_4c9a_45_82d800000048>
+			<ML.DeviceControl.Plugin.PrivateData.DV_32_Device_32_Control Encoding="base64" Checksum="543042344">CAAAAAAAAAAAAAAAAAAAAEBlpoAAAAAAcD5CAyMAAAABAAEAAQEAAAAAAAAAAAAAAE5UU0MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADpgJrnlKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5qCH5YeGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////8AAAAAAADwvwAAAAAAAAAAgrhhynZ0sj4AAAAAAAAAAA==</ML.DeviceControl.Plugin.PrivateData.DV_32_Device_32_Control>
+			<Outputab262438_45_0f33_45_43b4_45_3ba2_45_32ce00000050>0</Outputab262438_45_0f33_45_43b4_45_3ba2_45_32ce00000050>
 			<Output54835d6a_45_cf18_45_7860_45_3048_45_1da700000048>0</Output54835d6a_45_cf18_45_7860_45_3048_45_1da700000048>
 			<Output764d09e3_45_ab13_45_52d6_45_1065_45_249e00000050>1</Output764d09e3_45_ab13_45_52d6_45_1065_45_249e00000050>
-			<Output89a15bb0_45_0e28_45_cbbc_45_4c9a_45_82d800000048>1</Output89a15bb0_45_0e28_45_cbbc_45_4c9a_45_82d800000048>
-			<Outputab262438_45_0f33_45_43b4_45_3ba2_45_32ce00000050>0</Outputab262438_45_0f33_45_43b4_45_3ba2_45_32ce00000050>
-			<ML.DeviceControl.Plugin.PrivateData.DV_32_Device_32_Control Encoding="base64" Checksum="358492968">CAAAAAAAAAAAAAAAAAAAAPAzm4gAAAAA4G9wiAAAAAABAAEAAQEAAAAAAAAAAAAAAE5UU0MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADpgJrnlKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5qCH5YeGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////8AAAAAAADwvwAAAAAAAAAAgrhhynZ0sj4AAAAAAAAAAA==</ML.DeviceControl.Plugin.PrivateData.DV_32_Device_32_Control>
+			<TransmitSerializedDataC_58__92_Program_32_Files_92_Adobe_92_Adobe_32_Premiere_32_Pro_32_2022_92_Plug_45_Ins_92_Common_92_TransmitScopes.prm0 Encoding="base64" Checksum="3478769423">AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQEBAQUAAAAAAAEAAA==</TransmitSerializedDataC_58__92_Program_32_Files_92_Adobe_92_Adobe_32_Premiere_32_Pro_32_2022_92_Plug_45_Ins_92_Common_92_TransmitScopes.prm0>
+			<HSL.TimelinePatchingAndTargeting.AudioPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[{"mNumber":0,"mState":0},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.AudioPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
+			<HSL.TimelinePatchingAndTargeting.VideoPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.VideoPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
+			<HSL.TimelinePatchingAndTargeting.AudioPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>[{"mNumber":0,"mState":2},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.AudioPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>
+			<HSL.TimelinePatchingAndTargeting.VideoPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>[{"mNumber":0,"mState":2},{"mNumber":-1,"mState":0},{"mNumber":-1,"mState":0}]</HSL.TimelinePatchingAndTargeting.VideoPatches4b7f66de_45_1bb0_45_cba9_45_abba_45_e67900000017>
+			<HSL.TimelinePatchingAndTargeting.DataPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>[]</HSL.TimelinePatchingAndTargeting.DataPatches405230c6_45_7438_45_1002_45_93de_45_aac30000000f>
 		</Properties>
 	</Preferences>
 </PremiereData>
