@@ -44,10 +44,10 @@
 <key>NormalPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>874</int>
-<int type='signed' size='32'>357</int>
-<int type='signed' size='32'>2957</int>
-<int type='signed' size='32'>1722</int>
+<int type='signed' size='32'>-3533</int>
+<int type='signed' size='32'>392</int>
+<int type='signed' size='32'>-1238</int>
+<int type='signed' size='32'>1829</int>
 </array>
 </prop.pair>
 <prop.pair>
@@ -60,7 +60,7 @@
 <key>ModifiedTimes</key>
 <array>
 <array.type><string/></array.type>
-<string>20230520T154133.576446</string>
+<string>20230524T142057.995855</string>
 </array>
 </prop.pair>
 <prop.pair>

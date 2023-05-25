@@ -338,6 +338,10 @@
 <int type='unsigned' size='32'>0</int>
 </prop.pair>
 <prop.pair>
+<key>IsFocused</key>
+<true/>
+</prop.pair>
+<prop.pair>
 <key>StackedViewFlags</key>
 <int type='signed' size='32'>4</int>
 </prop.pair>
@@ -462,8 +466,8 @@
 		&amp;lt;PreviewView.Visible&amp;gt;false&amp;lt;/PreviewView.Visible&amp;gt;
 		&amp;lt;ProjectViewState.ViewHidden&amp;gt;false&amp;lt;/ProjectViewState.ViewHidden&amp;gt;
 		&amp;lt;ProjectViewState.BinID&amp;gt;-1&amp;lt;/ProjectViewState.BinID&amp;gt;
-		&amp;lt;ProjectViewState.OriginalID&amp;gt;267ff893-df74-4fea-aaf8-e91dcccea938&amp;lt;/ProjectViewState.OriginalID&amp;gt;
-		&amp;lt;ProjectViewState.ID&amp;gt;048a1fc9-d2e6-4760-a818-391de7d376a6&amp;lt;/ProjectViewState.ID&amp;gt;
+		&amp;lt;ProjectViewState.OriginalID&amp;gt;702f74e1-27c6-45ba-85d4-a81d45bae64b&amp;lt;/ProjectViewState.OriginalID&amp;gt;
+		&amp;lt;ProjectViewState.ID&amp;gt;86c68c81-ffea-457d-99bd-6a9342f725ba&amp;lt;/ProjectViewState.ID&amp;gt;
 		&amp;lt;ColumnListContents.Version&amp;gt;14&amp;lt;/ColumnListContents.Version&amp;gt;
 	&amp;lt;/ProjectViewState&amp;gt;
 	&amp;lt;ColumnList ObjectID=&amp;quot;2&amp;quot; ClassID=&amp;quot;a1c709cd-35df-4821-8200-03565d374155&amp;quot; Version=&amp;quot;1&amp;quot;&amp;gt;
@@ -974,7 +978,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;ProjectView.ID&lt;/key&gt;
-&lt;ustring&gt;048a1fc9-d2e6-4760-a818-391de7d376a6&lt;/ustring&gt;
+&lt;ustring&gt;86c68c81-ffea-457d-99bd-6a9342f725ba&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
@@ -7291,8 +7295,8 @@
 		&amp;lt;PreviewView.Visible&amp;gt;false&amp;lt;/PreviewView.Visible&amp;gt;
 		&amp;lt;ProjectViewState.ViewHidden&amp;gt;false&amp;lt;/ProjectViewState.ViewHidden&amp;gt;
 		&amp;lt;ProjectViewState.BinID&amp;gt;-1&amp;lt;/ProjectViewState.BinID&amp;gt;
-		&amp;lt;ProjectViewState.OriginalID&amp;gt;082ba076-7586-48a4-9f3c-eaa805525bb3&amp;lt;/ProjectViewState.OriginalID&amp;gt;
-		&amp;lt;ProjectViewState.ID&amp;gt;c56572c6-a31d-4695-b31e-dae316e7897d&amp;lt;/ProjectViewState.ID&amp;gt;
+		&amp;lt;ProjectViewState.OriginalID&amp;gt;d807a003-3714-4a32-b308-a9e72fa4e941&amp;lt;/ProjectViewState.OriginalID&amp;gt;
+		&amp;lt;ProjectViewState.ID&amp;gt;03e0ff52-6c7d-40fe-b23b-d13bddf1e498&amp;lt;/ProjectViewState.ID&amp;gt;
 		&amp;lt;ColumnListContents.Version&amp;gt;14&amp;lt;/ColumnListContents.Version&amp;gt;
 	&amp;lt;/ProjectViewState&amp;gt;
 	&amp;lt;ColumnList ObjectID=&amp;quot;2&amp;quot; ClassID=&amp;quot;a1c709cd-35df-4821-8200-03565d374155&amp;quot; Version=&amp;quot;1&amp;quot;&amp;gt;
@@ -7803,7 +7807,7 @@
 &lt;/prop.pair&gt;
 &lt;prop.pair&gt;
 &lt;key&gt;ProjectView.ID&lt;/key&gt;
-&lt;ustring&gt;c56572c6-a31d-4695-b31e-dae316e7897d&lt;/ustring&gt;
+&lt;ustring&gt;03e0ff52-6c7d-40fe-b23b-d13bddf1e498&lt;/ustring&gt;
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
@@ -7900,10 +7904,6 @@
 &lt;/prop.pair&gt;
 &lt;/prop.list&gt;
 </string>
-</prop.pair>
-<prop.pair>
-<key>IsFocused</key>
-<true/>
 </prop.pair>
 <prop.pair>
 <key>ReanimTabs</key>

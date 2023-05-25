@@ -1,23 +1,59 @@
-Log file created: 2023-05-17 22:21:01
+Log file created: 2023-05-20 17:36:26
 ---------------------------------------
-Ticks = 515      <10936> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 515      <10936> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 515      <10936> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 640      <16360> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 10098
-Ticks = 3797      <21592> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
-Ticks = 3859      <10936> <DisplaySurface> <5> directx display init failed with error: -1598816154
-Ticks = 4109      <21592> <GPUFoundation> <5> Loading modules took: 0.314315s, device: CUDA(0)
-Ticks = 5140      <10936> <AMEApp> <0> Time taken to load MediaCore plugins: 1287.79 milliseconds.
-Ticks = 5531      <10936> <AMEApp> <1> Entering RunEventLoop
-Ticks = 251375      <16360> <LoadProject> <0> 0.0152553s
-Ticks = 251375      <16360> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 262359      <12524> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 262469      <12524> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 306047      <10936> <NGL> <5> GoCart invocation failed: 4
-Ticks = 646265      <12524> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 646265      <12524> <NvidiaCodec> <5> Encoded 186957 Frames Encode FPS = 487.737 Encode Size 1920 x 1080
-Ticks = 653047      <12524> <EncoderStateH264> <1> Time taken for; video =221332 audio=26424 mux=6738
-Ticks = 653156      <12524> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 390.797 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第21期.mp4
+Ticks = 609      <20880> <DynamicLink> <5> Increase wait time to 2
+Ticks = 640      <6664> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 640      <6664> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 640      <6664> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 2218      <21500> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 5112
+Ticks = 4609      <21500> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 4875      <6664> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 6203      <15748> <GPUFoundation> <5> Loading modules took: 1.58841s, device: CUDA(0)
+Ticks = 6359      <6664> <AMEApp> <0> Time taken to load MediaCore plugins: 1478.81 milliseconds.
+Ticks = 7031      <6664> <AMEApp> <1> Entering RunEventLoop
+Ticks = 275812      <17576> <LoadProject> <0> 0.0312262s
+Ticks = 275828      <17576> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 307547      <6664> <NGL> <5> GoCart invocation failed: 4
+Ticks = 1251234      <16236> <LoadProject> <0> 0.0167932s
+Ticks = 1464375      <21272> <LoadProject> <0> 0.0187061s
+Ticks = 1732812      <21272> <LoadProject> <0> 0.0171152s
+Ticks = 1905531      <21272> <LoadProject> <0> 0.0168858s
+Ticks = 2480625      <652> <LoadProject> <0> 0.0160112s
+Ticks = 2656953      <14628> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 2657078      <14628> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 3074297      <14628> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 3074297      <14628> <NvidiaCodec> <5> Encoded 201849 Frames Encode FPS = 484.296 Encode Size 1920 x 1080
+Ticks = 3082984      <14628> <EncoderStateH264> <1> Time taken for; video =239920 audio=28931 mux=8651
+Ticks = 3083062      <14628> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 426.12 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第22期.mp4
+Ticks = 3083390      <12580> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 3083547      <12580> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 3531109      <12580> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 3531109      <12580> <NvidiaCodec> <5> Encoded 218333 Frames Encode FPS = 488.216 Encode Size 1920 x 1080
+Ticks = 3540781      <12580> <EncoderStateH264> <1> Time taken for; video =256021 audio=32781 mux=9641
+Ticks = 3540890      <12580> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 457.51 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第23期.mp4
+Ticks = 3542687      <16064> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 3542797      <16064> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 4040047      <16064> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 4040047      <16064> <NvidiaCodec> <5> Encoded 243401 Frames Encode FPS = 489.886 Encode Size 1920 x 1080
+Ticks = 4049765      <16064> <EncoderStateH264> <1> Time taken for; video =285131 audio=34867 mux=9683
+Ticks = 4049843      <16064> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 507.152 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第24期.mp4
+Ticks = 4051750      <9964> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 4051859      <9964> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 4493578      <9964> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 4493578      <9964> <NvidiaCodec> <5> Encoded 217473 Frames Encode FPS = 492.584 Encode Size 1920 x 1080
+Ticks = 4502359      <9964> <EncoderStateH264> <1> Time taken for; video =253156 audio=31414 mux=8740
+Ticks = 4502484      <9964> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 450.735 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第25期.mp4
+Ticks = 4504015      <20672> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 4504140      <20672> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 4904906      <20672> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 4904906      <20672> <NvidiaCodec> <5> Encoded 196672 Frames Encode FPS = 491.203 Encode Size 1920 x 1080
+Ticks = 4912922      <20672> <EncoderStateH264> <1> Time taken for; video =229986 audio=28017 mux=7991
+Ticks = 4912984      <20672> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 408.97 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第26期.mp4
+Ticks = 4913265      <22224> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 4913375      <22224> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
+Ticks = 5301937      <22224> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
+Ticks = 5301937      <22224> <NvidiaCodec> <5> Encoded 191297 Frames Encode FPS = 492.92 Encode Size 1920 x 1080
+Ticks = 5310234      <22224> <EncoderStateH264> <1> Time taken for; video =223219 audio=26845 mux=8265
+Ticks = 5310297      <22224> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 397.042 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第27期.mp4
 ----------------------------------------
-Log file closed: 2023-05-17 22:33:51
+Log file closed: 2023-05-20 23:41:33
 
