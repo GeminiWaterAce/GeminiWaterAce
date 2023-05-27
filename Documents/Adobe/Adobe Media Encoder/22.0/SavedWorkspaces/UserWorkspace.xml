@@ -569,8 +569,8 @@
 <key>SzPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>-3533</int>
-<int type='signed' size='32'>392</int>
+<int type='signed' size='32'>600</int>
+<int type='signed' size='32'>484</int>
 <int type='signed' size='32'>1530</int>
 <int type='signed' size='32'>958</int>
 </array>
@@ -606,10 +606,10 @@
 <key>NormalPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>-3533</int>
-<int type='signed' size='32'>392</int>
-<int type='signed' size='32'>-1238</int>
-<int type='signed' size='32'>1829</int>
+<int type='signed' size='32'>600</int>
+<int type='signed' size='32'>484</int>
+<int type='signed' size='32'>2895</int>
+<int type='signed' size='32'>1921</int>
 </array>
 </prop.pair>
 <prop.pair>
