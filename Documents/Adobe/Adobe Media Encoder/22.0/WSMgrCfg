@@ -36,8 +36,8 @@
 <key>MinPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>-32000</int>
-<int type='signed' size='32'>-32000</int>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
 </array>
 </prop.pair>
 <prop.pair>
@@ -60,7 +60,7 @@
 <key>ModifiedTimes</key>
 <array>
 <array.type><string/></array.type>
-<string>20230601T114944.079968</string>
+<string>20230610T132608.530857</string>
 </array>
 </prop.pair>
 <prop.pair>

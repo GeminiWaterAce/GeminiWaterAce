@@ -1,24 +1,15 @@
-Log file created: 2023-06-01 19:29:00
+Log file created: 2023-06-10 21:22:56
 ---------------------------------------
-Ticks = 578      <6056> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 578      <6056> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 578      <6056> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 578      <9300> <DynamicLink> <5> Increase wait time to 2
-Ticks = 1062      <21924> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 9578
-Ticks = 3859      <9300> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
-Ticks = 3921      <6056> <DisplaySurface> <5> directx display init failed with error: -1598816154
-Ticks = 4968      <13656> <GPUFoundation> <5> Loading modules took: 1.11531s, device: CUDA(0)
-Ticks = 5312      <6056> <AMEApp> <0> Time taken to load MediaCore plugins: 1376.25 milliseconds.
-Ticks = 5906      <6056> <AMEApp> <1> Entering RunEventLoop
-Ticks = 306421      <6056> <NGL> <5> GoCart invocation failed: 4
-Ticks = 443781      <13656> <LoadProject> <0> 0.0321032s
-Ticks = 443796      <13656> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
-Ticks = 446937      <19700> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
-Ticks = 447031      <19700> <EncoderStateH264> <5> Found H/W codec for H.264 - nVidia H.264 Codec
-Ticks = 896484      <19700> <EncoderStateH264> <1> Encoded using nVidia H.264 Codec (H/W codec) for H.264
-Ticks = 896484      <19700> <NvidiaCodec> <5> Encoded 211086 Frames Encode FPS = 469.754 Encode Size 1920 x 1080
-Ticks = 904125      <19700> <EncoderStateH264> <1> Time taken for; video =281802 audio=28454 mux=7601
-Ticks = 904218      <19700> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 457.274 seconds. Result code: 0 Destination:I:\Export Video\《心渊梦境》1周目初见全流程第28期.mp4
+Ticks = 609      <14116> <DynamicLink> <5> Increase wait time to 2
+Ticks = 609      <23448> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 609      <23448> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 609      <23448> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel
+Ticks = 1859      <7020> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 3019
+Ticks = 5609      <4164> <GPUFoundation> <5> Starting loading modules for device: CUDA(0)
+Ticks = 10984      <23448> <DisplaySurface> <5> directx display init failed with error: -1598816154
+Ticks = 12453      <23448> <AMEApp> <0> Time taken to load MediaCore plugins: 1462.06 milliseconds.
+Ticks = 13109      <23448> <AMEApp> <1> Entering RunEventLoop
+Ticks = 95953      <7020> <GPUFoundation> <5> Loading modules took: 90.3424s, device: CUDA(0)
 ----------------------------------------
-Log file closed: 2023-06-01 19:49:44
+Log file closed: 2023-06-10 21:26:08
 

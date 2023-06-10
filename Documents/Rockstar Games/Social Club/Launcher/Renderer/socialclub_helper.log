@@ -1,32 +1,16 @@
-[2023-04-28 19:11:40.407] [  6264] [ DD8] ===================================
-[2023-04-28 19:11:40.408] [  6264] [ DD8] Browser process opened from pid: 19292
-[2023-04-28 19:11:40.408] [  6264] [ DD8] Language: zh-CN
-[2023-04-28 19:11:40.409] [  6264] [ DD8] Connecting to IPC channel: rgsc_ipc_4b5c
-[2023-04-28 19:11:40.409] [  6264] [ DD8] Product version: RockstarGames/2.1.7.0/1.0.71.1428/launcher/PC
-[2023-04-28 19:11:40.449] [  6264] [ DD8] OnChannelConnected - rgsc_ipc_4b5c (remoteProcessId 19292)
-[2023-04-28 19:11:42.400] [  6264] [ DD8] Renderer[1][16560] IPC channel response: connect to 'rgsc_ipc_4b5c_channel_1'
-[2023-04-28 19:11:42.400] [  6264] [ DD8] Renderer[1][16560] Connecting to IPC channel: rgsc_ipc_4b5c_channel_1
-[2023-04-28 19:11:42.401] [  6264] [ DD8] Renderer[1][16560] OnChannelConnected - rgsc_ipc_4b5c_channel_1 (remoteProcessId 19292)
-[2023-04-28 19:17:39.312] [  6264] [ DD8] All windows now closed, requesting cleanup.
-[2023-04-28 19:17:39.318] [  6264] [ DD8] Posting quit to main message loop.
-[2023-04-28 19:17:39.318] [  6264] [ DD8] MainMessageLoopInternalPump - Quit requested
-[2023-04-28 19:17:39.358] [  6264] [ DD8] MainMessageLoopInternalPump - Preparing to shutdown
-[2023-04-28 19:17:40.484] [  6264] [ DD8] OnChannelError() - rgsc_ipc_4b5c
-[2023-04-28 19:17:40.484] [  6264] [ DD8] Shutdown requested
-[2023-04-28 19:17:42.629] [  6264] [ DD8] MainMessageLoopInternalPump - Shutdown
-[2023-05-01 21:06:08.420] [  9124] [41A8] ===================================
-[2023-05-01 21:06:08.421] [  9124] [41A8] Browser process opened from pid: 8228
-[2023-05-01 21:06:08.421] [  9124] [41A8] Language: zh-CN
-[2023-05-01 21:06:08.422] [  9124] [41A8] Connecting to IPC channel: rgsc_ipc_2024
-[2023-05-01 21:06:08.422] [  9124] [41A8] Product version: RockstarGames/2.1.7.0/1.0.71.1428/launcher/PC
-[2023-05-01 21:06:08.467] [  9124] [41A8] OnChannelConnected - rgsc_ipc_2024 (remoteProcessId 8228)
-[2023-05-01 21:06:10.939] [  9124] [41A8] Renderer[1][10508] IPC channel response: connect to 'rgsc_ipc_2024_channel_1'
-[2023-05-01 21:06:10.939] [  9124] [41A8] Renderer[1][10508] Connecting to IPC channel: rgsc_ipc_2024_channel_1
-[2023-05-01 21:06:10.940] [  9124] [41A8] Renderer[1][10508] OnChannelConnected - rgsc_ipc_2024_channel_1 (remoteProcessId 8228)
-[2023-05-01 21:06:39.789] [  9124] [41A8] All windows now closed, requesting cleanup.
-[2023-05-01 21:06:39.790] [  9124] [41A8] Posting quit to main message loop.
-[2023-05-01 21:06:39.791] [  9124] [41A8] MainMessageLoopInternalPump - Quit requested
-[2023-05-01 21:06:39.816] [  9124] [41A8] MainMessageLoopInternalPump - Preparing to shutdown
-[2023-05-01 21:06:40.998] [  9124] [41A8] OnChannelError() - rgsc_ipc_2024
-[2023-05-01 21:06:40.998] [  9124] [41A8] Shutdown requested
-[2023-05-01 21:06:43.011] [  9124] [41A8] MainMessageLoopInternalPump - Shutdown
+[2023-06-06 20:43:40.930] [ 18932] [49F0] ===================================
+[2023-06-06 20:43:40.931] [ 18932] [49F0] Browser process opened from pid: 17044
+[2023-06-06 20:43:40.931] [ 18932] [49F0] Language: zh-CN
+[2023-06-06 20:43:40.931] [ 18932] [49F0] Connecting to IPC channel: rgsc_ipc_4294
+[2023-06-06 20:43:40.932] [ 18932] [49F0] Product version: RockstarGames/2.1.8.4/1.0.72.1513/launcher/PC
+[2023-06-06 20:43:40.983] [ 18932] [49F0] OnChannelConnected - rgsc_ipc_4294 (remoteProcessId 17044)
+[2023-06-06 20:43:44.591] [ 18932] [49F0] Renderer[1][19040] IPC channel response: connect to 'rgsc_ipc_4294_channel_1'
+[2023-06-06 20:43:44.591] [ 18932] [49F0] Renderer[1][19040] Connecting to IPC channel: rgsc_ipc_4294_channel_1
+[2023-06-06 20:43:44.623] [ 18932] [49F0] Renderer[1][19040] OnChannelConnected - rgsc_ipc_4294_channel_1 (remoteProcessId 17044)
+[2023-06-06 22:32:42.004] [ 18932] [49F0] All windows now closed, requesting cleanup.
+[2023-06-06 22:32:42.008] [ 18932] [49F0] Posting quit to main message loop.
+[2023-06-06 22:32:42.008] [ 18932] [49F0] MainMessageLoopInternalPump - Quit requested
+[2023-06-06 22:32:42.034] [ 18932] [49F0] MainMessageLoopInternalPump - Preparing to shutdown
+[2023-06-06 22:32:43.515] [ 18932] [49F0] OnChannelError() - rgsc_ipc_4294
+[2023-06-06 22:32:43.515] [ 18932] [49F0] Shutdown requested
+[2023-06-06 22:32:45.234] [ 18932] [49F0] MainMessageLoopInternalPump - Shutdown

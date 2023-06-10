@@ -121,6 +121,10 @@
 <int type='unsigned' size='32'>0</int>
 </prop.pair>
 <prop.pair>
+<key>IsFocused</key>
+<true/>
+</prop.pair>
+<prop.pair>
 <key>TabIDs</key>
 <array>
 <array.type><string/></array.type>
@@ -369,10 +373,6 @@
 <int type='unsigned' size='32'>0</int>
 </prop.pair>
 <prop.pair>
-<key>IsFocused</key>
-<true/>
-</prop.pair>
-<prop.pair>
 <key>TabIDs</key>
 <array>
 <array.type><string/></array.type>
@@ -598,8 +598,8 @@
 <key>MinPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>-32000</int>
-<int type='signed' size='32'>-32000</int>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
 </array>
 </prop.pair>
 <prop.pair>

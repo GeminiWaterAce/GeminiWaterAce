@@ -1,21 +1,21 @@
-[2023-01-26 04:16:35.889] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
-[2023-01-26 04:16:35.893] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:16:35.893] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:16:35.897] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
-[2023-01-26 04:16:35.911] [DISPLAY] [Main ] [minmode] Starting up normally.
-[2023-01-26 04:16:35.912] [DISPLAY] [Main ] [launcher] Opening log file.
-[2023-01-26 04:16:35.914] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" 
-[2023-01-26 04:16:35.914] [DISPLAY] [Main ] [main] Build type: FMB
-[2023-01-26 04:16:35.914] [DISPLAY] [Main ] [main] Version: 1.0.67.1178
-[2023-01-26 04:16:35.914] [DISPLAY] [Main ] [main] Parameters:
-[2023-01-26 04:16:35.914] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
-[2023-01-26 04:16:35.930] [DISPLAY] [Main ] [titlemanager] Installed titles:
-[2023-01-26 04:16:35.930] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
-[2023-01-26 04:16:35.935] [DISPLAY] [Main ] [svc] Service version: 1.0.67.1178 (1.0.67.1178)
-[2023-01-26 04:16:35.966] [DISPLAY] [Main ] [fileutils] Version: 2.1.6.5 | 1.0.67.1178 | FFP
-[2023-01-26 04:16:35.976] [DISPLAY] [Workr] [selfupdate] Up-to-date.
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] DxDiag info:
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:11.891] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
+[2023-01-27 02:52:11.895] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
+[2023-01-27 02:52:11.895] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
+[2023-01-27 02:52:11.899] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2023-01-27 02:52:11.911] [DISPLAY] [Main ] [minmode] Starting up normally.
+[2023-01-27 02:52:11.911] [DISPLAY] [Main ] [launcher] Opening log file.
+[2023-01-27 02:52:11.913] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" 
+[2023-01-27 02:52:11.913] [DISPLAY] [Main ] [main] Build type: FMB
+[2023-01-27 02:52:11.913] [DISPLAY] [Main ] [main] Version: 1.0.67.1178
+[2023-01-27 02:52:11.913] [DISPLAY] [Main ] [main] Parameters:
+[2023-01-27 02:52:11.913] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2023-01-27 02:52:11.930] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2023-01-27 02:52:11.930] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2023-01-27 02:52:11.935] [DISPLAY] [Main ] [svc] Service version: 1.0.67.1178 (1.0.67.1178)
+[2023-01-27 02:52:11.961] [DISPLAY] [Main ] [fileutils] Version: 2.1.6.5 | 1.0.67.1178 | FFP
+[2023-01-27 02:52:11.972] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] DxDiag info:
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 ------------------
 System Information
@@ -107,7 +107,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
             Miracast: Not Supported by Graphics driver
       Detachable GPU: No
  Hybrid Graphics GPU: Not Supported
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
       Power P-states: Not Supported
       Virtualization: Paravirtualization 
@@ -138,7 +138,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
                      {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -173,7 +173,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
         DDraw Status: Enabled
           D3D Status: Enabled
           AGP Status: Enabled
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
        MPO MaxPlanes: 1
             MPO Caps: Not Supported
@@ -238,7 +238,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Rank Of Driver: 00CF2001
          Video Accel: 
          DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {DDA19DC7-93B5-49F5-A9B3-2BDA28A2CE6E}  {B8BE4CCB-CF53-46BA-8D59-D6B8A6DA5D2A}  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  {8A1A1031-29BC-46D0-A007-E9B092CA6767}  
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -261,7 +261,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
                      {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
                      {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
@@ -329,7 +329,7 @@ Sensaura(tm) ZoomFX(tm): No
             Hardware ID: HDAUDIO\FUNC_01&VEN_1102&DEV_0011&SUBSYS_11020072&REV_1009
         Manufacturer ID: N/A
              Product ID: N/A
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
                    Type: N/A
             Driver Name: HdAudio.sys
@@ -444,7 +444,7 @@ Sound Capture Devices
             Driver Name: CtxHda.sys
          Driver Version: 6.0.105.55 (English)
       Driver Attributes: Final Retail
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
           Date and Size: 2020-09-07 08:00:00, 1210704 bytes
               Cap Flags: 0x1
@@ -584,7 +584,7 @@ USB Devices
 | | | | Matching Device ID: USB\Class_03
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 9/8/2022 11:08:51, 44032 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 | | | | Driver: hidclass.sys, 9/8/2022 11:08:52, 225792 bytes
 | | | | Driver: hidparse.sys, 9/8/2022 11:08:52, 46080 bytes
@@ -696,7 +696,7 @@ Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_87C01043&REV_00\4&231A312E&0&0341
 
      Name: 标准 SATA AHCI 控制器
 Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_79011022&REV_51\6&236781C5&0&0048000A
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\system32\DRIVERS\storahci.sys, 10.00.19041.1889 (English), 9/8/2022 11:08:51, 187240 bytes
 
@@ -734,7 +734,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\Display.NvContainer\plugins\LocalSystem\NvcDispCorePlugin.dll, 31.00.0015.2824 (English), 1/18/2023 10:20:36, 524264 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\Display.NvContainer\plugins\LocalSystem\NvcDispWatchdog.dll, 1.37.3103.4323 (English), 1/18/2023 10:20:36, 738288 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\Display.NvContainer\plugins\LocalSystem\_DisplayDriverRAS.dll, 1.10.0000.0000 (English), 1/18/2023 10:20:40, 2620456 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\Display.NvContainer\plugins\LocalSystem\_NvMsgBusBroadcast.dll, 1.34.3030.7627 (English), 1/18/2023 10:20:42, 3192336 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\Display.NvContainer\plugins\LocalSystem\messagebus.conf, 1/16/2023 06:41:46, 57 bytes
@@ -758,7 +758,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvdispsr.dll, 31.00.0015.2824 (Chinese (Simplified)), 1/18/2023 10:14:30, 11323944 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvgames.dll, 31.00.0015.2824 (English), 1/18/2023 10:14:58, 12447216 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvgamesr.dll, 31.00.0015.2824 (Chinese (Simplified)), 1/18/2023 10:15:00, 12931592 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvlicensings.dll, 6.14.0015.2824 (English), 1/18/2023 10:16:06, 4525560 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvlicensingsr.dll, 6.14.0015.2824 (Chinese (Simplified)), 1/18/2023 10:16:08, 297976 bytes
@@ -786,7 +786,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\system32\lxss\lib\libnvcuvid.so, 1/16/2023 06:41:46, 8989896 bytes
    Driver: C:\Windows\system32\lxss\lib\libnvcuvid.so.1, 1/16/2023 06:41:46, 8989896 bytes
    Driver: C:\Windows\system32\lxss\lib\libnvdxdlkernels.so, 1/16/2023 06:41:46, 14551728 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\system32\lxss\lib\libnvidia-encode.so, 1/16/2023 06:41:46, 514664 bytes
    Driver: C:\Windows\system32\lxss\lib\libnvidia-encode.so.1, 1/16/2023 06:41:46, 514664 bytes
@@ -816,7 +816,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\NvCamera\NvImageConvert32.exe, 1/18/2023 10:21:12, 3711000 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\NvCamera\NvImageConvert64.exe, 1/18/2023 10:21:14, 3989544 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\NvCamera\ReShadeFXC32.exe, 2.00.0000.0000 (English), 1/18/2023 10:21:14, 776720 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\NvCamera\ReShadeFXC64.exe, 2.00.0000.0000 (English), 1/18/2023 10:21:18, 891896 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\NvCamera\ShotWithGeforce518x32.rgba, 1/16/2023 06:41:46, 66304 bytes
@@ -843,7 +843,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvcompiler32.dll, 31.00.0015.2824 (English), 1/18/2023 10:13:06, 41572336 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvcompiler64.dll, 31.00.0015.2824 (English), 1/18/2023 10:13:22, 46369800 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvlddmkm.sys, 31.00.0015.2824 (English), 1/18/2023 10:15:42, 58078712 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvvm32.dll, 31.00.0015.2824 (English), 1/18/2023 10:19:12, 66599416 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvvm64.dll, 31.00.0015.2824 (English), 1/18/2023 10:19:36, 74327080 bytes
@@ -870,7 +870,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvcuda64.dll, 31.00.0015.2824 (English), 1/18/2023 10:13:46, 30427160 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvd3dumx.dll, 31.00.0015.2824 (English), 1/18/2023 10:12:04, 40186592 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvdlistx.dll, 31.00.0015.2824 (English), 1/18/2023 10:12:14, 225416 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvdxdlkernels.dll, 1/18/2023 10:14:36, 32501272 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvidia-smi, 1/16/2023 06:41:46, 638416 bytes
@@ -902,7 +902,7 @@ Device ID: PCI\VEN_10DE&DEV_2204&SUBSYS_161919DA&REV_A1\4&1D81E16&0&0019
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvIccAdvancedColorIdentity.icm, 1/16/2023 06:41:46, 3288 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvd3dum.dll, 31.00.0015.2824 (English), 1/18/2023 10:11:52, 36627304 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvdispco64.exe, 1.00.0016.0000 (English), 1/18/2023 10:14:26, 1579048 bytes
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvdlist.dll, 31.00.0015.2824 (English), 1/18/2023 10:12:12, 188456 bytes
    Driver: C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d1bd230cd08e7436\nvldumd.dll, 31.00.0015.2824 (English), 1/18/2023 10:12:14, 618576 bytes
@@ -960,7 +960,7 @@ Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_88081043&REV_00\3&11583659&0&0A
 Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_88081043&REV_00\3&11583659&0&09
    Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.19041.1949 (Chinese (Simplified)), 9/8/2022 11:08:51, 473424 bytes
 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
      Name: Realtek PCIe 2.5GbE Family Controller
 Device ID: PCI\VEN_10EC&DEV_8125&SUBSYS_879B1043&REV_00\6&13EE9B71&0&0018000A
@@ -1047,7 +1047,7 @@ Device ID: PCI\VEN_1022&DEV_57A3&SUBSYS_88081043&REV_00\5&2BFB86CE&0&20000A
 Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
    Driver: n/a
 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
      Name: PCI 标准主机 CPU 桥
 Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
@@ -1123,7 +1123,7 @@ Mpeg4 Decoder DMO,0x00800001,1,1,mpg4decd.dll,10.00.19041.1165
 DV Muxer,0x00400000,0,0,qdv.dll,10.00.19041.0001
 Color Space Converter,0x00400001,1,1,quartz.dll,10.00.19041.0746
 WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.19041.0001
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.19041.0746
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.19041.0746
@@ -1196,7 +1196,7 @@ DV Video Encoder,0x00200000,0,0,qdv.dll,10.00.19041.0001
 MJPEG Compressor,0x00200000,0,0,quartz.dll,10.00.19041.0746
 
 Audio Compressors:
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 WM Speech Encoder DMO,0x00600800,1,1,WMSPDMOE.DLL,10.00.19041.0508
 WMAudio Encoder DMO,0x00600800,1,1,WMADMOE.DLL,10.00.19041.0508
@@ -1281,7 +1281,7 @@ Preferred DirectShow Filters
 
 <media subtype GUID>, [<filter friendly name>, ]<filter CLSID>
 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 MEDIASUBTYPE_DVD_LPCM_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
 MEDIASUBTYPE_MPEG2_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
@@ -1349,7 +1349,7 @@ Media Foundation File Versions
 
 
 ---------------------------
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 Media Foundation Transforms
 ---------------------------
@@ -1406,7 +1406,7 @@ Audio Decoders:
   G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.19041.2006
   IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.19041.2006
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.19041.0001
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.19041.0746
   ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.19041.2006
@@ -1468,7 +1468,7 @@ Media Foundation Byte Stream Handlers
 .ec3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
 .flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferred
 .m2t, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 .m2ts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
 .m4a, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
@@ -1517,7 +1517,7 @@ audio/mpeg, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Pre
 audio/mpeg3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
 audio/vnd.dlna.adts, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
 audio/vnd.dolby.dd-raw, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 audio/wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferred
 audio/webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred
@@ -1572,7 +1572,7 @@ ms-appx-web:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppxWeb Scheme Handler, 
 ms-appx:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppx Scheme Handler, Preferred
 ms-winsoundevent:, {F79A6BF9-7415-4CF3-AE10-4559509ABC3C}, Sound Event Scheme Handler, Preferred
 rtsp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 rtsps:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
 rtspt:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
@@ -1631,7 +1631,7 @@ MFVideoFormat_DVC, DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}
 {0000F1AC-0000-0010-8000-00AA00389B71}, Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}
 {00007361-0000-0010-8000-00AA00389B71}, MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}
 {0000704F-0000-0010-8000-00AA00389B71}, Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 {00006C61-0000-0010-8000-00AA00389B71}, Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}
 {00002001-0000-0010-8000-00AA00389B71}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
@@ -1773,7 +1773,7 @@ P3: 10.0.19045.2.0.0
 P4: 
 P5: 
 P6: 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 P7: 
 P8: 
@@ -1948,7 +1948,7 @@ P10: Windows Optional Component Manager Command-Line
 附加文件:
 \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF59D.tmp.WERInternalMetadata.xml
 
-[2023-01-26 04:16:36.079] [DISPLAY] [DxDia] [diag] 
+[2023-01-27 02:52:12.077] [DISPLAY] [DxDia] [diag] 
 
 可在此处获取这些文件:
 \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1940_e67b4e53570693bf1a1a1b4dd816d987cffc64_00000000_0c91b37b-6aa8-4fb0-b843-e911e4951a79
@@ -2018,171 +2018,46 @@ P10: Windows Optional Component Manager Command-Line
 报告 ID: 0c91b37b-6aa8-4fb0-b843-e911e4951a79
 报告状态: 4
 哈希存储段: nCab GUID: 0
-[2023-01-26 04:16:36.125] [DISPLAY] [Main ] [systemtray] System tray: enabled
-[2023-01-26 04:16:36.293] [DISPLAY] [bgsvc] [svc] Received response from service.
-[2023-01-26 04:16:36.321] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
-[2023-01-26 04:16:37.785] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
-[2023-01-26 04:16:37.785] [DISPLAY] [Workr] [titlemanager] Downloading title list...
-[2023-01-26 04:16:37.785] [DISPLAY] [Workr] [titlemanager] Skipping title metadata download as it is available and less old (7 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:16:37.785] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
-[2023-01-26 04:16:37.785] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
-[2023-01-26 04:16:39.095] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
-[2023-01-26 04:16:39.095] [DISPLAY] [Workr] [titlemanager] Title list updated.
-[2023-01-26 04:16:39.095] [DISPLAY] [Workr] [launcher] Checking for self-update...
-[2023-01-26 04:16:39.100] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
-[2023-01-26 04:16:39.103] [DISPLAY] [Workr] [launcher] No self-update, continuing.
-[2023-01-26 04:16:39.103] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
-[2023-01-26 04:16:39.103] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.1.6.5)
-[2023-01-26 04:16:39.103] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
-[2023-01-26 04:16:40.772] [DISPLAY] [Main ] [launcher] Social Club UI has started.
-[2023-01-26 04:16:40.772] [DISPLAY] [dsksp] [sysinfo] Drive C:\ has 641.29 GB free, 838.13 GB total
-[2023-01-26 04:16:40.773] [DISPLAY] [dsksp] [sysinfo] Drive D:\ has 439.39 GB free, 1024.00 GB total
-[2023-01-26 04:16:40.773] [DISPLAY] [dsksp] [sysinfo] Drive E:\ has 798.82 GB free, 1.81 TB total
-[2023-01-26 04:16:40.773] [DISPLAY] [dsksp] [sysinfo] Drive F:\ has 8.58 TB free, 16.30 TB total
-[2023-01-26 04:17:03.067] [DISPLAY] [Main ] [launcher] Time to start up: 27192 ms
-[2023-01-26 04:17:03.071] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
-[2023-01-26 04:17:03.071] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
-[2023-01-26 04:17:03.072] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 525,437 (2558 x 1380)
-[2023-01-26 04:17:03.084] [DISPLAY] [Main ] [systemtray] System tray: enabled
-[2023-01-26 04:17:25.701] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
-[2023-01-26 04:17:25.701] [DISPLAY] [Main ] [launcher] User 'GeminiWaterAce' is now signed in
-[2023-01-26 04:17:25.711] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
-[2023-01-26 04:17:25.711] [DISPLAY] [Admin] [titlemanager] Downloading title list...
-[2023-01-26 04:17:25.711] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
-[2023-01-26 04:17:25.711] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (8 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:17:25.711] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
-[2023-01-26 04:17:25.822] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
-[2023-01-26 04:17:27.192] [DISPLAY] [Admin] [titlemanager] Title list updated.
-[2023-01-26 04:17:27.204] [DISPLAY] [Legac] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json'
-[2023-01-26 04:17:27.204] [DISPLAY] [Recog] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/recognised_titles.json'
-[2023-01-26 04:17:28.729] [DISPLAY] [Legac] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json' (status: 0/200)
-[2023-01-26 04:17:28.729] [DISPLAY] [Recog] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/recognised_titles.json' (status: 0/200)
-[2023-01-26 04:17:28.774] [DISPLAY] [Legac] [titlemanager] Skipping title metadata download as it is available and less old (8 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:17:28.781] [DISPLAY] [Scang] [recogniser] Scanning for new titles in libraries...
-[2023-01-26 04:17:32.246] [DISPLAY] [Main ] [scuicallbacks] Scan for installs requested
-[2023-01-26 04:17:32.246] [DISPLAY] [Legac] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json'
-[2023-01-26 04:17:33.780] [DISPLAY] [Legac] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json' (status: 0/200)
-[2023-01-26 04:17:33.820] [DISPLAY] [Legac] [titlemanager] Skipping title metadata download as it is available and less old (8 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:17:33.821] [DISPLAY] [Scang] [recogniser] Scanning for new titles in libraries...
-[2023-01-26 04:17:37.960] [DISPLAY] [Scang] [recogniser] F:\Game\GTA III - Definitive Edition\Gameface\Binaries\Win64\LibertyCity.exe has version 1.0.0.14296.
-[2023-01-26 04:17:38.478] [DISPLAY] [Scang] [recogniser] F:\Game\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\SanAndreas.exe has version 1.0.0.14296.
-[2023-01-26 04:17:39.013] [DISPLAY] [Scang] [recogniser] F:\Game\GTA Vice City - Definitive Edition\Gameface\Binaries\Win64\ViceCity.exe has version 1.0.0.14296.
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Command 10 received, 6 param(s).
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 1: rdr2
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 2: E:\EpicLibrary\RedDeadRedemption2
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 3: b41da38500ef4346be1f9953b8ef7088
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 4: GeminiWaterAce
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 5: cd4e0d03a1684cd9ae8d458e57c1f68a
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [gamepipemtl] Param 6: LXNraXBQYXRjaGVyQ2hlY2sgLUVwaWNQb3J0YWwgLWVwaWNsb2NhbGU9emgtQ04gLWVwaWNzYW5kYm94aWQ9YjMwYjZkMWI0ZGZkNGRjYzkzYjU0OTBiZTVlMDk0ZTUgQGFyZ3MudHh0
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [external] External launch request: rdr2, 5, at E:\EpicLibrary\RedDeadRedemption2
-[2023-01-26 04:18:26.223] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
-[2023-01-26 04:18:26.315] [DISPLAY] [Admin] [external] Setting up Epic title...
-[2023-01-26 04:18:26.315] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (9 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:18:33.704] [DISPLAY] [Main ] [launcher] OnEpicEvent :: 0 received
-[2023-01-26 04:18:34.451] [DISPLAY] [Admin] [external] Epic ownership request indicated valid entitlement of at least once audience
-[2023-01-26 04:18:34.451] [DISPLAY] [Admin] [external] Ready to attempt a launch.
-[2023-01-26 04:18:34.522] [DISPLAY] [Main ] [scuicallbacks] Setting updated
-[2023-01-26 04:18:34.522] [DISPLAY] [Main ] [scuicallbacks] Launch requested
-[2023-01-26 04:18:34.522] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: rdr2, 
-[2023-01-26 04:18:34.522] [DISPLAY] [Main ] [external] Attempting external title launch...
-[2023-01-26 04:18:34.536] [DISPLAY] [21744] [gamelaunch] RGL is up to date (current: 1.0.67.1178, minimum: 1.0.33.319)
-[2023-01-26 04:18:34.537] [DISPLAY] [21744] [gamelaunch] Red Dead Redemption 2 is up to date (current: 1.0.1491.16, minimum: 1.0.1355.18)
-[2023-01-26 04:18:35.930] [DISPLAY] [Admin] [titlemanager] Downloading title list...
-[2023-01-26 04:18:35.930] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (9 minutes) than the refresh delay (60 minutes).
-[2023-01-26 04:18:35.930] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
-[2023-01-26 04:18:37.334] [DISPLAY] [Admin] [titlemanager] Title list updated.
-[2023-01-26 04:18:40.412] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'rdr2'
-[2023-01-26 04:18:40.429] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'rdr2'
-[2023-01-26 04:18:40.434] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'rdr2' = enabled
-[2023-01-26 04:18:40.434] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'rdr2'
-[2023-01-26 04:18:41.823] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
-[2023-01-26 04:18:41.823] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'rdr2'
-[2023-01-26 04:18:41.841] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'rdr2'
-[2023-01-26 04:18:41.841] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'rdr2'
-[2023-01-26 04:18:41.857] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'rdr2'
-[2023-01-26 04:18:41.857] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'rdr2'
-[2023-01-26 04:18:41.874] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'rdr2'
-[2023-01-26 04:18:41.874] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'rdr2'
-[2023-01-26 04:18:41.891] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'rdr2'
-[2023-01-26 04:18:41.891] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'rdr2'
-[2023-01-26 04:18:41.911] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'rdr2'
-[2023-01-26 04:18:41.940] [DISPLAY] [net1 ] [audio] Valid Audio Device: true
-[2023-01-26 04:18:43.506] [DISPLAY] [21744] [gamelaunch] Launching game...
-[2023-01-26 04:18:43.506] [DISPLAY] [21744] [gamelaunch]  Path: E:\EpicLibrary\RedDeadRedemption2\RDR2.exe
-[2023-01-26 04:18:43.506] [DISPLAY] [21744] [gamelaunch]  Command Line: "E:\EpicLibrary\RedDeadRedemption2\RDR2.exe" @commandline.txt -enableCrashpad -useEpic -epicusername=GeminiWaterAce -epicuserid=cd4e0d03a1684cd9ae8d458e57c1f68a -scCommerceProvider=4 -rglLanguage=zh-CN-skipPatcherCheck -EpicPortal -epiclocale=zh-CN -epicsandboxid=b30b6d1b4dfd4dcc93b5490be5e094e5 @args.txt
-[2023-01-26 04:18:43.506] [DISPLAY] [21744] [gamelaunch]  Working Directory: E:\EpicLibrary\RedDeadRedemption2
-[2023-01-26 04:18:56.598] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:18:56.598] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:19:26.876] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:19:26.876] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:19:57.165] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:19:57.165] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:20:27.470] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:20:27.470] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:20:57.759] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:20:57.759] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] Drive C:\ has 641.24 GB free, 838.13 GB total
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] Drive D:\ has 439.39 GB free, 1024.00 GB total
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] Drive E:\ has 798.82 GB free, 1.81 TB total
-[2023-01-26 04:20:58.724] [DISPLAY] [Main ] [sysinfo] Drive F:\ has 8.58 TB free, 16.30 TB total
-[2023-01-26 04:20:58.771] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
-[2023-01-26 04:20:58.771] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:20:58.771] [DISPLAY] [Main ] [sysinfo] DX Version from SystemInfo: 
-[2023-01-26 04:20:58.771] [DISPLAY] [Main ] [sysinfo] Drive C:\ has 641.24 GB free, 838.13 GB total
-[2023-01-26 04:20:58.772] [DISPLAY] [Main ] [sysinfo] Drive D:\ has 439.39 GB free, 1024.00 GB total
-[2023-01-26 04:20:58.772] [DISPLAY] [Main ] [sysinfo] Drive E:\ has 798.82 GB free, 1.81 TB total
-[2023-01-26 04:20:58.772] [DISPLAY] [Main ] [sysinfo] Drive F:\ has 8.58 TB free, 16.30 TB total
-[2023-01-26 04:20:58.783] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19045 Service Pack: 
-[2023-01-26 04:21:28.037] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:21:28.037] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:21:58.331] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:21:58.331] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:22:28.634] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:22:28.634] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:22:58.928] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:22:58.928] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:23:29.235] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:23:29.235] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:23:59.429] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:23:59.429] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:24:29.721] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:24:29.721] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:24:59.916] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:24:59.916] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:25:30.129] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:25:30.129] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:26:00.333] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:26:00.333] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:26:30.619] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2023-01-26 04:26:30.619] [DISPLAY] [Main ] [gamepipemtl] Command 11 received, 0 param(s).
-[2023-01-26 04:26:40.698] [DISPLAY] [21744] [gamelaunch] Game exited with code 0x0 (0)
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] Reading game exit file...
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] Updating exit code: 0x00000000
-[2023-01-26 04:26:40.702] [WARNING] [21744] [crashdetection] Not found: ERROR_FILE_HASH
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] No additional error information found.
-[2023-01-26 04:26:40.702] [WARNING] [21744] [crashdetection] Not found: ERROR_MESSAGE
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] No additional error message found.
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] Deleting game exit file...
-[2023-01-26 04:26:40.702] [DISPLAY] [21744] [crashdetection] Exit code 0x0 indicates a clean game shutdown
-[2023-01-26 04:26:40.713] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'rdr2'
-[2023-01-26 04:26:40.730] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'rdr2'
-[2023-01-26 04:26:40.734] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'rdr2' = enabled
-[2023-01-26 04:26:40.734] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for title 'rdr2'
-[2023-01-26 04:26:42.021] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'rdr2'
-[2023-01-26 04:26:42.021] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for title 'rdr2'
-[2023-01-26 04:26:42.038] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for title 'rdr2'
-[2023-01-26 04:26:42.038] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for title 'rdr2'
-[2023-01-26 04:26:44.551] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for title 'rdr2'
-[2023-01-26 04:26:44.551] [DISPLAY] [Main ] [cloudsaveop] Getting update files for title 'rdr2'
-[2023-01-26 04:26:44.568] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for title 'rdr2'
-[2023-01-26 04:26:44.568] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for title 'rdr2'
-[2023-01-26 04:26:44.585] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for title 'rdr2'
-[2023-01-26 04:26:44.585] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for title 'rdr2'
-[2023-01-26 04:26:44.604] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'rdr2'
-[2023-01-26 04:26:45.926] [DISPLAY] [21744] [gamepipemtl] Launcher pipe still open, notifying other instance of external title shutdown.
-[2023-01-26 04:26:57.420] [DISPLAY] [Main ] [launcher] Shutdown requested: false, false
-[2023-01-26 04:26:57.420] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
-[2023-01-26 04:26:58.412] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2023-01-27 02:52:12.121] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-01-27 02:52:12.310] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2023-01-27 02:52:12.331] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2023-01-27 02:52:13.951] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2023-01-27 02:52:13.951] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2023-01-27 02:52:13.951] [DISPLAY] [Workr] [titlemanager] Skipping title metadata download as it is available and less old (2 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:52:13.951] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2023-01-27 02:52:13.951] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2023-01-27 02:52:15.334] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2023-01-27 02:52:15.334] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2023-01-27 02:52:15.334] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2023-01-27 02:52:15.339] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2023-01-27 02:52:15.341] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2023-01-27 02:52:15.341] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2023-01-27 02:52:15.342] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.1.6.5)
+[2023-01-27 02:52:15.342] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2023-01-27 02:52:16.685] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2023-01-27 02:52:16.685] [DISPLAY] [dsksp] [sysinfo] Drive C:\ has 636.87 GB free, 838.13 GB total
+[2023-01-27 02:52:16.685] [DISPLAY] [dsksp] [sysinfo] Drive D:\ has 439.39 GB free, 1024.00 GB total
+[2023-01-27 02:52:16.685] [DISPLAY] [dsksp] [sysinfo] Drive E:\ has 798.81 GB free, 1.81 TB total
+[2023-01-27 02:52:16.686] [DISPLAY] [dsksp] [sysinfo] Drive F:\ has 8.58 TB free, 16.30 TB total
+[2023-01-27 02:52:41.017] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2023-01-27 02:52:41.017] [DISPLAY] [Main ] [launcher] User 'GeminiWaterAce' is now signed in
+[2023-01-27 02:52:41.027] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2023-01-27 02:52:41.027] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2023-01-27 02:52:41.027] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (3 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:52:41.027] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2023-01-27 02:52:41.027] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2023-01-27 02:52:41.027] [DISPLAY] [Main ] [launcher] Time to start up: 29152 ms
+[2023-01-27 02:52:41.030] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
+[2023-01-27 02:52:41.030] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
+[2023-01-27 02:52:41.069] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2023-01-27 02:52:41.177] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2023-01-27 02:52:42.601] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2023-01-27 02:52:42.612] [DISPLAY] [Legac] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json'
+[2023-01-27 02:52:42.612] [DISPLAY] [Recog] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/recognised_titles.json'
+[2023-01-27 02:52:44.482] [DISPLAY] [Legac] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/legacy_titles.json' (status: 0/200)
+[2023-01-27 02:52:44.526] [DISPLAY] [Legac] [titlemanager] Skipping title metadata download as it is available and less old (3 minutes) than the refresh delay (60 minutes).
+[2023-01-27 02:52:45.271] [DISPLAY] [Recog] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/recognised_titles.json' (status: 0/200)
+[2023-01-27 02:52:45.319] [DISPLAY] [Scang] [recogniser] Scanning for new titles in libraries...
+[2023-01-27 02:53:09.616] [DISPLAY] [Main ] [launcher] Shutdown requested: false, false
+[2023-01-27 02:53:09.633] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2023-01-27 02:53:10.693] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
