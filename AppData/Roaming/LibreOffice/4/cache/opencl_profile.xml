@@ -4,13 +4,13 @@
  <device>
   <type>opencl</type>
   <name>NVIDIA GeForce RTX 3090</name>
-  <driver>531.68</driver>
-  <time>9651</time>
+  <driver>535.98</driver>
+  <time>9503</time>
   <errors>false</errors>
  </device>
  <device>
   <type>native</type>
-  <time>1529856</time>
+  <time>1577472</time>
   <errors>false</errors>
  </device>
 </profile>
