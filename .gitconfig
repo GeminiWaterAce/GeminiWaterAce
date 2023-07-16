@@ -6,3 +6,5 @@
 [user]
 	name = GeminiWaterAce
 	email = userwaterzz@163.com
+[init]
+	defaultBranch = master
