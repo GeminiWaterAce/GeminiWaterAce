@@ -220,3 +220,7 @@ ntuser.*
 /AppData/Roaming/TortoiseGit
 /AppData/Roaming/vlc
 /Documents/Adobe
+/AppData/Local/qBittorrent
+/AppData/Roaming/G-Menu
+/Documents/Rockstar Games/Launcher
+/AppData/Roaming/Notepad++
