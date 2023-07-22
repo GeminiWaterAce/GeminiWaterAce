@@ -226,3 +226,4 @@ ntuser.*
 /AppData/Roaming/Notepad++
 /Documents/The Riftbreaker/cache
 /Documents/The Riftbreaker/crash_info
+/Documents/The Riftbreaker/*.txt

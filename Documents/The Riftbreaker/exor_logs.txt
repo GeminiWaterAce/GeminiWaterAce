@@ -1,636 +1,631 @@
-[22:58:07.081] [info]  - DDS codec registering
-[22:58:07.081] [info]  - FreeImage version: 3.15.3
-[22:58:07.081] [info]  - This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
-[22:58:07.081] [info]  - Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
-[22:58:07.081] [info]  - *-*-* OGRE Initialising
-[22:58:07.081] [info]  - *-*-* Version 1.7.0 (EXOR Edition)
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:118ms][Info][Core] Initializing mod.io services
+[23:10:31.072] [info]  - DDS codec registering
+[23:10:31.072] [info]  - FreeImage version: 3.15.3
+[23:10:31.072] [info]  - This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+[23:10:31.072] [info]  - Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
+[23:10:31.072] [info]  - *-*-* OGRE Initialising
+[23:10:31.072] [info]  - *-*-* Version 1.7.0 (EXOR Edition)
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:110ms][Info][Core] Initializing mod.io services
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:118ms][Info][File] Initialized File Service
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:110ms][Info][File] Initialized File Service
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:119ms][Info][File] Overriding RootLocalStoragePath to C:\Users\Public\mod.io\
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:110ms][Info][File] Overriding RootLocalStoragePath to C:\Users\Public\mod.io\
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:119ms][Info][Http] Initialized Http Service
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:111ms][Info][Http] Initialized Http Service
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:119ms][Info][User] User data file not found. Initializing to default state
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:111ms][Info][User] User data file not found. Initializing to default state
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:119ms][Info][User] Initialized User Data service
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:111ms][Info][User] Initialized User Data service
 
-[22:58:07.121] [info] ExternalContentModio.cpp:83 - [22:58:07:119ms][Info][Core] mod.io service initialization complete
+[23:10:31.112] [info] ExternalContentModio.cpp:83 - [23:10:31:111ms][Info][Core] mod.io service initialization complete
 
-[22:58:07.121] [info] Framework.cpp:825 - -------------------------
-[22:58:07.121] [info] Framework.cpp:826 - Config Variables:
-[22:58:07.121] [info] Framework.cpp:827 - -------------------------
-[22:58:07.121] [info] Framework.cpp:828 -  * Render System: dx12
-[22:58:07.121] [info] Framework.cpp:829 -  * Adapter Name: 
-[22:58:07.121] [info] Framework.cpp:830 -  * Display Name: 
-[22:58:07.121] [info] Framework.cpp:831 -  * Video Mode: 
-[22:58:07.330] [info] OgreD3D12DeviceWin32.cpp:469 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
-[22:58:07.495] [info] OgreD3D12DeviceWin32.cpp:469 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
-[22:58:07.495] [info]  - RenderSystem
-[22:58:07.496] [info]  - -------------------------
-[22:58:07.496] [info]  - Name: dx12
-[22:58:07.496] [info]  - GPU Vendor: NVIDIA
-[22:58:07.496] [info]  - Device Name: NVIDIA GeForce RTX 3090
-[22:58:07.496] [info]  - Device Memory: 24340MB
-[22:58:07.496] [info]  - Driver Version: 31.0.15.3667
-[22:58:07.496] [info]  - Device outputs:
-[22:58:07.496] [info]  -  * PD32M: \\.\DISPLAY1 resolution: 3840x2160, primary: true
-[22:58:07.496] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
-[22:58:07.496] [info]  - Device capabilities:
-[22:58:07.496] [info]  -  * DirectX tearing support: true
-[22:58:07.496] [info]  -  * DirectX raytracing support: true
-[22:58:07.496] [info]  -  * DirectX min presicion 16bit: true
-[22:58:07.496] [info]  -  * DirectX shader model 6.0 support: true
-[22:58:07.496] [info]  -  * DirectX shader model 6.2 support: true
-[22:58:07.496] [info]  -  * DirectX shader model 6.4 support: true
-[22:58:07.496] [info]  - D3D12: dx12 created.
-[22:58:07.496] [info] OgreVideoManager.cpp:31 - Theora workers thread count: 1
-[22:58:07.496] [info]  - Platform information:
-[22:58:07.496] [info]  - -------------------------
-[22:58:07.496] [info]  -  *   SYSTEM: Windows 10 Pro 19045
-[22:58:07.496] [info]  -  *   CPU ID: AuthenticAMD: AMD Ryzen 9 5950X 16-Core Processor
-[22:58:07.496] [info]  -  *      SSE: yes
-[22:58:07.496] [info]  -  *     SSE2: yes
-[22:58:07.496] [info]  -  *     SSE3: yes
-[22:58:07.496] [info]  -  *      MMX: yes
-[22:58:07.496] [info]  -  *   MMXEXT: yes
-[22:58:07.496] [info]  -  *    3DNOW: no
-[22:58:07.496] [info]  -  * 3DNOWEXT: no
-[22:58:07.496] [info]  -  *     CMOV: yes
-[22:58:07.496] [info]  -  *      TSC: yes
-[22:58:07.496] [info]  -  *      FPU: yes
-[22:58:07.496] [info]  -  *      PRO: yes
-[22:58:07.496] [info]  -  *       HT: no
-[22:58:07.496] [info]  - -------------------------
-[22:58:07.496] [info]  - 
-[22:58:07.496] [info]  - Memory info
-[22:58:07.496] [info]  - -------------------------
-[22:58:07.496] [info]  -  * There is 8  percent of memory in use.
-[22:58:07.496] [info]  -  * There are 130986 total MB of physical memory.
-[22:58:07.496] [info]  -  * There are 120119 free  MB of physical memory.
-[22:58:07.496] [info]  -  * There are 150442 total MB of paging file.
-[22:58:07.496] [info]  -  * There are 136832 free  MB of paging file.
-[22:58:07.496] [info]  -  * There are 134217727 total MB of virtual memory.
-[22:58:07.496] [info]  -  * There are 134073714 free  MB of virtual memory.
-[22:58:07.496] [info]  -  * There are 0 free  MB of extended memory.
-[22:58:07.496] [info]  - -------------------------
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.1041854477770236%)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 24.55859375MB (usage)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.03009711767140164%)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.36328125MB (budget)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 19.48046875MB (usage)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
-[22:58:08.213] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.681640625MB (available for reserve)
-[22:58:08.263] [info]  - RenderSystem
-[22:58:08.263] [info]  - -------------------------
-[22:58:08.263] [info]  - Name: dx12
-[22:58:08.263] [info]  - GPU Vendor: NVIDIA
-[22:58:08.263] [info]  - Device Name: NVIDIA GeForce RTX 3090
-[22:58:08.263] [info]  - Device Memory: 24340MB
-[22:58:08.263] [info]  - Driver Version: 31.0.15.3667
-[22:58:08.263] [info]  - Device outputs:
-[22:58:08.263] [info]  -  * PD32M: \\.\DISPLAY1 resolution: 3840x2160, primary: true
-[22:58:08.263] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
-[22:58:08.263] [info]  - Device capabilities:
-[22:58:08.263] [info]  -  * DirectX tearing support: true
-[22:58:08.263] [info]  -  * DirectX raytracing support: true
-[22:58:08.263] [info]  -  * DirectX min presicion 16bit: true
-[22:58:08.263] [info]  -  * DirectX shader model 6.0 support: true
-[22:58:08.263] [info]  -  * DirectX shader model 6.2 support: true
-[22:58:08.263] [info]  -  * DirectX shader model 6.4 support: true
-[22:58:08.264] [info] WindowWin32.cpp:128 - CreateWindow: 3840x2160
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:30 - [DEBUG] Preferred Output ( prefix: \\.\DISPLAY1 )
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x27f463c6930 
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY1
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:52 - [DEBUG] preferred output
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x27f463c9b50 
-[22:58:08.268] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY2
-[22:58:08.569] [info] OgreD3D12RenderWindowWin32.cpp:158 - RenderWindow create:
-[22:58:08.569] [info] OgreD3D12RenderWindowWin32.cpp:159 - Fullscreen
-[22:58:08.569] [info] OgreD3D12RenderWindowWin32.cpp:162 - Resolution=3840x2160
-[22:58:08.569] [info] Framework.cpp:825 - -------------------------
-[22:58:08.569] [info] Framework.cpp:826 - Config Variables:
-[22:58:08.569] [info] Framework.cpp:827 - -------------------------
-[22:58:08.569] [info] Framework.cpp:828 -  * Render System: dx12
-[22:58:08.569] [info] Framework.cpp:829 -  * Adapter Name: 
-[22:58:08.569] [info] Framework.cpp:830 -  * Display Name: \\.\DISPLAY1
-[22:58:08.569] [info] Framework.cpp:831 -  * Video Mode: 3840x2160:32
-[22:58:08.577] [info] AudioXAudio2.cpp:202 - XAudio2 engine started. Detected 1/1 device:
-[22:58:08.577] [info] AudioXAudio2.cpp:205 -  (#0) 扬声器 (Sound Blaster AE-9) <default>
-[22:58:08.619] [info] AudioXAudio2.cpp:233 - Initializing XAudio2. Channels: 2.0, sample rate: 96000Hz 
-[22:58:08.619] [info] SoundLibrary.cpp:39 - Audio submix config: SFX: 3, MUSIC: 5, Dialogs: 7, Events: 9, Announcements: 11
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnableEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDisableEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnSelectEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDeselectEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnNeutralActivatePositiveEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnNeutralActivateNegativeEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnActiveActivateNegativeEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDisabledActivateNegativeEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnActiveActivatePositiveEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterNeutralEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitNeutralEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterNeutralSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitNeutralSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterActiveEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitActiveEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterActiveSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitActiveSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterDisabledEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitDisabledEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterDisabledSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitDisabledSelectedEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnShowEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnHideEffect
-[22:58:08.621] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: invalidEventEffect
-[22:58:08.716] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_audio.zip` as `/`
-[22:58:08.716] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_engine.zip` as `/`
-[22:58:08.719] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_audio.zip` as `/`
-[22:58:08.719] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine.zip` as `/`
-[22:58:08.720] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\99_win_shaders_cache.zip` as `/`
-[22:58:08.722] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup.zip` as `/`
-[22:58:08.723] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_video.zip` as `/`
-[22:58:08.723] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_startup.zip` as `/`
-[22:58:08.724] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_video.zip` as `/`
-[22:58:08.724] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\99_win_shaders_cache.zip` as `/`
-[22:58:08.724] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\startup\00_win_startup_dlc_1.zip` as `/`
-[22:58:08.767] [info] Framework.cpp:515 - Loaded entity types from `scripts/physics/physics_user_flags.kvp`:
-[22:58:08.767] [info] Framework.cpp:525 -  * scannable(0)
-[22:58:08.772] [info] Framework.cpp:490 - Loaded entity types from `scripts/types.kvp`:
-[22:58:08.772] [info] Framework.cpp:500 -  * building(1)
-[22:58:08.772] [info] Framework.cpp:500 -  * decorations(2)
-[22:58:08.772] [info] Framework.cpp:500 -  * defense(3)
-[22:58:08.772] [info] Framework.cpp:500 -  * energy(4)
-[22:58:08.772] [info] Framework.cpp:500 -  * ground_unit(5)
-[22:58:08.772] [info] Framework.cpp:500 -  * ground_unit_small(6)
-[22:58:08.772] [info] Framework.cpp:500 -  * ground_unit_medium(7)
-[22:58:08.772] [info] Framework.cpp:500 -  * ground_unit_large(8)
-[22:58:08.772] [info] Framework.cpp:500 -  * headquarters(9)
-[22:58:08.772] [info] Framework.cpp:500 -  * ground_unit_artillery(10)
-[22:58:08.772] [info] Framework.cpp:500 -  * main(11)
-[22:58:08.772] [info] Framework.cpp:500 -  * player(12)
-[22:58:08.772] [info] Framework.cpp:500 -  * prop(13)
-[22:58:08.772] [info] Framework.cpp:500 -  * resource(14)
-[22:58:08.772] [info] Framework.cpp:500 -  * shield(15)
-[22:58:08.772] [info] Framework.cpp:500 -  * spawner(16)
-[22:58:08.772] [info] Framework.cpp:500 -  * tower(17)
-[22:58:08.772] [info] Framework.cpp:500 -  * water(18)
-[22:58:08.772] [info] Framework.cpp:500 -  * wall(19)
-[22:58:08.772] [info] Framework.cpp:500 -  * quelver(20)
-[22:58:08.772] [info] Framework.cpp:500 -  * air_unit(21)
-[22:58:08.772] [info] Framework.cpp:500 -  * drones(22)
-[22:58:08.772] [info] Framework.cpp:500 -  * invisible(23)
-[22:58:08.772] [info] Framework.cpp:500 -  * flora(24)
-[22:58:08.772] [info] Framework.cpp:500 -  * crystal(25)
-[22:58:08.772] [info] Framework.cpp:500 -  * light(26)
-[22:58:08.772] [info] Framework.cpp:500 -  * not_move_to_target(27)
-[22:58:08.772] [info] Framework.cpp:500 -  * scannable(28)
-[22:58:08.772] [info] Framework.cpp:500 -  * spikybulb(29)
-[22:58:08.772] [info] Framework.cpp:500 -  * wreck_small(30)
-[22:58:08.772] [info] Framework.cpp:500 -  * wreck_medium(31)
-[22:58:08.772] [info] Framework.cpp:500 -  * wreck_large(32)
-[22:58:08.772] [info] Framework.cpp:500 -  * prop_alien(33)
-[22:58:08.772] [info] Framework.cpp:500 -  * cavern_wall(34)
-[22:58:08.772] [info]  - Installing plugin: ParticleUniverse
-[22:58:08.772] [info]  - Plugin successfully installed
-[22:58:08.795] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.7032973443068047%)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 165.78125MB (usage)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.12746766038453458%)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.36328125MB (budget)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 82.50390625MB (usage)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
-[22:58:08.797] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.681640625MB (available for reserve)
-[22:58:08.803] [info] VfsNativeArchive.cpp:50 - [VFS] mounting: `C:\Users\GeminiWaterAce\Documents\The Riftbreaker\cache\dx12` as `/.cache`
-[22:58:08.804] [info] MaterialPlugin.cpp:113 - Init ParticleTechniqueGenerator
-[22:58:08.804] [info] MaterialPlugin.cpp:119 - Init UpscaleMaskTechniqueGenerator
-[22:58:08.804] [info] MaterialPlugin.cpp:125 - Init ShadowTechniqueGenerator
-[22:58:08.804] [info] MaterialPlugin.cpp:131 - Init DecalTechniqueGenerator
-[22:58:08.804] [info] MaterialPlugin.cpp:137 - Init GBufferTechniqueGenerator
-[22:58:09.087] [info] RiftbreakerApp.cpp:174 - The Riftbreaker EXE: 810 DATA: 422 
-[22:58:09.103] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_combine
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_raytracing
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_shadows
-[22:58:09.184] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:58:09.184] [info] CompositorGraph.cpp:35 - Created compositor: `gui`
-[22:58:09.188] [info] CompositorGraph.cpp:559 - 0 CompositorNode : gui
-[22:58:09.188] [info] CompositorGraph.cpp:559 - 1 CompositorNode : gui_final
-[22:58:09.188] [info] CompositorGraph.cpp:630 - RenderTarget: main start: 0 end: 1
-[22:58:09.188] [info] CompositorGraph.cpp:633 - RenderTargets Memory : 33177600
-[22:58:09.188] [info] CompositorGraph.cpp:665 - Compositor Memory Usage (optimized): 33177600
-[22:58:09.193] [info] RenderingState.cpp:386 - Change compositor: `gui`
-[22:58:09.207] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
-[22:58:09.213] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_animated
-[22:58:09.220] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/exor_logo_animated
-[22:58:09.388] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/exor_logo_animated.ogv
-[22:58:09.390] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
-[22:58:09.398] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
-[22:58:21.564] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
-[22:58:21.591] [info] ControllerState.cpp:539 - OnStartupLogosFinishedEvent
-[22:58:21.591] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:58:21.603] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
-[22:58:21.604] [info] SignInState.cpp:71 - Entering SignInState...
-[22:58:21.604] [info] DefaultSignIn.cpp:96 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( PAD, 0 )
-[22:58:21.617] [info] RenderingState.cpp:386 - Change compositor: `gui`
-[22:58:21.625] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
-[22:58:21.625] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
-[22:58:21.625] [info] TheoraVideoManager.cpp:208 -  - state=paused
-[22:58:21.625] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv state=paused
-[22:58:21.625] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
-[22:58:21.625] [info] TheoraVideoManager.cpp:208 -  - state=paused
-[22:58:21.625] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/exor_logo_animated.ogv state=paused
-[22:58:21.625] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/exor_logo_animated.ogv
-[22:58:21.625] [info] TheoraVideoManager.cpp:208 -  - state=paused
-[22:58:21.625] [info] SignInState.cpp:105 - Config variables:
-[22:58:21.625] [info] SignInState.cpp:117 -  * autosave_timer : 20
-[22:58:21.625] [info] SignInState.cpp:117 -  * camera_mode : 1
-[22:58:21.625] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_animated
-[22:58:21.625] [info] SignInState.cpp:117 -  * camera_shake : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * d3d12_debug_layer : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * d3d12_disable_residency_manager : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * d3d12_gpu_dump : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * d3d12_gpu_validation : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * debug_build_mode_grid : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * decal_max_count : 500
-[22:58:21.625] [info] SignInState.cpp:117 -  * difficulty : normal
-[22:58:21.625] [info] SignInState.cpp:117 -  * enable_liquid_splashes : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * enable_pause_on_platform_overlay_event : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * enable_seasonal_events : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * full_screen : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_boss_health_bars : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_buildings_damage_annoucements : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_buildings_destroy_annoucements : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_buildings_leave_ruins : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_buildings_ruins_lifetime : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_dynamic_vegetation : 2
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_enable_tutorials : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_fullstorage_annoucements : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_mech_health_bars : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_missing_resources_annoucements : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * g_tower_ammo_missing_annoucements : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * gamepad_buttons_scheme : 
-[22:58:21.625] [info] SignInState.cpp:117 -  * gpu_program_version : 3
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_enable_ammo_modifier : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_pop_cumulate : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_pop_damage_display : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_pop_non_player_damage_display : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_pop_only_critical : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * hud_pop_show_damage_type_icons : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * lamp_context_support : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * languages : CHINESE_SP
-[22:58:21.625] [info] SignInState.cpp:117 -  * last_upsell_marker_shown : 
-[22:58:21.625] [info] SignInState.cpp:117 -  * light_limits : 2
-[22:58:21.625] [info] SignInState.cpp:117 -  * local_config_version : 2
-[22:58:21.625] [info] SignInState.cpp:117 -  * max_wreck_amount : 400
-[22:58:21.625] [info] SignInState.cpp:117 -  * minimap_zoom : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * mods_warning_popup_shown : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * monitor : \\.\DISPLAY1
-[22:58:21.625] [info] SignInState.cpp:117 -  * mouse_clamp : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * mouse_cursor_size : 1080
-[22:58:21.625] [info] SignInState.cpp:117 -  * mouse_sensitivity : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * neutral_ground_unit_max_count : 300
-[22:58:21.625] [info] SignInState.cpp:117 -  * pad_triggers_feedback : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * pad_vibrations_function : 2
-[22:58:21.625] [info] SignInState.cpp:117 -  * part_effect_chance : 0.75
-[22:58:21.625] [info] SignInState.cpp:117 -  * part_lifetime : 15
-[22:58:21.625] [info] SignInState.cpp:117 -  * part_max_number : 300
-[22:58:21.625] [info] SignInState.cpp:117 -  * play_voice_over_alerts : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_ambient_occlusion : hbao
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_ambient_occlusion_quality_ray : low
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_ambient_occlusion_ray : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_anti_aliasing : txaa
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_debug_rendering : none
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_fsr : none
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_max_fps : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_reflections : low
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_shadow_quality : ultra
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_shadow_quality_ray : high
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_soft_shadows : pcss
-[22:58:21.625] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/exor_logo_animated
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_soft_shadows_ray : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_textures_mipmap_level : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_upscale : 100%
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_volumetric_fog : ultra
-[22:58:21.625] [info] SignInState.cpp:117 -  * r_xess : none
-[22:58:21.625] [info] SignInState.cpp:117 -  * render_system : dx12
-[22:58:21.625] [info] SignInState.cpp:117 -  * season_popup_showed : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * show_controls_hud : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * show_missing_ammo : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * showed_change_info : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * showed_rotate_info : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * slot_change_counter : 10
-[22:58:21.625] [info] SignInState.cpp:117 -  * sound_mute_on_focus_lost : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * stream_events_negative : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * stream_events_positive : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * stream_voting_time : 40
-[22:58:21.625] [info] SignInState.cpp:117 -  * tooltips_delay : 0.400000006
-[22:58:21.625] [info] SignInState.cpp:117 -  * twelve_hours_time_policy : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_float_0 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_float_1 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_float_2 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_float_3 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_int_0 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_int_1 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_int_2 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * uniform_debug_int_3 : 0
-[22:58:21.625] [info] SignInState.cpp:117 -  * user_config_version : 4
-[22:58:21.625] [info] SignInState.cpp:117 -  * vibration : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * video_adapter : 
-[22:58:21.625] [info] SignInState.cpp:117 -  * video_mode : 3840x2160:32
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_announcement : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_dialog : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_event : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_master : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_music : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * volume_sfx : 1
-[22:58:21.625] [info] SignInState.cpp:117 -  * vsync : 0
-[22:58:21.625] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
-[22:58:21.638] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
-[22:58:22.353] [info] ExternalContentModio.cpp:83 - [22:58:22:351ms][Info][Http] Initializing GET request for api.mod.io /v1/me?api_key=61144373bae07e1c7305c1a6ba80e386
+[23:10:31.112] [info] Framework.cpp:825 - -------------------------
+[23:10:31.112] [info] Framework.cpp:826 - Config Variables:
+[23:10:31.112] [info] Framework.cpp:827 - -------------------------
+[23:10:31.112] [info] Framework.cpp:828 -  * Render System: dx12
+[23:10:31.112] [info] Framework.cpp:829 -  * Adapter Name: 
+[23:10:31.112] [info] Framework.cpp:830 -  * Display Name: 
+[23:10:31.112] [info] Framework.cpp:831 -  * Video Mode: 
+[23:10:31.348] [info] OgreD3D12DeviceWin32.cpp:469 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[23:10:31.522] [info] OgreD3D12DeviceWin32.cpp:469 - [DEBUG] adapter ignored: 'Microsoft Basic Render Driver' because DXGI_ADAPTER_FLAG_SOFTWARE is set!
+[23:10:31.523] [info]  - RenderSystem
+[23:10:31.523] [info]  - -------------------------
+[23:10:31.523] [info]  - Name: dx12
+[23:10:31.523] [info]  - GPU Vendor: NVIDIA
+[23:10:31.523] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[23:10:31.523] [info]  - Device Memory: 24340MB
+[23:10:31.523] [info]  - Driver Version: 31.0.15.3667
+[23:10:31.523] [info]  - Device outputs:
+[23:10:31.523] [info]  -  * PD32M: \\.\DISPLAY1 resolution: 3840x2160, primary: true
+[23:10:31.523] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
+[23:10:31.523] [info]  - Device capabilities:
+[23:10:31.523] [info]  -  * DirectX tearing support: true
+[23:10:31.523] [info]  -  * DirectX raytracing support: true
+[23:10:31.523] [info]  -  * DirectX min presicion 16bit: true
+[23:10:31.523] [info]  -  * DirectX shader model 6.0 support: true
+[23:10:31.523] [info]  -  * DirectX shader model 6.2 support: true
+[23:10:31.523] [info]  -  * DirectX shader model 6.4 support: true
+[23:10:31.523] [info]  - D3D12: dx12 created.
+[23:10:31.523] [info] OgreVideoManager.cpp:31 - Theora workers thread count: 1
+[23:10:31.523] [info]  - Platform information:
+[23:10:31.523] [info]  - -------------------------
+[23:10:31.523] [info]  -  *   SYSTEM: Windows 10 Pro 19045
+[23:10:31.523] [info]  -  *   CPU ID: AuthenticAMD: AMD Ryzen 9 5950X 16-Core Processor
+[23:10:31.523] [info]  -  *      SSE: yes
+[23:10:31.523] [info]  -  *     SSE2: yes
+[23:10:31.523] [info]  -  *     SSE3: yes
+[23:10:31.523] [info]  -  *      MMX: yes
+[23:10:31.523] [info]  -  *   MMXEXT: yes
+[23:10:31.523] [info]  -  *    3DNOW: no
+[23:10:31.523] [info]  -  * 3DNOWEXT: no
+[23:10:31.523] [info]  -  *     CMOV: yes
+[23:10:31.523] [info]  -  *      TSC: yes
+[23:10:31.523] [info]  -  *      FPU: yes
+[23:10:31.523] [info]  -  *      PRO: yes
+[23:10:31.523] [info]  -  *       HT: no
+[23:10:31.523] [info]  - -------------------------
+[23:10:31.523] [info]  - 
+[23:10:31.523] [info]  - Memory info
+[23:10:31.523] [info]  - -------------------------
+[23:10:31.523] [info]  -  * There is 8  percent of memory in use.
+[23:10:31.523] [info]  -  * There are 130986 total MB of physical memory.
+[23:10:31.523] [info]  -  * There are 119624 free  MB of physical memory.
+[23:10:31.523] [info]  -  * There are 150442 total MB of paging file.
+[23:10:31.523] [info]  -  * There are 136246 free  MB of paging file.
+[23:10:31.523] [info]  -  * There are 134217727 total MB of virtual memory.
+[23:10:31.523] [info]  -  * There are 134073715 free  MB of virtual memory.
+[23:10:31.523] [info]  -  * There are 0 free  MB of extended memory.
+[23:10:31.523] [info]  - -------------------------
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.1041854477770236%)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 24.55859375MB (usage)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.03009711767140164%)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.36328125MB (budget)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 19.48046875MB (usage)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[23:10:32.237] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.681640625MB (available for reserve)
+[23:10:32.280] [info]  - RenderSystem
+[23:10:32.280] [info]  - -------------------------
+[23:10:32.280] [info]  - Name: dx12
+[23:10:32.280] [info]  - GPU Vendor: NVIDIA
+[23:10:32.280] [info]  - Device Name: NVIDIA GeForce RTX 3090
+[23:10:32.280] [info]  - Device Memory: 24340MB
+[23:10:32.280] [info]  - Driver Version: 31.0.15.3667
+[23:10:32.280] [info]  - Device outputs:
+[23:10:32.280] [info]  -  * PD32M: \\.\DISPLAY1 resolution: 3840x2160, primary: true
+[23:10:32.280] [info]  -  * U32U1WR6B: \\.\DISPLAY2 resolution: 3840x2160, primary: false
+[23:10:32.280] [info]  - Device capabilities:
+[23:10:32.280] [info]  -  * DirectX tearing support: true
+[23:10:32.280] [info]  -  * DirectX raytracing support: true
+[23:10:32.280] [info]  -  * DirectX min presicion 16bit: true
+[23:10:32.280] [info]  -  * DirectX shader model 6.0 support: true
+[23:10:32.280] [info]  -  * DirectX shader model 6.2 support: true
+[23:10:32.280] [info]  -  * DirectX shader model 6.4 support: true
+[23:10:32.280] [info] WindowWin32.cpp:128 - CreateWindow: 3840x2160
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:30 - [DEBUG] Preferred Output ( prefix: \\.\DISPLAY1 )
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x164d67ed730 
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY1
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:52 - [DEBUG] preferred output
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:34 - [DEBUG] output: 0x164d67f0950 
+[23:10:32.284] [info] OgreD3D12RenderWindowWin32.cpp:44 - [DEBUG] output name: \\.\DISPLAY2
+[23:10:32.589] [info] OgreD3D12RenderWindowWin32.cpp:158 - RenderWindow create:
+[23:10:32.589] [info] OgreD3D12RenderWindowWin32.cpp:159 - Fullscreen
+[23:10:32.589] [info] OgreD3D12RenderWindowWin32.cpp:162 - Resolution=3840x2160
+[23:10:32.589] [info] Framework.cpp:825 - -------------------------
+[23:10:32.589] [info] Framework.cpp:826 - Config Variables:
+[23:10:32.589] [info] Framework.cpp:827 - -------------------------
+[23:10:32.589] [info] Framework.cpp:828 -  * Render System: dx12
+[23:10:32.589] [info] Framework.cpp:829 -  * Adapter Name: 
+[23:10:32.589] [info] Framework.cpp:830 -  * Display Name: \\.\DISPLAY1
+[23:10:32.589] [info] Framework.cpp:831 -  * Video Mode: 3840x2160:32
+[23:10:32.598] [info] AudioXAudio2.cpp:202 - XAudio2 engine started. Detected 1/1 device:
+[23:10:32.598] [info] AudioXAudio2.cpp:205 -  (#0) 扬声器 (Sound Blaster AE-9) <default>
+[23:10:32.664] [info] AudioXAudio2.cpp:233 - Initializing XAudio2. Channels: 2.0, sample rate: 96000Hz 
+[23:10:32.664] [info] SoundLibrary.cpp:39 - Audio submix config: SFX: 3, MUSIC: 5, Dialogs: 7, Events: 9, Announcements: 11
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnableEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDisableEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnSelectEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDeselectEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnNeutralActivatePositiveEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnNeutralActivateNegativeEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnActiveActivateNegativeEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnDisabledActivateNegativeEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnActiveActivatePositiveEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterNeutralEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitNeutralEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterNeutralSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitNeutralSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterActiveEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitActiveEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterActiveSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitActiveSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterDisabledEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitDisabledEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnEnterDisabledSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnExitDisabledSelectedEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnShowEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: OnHideEffect
+[23:10:32.666] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: invalidEventEffect
+[23:10:32.769] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_audio.zip` as `/`
+[23:10:32.770] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\00_win_engine.zip` as `/`
+[23:10:32.773] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_audio.zip` as `/`
+[23:10:32.773] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\01_win_engine.zip` as `/`
+[23:10:32.773] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\engine\99_win_shaders_cache.zip` as `/`
+[23:10:32.776] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_startup.zip` as `/`
+[23:10:32.777] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\00_win_video.zip` as `/`
+[23:10:32.778] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_startup.zip` as `/`
+[23:10:32.778] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\01_win_video.zip` as `/`
+[23:10:32.778] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\startup\99_win_shaders_cache.zip` as `/`
+[23:10:32.778] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\startup\00_win_startup_dlc_1.zip` as `/`
+[23:10:32.821] [info] Framework.cpp:515 - Loaded entity types from `scripts/physics/physics_user_flags.kvp`:
+[23:10:32.821] [info] Framework.cpp:525 -  * scannable(0)
+[23:10:32.826] [info] Framework.cpp:490 - Loaded entity types from `scripts/types.kvp`:
+[23:10:32.826] [info] Framework.cpp:500 -  * building(1)
+[23:10:32.826] [info] Framework.cpp:500 -  * decorations(2)
+[23:10:32.826] [info] Framework.cpp:500 -  * defense(3)
+[23:10:32.826] [info] Framework.cpp:500 -  * energy(4)
+[23:10:32.826] [info] Framework.cpp:500 -  * ground_unit(5)
+[23:10:32.826] [info] Framework.cpp:500 -  * ground_unit_small(6)
+[23:10:32.826] [info] Framework.cpp:500 -  * ground_unit_medium(7)
+[23:10:32.826] [info] Framework.cpp:500 -  * ground_unit_large(8)
+[23:10:32.826] [info] Framework.cpp:500 -  * headquarters(9)
+[23:10:32.826] [info] Framework.cpp:500 -  * ground_unit_artillery(10)
+[23:10:32.826] [info] Framework.cpp:500 -  * main(11)
+[23:10:32.826] [info] Framework.cpp:500 -  * player(12)
+[23:10:32.826] [info] Framework.cpp:500 -  * prop(13)
+[23:10:32.826] [info] Framework.cpp:500 -  * resource(14)
+[23:10:32.826] [info] Framework.cpp:500 -  * shield(15)
+[23:10:32.826] [info] Framework.cpp:500 -  * spawner(16)
+[23:10:32.826] [info] Framework.cpp:500 -  * tower(17)
+[23:10:32.826] [info] Framework.cpp:500 -  * water(18)
+[23:10:32.826] [info] Framework.cpp:500 -  * wall(19)
+[23:10:32.826] [info] Framework.cpp:500 -  * quelver(20)
+[23:10:32.826] [info] Framework.cpp:500 -  * air_unit(21)
+[23:10:32.826] [info] Framework.cpp:500 -  * drones(22)
+[23:10:32.826] [info] Framework.cpp:500 -  * invisible(23)
+[23:10:32.826] [info] Framework.cpp:500 -  * flora(24)
+[23:10:32.826] [info] Framework.cpp:500 -  * crystal(25)
+[23:10:32.826] [info] Framework.cpp:500 -  * light(26)
+[23:10:32.826] [info] Framework.cpp:500 -  * not_move_to_target(27)
+[23:10:32.826] [info] Framework.cpp:500 -  * scannable(28)
+[23:10:32.826] [info] Framework.cpp:500 -  * spikybulb(29)
+[23:10:32.826] [info] Framework.cpp:500 -  * wreck_small(30)
+[23:10:32.826] [info] Framework.cpp:500 -  * wreck_medium(31)
+[23:10:32.826] [info] Framework.cpp:500 -  * wreck_large(32)
+[23:10:32.826] [info] Framework.cpp:500 -  * prop_alien(33)
+[23:10:32.826] [info] Framework.cpp:500 -  * cavern_wall(34)
+[23:10:32.826] [info]  - Installing plugin: ParticleUniverse
+[23:10:32.827] [info]  - Plugin successfully installed
+[23:10:32.850] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:16 - Local Memory Info (0.7032973443068047%)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:17 - 23572MB (budget)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:18 - 165.78125MB (usage)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:19 - 0MB (reserved)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:20 - 11914MB (available for reserve)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:26 - Non-Local Memory Info (0.12746766038453458%)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:27 - 64725.36328125MB (budget)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:28 - 82.50390625MB (usage)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:29 - 0MB (reserved)
+[23:10:32.852] [info] OgreD3D12ResidencyManagerWin32.cpp:30 - 32490.681640625MB (available for reserve)
+[23:10:32.874] [info] VfsNativeArchive.cpp:50 - [VFS] mounting: `C:\Users\GeminiWaterAce\Documents\The Riftbreaker\cache\dx12` as `/.cache`
+[23:10:32.876] [info] MaterialPlugin.cpp:113 - Init ParticleTechniqueGenerator
+[23:10:32.876] [info] MaterialPlugin.cpp:119 - Init UpscaleMaskTechniqueGenerator
+[23:10:32.876] [info] MaterialPlugin.cpp:125 - Init ShadowTechniqueGenerator
+[23:10:32.876] [info] MaterialPlugin.cpp:131 - Init DecalTechniqueGenerator
+[23:10:32.876] [info] MaterialPlugin.cpp:137 - Init GBufferTechniqueGenerator
+[23:10:33.153] [info] RiftbreakerApp.cpp:174 - The Riftbreaker EXE: 810 DATA: 422 
+[23:10:33.163] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_combine
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_raytracing
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_shadows
+[23:10:33.249] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:10:33.249] [info] CompositorGraph.cpp:35 - Created compositor: `gui`
+[23:10:33.252] [info] CompositorGraph.cpp:559 - 0 CompositorNode : gui
+[23:10:33.252] [info] CompositorGraph.cpp:559 - 1 CompositorNode : gui_final
+[23:10:33.252] [info] CompositorGraph.cpp:630 - RenderTarget: main start: 0 end: 1
+[23:10:33.252] [info] CompositorGraph.cpp:633 - RenderTargets Memory : 33177600
+[23:10:33.252] [info] CompositorGraph.cpp:665 - Compositor Memory Usage (optimized): 33177600
+[23:10:33.257] [info] RenderingState.cpp:386 - Change compositor: `gui`
+[23:10:33.274] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
+[23:10:33.281] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_animated
+[23:10:33.287] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/exor_logo_animated
+[23:10:33.468] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/exor_logo_animated.ogv
+[23:10:33.469] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[23:10:33.471] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[23:10:45.643] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
+[23:10:45.649] [info] ControllerState.cpp:539 - OnStartupLogosFinishedEvent
+[23:10:45.649] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:10:45.666] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
+[23:10:45.666] [info] SignInState.cpp:71 - Entering SignInState...
+[23:10:45.666] [info] DefaultSignIn.cpp:96 - SignIn: User status changed : 0. Name : User name : GeminiWaterAce, user id:0, controller id : ControllerId( PAD, 0 )
+[23:10:45.676] [info] RenderingState.cpp:386 - Change compositor: `gui`
+[23:10:45.685] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
+[23:10:45.685] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[23:10:45.685] [info] TheoraVideoManager.cpp:208 -  - state=paused
+[23:10:45.685] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv state=paused
+[23:10:45.685] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_animated.ogv
+[23:10:45.685] [info] TheoraVideoManager.cpp:208 -  - state=paused
+[23:10:45.685] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/exor_logo_animated.ogv state=paused
+[23:10:45.685] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/exor_logo_animated.ogv
+[23:10:45.685] [info] TheoraVideoManager.cpp:208 -  - state=paused
+[23:10:45.685] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_animated
+[23:10:45.685] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/exor_logo_animated
+[23:10:45.685] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
+[23:10:45.688] [info] SignInState.cpp:105 - Config variables:
+[23:10:45.688] [info] SignInState.cpp:117 -  * autosave_timer : 20
+[23:10:45.688] [info] SignInState.cpp:117 -  * camera_mode : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * camera_shake : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * d3d12_debug_layer : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * d3d12_disable_residency_manager : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * d3d12_gpu_dump : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * d3d12_gpu_validation : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * debug_build_mode_grid : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * decal_max_count : 500
+[23:10:45.688] [info] SignInState.cpp:117 -  * difficulty : normal
+[23:10:45.688] [info] SignInState.cpp:117 -  * enable_liquid_splashes : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * enable_pause_on_platform_overlay_event : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * enable_seasonal_events : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * full_screen : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_boss_health_bars : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_buildings_damage_annoucements : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_buildings_destroy_annoucements : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_buildings_leave_ruins : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_buildings_ruins_lifetime : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_dynamic_vegetation : 2
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_enable_tutorials : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_fullstorage_annoucements : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_mech_health_bars : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_missing_resources_annoucements : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * g_tower_ammo_missing_annoucements : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * gamepad_buttons_scheme : 
+[23:10:45.688] [info] SignInState.cpp:117 -  * gpu_program_version : 3
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_enable_ammo_modifier : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_pop_cumulate : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_pop_damage_display : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_pop_non_player_damage_display : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_pop_only_critical : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * hud_pop_show_damage_type_icons : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * lamp_context_support : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * languages : CHINESE_SP
+[23:10:45.688] [info] SignInState.cpp:117 -  * last_upsell_marker_shown : 
+[23:10:45.688] [info] SignInState.cpp:117 -  * light_limits : 2
+[23:10:45.688] [info] SignInState.cpp:117 -  * local_config_version : 2
+[23:10:45.688] [info] SignInState.cpp:117 -  * max_wreck_amount : 400
+[23:10:45.688] [info] SignInState.cpp:117 -  * minimap_zoom : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * mods_warning_popup_shown : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * monitor : \\.\DISPLAY1
+[23:10:45.688] [info] SignInState.cpp:117 -  * mouse_clamp : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * mouse_cursor_size : 1080
+[23:10:45.688] [info] SignInState.cpp:117 -  * mouse_sensitivity : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * neutral_ground_unit_max_count : 300
+[23:10:45.688] [info] SignInState.cpp:117 -  * pad_triggers_feedback : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * pad_vibrations_function : 2
+[23:10:45.688] [info] SignInState.cpp:117 -  * part_effect_chance : 0.75
+[23:10:45.688] [info] SignInState.cpp:117 -  * part_lifetime : 15
+[23:10:45.688] [info] SignInState.cpp:117 -  * part_max_number : 300
+[23:10:45.688] [info] SignInState.cpp:117 -  * play_voice_over_alerts : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_ambient_occlusion : hbao
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_ambient_occlusion_quality_ray : low
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_ambient_occlusion_ray : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_anti_aliasing : txaa
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_debug_rendering : none
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_fsr : none
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_max_fps : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_reflections : low
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_shadow_quality : ultra
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_shadow_quality_ray : high
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_soft_shadows : pcss
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_soft_shadows_ray : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_textures_mipmap_level : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_upscale : 100%
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_volumetric_fog : ultra
+[23:10:45.688] [info] SignInState.cpp:117 -  * r_xess : none
+[23:10:45.688] [info] SignInState.cpp:117 -  * render_system : dx12
+[23:10:45.688] [info] SignInState.cpp:117 -  * season_popup_showed : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * show_controls_hud : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * show_missing_ammo : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * showed_change_info : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * showed_rotate_info : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * slot_change_counter : 10
+[23:10:45.688] [info] SignInState.cpp:117 -  * sound_mute_on_focus_lost : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * stream_events_negative : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * stream_events_positive : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * stream_voting_time : 40
+[23:10:45.688] [info] SignInState.cpp:117 -  * tooltips_delay : 0.400000006
+[23:10:45.688] [info] SignInState.cpp:117 -  * twelve_hours_time_policy : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_float_0 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_float_1 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_float_2 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_float_3 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_int_0 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_int_1 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_int_2 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * uniform_debug_int_3 : 0
+[23:10:45.688] [info] SignInState.cpp:117 -  * user_config_version : 4
+[23:10:45.688] [info] SignInState.cpp:117 -  * vibration : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * video_adapter : 
+[23:10:45.688] [info] SignInState.cpp:117 -  * video_mode : 3840x2160:32
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_announcement : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_dialog : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_event : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_master : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_music : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * volume_sfx : 1
+[23:10:45.688] [info] SignInState.cpp:117 -  * vsync : 0
+[23:10:45.697] [info] TheoraVideoManager.cpp:321 - Selected to prepare: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[23:10:46.013] [info] ExternalContentModio.cpp:83 - [23:10:46:11ms][Info][Http] Initializing GET request for api.mod.io /v1/me?api_key=61144373bae07e1c7305c1a6ba80e386
 
-[22:58:43.410] [warning] ExternalContentModio.cpp:86 - [22:58:43:402ms][Warning][Http] Function 5 returned error code 2ee2
-
-
-[22:58:43.410] [info] ExternalContentModio.cpp:83 - [22:58:43:407ms][Info][Http] Initializing POST request for api.mod.io /v1/external/steamauth?api_key=61144373bae07e1c7305c1a6ba80e386
-
-[22:59:04.437] [warning] ExternalContentModio.cpp:41 - modio: ERROR[ 20489 ]='An error occurred making a HTTP request'
-[22:59:04.440] [warning] ExternalContentModio.cpp:86 - [22:59:04:437ms][Warning][Http] Function 5 returned error code 2ee2
+[23:11:07.391] [warning] ExternalContentModio.cpp:86 - [23:11:07:389ms][Warning][Http] Function 5 returned error code 2ee2
 
 
-[22:59:04.507] [info] TeamManager.cpp:20 - Creating team relation escape id :0
-[22:59:04.507] [info] TeamManager.cpp:20 - Creating team relation hostility id :1
-[22:59:04.533] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_audio.zip` as `/`
-[22:59:04.546] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_data.zip` as `/`
-[22:59:07.942] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_video.zip` as `/`
-[22:59:07.942] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_audio.zip` as `/`
-[22:59:07.942] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_data.zip` as `/`
-[22:59:07.944] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\99_win_shaders_cache.zip` as `/`
-[22:59:07.945] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_audio_dlc_1.zip` as `/`
-[22:59:07.946] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_data_dlc_1.zip` as `/`
-[22:59:07.946] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_video_dlc_1.zip` as `/`
-[22:59:12.425] [info] RiftbreakerApp.cpp:174 - The Riftbreaker EXE: 810 DATA: 422 
-[22:59:12.427] [info] ControllerState.cpp:521 - OnMainResourcesInitialized
-[22:59:12.432] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
-[22:59:12.463] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:59:12.463] [info] ControllerState.cpp:380 - [ControllerState] activating: GameplayState
-[22:59:12.478] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:59:12.479] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_acid - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_cryo - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_energy - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_fire - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_1 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_2 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_3 - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_boss_energy - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_acid - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_cryo - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_energy - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_fire - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_alpha - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_ultra - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_acid - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_cryo - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_energy - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_fire - patch type : recreate
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_acid - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_cryo - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_energy - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_fire - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite_ultra - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus_alpha - patch type : remove
-[22:59:12.483] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus_ultra - patch type : remove
-[22:59:12.488] [info] RenderingState.cpp:386 - Change compositor: `gui`
-[22:59:12.492] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/loading'
-[22:59:12.496] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
-[22:59:12.521] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: camera_reset
-[22:59:12.527] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
-[22:59:12.527] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
-[22:59:12.527] [info] TheoraVideoManager.cpp:208 -  - state=paused
-[22:59:12.528] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: debug_reset_audible_spacial_sounds
-[22:59:12.530] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
-[22:59:13.061] [info] GameplayState.cpp:749 - [MapGenerator]: generator seed: `1624967373`
-[22:59:13.061] [info] GameplayState.cpp:750 - [MapGenerator]: map size: `5x5`
-[22:59:13.061] [info] GameplayState.cpp:751 - [MapGenerator]: mission file: `missions/benchmarks/intense.mission`
-[22:59:13.061] [info] GameplayState.cpp:752 - [MapGenerator]: mission script: ``
-[22:59:13.061] [info] GameplayState.cpp:753 - [MapGenerator]: mission logic: `logic/missions/benchmarks/intense/default.logic`
-[22:59:13.488] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: grp.start
-[22:59:13.488] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: grp.quit
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_23.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_13.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_26.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_2.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_7.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_4.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_20.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_1.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_17.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_28.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_11.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_24.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_19.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_14.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_8.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_3.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_12.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_5.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_6.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_22.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_10.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_21.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_15.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_27.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_29.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_16.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_9.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_18.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_25.dds' as dependency but it doesn't exist!
-[22:59:17.094] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_0.dds' as dependency but it doesn't exist!
-[22:59:24.569] [info] NavigationGraph.cpp:138 - NavigationGraph::Generate - Starting graph creation
-[22:59:24.569] [info] NavigationGraph.cpp:165 - NavigationGraph::Generate - Cell size : 2
-[22:59:24.569] [info] NavigationGraph.cpp:166 - NavigationGraph::Generate - Region size : 64
-[22:59:24.569] [info] NavigationGraph.cpp:167 - NavigationGraph::Generate - Region count in x axis : 13
-[22:59:24.569] [info] NavigationGraph.cpp:168 - NavigationGraph::Generate - Region count in z axis : 13
-[22:59:24.998] [info] NavigationGraph.cpp:224 - NavigationGraph::Generate - Async grid creation 0.42858958 sec.
-[22:59:25.006] [info] NavigationGraph.cpp:265 - NavigationGraph::Generate - Fill gaps in the grid 0.0064505 sec.
-[22:59:25.021] [info] NavigationGraph.cpp:306 - NavigationGraph::Generate - Sparse graph creation 0.0157027 sec.
-[22:59:25.112] [info] NavigationGraph.cpp:338 - NavigationGraph::Generate - Navmesh creation 0.0905452 sec.
-[22:59:25.115] [info] NavigationGraph.cpp:344 - NavigationGraph::Generate - Graph generated in 0.5459038 sec.
-[22:59:25.115] [info] NavigationGraph.cpp:346 - NavigationGraph::Generate - Total nodes count : 120428
-[22:59:25.115] [info] NavigationGraph.cpp:347 - NavigationGraph::Generate - Total nodes edges count : 0
-[22:59:25.115] [info] NavigationGraph.cpp:348 - NavigationGraph::Generate - Total navmesh count : 4925
-[22:59:25.115] [info] NavigationGraph.cpp:349 - NavigationGraph::Generate - Total navmesh edges count : 17798
-[22:59:25.115] [info] NavigationGraph.cpp:138 - NavigationGraph::Generate - Starting graph creation
-[22:59:25.115] [info] NavigationGraph.cpp:165 - NavigationGraph::Generate - Cell size : 2
-[22:59:25.115] [info] NavigationGraph.cpp:166 - NavigationGraph::Generate - Region size : 64
-[22:59:25.115] [info] NavigationGraph.cpp:167 - NavigationGraph::Generate - Region count in x axis : 13
-[22:59:25.115] [info] NavigationGraph.cpp:168 - NavigationGraph::Generate - Region count in z axis : 13
-[22:59:25.205] [info] NavigationGraph.cpp:224 - NavigationGraph::Generate - Async grid creation 0.0900576 sec.
-[22:59:25.208] [info] NavigationGraph.cpp:265 - NavigationGraph::Generate - Fill gaps in the grid 0.0018720999 sec.
-[22:59:25.221] [info] NavigationGraph.cpp:306 - NavigationGraph::Generate - Sparse graph creation 0.012747 sec.
-[22:59:25.269] [info] NavigationGraph.cpp:338 - NavigationGraph::Generate - Navmesh creation 0.0481697 sec.
-[22:59:25.272] [info] NavigationGraph.cpp:344 - NavigationGraph::Generate - Graph generated in 0.1567085 sec.
-[22:59:25.272] [info] NavigationGraph.cpp:346 - NavigationGraph::Generate - Total nodes count : 101613
-[22:59:25.272] [info] NavigationGraph.cpp:347 - NavigationGraph::Generate - Total nodes edges count : 0
-[22:59:25.272] [info] NavigationGraph.cpp:348 - NavigationGraph::Generate - Total navmesh count : 2238
-[22:59:25.272] [info] NavigationGraph.cpp:349 - NavigationGraph::Generate - Total navmesh edges count : 10106
-[22:59:27.139] [info] LoadingProfilerWriter.cpp:96 - Creating loading profiling data file: loading_benchmark_intense.zds
-[22:59:27.174] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_combine
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_raytracing
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_shadows
-[22:59:27.204] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
-[22:59:27.204] [info] CompositorGraph.cpp:35 - Created compositor: `pbr_compositor`
-[22:59:27.224] [info] BenchmarkState.cpp:187 - #BENCHMARK_START: benchmark_intense
-[22:59:27.241] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/exploration'
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 0 CompositorNode : pbr_gbuffer
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 1 CompositorNode : pbr_light_mask
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 2 CompositorNode : pbr_shadow
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 3 CompositorNode : pbr_raytracing
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 4 CompositorNode : pbr_linear_depth
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 5 CompositorNode : pbr_occlusion
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 6 CompositorNode : pbr_lighting
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 7 CompositorNode : pbr_reflection
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 8 CompositorNode : pbr_volumetric_fog
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 9 CompositorNode : pbr_combine
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 10 CompositorNode : pbr_forward
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 11 CompositorNode : pbr_upscaler
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 12 CompositorNode : pbr_bloom
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 13 CompositorNode : pbr_distortion
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 14 CompositorNode : pbr_antialiasing
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 15 CompositorNode : pbr_minimap
-[22:59:27.294] [info] CompositorGraph.cpp:559 - 16 CompositorNode : pbr_final
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: light_mask start: 1 end: 10
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: shadows start: 2 end: 10
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: raytraced_shadows start: 3 end: 9
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: linear_depth start: 4 end: 9
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: occlusion start: 5 end: 9
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: bilateral_occlusion start: 5 end: 5
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: main start: 6 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: main_copy start: 9 end: 9
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: a0 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: a1 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: b0 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: b1 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: c0 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: c1 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: d0 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: d1 start: 12 end: 12
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: distortion start: 13 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: tonemap start: 14 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: antialiased start: 14 end: 16
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: ldr start: 14 end: 14
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: minimap start: 15 end: 16
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gui_main start: 16 end: 16
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gui_half_1 start: 16 end: 16
-[22:59:27.294] [info] CompositorGraph.cpp:630 - RenderTarget: gui_half_2 start: 16 end: 16
-[22:59:27.294] [info] CompositorGraph.cpp:633 - RenderTargets Memory : 623612544
-[22:59:27.294] [info] CompositorGraph.cpp:665 - Compositor Memory Usage (optimized): 623612544
-[22:59:27.413] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
-[22:59:27.413] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
-[22:59:27.413] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
-[22:59:27.834] [info] RenderingState.cpp:386 - Change compositor: `pbr_compositor`
-[22:59:28.537] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_spawn_player_pawn.lua']: Spawn player: 0
-[22:59:29.805] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_add_and_equip_item.lua']: Add item and equip to player: 0
-[22:59:29.805] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_add_and_equip_item.lua']: Add item and equip to player: 0
-[22:59:29.815] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/exploration'
-[22:59:30.004] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_add_and_equip_item.lua']: Add item and equip to player: 0
-[22:59:30.004] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_add_and_equip_item.lua']: Add item and equip to player: 0
-[22:59:30.100] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_add_and_equip_item.lua']: Add item and equip to player: 0
-[22:59:53.373] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/fighting'
-[23:00:31.128] [info] BenchmarkState.cpp:204 - #BENCHMARK_END: benchmark_intense
-[23:00:31.137] [info] GameplayState.cpp:1566 - GameplayState::PauseGame
-[23:00:31.240] [info] RenderingState.cpp:386 - Change compositor: `pbr_compositor`
-[23:00:46.528] [warning] AudioManager.cpp:371 - Audio: Missing precache: sound\samples\gui_navigation\main_menu_highlight_07.wav
-[23:00:47.253] [info] GuiScene.cpp:824 - Warning: menu leaving state too long...
-[23:00:47.264] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
-[23:00:47.383] [info] NavigationGraph.cpp:65 - NavigationGraph::NavigationGraph - Graph destroyed in 0.0032811998 sec.
-[23:00:47.385] [info] NavigationGraph.cpp:65 - NavigationGraph::NavigationGraph - Graph destroyed in 0.0022949 sec.
-[23:00:47.431] [info] GuiScene.cpp:824 - Warning: menu leaving state too long...
-[23:00:47.815] [info]  - Uninstalling plugin: ParticleUniverse
-[23:00:47.815] [info]  - Plugin successfully uninstalled
-[23:00:47.815] [info] ConfigVariable.hpp:261 - ERROR: Unabled to unregister callback (cvar 'current_seasonal_event')
-[23:00:47.815] [info] ConfigVariable.hpp:261 - ERROR: Unabled to unregister callback (cvar 'enable_seasonal_events')
-[23:00:47.816] [info] AudioBase.cpp:63 - Audio shutdown starts...
-[23:00:47.820] [info] AudioBase.cpp:92 - Audio shutdown finished successfully in ~4ms
-[23:00:47.920] [info] AudioBase.cpp:63 - Audio shutdown starts...
-[23:00:47.920] [info] AudioBase.cpp:92 - Audio shutdown finished successfully in ~0ms
-[23:00:47.959] [info] ApplicationAbstract.cpp:52 - Destroying application
+[23:11:07.391] [info] ExternalContentModio.cpp:83 - [23:11:07:390ms][Info][Http] Initializing POST request for api.mod.io /v1/external/steamauth?api_key=61144373bae07e1c7305c1a6ba80e386
+
+[23:11:28.431] [warning] ExternalContentModio.cpp:41 - modio: ERROR[ 20489 ]='An error occurred making a HTTP request'
+[23:11:28.434] [warning] ExternalContentModio.cpp:86 - [23:11:28:425ms][Warning][Http] Function 5 returned error code 2ee2
+
+
+[23:11:28.480] [info] TeamManager.cpp:20 - Creating team relation escape id :0
+[23:11:28.480] [info] TeamManager.cpp:20 - Creating team relation hostility id :1
+[23:11:28.502] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_audio.zip` as `/`
+[23:11:28.515] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_data.zip` as `/`
+[23:11:31.924] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\00_win_video.zip` as `/`
+[23:11:31.924] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_audio.zip` as `/`
+[23:11:31.925] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\01_win_data.zip` as `/`
+[23:11:31.927] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\99_win_shaders_cache.zip` as `/`
+[23:11:31.927] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_audio_dlc_1.zip` as `/`
+[23:11:31.928] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_data_dlc_1.zip` as `/`
+[23:11:31.929] [info] VfsZipArchive.cpp:170 - [VFS] mounting: `D:\SteamLibrary\steamapps\common\Riftbreaker\bin\..\packs\dlc_1\00_win_video_dlc_1.zip` as `/`
+[23:11:36.433] [info] RiftbreakerApp.cpp:174 - The Riftbreaker EXE: 810 DATA: 422 
+[23:11:36.438] [info] ControllerState.cpp:521 - OnMainResourcesInitialized
+[23:11:36.443] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
+[23:11:36.474] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:11:36.474] [info] ControllerState.cpp:380 - [ControllerState] activating: GameplayState
+[23:11:36.487] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:11:36.487] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:11:36.490] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/loading'
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_alpha_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/arachnoid_sentinel_ultra_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_acid - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_cryo - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_energy - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/baxmoth_boss_fire - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_alpha_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_1 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_2 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/canoptrix_ultra_3 - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/carnicinth_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/drexolian_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_boss_energy - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/flurian_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/hedroner_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/lesigian_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_acid - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_cryo - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_energy - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/magmoth_boss_fire - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/necrodon_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_alpha - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_ultra - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_acid - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_cryo - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_energy - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_boss_fire - patch type : recreate
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/ground/nurglax_drone_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_acid - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_cryo - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_energy - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/baxmoth_drone_fire - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/bitrid_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/mothray_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vathamite_ultra - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus_alpha - patch type : remove
+[23:11:36.491] [info] UnitsPatchSystem.cpp:487 - Unit patch : units/air/vesaurus_ultra - patch type : remove
+[23:11:36.496] [info] RenderingState.cpp:386 - Change compositor: `gui`
+[23:11:36.500] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: refresh_gui_text_items
+[23:11:36.524] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: camera_reset
+[23:11:36.529] [warning] CmdParser.cpp:14 - [WARNING] Console command already registered: debug_reset_audible_spacial_sounds
+[23:11:36.532] [info] OgreVideoManager.cpp:140 - frameStarted: Destroy Clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv state=paused
+[23:11:36.532] [info] TheoraVideoManager.cpp:207 - Destroying video clip: materials/textures/gui/logos/riftbreaker_logo_loop.ogv
+[23:11:36.532] [info] TheoraVideoManager.cpp:208 -  - state=paused
+[23:11:36.534] [info] MaterialPlugin.cpp:233 - Reloading material gui/logos/riftbreaker_logo_loop
+[23:11:36.782] [info] GameplayState.cpp:749 - [MapGenerator]: generator seed: `1625748981`
+[23:11:36.782] [info] GameplayState.cpp:750 - [MapGenerator]: map size: `5x5`
+[23:11:36.782] [info] GameplayState.cpp:751 - [MapGenerator]: mission file: `missions/benchmarks/gnerot_burning.mission`
+[23:11:36.782] [info] GameplayState.cpp:752 - [MapGenerator]: mission script: ``
+[23:11:36.782] [info] GameplayState.cpp:753 - [MapGenerator]: mission logic: `logic/missions/benchmarks/gpu/default.logic`
+[23:11:37.262] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: grp.start
+[23:11:37.262] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: grp.quit
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_23.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_13.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_26.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_2.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_7.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_4.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_20.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_1.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_17.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_28.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_11.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_24.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_19.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_14.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_8.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_3.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_12.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_5.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_6.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_22.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_10.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_21.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_15.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_27.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_29.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_16.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_9.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_18.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_25.dds' as dependency but it doesn't exist!
+[23:11:40.628] [error] ResourceLoadWorker.cpp:546 - ERROR['gui/hud/dialog_character_anoryxian_boss'] references resource: 'materials/textures/gui/hud/dialog_character_anoryxian_boss_0.dds' as dependency but it doesn't exist!
+[23:11:47.991] [info] NavigationGraph.cpp:138 - NavigationGraph::Generate - Starting graph creation
+[23:11:47.991] [info] NavigationGraph.cpp:165 - NavigationGraph::Generate - Cell size : 2
+[23:11:47.991] [info] NavigationGraph.cpp:166 - NavigationGraph::Generate - Region size : 64
+[23:11:47.991] [info] NavigationGraph.cpp:167 - NavigationGraph::Generate - Region count in x axis : 13
+[23:11:47.991] [info] NavigationGraph.cpp:168 - NavigationGraph::Generate - Region count in z axis : 13
+[23:11:48.515] [info] NavigationGraph.cpp:224 - NavigationGraph::Generate - Async grid creation 0.52345836 sec.
+[23:11:48.518] [info] NavigationGraph.cpp:265 - NavigationGraph::Generate - Fill gaps in the grid 0.0024783 sec.
+[23:11:48.534] [info] NavigationGraph.cpp:306 - NavigationGraph::Generate - Sparse graph creation 0.0153552 sec.
+[23:11:48.602] [info] NavigationGraph.cpp:338 - NavigationGraph::Generate - Navmesh creation 0.0685886 sec.
+[23:11:48.605] [info] NavigationGraph.cpp:344 - NavigationGraph::Generate - Graph generated in 0.6137097 sec.
+[23:11:48.605] [info] NavigationGraph.cpp:346 - NavigationGraph::Generate - Total nodes count : 111778
+[23:11:48.605] [info] NavigationGraph.cpp:347 - NavigationGraph::Generate - Total nodes edges count : 0
+[23:11:48.605] [info] NavigationGraph.cpp:348 - NavigationGraph::Generate - Total navmesh count : 4141
+[23:11:48.605] [info] NavigationGraph.cpp:349 - NavigationGraph::Generate - Total navmesh edges count : 15944
+[23:11:48.605] [info] NavigationGraph.cpp:138 - NavigationGraph::Generate - Starting graph creation
+[23:11:48.605] [info] NavigationGraph.cpp:165 - NavigationGraph::Generate - Cell size : 2
+[23:11:48.605] [info] NavigationGraph.cpp:166 - NavigationGraph::Generate - Region size : 64
+[23:11:48.605] [info] NavigationGraph.cpp:167 - NavigationGraph::Generate - Region count in x axis : 13
+[23:11:48.605] [info] NavigationGraph.cpp:168 - NavigationGraph::Generate - Region count in z axis : 13
+[23:11:48.717] [info] NavigationGraph.cpp:224 - NavigationGraph::Generate - Async grid creation 0.1117652 sec.
+[23:11:48.720] [info] NavigationGraph.cpp:265 - NavigationGraph::Generate - Fill gaps in the grid 0.0026085 sec.
+[23:11:48.734] [info] NavigationGraph.cpp:306 - NavigationGraph::Generate - Sparse graph creation 0.0135808 sec.
+[23:11:48.759] [info] NavigationGraph.cpp:338 - NavigationGraph::Generate - Navmesh creation 0.025877599 sec.
+[23:11:48.763] [info] NavigationGraph.cpp:344 - NavigationGraph::Generate - Graph generated in 0.1577227 sec.
+[23:11:48.763] [info] NavigationGraph.cpp:346 - NavigationGraph::Generate - Total nodes count : 103506
+[23:11:48.763] [info] NavigationGraph.cpp:347 - NavigationGraph::Generate - Total nodes edges count : 0
+[23:11:48.763] [info] NavigationGraph.cpp:348 - NavigationGraph::Generate - Total navmesh count : 1355
+[23:11:48.763] [info] NavigationGraph.cpp:349 - NavigationGraph::Generate - Total navmesh edges count : 7144
+[23:11:50.549] [info] LoadingProfilerWriter.cpp:96 - Creating loading profiling data file: loading_benchmark_gpu.zds
+[23:11:50.593] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
+[23:11:50.609] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/exploration'
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_combine
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_pbr_gbuffer
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_raytracing
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_shadows
+[23:11:50.609] [info] ConfigVarRegistry.cpp:88 - Warning: accessing undefined ConfigVariable: r_upscaler
+[23:11:50.609] [info] CompositorGraph.cpp:35 - Created compositor: `pbr_compositor`
+[23:11:50.633] [info] BenchmarkState.cpp:187 - #BENCHMARK_START: benchmark_gpu
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 0 CompositorNode : pbr_gbuffer
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 1 CompositorNode : pbr_light_mask
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 2 CompositorNode : pbr_shadow
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 3 CompositorNode : pbr_raytracing
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 4 CompositorNode : pbr_linear_depth
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 5 CompositorNode : pbr_occlusion
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 6 CompositorNode : pbr_lighting
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 7 CompositorNode : pbr_reflection
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 8 CompositorNode : pbr_volumetric_fog
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 9 CompositorNode : pbr_combine
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 10 CompositorNode : pbr_forward
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 11 CompositorNode : pbr_upscaler
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 12 CompositorNode : pbr_bloom
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 13 CompositorNode : pbr_distortion
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 14 CompositorNode : pbr_antialiasing
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 15 CompositorNode : pbr_minimap
+[23:11:50.647] [info] CompositorGraph.cpp:559 - 16 CompositorNode : pbr_final
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gbuffer start: 0 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: light_mask start: 1 end: 10
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: shadows start: 2 end: 10
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: raytraced_shadows start: 3 end: 9
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: linear_depth start: 4 end: 9
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: occlusion start: 5 end: 9
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: bilateral_occlusion start: 5 end: 5
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: main start: 6 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: main_copy start: 9 end: 9
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: a0 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: a1 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: b0 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: b1 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: c0 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: c1 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: d0 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: d1 start: 12 end: 12
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: distortion start: 13 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: tonemap start: 14 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: antialiased start: 14 end: 16
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: ldr start: 14 end: 14
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: minimap start: 15 end: 16
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gui_main start: 16 end: 16
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gui_half_1 start: 16 end: 16
+[23:11:50.647] [info] CompositorGraph.cpp:630 - RenderTarget: gui_half_2 start: 16 end: 16
+[23:11:50.647] [info] CompositorGraph.cpp:633 - RenderTargets Memory : 623612544
+[23:11:50.647] [info] CompositorGraph.cpp:665 - Compositor Memory Usage (optimized): 623612544
+[23:11:50.794] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
+[23:11:50.794] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
+[23:11:50.794] [info] GuiNavMachine.cpp:130 - Error: Missing node at path: rift_1
+[23:11:50.863] [info] RenderingState.cpp:386 - Change compositor: `pbr_compositor`
+[23:11:51.224] [info] LogService.cpp:63 - [LUA 'lua/graph/entity/entity_spawn_player_pawn.lua']: Spawn player: 0
+[23:11:51.355] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/fighting'
+[23:12:04.152] [info] MusicPlayerBase.cpp:118 - [MusicPlayer] requested playlist: 'music/building'
+[23:12:36.147] [info] BenchmarkState.cpp:204 - #BENCHMARK_END: benchmark_gpu
+[23:12:36.162] [info] GameplayState.cpp:1566 - GameplayState::PauseGame
+[23:12:36.267] [info] RenderingState.cpp:386 - Change compositor: `pbr_compositor`
+[23:12:49.760] [warning] AudioManager.cpp:371 - Audio: Missing precache: sound\samples\gui_navigation\main_menu_highlight_07.wav
+[23:12:50.352] [info] GuiScene.cpp:824 - Warning: menu leaving state too long...
+[23:12:50.360] [info] RenderingState.cpp:311 - ReleaseRenderingAccess
+[23:12:50.437] [info] NavigationGraph.cpp:65 - NavigationGraph::NavigationGraph - Graph destroyed in 0.0027373 sec.
+[23:12:50.439] [info] NavigationGraph.cpp:65 - NavigationGraph::NavigationGraph - Graph destroyed in 0.0021167 sec.
+[23:12:50.451] [info] GuiScene.cpp:824 - Warning: menu leaving state too long...
+[23:12:50.836] [info]  - Uninstalling plugin: ParticleUniverse
+[23:12:50.836] [info]  - Plugin successfully uninstalled
+[23:12:50.836] [info] ConfigVariable.hpp:261 - ERROR: Unabled to unregister callback (cvar 'current_seasonal_event')
+[23:12:50.836] [info] ConfigVariable.hpp:261 - ERROR: Unabled to unregister callback (cvar 'enable_seasonal_events')
+[23:12:50.842] [info] AudioBase.cpp:63 - Audio shutdown starts...
+[23:12:50.846] [info] AudioBase.cpp:92 - Audio shutdown finished successfully in ~3ms
+[23:12:50.939] [info] AudioBase.cpp:63 - Audio shutdown starts...
+[23:12:50.939] [info] AudioBase.cpp:92 - Audio shutdown finished successfully in ~0ms
+[23:12:50.970] [info] ApplicationAbstract.cpp:52 - Destroying application
