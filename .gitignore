@@ -227,3 +227,5 @@ ntuser.*
 /Documents/The Riftbreaker/cache
 /Documents/The Riftbreaker/crash_info
 /Documents/The Riftbreaker/*.txt
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/Player.log
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/Player-prev.log
