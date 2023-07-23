@@ -225,3 +225,7 @@ ntuser.*
 /Documents/Rockstar Games/Launcher
 /AppData/Roaming/Notepad++
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/*.log
+/*.lesshst
+/Documents/The Riftbreaker/cache
+/Documents/The Riftbreaker/crash_info
+/Documents/The Riftbreaker/*.txt
