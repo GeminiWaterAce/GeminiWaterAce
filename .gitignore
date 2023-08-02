@@ -220,3 +220,13 @@ ntuser.*
 /AppData/Roaming/TortoiseGit
 /AppData/Roaming/vlc
 /Documents/Adobe
+/AppData/Local/qBittorrent
+/AppData/Roaming/G-Menu
+/Documents/Rockstar Games/Launcher
+/AppData/Roaming/Notepad++
+/Documents/The Riftbreaker/cache
+/Documents/The Riftbreaker/crash_info
+/Documents/The Riftbreaker/*.txt
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/Player.log
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/Player-prev.log
+/.lesshst
