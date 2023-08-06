@@ -231,3 +231,23 @@ ntuser.*
 /Documents/The Riftbreaker/*.txt
 /Documents/Rockstar Games/Social Club/Cache
 /AppData/Roaming/qBittorrent
+/AppData/LocalLow/Microsoft
+/AppData/LocalLow/Oracle
+/AppData/LocalLow/Sun
+/AppData/LocalLow/WinReader.users
+/AppData/LocalLow/TENCENT
+/AppData/LocalLow/Thunder Network
+/AppData/LocalLow/WinReader
+/AppData/Roaming/G_Menu
+/AppData/Roaming/obs-studio/crashes
+/AppData/Roaming/obs-studio/logs
+/AppData/Roaming/obs-studio/profiler_data
+/Contacts
+/Documents/Ratchet & Clank - Rift Apart/*.mdmp
+/Documents/Ratchet & Clank - Rift Apart/*.log
+/Documents/Ratchet & Clank - Rift Apart/Screenshots
+/Documents/Rockstar Games/Red Dead Redemption 2/Benchmarks
+/Documents/Rockstar Games/Social Club/*.log
+/Documents/Rockstar Games/Social Club
+/Links/*.lnk
+/Links/desktop.ini
