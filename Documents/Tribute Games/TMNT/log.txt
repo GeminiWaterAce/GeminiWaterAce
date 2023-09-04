@@ -9047,3 +9047,1015 @@ Duration : 00:02:40.381
 Time Ended : 17:10:59.6525
 Duration : 00:00:41.654
 
+00:00:00.068 - Paris.ParisXnaLogger.Init : INFO | Starting TMNT build 1.0.0.258
+00:00:00.068 - Paris.ParisXnaLogger.Init : INFO | OS : Microsoft Windows NT 6.2.9200.0
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Command Line : D:\SteamLibrary\steamapps\common\TMNT\TMNT.exe
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SESSIONNAME : Console
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ProgramFiles(x86) : C:\Program Files (x86)
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env Path : C:\Program Files (x86)\Steam;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\libnvvp;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2023.2.1\;C:\Users\GeminiWaterAce\AppData\Local\Microsoft\WindowsApps;C:\Users\GeminiWaterAce\AppData\Local\GitHubDesktop\bin
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ProgramW6432 : C:\Program Files
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamGameId : 1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PROCESSOR_IDENTIFIER : AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env VBOX_MSI_INSTALL_PATH : C:\Program Files\Oracle\VirtualBox\
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env TMP : C:\Users\GEMINI~1\AppData\Local\Temp
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PROCESSOR_ARCHITECTURE : AMD64
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env DXVK_STATE_CACHE_PATH : D:\SteamLibrary\steamapps\shadercache\1361510\DXVK_state_cache
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ROOTDRIVE : C
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ENABLE_VK_LAYER_VALVE_steam_overlay_1 : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamStreamingHardwareEncodingAMD : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_GLSL_CACHE_MAX_SIZE : 5G
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ENABLE_VK_LAYER_VALVE_steam_fossilize_1 : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env USERPROFILE : C:\Users\GeminiWaterAce
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamGenericControllers : 0x1038/0x1434,0x1c10/0x1c17,0x044f/0xd003,0x0583/0x2060,0x1dd8/0x0010,0x1dd8/0x000f,0x0079/0x184f,0x16c0/0x05e1,0x2717/0x3144,0x1a34/0x0806,0x0c45/0x4320,0x11ff/0x3341,0x25f0/0x83c1,0x0079/0x000a,0x146b/0x0302,0x1a34/0x0823,0x0f30/0x0107,0x04d9/0x0002,0x05b8/0x1002,0x145f/0x01c5,0x20d6/0x0060,0x6666/0x8804,0x044f/0xb300,0x044f/0xb304,0x044f/0xb323,0x07b5/0x0312,0x19fa/0x0607,0x0111/0x1419,0x1038/0x1418,0x0111/0x1431,0x11c0/0x9105,0x289b/0x0005,0x0500/0x9b28,0x0f30/0x0111,0x06a3/0xf620,0x06a3/0x0621,0x06a3/0x040b,0x06a3/0x040b,0x0f30/0x0110,0x06a3/0x040c,0x06a3/0xff0c,0x0f30/0x0112,0x06a3/0xf51a,0x06a3/0xf623,0x7545/0x1122,0x0079/0x181c,0x1a34/0x0809,0x1a34/0x0802,0x0e6f/0x012f,0x0079/0x0011,0xf000/0x00f1,0xf000/0x0003,0x0f0d/0x005c,0x0f0d/0x005b,0x0f0d/0x008b,0x0f0d/0x006b,0x1532/0x0900,0x1532/0x0707,0x1532/0x0705,0x1532/0x0402,0x1532/0x0300,0x0b05/0x18e5,0x0b05/0x18e3,0x0b05/0x1a1c,0x0b05/0x1a1a,0x0b05/0x1a18,0x0b05/0x1958,0x0f0d/0x0022,0x0f0d/0x0070,0x0f0d/0x0011,0x1a34/0x0401,0x0f30/0x1012,0x0f30/0x1116,0x20d6/0x57c7,0x20d6/0x319f,0x20d6/0x5795,0x0e8f/0x0003,0x0010/0x0082,0x0738/0xa856,0x0e8f/0x3114,0x0d9d/0x3013,0x146b/0x0303,0x6666/0x0667,0x05e3/0x0596,0x2563/0x0623,0x146b/0xa101,0x2378/0x100a,0x2836/0x0001,0x050d/0x0803,0x12bd/0xd015,0x0079/0x1843,0x124b/0x4d01,0x2015/0x8201,0x0810/0xe501,0x146b/0x0c01,0xbeef/0xfeed,0x0079/0x1800,0x0925/0x03e8,0x0e8f/0x3010,0x0925/0x2801,0x062a/0x2410,0x0738/0x3285,0x0738/0x8818,0x0738/0x3480,0x0738/0x5262,0x0738/0x3384,0x0738/0x5266,0x24c6/0x891b,0x24c6/0x891a,0x24c6/0x892b,0x24c6/0x892a,0x0738/0x8263,0x046d/0xc21a,0x046d/0xc219,0x046d/0xc218,0x046d/0xc216,0x046d/0xc211,0x046d/0xcad2,0x046d/0xcad1,0x0079/0x0002,0x056e/0x2007,0x056e/0x2003,0x056e/0x2005,0x07b5/0x0314,0x05ac/0x022c,0x0e6f/0x0124,0x0e8f/0x3013,0x0f0d/0x0054,0x0f0d/0x0040,0x14d8/0x6208,0x0f0d/0x0049,0x1a34/0x0203,0x0925/0x1700,0x2563/0x0526,0x18d1/0x9400,0x25f0/0x83c2,0x25f0/0x83c4,0x0583/0xa009,0x0583/0xb031,0x1a5c/0x3033,0x0428/0x4001,0x0926/0x2526,0xffff/0x0000,0x05ac/0x061a,0x05ac/0x044d,0x05ac/0x033d,0x1949/0x0402,0xf766/0x0001,0x0079/0x0122,0x0f30/0x010b,0x0f0d/0x0027,0x2185/0x0102,0x0e8f/0x310f,0x1a34/0x0801,0x0e6f/0x0130,0x12bd/0xe002,0x1d79/0x0301,0x1345/0x3008,0x0926/0x8888,0x20e8/0x5860,0xf766/0x0005,0x146b/0x0301,0x0079/0x0007,0x11c0/0x5506,0x11c0/0x5505,0x20bc/0x1264,0x20bc/0x1263,0x20bc/0x1260,0x0e6f/0x0132,0x11c0/0x5213,0x20d6/0x57e5,0x1dd8/0x000b,0x1949/0x0419,0x20d6/0x571d,0x0e6f/0x011a,0x0e6f/0x0119,0x0e6f/0x0114,0x0e6f/0x0111,0x19fa/0xfff0,0x0e8f/0x0012,0x0b05/0x7906,0x0b05/0x7905,0x05a0/0x3232,0x2dc8/0x3230,0x2dc8/0x9018,0x2dc8/0x3013,0x2dc8/0x3011,0x1235/0xab20,0x2dc8/0x6001,0x2dc8/0x6102,0x2dc8/0x6002,0x2dc8/0x2862,0x2dc8/0x9012,0x2810/0x0009,0x2dc8/0x6100,0x2dc8/0x6000,0x2dc8/0x6006,0x2dc8/0x3820,0x3820/0x0009,0x2002/0x9000,0x1235/0xab12,0x2dc8/0x2865,0x2dc8/0x9015,0x2dc8/0x0651,0x2dc8/0x5006,0x2dc8/0x3810,0x2dc8/0x9000,0x2dfa/0x0001,0x18d1/0x9400,0x1949/0x0419,
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_AUDIO_CHANNELS : 2
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env FNA_GAMEPAD_NUM_GAMEPADS : 6
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PROCESSOR_REVISION : 6102
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env LOCAL_APPDATA : C:\Users\GeminiWaterAce\AppData\Local
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_SHADER_CACHE_DIR : D:\SteamLibrary\steamapps\shadercache\1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env TEMP : C:\Users\GEMINI~1\AppData\Local\Temp
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env FPS_BROWSER_APP_PROFILE_STRING : Internet Explorer
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env FPS_BROWSER_USER_PROFILE_STRING : Default
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env LOGONSERVER : \\GEMINIWATERACE
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env AMD_VK_USE_PIPELINE_CACHE : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env STEAM_COMPAT_TRANSCODED_MEDIA_PATH : D:\SteamLibrary\steamapps\shadercache\1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env CUDA_PATH_V12_2 : C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SystemRoot : C:\Windows
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env __GL_SHADER_DISK_CACHE_READ_ONLY_APP_NAME : steam_shader_cache;steamapp_merged_shader_cache
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env COMMON_MYDOCS : C:\Users\Public\Documents
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env USER_MYDOCS : C:\Users\GeminiWaterAce\Documents
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamGamepadUI : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env STEAM_FOSSILIZE_DUMP_PATH : D:\SteamLibrary\steamapps\shadercache\1361510\fozpipelinesv6\steamapprun_pipeline_cache
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamPath : C:\Program Files (x86)\Steam
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env INSTALLDIR : C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamEnv : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env 3DVPATH : C:\AMD\Chipset_Software\Binaries\3D_V-Cache_Performance_Optimizer_Driver\
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env OneDrive : C:\Users\GeminiWaterAce\OneDrive
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env STEAMID : 76561198068664357
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env CommonProgramFiles : C:\Program Files\Common Files
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_DISK_CACHE_SINGLE_FILE : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_GAMECONTROLLER_ALLOW_STEAM_VIRTUAL_GAMEPAD : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env __GL_SHADER_DISK_CACHE_APP_NAME : steamapp_shader_cache
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env STEAM_COMPAT_MEDIA_PATH : D:\SteamLibrary\steamapps\shadercache\1361510/fozmediav1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_DISK_CACHE_READ_ONLY_FOZ_DBS : steam_cache,steam_precompiled
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ProgramData : C:\ProgramData
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env AMD_VK_PIPELINE_CACHE_FILENAME : steamapp_shader_cache
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env HOMEPATH : \Users\GeminiWaterAce
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PATHEXT : .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env COMPUTERNAME : GEMINIWATERACE
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_SHADER_CACHE_MAX_SIZE : 5G
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamTenfoot : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamClientLaunch : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ALLUSERSPROFILE : C:\ProgramData
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env CommonProgramW6432 : C:\Program Files\Common Files
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env USERNAME : GeminiWaterAce
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ValvePlatformMutex : c:/program files (x86)/steam/steam.exe
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamStreamingHardwareEncodingNVIDIA : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env AMD_VK_PIPELINE_CACHE_PATH : D:\SteamLibrary\steamapps\shadercache\1361510\AMDv1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env __GL_SHADER_DISK_CACHE_PATH : D:\SteamLibrary\steamapps\shadercache\1361510\nvidiav1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env __GL_SHADER_DISK_CACHE_SKIP_CLEANUP : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env CUDA_PATH : C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_GAMECONTROLLER_USE_BUTTON_LABELS : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env DriverData : C:\Windows\System32\Drivers\DriverData
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env HOMEDRIVE : C:
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env windir : C:\Windows
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SystemDrive : C:
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env NUMBER_OF_PROCESSORS : 32
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env OS : Windows_NT
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamStreamingHardwareEncodingIntel : 1
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_GAMECONTROLLERCONFIG : 03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b8,lefttrigger:+a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:-a2,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+03000000de280000ff11000000000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b8,lefttrigger:+a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:-a2,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+030000005e040000ff02000000007801,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+,platform:Windows
+03000000381000003414000000007801,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+03000000de280000ff11000000007701,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:b12,dpleft:b13,dpright:b11,dpup:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a4,leftx:a1,lefty:a0~,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a2~,start:b7,x:b2,y:b3,platform:Windows,
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ComSpec : C:\Windows\system32\cmd.exe
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamOverlayGameId : 1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env USERDOMAIN_ROAMINGPROFILE : GEMINIWATERACE
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env STEAM_FOSSILIZE_DUMP_PATH_READ_ONLY : $bucketdir\steam_pipeline_cache.foz;$bucketdir\steamapp_pipeline_cache.foz
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env ProgramFiles : C:\Program Files
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_GAMECONTROLLER_IGNORE_DEVICES : 0x0079/0x181a,0x0079/0x1844,0x044f/0xb315,0x044f/0xd007,0x054c/0x0268,0x056e/0x200f,0x056e/0x2013,0x05b8/0x1004,0x05b8/0x1006,0x06a3/0xf622,0x0738/0x3180,0x0738/0x3250,0x0738/0x3481,0x0738/0x8180,0x0738/0x8838,0x0810/0x0001,0x0810/0x0003,0x0925/0x0005,0x0925/0x8866,0x0925/0x8888,0x0e6f/0x0109,0x0e6f/0x011e,0x0e6f/0x0128,0x0e6f/0x0214,0x0e6f/0x1314,0x0e6f/0x6302,0x0e8f/0x0008,0x0e8f/0x3075,0x0e8f/0x310d,0x0f0d/0x0009,0x0f0d/0x004d,0x0f0d/0x005f,0x0f0d/0x006a,0x0f0d/0x006e,0x0f0d/0x0085,0x0f0d/0x0086,0x0f0d/0x0088,0x0f30/0x1100,0x11ff/0x3331,0x1345/0x1000,0x1345/0x6005,0x146b/0x5500,0x1a34/0x0836,0x20bc/0x5500,0x20d6/0x576d,0x20d6/0xca6d,0x2563/0x0523,0x2563/0x0575,0x25f0/0x83c3,0x25f0/0xc121,0x2c22/0x2003,0x2c22/0x2302,0x2c22/0x2502,0x8380/0x0003,0x8888/0x0308,0x0079/0x181b,0x044f/0xd00e,0x054c/0x05c4,0x054c/0x05c5,0x054c/0x09cc,0x054c/0x0ba0,0x0738/0x8250,0x0738/0x8384,0x0738/0x8480,0x0738/0x8481,0x0c12/0x0e10,0x0c12/0x0e13,0x0c12/0x0e15,0x0c12/0x0e20,0x0c12/0x0ef6,0x0c12/0x1cf6,0x0c12/0x1e10,0x0e6f/0x0203,0x0e6f/0x0207,0x0f0d/0x0055,0x0f0d/0x005e,0x0f0d/0x0066,0x0f0d/0x0084,0x0f0d/0x0087,0x0f0d/0x008a,0x0f0d/0x009c,0x0f0d/0x00a0,0x0f0d/0x00ee,0x0f0d/0x011c,0x0f0d/0x0123,0x0f0d/0x0162,0x11c0/0x4001,0x146b/0x0d01,0x146b/0x0d02,0x146b/0x0d06,0x146b/0x0d08,0x146b/0x0d09,0x146b/0x0d10,0x146b/0x0d10,0x146b/0x0d13,0x146b/0x1103,0x1532/0x0401,0x1532/0x1000,0x1532/0x1004,0x1532/0x1007,0x1532/0x1008,0x1532/0x1009,0x1532/0x100a,0x1532/0x1100,0x20d6/0x792a,0x2c22/0x2000,0x2c22/0x2300,0x2c22/0x2500,0x7545/0x0104,0x9886/0x0025,0x054c/0x0ce6,0x054c/0x0df2,0x0f0d/0x0163,0x0f0d/0x0184,0x1532/0x100b,0x1532/0x100c,0x358a/0x0104,0x0079/0x18d4,0x03eb/0xff02,0x044f/0xb326,0x045e/0x028e,0x045e/0x028f,0x045e/0x0291,0x045e/0x02a0,0x045e/0x02a1,0x045e/0x02a9,0x045e/0x0719,0x046d/0xc21d,0x046d/0xc21e,0x046d/0xc21f,0x046d/0xc242,0x056e/0x2004,0x0738/0x4716,0x0738/0x4718,0x0738/0x4726,0x0738/0x4728,0x0738/0x4736,0x0738/0x4738,0x0738/0x4740,0x0738/0xb726,0x0738/0xbeef,0x0738/0xcb02,0x0738/0xcb03,0x0738/0xf738,0x0955/0x7210,0x0955/0xb400,0x0e6f/0x0105,0x0e6f/0x0113,0x0e6f/0x011f,0x0e6f/0x0125,0x0e6f/0x0127,0x0e6f/0x0131,0x0e6f/0x0133,0x0e6f/0x0143,0x0e6f/0x0147,0x0e6f/0x0201,0x0e6f/0x0213,0x0e6f/0x021f,0x0e6f/0x0301,0x0e6f/0x0313,0x0e6f/0x0314,0x0e6f/0x0401,0x0e6f/0x0413,0x0e6f/0x0501,0x0e6f/0xf900,0x0f0d/0x000a,0x0f0d/0x000c,0x0f0d/0x000d,0x0f0d/0x0016,0x0f0d/0x001b,0x0f0d/0x008c,0x0f0d/0x00db,0x0f0d/0x011e,0x1038/0x1430,0x1038/0x1431,0x1038/0xb360,0x11c9/0x55f0,0x12ab/0x0004,0x12ab/0x0301,0x12ab/0x0303,0x1430/0x02a0,0x1430/0x4748,0x1430/0xf801,0x146b/0x0601,0x15e4/0x3f00,0x15e4/0x3f0a,0x15e4/0x3f10,0x162e/0xbeef,0x1689/0xfd00,0x1689/0xfd01,0x1689/0xfe00,0x1949/0x041a,0x1bad/0x0002,0x1bad/0x0003,0x1bad/0xf016,0x1bad/0xf018,0x1bad/0xf019,0x1bad/0xf021,0x1bad/0xf023,0x1bad/0xf025,0x1bad/0xf027,0x1bad/0xf028,0x1bad/0xf02e,0x1bad/0xf036,0x1bad/0xf038,0x1bad/0xf039,0x1bad/0xf03a,0x1bad/0xf03d,0x1bad/0xf03e,0x1bad/0xf03f,0x1bad/0xf042,0x1bad/0xf080,0x1bad/0xf501,0x1bad/0xf502,0x1bad/0xf503,0x1bad/0xf504,0x1bad/0xf505,0x1bad/0xf506,0x1bad/0xf900,0x1bad/0xf901,0x1bad/0xf902,0x1bad/0xf903,0x1bad/0xf904,0x1bad/0xf906,0x1bad/0xfa01,0x1bad/0xfd00,0x1bad/0xfd01,0x24c6/0x5000,0x24c6/0x5300,0x24c6/0x5303,0x24c6/0x530a,0x24c6/0x531a,0x24c6/0x5397,0x24c6/0x5500,0x24c6/0x5501,0x24c6/0x5502,0x24c6/0x5503,0x24c6/0x5506,0x24c6/0x550d,0x24c6/0x550e,0x24c6/0x5508,0x24c6/0x5510,0x24c6/0x5b00,0x24c6/0x5b02,0x24c6/0x5b03,0x24c6/0x5d04,0x24c6/0xfafa,0x24c6/0xfafb,0x24c6/0xfafc,0x24c6/0xfafd,0x24c6/0xfafe,0x044f/0xd012,0x045e/0x02d1,0x045e/0x02dd,0x045e/0x02e0,0x045e/0x02e3,0x045e/0x02ea,0x045e/0x02fd,0x045e/0x02ff,0x045e/0x0b00,0x045e/0x0b05,0x045e/0x0b0a,0x045e/0x0b0c,0x045e/0x0b12,0x045e/0x0b13,0x045e/0x0b20,0x045e/0x0b21,0x045e/0x0b22,0x0738/0x4a01,0x0e6f/0x0139,0x0e6f/0x013b,0x0e6f/0x013a,0x0e6f/0x0145,0x0e6f/0x0146,0x0e6f/0x015b,0x0e6f/0x015c,0x0e6f/0x015d,0x0e6f/0x015f,0x0e6f/0x0160,0x0e6f/0x0161,0x0e6f/0x0162,0x0e6f/0x0163,0x0e6f/0x0164,0x0e6f/0x0165,0x0e6f/0x0166,0x0e6f/0x0167,0x0e6f/0x0205,0x0e6f/0x0206,0x0e6f/0x0246,0x0e6f/0x0261,0x0e6f/0x0262,0x0e6f/0x02a0,0x0e6f/0x02a1,0x0e6f/0x02a2,0x0e6f/0x02a3,0x0e6f/0x02a4,0x0e6f/0x02a5,0x0e6f/0x02a6,0x0e6f/0x02a7,0x0e6f/0x02a8,0x0e6f/0x02a9,0x0e6f/0x02aa,0x0e6f/0x02ab,0x0e6f/0x02ac,0x0e6f/0x02ad,0x0e6f/0x02ae,0x0e6f/0x02af,0x0e6f/0x02b0,0x0e6f/0x02b1,0x0e6f/0x02b3,0x0e6f/0x02b5,0x0e6f/0x02b6,0x0e6f/0x02bd,0x0e6f/0x02be,0x0e6f/0x02bf,0x0e6f/0x02c0,0x0e6f/0x02c1,0x0e6f/0x02c2,0x0e6f/0x02c3,0x0e6f/0x02c4,0x0e6f/0x02c5,0x0e6f/0x02c6,0x0e6f/0x02c7,0x0e6f/0x02c8,0x0e6f/0x02c9,0x0e6f/0x02ca,0x0e6f/0x02cb,0x0e6f/0x02cd,0x0e6f/0x02ce,0x0e6f/0x02cf,0x0e6f/0x02d5,0x0e6f/0x0346,0x0e6f/0x0446,0x0e6f/0x02da,0x0e6f/0x02d6,0x0e6f/0x02d9,0x0f0d/0x0063,0x0f0d/0x0067,0x0f0d/0x0078,0x0f0d/0x00c5,0x0f0d/0x0150,0x10f5/0x7009,0x10f5/0x7013,0x1532/0x0a00,0x1532/0x0a03,0x1532/0x0a14,0x1532/0x0a15,0x20d6/0x2001,0x20d6/0x2002,0x20d6/0x2003,0x20d6/0x2004,0x20d6/0x2005,0x20d6/0x2006,0x20d6/0x2009,0x20d6/0x200a,0x20d6/0x200b,0x20d6/0x200c,0x20d6/0x200d,0x20d6/0x200e,0x20d6/0x200f,0x20d6/0x2011,0x20d6/0x2012,0x20d6/0x2015,0x20d6/0x2016,0x20d6/0x2017,0x20d6/0x2018,0x20d6/0x2019,0x20d6/0x201a,0x20d6/0x4001,0x20d6/0x4002,0x20d6/0x890b,0x24c6/0x541a,0x24c6/0x542a,0x24c6/0x543a,0x24c6/0x551a,0x24c6/0x561a,0x24c6/0x581a,0x24c6/0x591a,0x24c6/0x592a,0x24c6/0x791a,0x2dc8/0x2002,0x2e24/0x0652,0x2e24/0x1618,0x2e24/0x1688,0x146b/0x0611,0x0000/0x0000,0x045e/0x02a2,0x0e6f/0x1414,0x0e6f/0x0159,0x24c6/0xfaff,0x0f0d/0x006d,0x0f0d/0x00a4,0x0079/0x1832,0x0079/0x187f,0x0079/0x1883,0x03eb/0xff01,0x0c12/0x0ef8,0x046d/0x1000,0x1345/0x6006,0x056e/0x2012,0x146b/0x0602,0x0f0d/0x00ae,0x046d/0x0401,0x046d/0x0301,0x046d/0xcaa3,0x046d/0xc261,0x046d/0x0291,0x0079/0x18d3,0x0f0d/0x00b1,0x0001/0x0001,0x0079/0x188e,0x0079/0x187c,0x0079/0x189c,0x0079/0x1874,0x2f24/0x0050,0x2f24/0x002e,0x2f24/0x0091,0x1430/0x0719,0x0f0d/0x00ed,0x0f0d/0x00c0,0x0e6f/0x0152,0x0e6f/0x02a7,0x046d/0x1007,0x0e6f/0x02b8,0x0e6f/0x02a8,0x0079/0x18a1,0x0000/0x6686,0x11ff/0x0511,0x12ab/0x0304,0x1430/0x0291,0x1430/0x02a9,0x1430/0x070b,0x1bad/0x028e,0x1bad/0x02a0,0x1bad/0x5500,0x20ab/0x55ef,0x24c6/0x5509,0x2516/0x0069,0x25b1/0x0360,0x2c22/0x2203,0x2f24/0x0011,0x2f24/0x0053,0x2f24/0x00b7,0x046d/0x0000,0x046d/0x1004,0x046d/0x1008,0x046d/0xf301,0x0738/0x02a0,0x0738/0x7263,0x0738/0xb738,0x0738/0xcb29,0x0738/0xf401,0x0079/0x18c2,0x0079/0x18c8,0x0079/0x18cf,0x0c12/0x0e17,0x0c12/0x0e1c,0x0c12/0x0e22,0x0c12/0x0e30,0xd2d2/0xd2d2,0x0d62/0x9a1a,0x0d62/0x9a1b,0x0e00/0x0e00,0x0e6f/0x012a,0x0e6f/0x02a1,0x0e6f/0x02a2,0x0e6f/0x02a5,0x0e6f/0x02b2,0x0e6f/0x02bd,0x0e6f/0x02bf,0x0e6f/0x02c0,0x0e6f/0x02c6,0x0f0d/0x0097,0x0f0d/0x00ba,0x0f0d/0x00d8,0x0fff/0x02a1,0x045e/0x0867,0x16d0/0x0f3f,0x2f24/0x008f,0x0e6f/0xf501,0x057e/0x2006,0x057e/0x2007,0x057e/0x2008,0x057e/0x2009,0x0f0d/0x00c1,0x0f0d/0x0092,0x0f0d/0x00f6,0x0e6f/0x0180,0x0e6f/0x0181,0x0e6f/0x0184,0x0e6f/0x0185,0x0e6f/0x0186,0x0e6f/0x0187,0x0e6f/0x0188,0x0f0d/0x00aa,0x20d6/0xa711,0x20d6/0xa712,0x20d6/0xa713,0x20d6/0xa714,0x20d6/0xa715,0x20d6/0xa716,0x1038/0x1434,0x1c10/0x1c17,0x044f/0xd003,0x0583/0x2060,0x1dd8/0x0010,0x1dd8/0x000f,0x0079/0x184f,0x16c0/0x05e1,0x2717/0x3144,0x1a34/0x0806,0x0c45/0x4320,0x11ff/0x3341,0x25f0/0x83c1,0x0079/0x000a,0x146b/0x0302,0x1a34/0x0823,0x0f30/0x0107,0x04d9/0x0002,0x05b8/0x1002,0x145f/0x01c5,0x20d6/0x0060,0x6666/0x8804,0x044f/0xb300,0x044f/0xb304,0x044f/0xb323,0x07b5/0x0312,0x19fa/0x0607,0x0111/0x1419,0x1038/0x1418,0x0111/0x1431,0x11c0/0x9105,0x289b/0x0005,0x0500/0x9b28,0x0f30/0x0111,0x06a3/0xf620,0x06a3/0x0621,0x06a3/0x040b,0x06a3/0x040b,0x0f30/0x0110,0x06a3/0x040c,0x06a3/0xff0c,0x0f30/0x0112,0x06a3/0xf51a,0x06a3/0xf623,0x7545/0x1122,0x0079/0x181c,0x1a34/0x0809,0x1a34/0x0802,0x0e6f/0x012f,0x0079/0x0011,0xf000/0x00f1,0xf000/0x0003,0x0f0d/0x005c,0x0f0d/0x005b,0x0f0d/0x008b,0x0f0d/0x006b,0x1532/0x0900,0x1532/0x0707,0x1532/0x0705,0x1532/0x0402,0x1532/0x0300,0x0b05/0x18e5,0x0b05/0x18e3,0x0b05/0x1a1c,0x0b05/0x1a1a,0x0b05/0x1a18,0x0b05/0x1958,0x0f0d/0x0022,0x0f0d/0x0070,0x0f0d/0x0011,0x1a34/0x0401,0x0f30/0x1012,0x0f30/0x1116,0x20d6/0x57c7,0x20d6/0x319f,0x20d6/0x5795,0x0e8f/0x0003,0x0010/0x0082,0x0738/0xa856,0x0e8f/0x3114,0x0d9d/0x3013,0x146b/0x0303,0x6666/0x0667,0x05e3/0x0596,0x2563/0x0623,0x146b/0xa101,0x2378/0x100a,0x2836/0x0001,0x050d/0x0803,0x12bd/0xd015,0x0079/0x1843,0x124b/0x4d01,0x2015/0x8201,0x0810/0xe501,0x146b/0x0c01,0xbeef/0xfeed,0x0079/0x1800,0x0925/0x03e8,0x0e8f/0x3010,0x0925/0x2801,0x062a/0x2410,0x0738/0x3285,0x0738/0x8818,0x0738/0x3480,0x0738/0x5262,0x0738/0x3384,0x0738/0x5266,0x24c6/0x891b,0x24c6/0x891a,0x24c6/0x892b,0x24c6/0x892a,0x0738/0x8263,0x046d/0xc21a,0x046d/0xc219,0x046d/0xc218,0x046d/0xc216,0x046d/0xc211,0x046d/0xcad2,0x046d/0xcad1,0x0079/0x0002,0x056e/0x2007,0x056e/0x2003,0x056e/0x2005,0x07b5/0x0314,0x05ac/0x022c,0x0e6f/0x0124,0x0e8f/0x3013,0x0f0d/0x0054,0x0f0d/0x0040,0x14d8/0x6208,0x0f0d/0x0049,0x1a34/0x0203,0x0925/0x1700,0x2563/0x0526,0x18d1/0x9400,0x25f0/0x83c2,0x25f0/0x83c4,0x0583/0xa009,0x0583/0xb031,0x1a5c/0x3033,0x0428/0x4001,0x0926/0x2526,0xffff/0x0000,0x05ac/0x061a,0x05ac/0x044d,0x05ac/0x033d,0x1949/0x0402,0xf766/0x0001,0x0079/0x0122,0x0f30/0x010b,0x0f0d/0x0027,0x2185/0x0102,0x0e8f/0x310f,0x1a34/0x0801,0x0e6f/0x0130,0x12bd/0xe002,0x1d79/0x0301,0x1345/0x3008,0x0926/0x8888,0x20e8/0x5860,0xf766/0x0005,0x146b/0x0301,0x0079/0x0007,0x11c0/0x5506,0x11c0/0x5505,0x20bc/0x1264,0x20bc/0x1263,0x20bc/0x1260,0x0e6f/0x0132,0x11c0/0x5213,0x20d6/0x57e5,0x1dd8/0x000b,0x1949/0x0419,0x20d6/0x571d,0x0e6f/0x011a,0x0e6f/0x0119,0x0e6f/0x0114,0x0e6f/0x0111,0x19fa/0xfff0,0x0e8f/0x0012,0x0b05/0x7906,0x0b05/0x7905,0x05a0/0x3232,0x2dc8/0x3230,0x2dc8/0x9018,0x2dc8/0x3013,0x2dc8/0x3011,0x1235/0xab20,0x2dc8/0x6001,0x2dc8/0x6102,0x2dc8/0x6002,0x2dc8/0x2862,0x2dc8/0x9012,0x2810/0x0009,0x2dc8/0x6100,0x2dc8/0x6000,0x2dc8/0x6006,0x2dc8/0x3820,0x3820/0x0009,0x2002/0x9000,0x1235/0xab12,0x2dc8/0x2865,0x2dc8/0x9015,0x2dc8/0x0651,0x2dc8/0x5006,0x2dc8/0x3810,0x2dc8/0x9000,0x2dfa/0x0001,0x18d1/0x9400,0x1949/0x0419,
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PSModulePath : C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamAppUser : userwaterzz
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SDL_JOYSTICK_HIDAPI_STEAMXBOX : 0
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env APPDATA : C:\Users\GeminiWaterAce\AppData\Roaming
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env USERDOMAIN : GEMINIWATERACE
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PROCESSOR_LEVEL : 25
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamUser : userwaterzz
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env EnableConfiguratorSupport : 65535
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env LOCALAPPDATA : C:\Users\GeminiWaterAce\AppData\Local
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env MESA_GLSL_CACHE_DIR : D:\SteamLibrary\steamapps\shadercache\1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env CommonProgramFiles(x86) : C:\Program Files (x86)\Common Files
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env FOSSILIZE_APPLICATION_INFO_FILTER_PATH : C:\Program Files (x86)\fossilize_engine_filters.json
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env PUBLIC : C:\Users\Public
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env SteamAppId : 1361510
+00:00:00.079 - Paris.ParisXnaLogger.Init : INFO | Env BREAKPAD_DUMP_LOCATION : C:\Program Files (x86)\Steam\dumps
+00:00:01.144 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] [Boot] EOSSDK Version 1.15.3-21924193 booting at 2023-08-19T07:38:02.640Z using CSharp
+00:00:01.144 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891MeqnabfHg2uauS6yhojXkHbu, ProductId=4a11943b3c0f41fdb75cb15ba7c895a4, SandboxId=a4977aac967e4e2c827336f074c82d64, DeploymentId=a7892ff160714eed819f5e81cb863482, ProductName=TMNT, ProductVersion=1.0.0.0, IsServer=false, Flags=None]
+00:00:01.144 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAnalytics] Start Session (User: ...)
+00:00:01.144 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] OverlayPath registry key found in HKCU
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Overlay library loaded, version ++EOSSDK+Release-Overlay-CL-25975892
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Beginning dxgi factory detour
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Factory detour complete
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Beginning swap chain detour
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Attempting to create swap chain using D3D11
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Successfully created swap chain using D3D11 with feature level b000
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Swapchain detour complete
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Overlay loaded and initialized
+00:00:01.288 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Warning][LogEOSUI] Hot key event ignored because there are no known users.
+00:00:01.298 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAntiCheat] [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+00:00:01.645 - Paris.Engine.Graphics.Renderer.SetBackBuffer : INFO | Setting backbuffer 3840 by 2160, game scale = 8
+00:00:01.940 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:01.940 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:01.940 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:01.940 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:03.032 - NLog.LoggerImpl.CaptureCallSiteInfo : INFO | PRELOAD : json files preloaded.
+00:00:03.032 - NLog.LoggerImpl.CaptureCallSiteInfo : INFO | PRELOAD : reflection cache preloaded.
+00:00:03.032 - NLog.LoggerImpl.CaptureCallSiteInfo : INFO | PRELOAD : pool object all allocated.
+00:00:03.221 - NLog.LoggerImpl.CaptureCallSiteInfo : INFO | Audio all preloaded.
+00:00:03.316 - Paris.Engine.Context.ContextManager.LoadGlobalContent : INFO | PRELOAD : global assets loaded
+00:00:03.316 - Paris.Engine.System.UGC.UGCManager.QueryCompleted : INFO | Query done! Found 0 of 0 items.
+00:00:03.357 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Probing swap chain to determine device version
+00:00:03.357 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Probe complete, determined: D3D11
+00:00:03.357 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Window subclass attached to 0000000000060552
+00:00:03.357 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Creating overlay widget manager
+00:00:03.394 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Overlay ready. Firing 2 OnReady handlers
+00:00:04.283 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.LogoScreen, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:00:04.283 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Platform SDK Config, Time: 2.985020
+00:00:04.301 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0180545 - Paris.Game.Menu.LogoScreen, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:00:05.621 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Engine.Cutscenes.VideoContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:00:05.636 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0286128 - Paris.Engine.Cutscenes.VideoContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:00:05.786 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Platform Update Request Successful, Time: 4.390561
+00:00:05.786 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Warning][LogEOSAnalytics] EOS SDK Analytics disabled for route [1].
+00:00:05.786 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Product SDK Config, Time: 4.486467
+00:00:06.274 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:00:06.383 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:06.452 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.1982688 - Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:00:06.486 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAnalytics] Start Session (User: ...)
+00:00:06.840 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Product Update Request Successful, Time: 5.422630
+00:00:06.840 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Data - Watermark: 1926026542
+00:00:06.840 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 5.422630, Update Interval: 320.773956
+00:00:07.653 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAuth] NewUserToken: User ClientId: xyz...Hbu AccountId: cd4...68a Access[Expires: 2023.08.19-09.38.07 Remaining: 7200.21] Refresh[Expires: 2023-08-19T15:38:07.213Z Remaining: 28800.21] State: Valid
+00:00:07.770 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAuth] UserAuthGenerated: Received FUserAuthToken
+00:00:08.354 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSAuth] UserAuthGenerated: Login complete: EOS_Success
+00:00:08.939 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSMessaging] Attempting connection to Stomp. LocalUserId=[000...506] Url=[<Redacted>]
+00:00:09.053 - Paris.Engine.EpicHelper.OnLoginCallback : INFO | Epic Online Services - Logged In
+00:00:09.053 - Paris.Engine.EpicHelper.OnLoginCallback : INFO | Logged In User[GeminiWaterAce]: (LoggedIn)
+00:00:09.168 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] FSocialOverlayJavascript::GenerateSocialUrlInfo: Successfully got exchange code
+00:00:09.168 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Loading: <Redacted>
+00:00:09.168 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Overlay loading <Redacted> in instance 2407175660448
+00:00:09.286 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] LoadURL result received. [Success=1, BrowserID=1]
+00:00:09.286 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Load success.
+00:00:09.369 - Paris.Engine.Audio.Song.LoadMainSong : INFO | Allocating new byte read buffer of 187.5 KB
+00:00:09.369 - Paris.Engine.Audio.Song.LoadMainSong : INFO | Allocating new float read buffer of 93.75 KB
+00:00:09.643 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements refreshing player data for (cd4...68a) [state: 0, force: player? false, definitions? false].
+00:00:10.106 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSPresence] Updating Presence to Online. LocalUserId=[cd4...68a] RichText=[]
+00:00:10.220 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements refreshing definition data for (cd4...68a) [state: 2, force: player? false, definitions? false].
+00:00:10.334 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSMessaging] Succesfully connected to Stomp. LocalUserId=[000...506]
+00:00:10.689 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements populated for (cd4...68a).
+00:00:11.621 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Overlay ready for initial payload.
+00:00:11.739 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Initial setup of friends overlay: EOS_Success
+00:00:12.763 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null'
+00:00:12.826 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0689865 - Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null
+00:00:13.023 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements refreshing player data for (cd4...68a) [state: 1, force: player? false, definitions? false].
+00:00:13.141 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Received new texture handle. [Type=0, InstanceId=2407175660448, BrowserId=1, TabId=0, Previous=0000000000000000, New=0000000080001442]
+00:00:13.606 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements refreshing definition data for (cd4...68a) [state: 2, force: player? false, definitions? false].
+00:00:14.190 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSUI] Social Overlay: Achievements populated for (cd4...68a).
+00:00:34.701 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:00:34.799 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:34.855 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.1682644 - Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:00:40.164 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null'
+00:00:40.209 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0506143 - Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null
+00:00:56.161 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context '2d\Level\Scene2d\WorldMap'
+00:00:56.260 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.348 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.389 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.549 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:00:56.570 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:00:57.318 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:00:57.379 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:00:57.379 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:00:57.396 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:00:57.396 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:00:57.396 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:00:57.396 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level16
+00:00:57.423 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:00:57.423 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:00:57.423 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:00:57.423 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:00:57.423 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:00:57.423 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level16
+00:00:57.441 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:01.2868195 - 2d\Level\Scene2d\WorldMap
+00:00:58.223 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.5239112 Y:0} force=False
+00:00:58.236 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.257 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.271 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.285 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.306 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.320 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.341 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9992589 Y:0} force=False
+00:00:58.355 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9971662 Y:0} force=False
+00:00:58.369 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9971662 Y:0} force=False
+00:00:58.389 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.8662418 Y:0} force=False
+00:01:00.787 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.1577763 Y:-0.7685825} force=False
+00:01:00.807 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2143228 Y:-0.8471459} force=False
+00:01:00.821 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2143228 Y:-0.8471459} force=False
+00:01:00.835 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2143228 Y:-0.8471459} force=False
+00:01:00.857 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2223012 Y:-0.8430913} force=False
+00:01:00.873 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2301924 Y:-0.838993} force=False
+00:01:00.891 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2301924 Y:-0.838993} force=False
+00:01:00.905 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.2301924 Y:-0.838993} force=False
+00:01:03.689 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.4892945 Y:0} force=False
+00:01:03.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.9476389 Y:0} force=False
+00:01:03.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoB Origin=Level16 Destination=WorldMapPathPiece_013) -> (Link=AtoWP Origin=WorldMapPathPiece_013 Destination=Transition_16-15)
+00:01:03.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:-1 Y:0} _prevWaypoint=Level16 - Stage=Stage16 _nextWaypoint=Transition_16-15 - Destination=Transition_15-16
+00:01:04.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:04.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Transition_16-15 Destination=WorldMapPathPiece_013) -> (Link=BtoWP Origin=WorldMapPathPiece_013 Destination=Level16)
+00:01:04.703 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:1 Y:0} _prevWaypoint=Transition_16-15 - Destination=Transition_15-16 _nextWaypoint=Level16 - Stage=Stage16
+00:01:07.336 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-1 Y:0} force=False
+00:01:07.336 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoB Origin=Level16 Destination=WorldMapPathPiece_013) -> (Link=AtoWP Origin=WorldMapPathPiece_013 Destination=Transition_16-15)
+00:01:07.336 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:-1 Y:0} _prevWaypoint=Level16 - Stage=Stage16 _nextWaypoint=Transition_16-15 - Destination=Transition_15-16
+00:01:08.572 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle D IsHost=True CurrentWP=Transition_16-15 NextState=6
+00:01:10.918 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Transition_15-16
+00:01:13.071 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.1828451 Y:0} force=False
+00:01:13.085 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.676155 Y:0} force=False
+00:01:13.106 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9896673 Y:0} force=False
+00:01:13.120 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9842612 Y:0} force=False
+00:01:13.141 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9825609 Y:0} force=False
+00:01:13.154 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9825609 Y:0} force=False
+00:01:13.154 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9825609 Y:0} force=False
+00:01:13.189 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9825609 Y:0} force=False
+00:01:13.203 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9825609 Y:0} force=False
+00:01:13.224 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9808169 Y:0} force=False
+00:01:13.238 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9458079 Y:0} force=False
+00:01:13.252 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9400093 Y:0} force=False
+00:01:13.273 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.1438686 Y:0} force=False
+00:01:14.822 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle D IsHost=True CurrentWP=Transition_15-16 NextState=6
+00:01:17.173 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Transition_16-15
+00:01:18.305 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.7322218} force=False
+00:01:18.319 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.339 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.353 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.374 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.374 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.402 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9992589} force=False
+00:01:18.423 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9995641} force=False
+00:01:18.436 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9995641} force=False
+00:01:19.672 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.687 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.707 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.721 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.735 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.756 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.770 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.790 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:19.804 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:1} force=False
+00:01:20.103 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.103 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Transition_16-15 Destination=WorldMapPathPiece_013) -> (Link=BtoWP Origin=WorldMapPathPiece_013 Destination=Level16)
+00:01:20.103 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:1 Y:0} _prevWaypoint=Transition_16-15 - Destination=Transition_15-16 _nextWaypoint=Level16 - Stage=Stage16
+00:01:20.555 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.569 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.590 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.603 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.624 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.624 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.652 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:20.673 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:1 Y:0} force=False
+00:01:21.041 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:-1} force=False
+00:01:21.041 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Level16 Destination=WorldMapPathPiece_099) -> (Link=BtoWP Origin=WorldMapPathPiece_099 Destination=Level01)
+00:01:21.041 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:0 Y:-1} _prevWaypoint=Level16 - Stage=Stage16 _nextWaypoint=Level01 - Stage=Stage01
+00:01:24.707 - Paris.Game.HUD.WorldMap.Uninit : INFO | [WM] Uninit IsHost=True
+00:01:24.719 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null'
+00:01:24.783 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.783 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.783 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.881 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:24.952 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.164 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'SpawnSalaryman'.
+00:01:25.164 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'SpawnSalaryman'.
+00:01:25.164 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'SpawnSalaryman'.
+00:01:25.164 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'SpawnSalaryman'.
+00:01:25.204 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'EntranceDoor'.
+00:01:25.221 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'SpawnReceptionist'.
+00:01:25.221 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workers'.
+00:01:25.234 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersBlackHair'.
+00:01:25.234 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersBrownHair'.
+00:01:25.234 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersRavenHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersRedHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workers'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersBlackHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersBrownHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersRavenHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersRedHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workers'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workersBrownHair'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6workers'.
+00:01:25.255 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'FreezerDoor'.
+00:01:25.278 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Bebop'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Cutscene'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Bebop'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Cutscene'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Cutscene'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Bebop'.
+00:01:25.283 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'ScuffedTripod'.
+00:01:25.297 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'KraangHead'.
+00:01:25.320 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Rocksteady'.
+00:01:25.395 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Shredder'.
+00:01:25.406 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Tiffany'.
+00:01:25.406 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Environmental'.
+00:01:25.406 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.420 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Stage01OL'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.463 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level01'.
+00:01:25.615 - Paris.Engine.Menu.Control.AnimatedObjectControl.set_AnimationPath : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:01:25.740 - Paris.Engine.MenuObject.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:01:25.835 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_01\Level_01_art
+00:01:25.835 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_01\Level_01_art
+00:01:25.855 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:01.1485591 - Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null
+00:01:32.051 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:05:27.674 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Product SDK Config, Time: 326.374695
+00:05:28.254 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Product Update Request Completed - No Change
+00:05:28.254 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 326.836853, Update Interval: 309.675598
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Picking winner for award MostEnemiesDefeated, player count: 2, tieBreakerIndex: 1...
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: player #0, name=POOLED_Donatello_000, rank=43, valid?=True
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Updating winner from (NONE) to POOLED_Donatello_000
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: player #1, name=POOLED_Raphael_000, rank=88, valid?=True
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Updating winner from POOLED_Donatello_000 to POOLED_Raphael_000
+00:08:55.056 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Chosen winner: POOLED_Raphael_000
+00:08:55.056 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:09:14.622 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_01\Level_01_art
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b470397-e63a-4bb3-8dfb-cdf7c10ef3d6_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b470397-e63a-4bb3-8dfb-cdf7c10ef3d6_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b470397-e63a-4bb3-8dfb-cdf7c10ef3d6_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b470397-e63a-4bb3-8dfb-cdf7c10ef3d6_003
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3942b838-35fd-4c4a-9c50-327b79e000f2_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3942b838-35fd-4c4a-9c50-327b79e000f2_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3942b838-35fd-4c4a-9c50-327b79e000f2_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3942b838-35fd-4c4a-9c50-327b79e000f2_003
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_1a4a9c0d-2c93-40c7-afd9-5e705eda50fe_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_1a4a9c0d-2c93-40c7-afd9-5e705eda50fe_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d5f20b7e-b3fc-41b4-9dbd-6f623682674d_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_1a582a4b-80fb-47dd-8a5e-ddf84688a5f3_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e4bf3373-6d9e-491d-9ba9-e8f4fab10216_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ffca5ea5-5551-44df-a305-c060467ad863_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ffca5ea5-5551-44df-a305-c060467ad863_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_19e72e65-af20-4404-85b6-7c034c85416b_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_19e72e65-af20-4404-85b6-7c034c85416b_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_1d2d3284-a4f7-4ee8-9a26-08038983d431_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_96d487e1-90b7-46e9-a604-062e119602e4_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c8f57dd4-5311-4d68-8410-39966973c8ca_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c8f57dd4-5311-4d68-8410-39966973c8ca_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_18aac044-4bbd-43f3-b953-fa4fcd31723a_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_18aac044-4bbd-43f3-b953-fa4fcd31723a_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_fb2b2cbb-ed41-4f9a-9154-542cd8718c8d_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_669c7ee1-d75a-4bf0-bbcb-e00266aaccda_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b0ef5e51-d7cc-4361-99ae-aa7ab0037747_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b0ef5e51-d7cc-4361-99ae-aa7ab0037747_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b078125-a859-45b2-8c1c-0f539f69a15e_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8b078125-a859-45b2-8c1c-0f539f69a15e_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_da1c8010-4f35-46f4-af88-561a1a4ad011_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_da1c8010-4f35-46f4-af88-561a1a4ad011_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_da1c8010-4f35-46f4-af88-561a1a4ad011_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_fbb99452-8f86-4d73-ad3f-d88773921d47_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_fbb99452-8f86-4d73-ad3f-d88773921d47_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0e67192a-cc73-4c48-ae3b-54a0fd08a669_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0e67192a-cc73-4c48-ae3b-54a0fd08a669_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a0ab334a-9151-4944-a1c7-07e94d5a9d21_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a0ab334a-9151-4944-a1c7-07e94d5a9d21_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a0ab334a-9151-4944-a1c7-07e94d5a9d21_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2db5360e-bc57-440f-80c1-08e4f15a8fdf_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_83630732-b4be-4f9e-b6c3-953cc8197d5b_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_57cef87a-3282-42b4-8aba-d7a78a70f661_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_57cef87a-3282-42b4-8aba-d7a78a70f661_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3b572e6e-2aad-4c05-aa92-c2ab40e3ca39_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3b572e6e-2aad-4c05-aa92-c2ab40e3ca39_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6ee31c7c-61ef-4295-841c-888a42d0b673_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_329d8918-d057-45f0-a42b-eec3ced872a6_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6f229aef-a56f-4457-b5a0-60d158b48fb1_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6eed4341-b571-43c6-b5e4-7d35a091df9e_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6c032bff-be15-4f54-bbd1-def9775efc35_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ccd1bb63-8ed7-4a1d-91f7-eb4ab8c6a0af_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7c89e560-8cef-40da-b92a-23c5ca9bf6cc_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7c89e560-8cef-40da-b92a-23c5ca9bf6cc_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_331f796c-2366-4d6d-8048-342c6a2eba31_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_331f796c-2366-4d6d-8048-342c6a2eba31_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_47a4cd58-4b0d-4453-b424-9e61a40890aa_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_47a4cd58-4b0d-4453-b424-9e61a40890aa_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6e360aee-57aa-4493-ab10-defdc213d80d_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_4d7c40ea-cc51-4936-81d2-5edf51750033_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e125bdc2-fdb2-4068-bb5d-fe4d0f11522b_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5fce06ba-26af-41a7-a657-b4a5833005b6_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_429ce0b5-d344-4782-ba2d-354b4cbfc991_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_995bfe47-11fc-41c1-af74-88ea1e4ce97a_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_995bfe47-11fc-41c1-af74-88ea1e4ce97a_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5c39eef1-716d-42bd-9371-c6298b055f75_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_65c3c9fa-3729-499f-be10-3b901257377d_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_1f35dfe7-a6b8-4ea5-9a21-b6582ca3923c_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b59f58b4-0c04-4e7f-9891-e675b4762a40_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b59f58b4-0c04-4e7f-9891-e675b4762a40_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_bbd6f31a-3a3a-4512-9f21-698f76957088_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_bbd6f31a-3a3a-4512-9f21-698f76957088_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_89ab8f8e-90c9-49c7-a23b-7db10684870d_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_fe93009c-30c7-4afe-9c5f-8a7a4256c8b6_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c4d8ffe8-d8bd-4228-a116-496374dcbb2b_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3851a12c-2b33-467a-aace-b88669257147_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_12e6ef38-e3ee-45a3-a4bc-8dc3fdf458f2_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_12e6ef38-e3ee-45a3-a4bc-8dc3fdf458f2_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5179b9d6-a1a4-4a43-add1-fff294032bae_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_f69ae970-0ed4-4de9-8c7c-30ac68265dd1_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_28c5e9cd-6542-4b47-9e5f-4dced906ddf7_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_28c5e9cd-6542-4b47-9e5f-4dced906ddf7_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_44c0ef5e-47ad-4c4f-8e06-47d6701f93fa_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ea0b38e9-d0a0-4c5c-8833-25ba61016ee1_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ea0b38e9-d0a0-4c5c-8833-25ba61016ee1_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a7462c42-6c43-4c9d-ad88-701f9b3645fc_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a7462c42-6c43-4c9d-ad88-701f9b3645fc_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a7462c42-6c43-4c9d-ad88-701f9b3645fc_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_208cb220-2b35-4b70-9bb6-b1a4d64d7397_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_208cb220-2b35-4b70-9bb6-b1a4d64d7397_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_208cb220-2b35-4b70-9bb6-b1a4d64d7397_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2f176123-7a55-419b-9add-d4927f924ca9_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2f176123-7a55-419b-9add-d4927f924ca9_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2f176123-7a55-419b-9add-d4927f924ca9_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ff0f9637-bcd3-45d5-a4f1-295881293854_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ff0f9637-bcd3-45d5-a4f1-295881293854_001
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ff0f9637-bcd3-45d5-a4f1-295881293854_002
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_dfe79b80-3f52-45a6-91b1-6caaabd1b2e7_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d4343fcb-5100-4b2f-9980-0b377445cb54_000
+00:09:14.629 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_cf1207de-f470-470e-9ae5-2e40bd522813_000
+00:09:14.642 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:09:14.679 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0576130 - Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:09:22.062 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context '2d\Level\Scene2d\WorldMap'
+00:09:22.156 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.248 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.289 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.437 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:09:22.455 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:09:23.172 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:09:23.218 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:09:23.218 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:09:23.218 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:09:23.218 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:09:23.218 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:09:23.218 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level01
+00:09:23.237 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:09:23.237 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:09:23.237 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:09:23.237 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:09:23.237 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:09:23.237 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level01
+00:09:23.256 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:01.2005015 - 2d\Level\Scene2d\WorldMap
+00:09:24.305 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.9901032 Y:0} force=False
+00:09:24.305 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoB Origin=Level01 Destination=WorldMapPathPiece) -> (Link=AtoWP Origin=WorldMapPathPiece Destination=Level06)
+00:09:24.305 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:-1 Y:0} _prevWaypoint=Level01 - Stage=Stage01 _nextWaypoint=Level06 - Stage=Stage06
+00:09:25.889 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7023137 Y:0.3212683} force=False
+00:09:25.889 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:25.924 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:25.938 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:25.951 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:25.973 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:25.987 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7766045 Y:0.3384023} force=False
+00:09:26.008 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7691492 Y:0.3499993} force=False
+00:09:26.022 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.7310883 Y:0.4056302} force=False
+00:09:26.036 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.6595442 Y:0.4970114} force=False
+00:09:26.590 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.2771909 Y:0} force=False
+00:09:26.604 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9032127 Y:0} force=False
+00:09:26.604 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Level06 Destination=WorldMapPathPiece) -> (Link=BtoWP Origin=WorldMapPathPiece Destination=Level01)
+00:09:26.604 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:1 Y:0} _prevWaypoint=Level06 - Stage=Stage06 _nextWaypoint=Level01 - Stage=Stage01
+00:09:27.204 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9901032 Y:0} force=False
+00:09:27.204 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Level01 Destination=WorldMapPathPiece_015) -> (Link=BtoWP Origin=WorldMapPathPiece_015 Destination=Level02)
+00:09:27.204 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:1 Y:0} _prevWaypoint=Level01 - Stage=Stage01 _nextWaypoint=Level02 - Stage=Stage02
+00:09:27.808 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9901032 Y:0} force=False
+00:09:27.822 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9901032 Y:0} force=False
+00:09:27.836 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9995641 Y:0} force=False
+00:09:27.856 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9988665 Y:0} force=False
+00:09:27.870 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.2832074 Y:0} force=False
+00:09:29.658 - Paris.Game.HUD.WorldMap.Uninit : INFO | [WM] Uninit IsHost=True
+00:09:29.672 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null'
+00:09:29.672 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TVs'.
+00:09:29.846 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level02'.
+00:09:29.943 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TVs'.
+00:09:29.943 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level02'.
+00:09:29.966 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Rocksteady'.
+00:09:29.994 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'FootLugwrench'.
+00:09:29.994 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Foot'.
+00:09:30.018 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6Doors'.
+00:09:30.018 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TT4x4'.
+00:09:30.018 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'FootLugwrench'.
+00:09:30.018 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'FootLugwrench'.
+00:09:30.032 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Downtown_GarageDoor'.
+00:09:30.032 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TurtleVan'.
+00:09:30.061 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Rocksteady'.
+00:09:30.061 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TVs'.
+00:09:30.061 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Foot'.
+00:09:30.084 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Foot'.
+00:09:30.173 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TVs'.
+00:09:30.187 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Environmental'.
+00:09:30.214 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'GroundWindow'.
+00:09:30.214 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Channel6Doors'.
+00:09:30.221 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'GarageDoor'.
+00:09:30.274 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Downtown_GarageDoor'.
+00:09:30.274 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Downtown_GarageDoor'.
+00:09:30.274 - Paris.Engine.GameObject.BasicAnimatedGameObject.set_AnimationSet : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:09:30.274 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project ''.
+00:09:30.274 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Level02'.
+00:09:30.274 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TVs'.
+00:09:30.356 - Paris.Engine.GameObject.BasicAnimatedGameObject.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:09:30.411 - Paris.Engine.Menu.Control.AnimatedObjectControl.set_AnimationPath : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:09:30.546 - Paris.Engine.MenuObject.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:09:30.546 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_005 spawn coordinator guid: fb41f013-5650-7d87-4d3b-2d54e39e7051
+00:09:30.562 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_004 spawn coordinator guid: 539e190c-3f1b-092f-03e1-e93875a6d1bf
+00:09:30.579 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_003 spawn coordinator guid: 98eb7576-14e6-7b0a-52b2-d0ccc831cb8b
+00:09:30.579 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_001 spawn coordinator guid: 31b688ce-a517-6202-e99d-c15f29bd94fa
+00:09:30.579 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierRegular_027 spawn coordinator guid: 67518f1b-186b-079c-6b7a-512d3baf7f9d
+00:09:30.579 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootAxe spawn coordinator guid: 5cc5323e-12e8-4197-a4c8-e5bcc83404f6
+00:09:30.592 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_02\Level_02_art
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_005 spawn coordinator guid: fb41f013-5650-7d87-4d3b-2d54e39e7051
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_004 spawn coordinator guid: 539e190c-3f1b-092f-03e1-e93875a6d1bf
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_003 spawn coordinator guid: 98eb7576-14e6-7b0a-52b2-d0ccc831cb8b
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootBoomerang_001 spawn coordinator guid: 31b688ce-a517-6202-e99d-c15f29bd94fa
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierRegular_027 spawn coordinator guid: 67518f1b-186b-079c-6b7a-512d3baf7f9d
+00:09:30.592 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootAxe spawn coordinator guid: 5cc5323e-12e8-4197-a4c8-e5bcc83404f6
+00:09:30.592 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_02\Level_02_art
+00:09:30.608 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.9499742 - Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null
+00:09:36.997 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:10:10.123 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSPresence] Didn't update Presence for a while. Forcing Presence auto-update.
+00:10:10.123 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSPresence] Updating Presence to Online. LocalUserId=[cd4...68a] RichText=[]
+00:10:41.385 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Product SDK Config, Time: 640.083557
+00:10:41.967 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Product Update Request Completed - No Change
+00:10:41.967 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 640.555786, Update Interval: 357.374176
+00:11:16.756 - Paris.Game.Actor.EnemySpawn.Reset : INFO | POOLED_90084ed5-d8af-46f9-b904-bb32abc8ffcb_000 spawn coordinator guid: eb0eae6a-b5f9-92b0-dc50-abb2711814c9
+00:16:43.406 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Product SDK Config, Time: 1002.100464
+00:16:43.989 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Product Update Request Completed - No Change
+00:16:43.989 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 1002.565613, Update Interval: 319.100311
+00:17:14.206 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Picking winner for award MostEnemiesThrown, player count: 2, tieBreakerIndex: 1...
+00:17:14.206 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: player #0, name=POOLED_Donatello_000, rank=4, valid?=True
+00:17:14.206 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Updating winner from (NONE) to POOLED_Donatello_000
+00:17:14.206 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: player #1, name=POOLED_Raphael_000, rank=0, valid?=False
+00:17:14.206 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Chosen winner: POOLED_Donatello_000
+00:17:14.206 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:17:28.169 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_02\Level_02_art
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b75e3572-d713-437e-9918-8c68430dab1e_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d9fe2d23-add2-4618-80de-822e997a0223_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d5ef2f5e-a310-48ca-95db-c705394da452_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_90084ed5-d8af-46f9-b904-bb32abc8ffcb_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_90084ed5-d8af-46f9-b904-bb32abc8ffcb_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c21c1b0d-a256-485f-bb7c-73612e6cc200_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c21c1b0d-a256-485f-bb7c-73612e6cc200_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c21c1b0d-a256-485f-bb7c-73612e6cc200_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c21c1b0d-a256-485f-bb7c-73612e6cc200_003
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_75cecc65-4500-4441-8141-d75ec195cf41_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ad9008fc-c0f1-42d3-ac56-0f605c64e980_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b9e56d63-23c0-41d9-8dac-d8b8b24bd6b3_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b9e56d63-23c0-41d9-8dac-d8b8b24bd6b3_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c69bc8ef-57b1-4404-b791-19401de32afe_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ecab10d9-f3ef-4c55-9685-5f4c24684213_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a5e08672-b6ca-439a-b46e-e7efbc9215f9_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_59e62402-ce02-4100-8a79-50dc231b317e_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2bccf628-7546-473b-ab4d-716dc14f071b_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_4a917003-b9a2-426c-81b5-2d248ed411f9_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0e4b65c5-a47f-426c-a03d-d65d10984f2f_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_092f440c-70ef-4d42-ba57-163147da1723_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_70d3e60b-2e3f-467f-952a-afe1c59143f9_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_be4ebd36-50d1-45a1-8de3-3f054b3cb987_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_69b6050e-8667-4c39-88b1-9fec91de3ea9_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_152769bf-b34e-4f8e-89e8-d2ebd8c6948c_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8a83adb3-70a0-49e0-9e42-adf5efe07805_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8a83adb3-70a0-49e0-9e42-adf5efe07805_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_208fcd4c-ecdc-4ad9-a5bb-9935d054cf87_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_f1841525-eb3b-4333-8b89-026e3e547658_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_10a04fbd-4442-4cc1-a0f9-68d09c0958ef_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6de52028-5c6b-4000-9b0b-c4ded7851e1f_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3af463c5-bb6d-430d-a797-93895597bc73_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ce8ae846-1812-4ab0-8f62-1e4e9aadf7fb_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0ed396b5-db29-40dc-b3a6-6ac7ecf317d3_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0ed396b5-db29-40dc-b3a6-6ac7ecf317d3_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c41096d1-dc99-43dc-8a58-2f785b6d4cf8_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e8d79155-024a-48b4-b4b3-5d0eed9d320c_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_66585a80-1eb4-467e-8d6e-12d4a02f2a54_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ebebef97-d40c-4cbb-b53c-0d9d8bd8439a_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_60b64325-0551-48e0-8c21-1cc1299c274c_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_60b64325-0551-48e0-8c21-1cc1299c274c_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_60b64325-0551-48e0-8c21-1cc1299c274c_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_be6a1edc-6451-43a2-ab4e-adf043caa106_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_be6a1edc-6451-43a2-ab4e-adf043caa106_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_be6a1edc-6451-43a2-ab4e-adf043caa106_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6b97f220-ee90-4508-a473-4f7de22fd777_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_690ce367-7857-4648-9a7a-62c9af21a987_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_88fd1ab4-1c78-4cd4-b576-6a7f0a8aa43e_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_abbb24a0-295e-4821-9ff0-347576045418_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_36f85013-1d02-46bf-8632-eb095bc45557_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5f19db61-7276-4392-abd2-449e29f23c54_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5f19db61-7276-4392-abd2-449e29f23c54_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_82e0fafd-cdad-4d40-b958-3139872f920c_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_82e0fafd-cdad-4d40-b958-3139872f920c_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_86c622b9-3e51-4e92-bacd-0eeba414c2a7_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d51c7f67-c7d2-48fe-972b-72716a83f69e_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_08f93765-a41d-4128-8dcd-bb275fbafb9e_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c9296f68-86af-4f04-8b35-024888d901ef_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c9296f68-86af-4f04-8b35-024888d901ef_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_90caacd3-2b0f-4c52-8b78-8a854e18fe9b_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_cb1b706b-a109-40ad-acc5-a811f84097b1_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_5878ed5d-54dd-4f18-b88d-9b2d76a34862_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_64749ef9-54a8-43bd-b0b0-e5a8c84189a5_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_48d10bbb-96c9-4acc-a093-cadadb5f3cd1_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_48d10bbb-96c9-4acc-a093-cadadb5f3cd1_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_48d10bbb-96c9-4acc-a093-cadadb5f3cd1_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_48d10bbb-96c9-4acc-a093-cadadb5f3cd1_003
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_03f100e8-453c-4cd4-8622-d284d433f656_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_03f100e8-453c-4cd4-8622-d284d433f656_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_03f100e8-453c-4cd4-8622-d284d433f656_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_03f100e8-453c-4cd4-8622-d284d433f656_003
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b8a8df99-e84a-4963-ba1c-ed89c5cb2e14_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b8a8df99-e84a-4963-ba1c-ed89c5cb2e14_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b8a8df99-e84a-4963-ba1c-ed89c5cb2e14_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b8a8df99-e84a-4963-ba1c-ed89c5cb2e14_003
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7630574a-ac0f-494c-8bf7-72914d245cff_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7630574a-ac0f-494c-8bf7-72914d245cff_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7630574a-ac0f-494c-8bf7-72914d245cff_002
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_7630574a-ac0f-494c-8bf7-72914d245cff_003
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_eba2f529-65d5-4a8c-a51c-d197c4113114_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a7ab815a-c761-479c-bca8-50b0de1663c8_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a7ab815a-c761-479c-bca8-50b0de1663c8_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_05a92a28-11f9-4b2f-aeef-1d03244240b3_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b4474618-a6ff-4c90-bf1e-529c32910aac_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_729939a6-16f6-4195-aa7d-7023486d3ee3_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_729939a6-16f6-4195-aa7d-7023486d3ee3_001
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_ec2632f2-0624-47ef-a8e3-e51c25754801_000
+00:17:28.176 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_584379de-70f2-4bb2-9d74-eab3ca95d808_000
+00:17:28.190 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:17:28.233 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0640720 - Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:17:36.352 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context '2d\Level\Scene2d\WorldMap'
+00:17:36.443 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.536 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.563 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.723 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:17:36.743 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:17:37.486 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:17:37.532 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:17:37.532 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:17:37.532 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:17:37.532 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:17:37.532 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:17:37.532 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level02
+00:17:37.551 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:17:37.551 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:17:37.551 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:17:37.551 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:17:37.551 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:17:37.551 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level02
+00:17:37.573 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:01.2210783 - 2d\Level\Scene2d\WorldMap
+00:17:38.953 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:-0.9709638 Y:0} force=False
+00:17:38.953 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoB Origin=Level02 Destination=WorldMapPathPiece_015) -> (Link=AtoWP Origin=WorldMapPathPiece_015 Destination=Level01)
+00:17:38.953 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:-1 Y:0} _prevWaypoint=Level02 - Stage=Stage02 _nextWaypoint=Level01 - Stage=Stage01
+00:17:39.771 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.01320579 Y:0} force=False
+00:17:39.785 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0.9988665 Y:0} force=False
+00:17:39.785 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoA Origin=Level01 Destination=WorldMapPathPiece_015) -> (Link=BtoWP Origin=WorldMapPathPiece_015 Destination=Level02)
+00:17:39.785 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:1 Y:0} _prevWaypoint=Level01 - Stage=Stage01 _nextWaypoint=Level02 - Stage=Stage02
+00:17:40.557 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.2283613} force=False
+00:17:40.571 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM] StartMove IsHost=True dir={X:0 Y:0.9873566} force=False
+00:17:40.571 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]   Path: (Link=WPtoB Origin=Level02 Destination=WorldMapPathPiece_010) -> (Link=AtoWP Origin=WorldMapPathPiece_010 Destination=Level03)
+00:17:40.571 - Paris.Game.Menu.WorldMapVehicle.StartMove : INFO | [WM]  _manualDriveDir={X:0 Y:1} _prevWaypoint=Level02 - Stage=Stage02 _nextWaypoint=Level03 - Stage=Stage03
+00:17:43.656 - Paris.Game.HUD.WorldMap.Uninit : INFO | [WM] Uninit IsHost=True
+00:17:43.670 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null'
+00:17:43.972 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TurtleTenderizer'.
+00:17:43.972 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'TurtleTenderizer'.
+00:17:44.049 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'GrenadeProjectile'.
+00:17:44.307 - Paris.Engine.Menu.Control.AnimatedObjectControl.set_AnimationPath : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:17:44.452 - Paris.Engine.MenuObject.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:17:44.476 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_026 spawn coordinator guid: a18bf3df-f4ee-88b4-008e-7f8ba61057d2
+00:17:44.476 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_023 spawn coordinator guid: f215b6af-1106-ddca-cfc8-10a736bb91cb
+00:17:44.476 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_022 spawn coordinator guid: b9ae407d-540f-3ede-ed77-03c7d106d8a5
+00:17:44.476 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_034 spawn coordinator guid: 75eb79f5-3d56-df7d-d44a-b69a9790a62a
+00:17:44.501 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_03\Level_03_art
+00:17:44.501 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_026 spawn coordinator guid: a18bf3df-f4ee-88b4-008e-7f8ba61057d2
+00:17:44.501 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_023 spawn coordinator guid: f215b6af-1106-ddca-cfc8-10a736bb91cb
+00:17:44.501 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_022 spawn coordinator guid: b9ae407d-540f-3ede-ed77-03c7d106d8a5
+00:17:44.501 - Paris.Game.Actor.EnemySpawn.Reset : INFO | FootSoldierBasic_034 spawn coordinator guid: 75eb79f5-3d56-df7d-d44a-b69a9790a62a
+00:17:44.501 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_03\Level_03_art
+00:17:44.546 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.8896215 - Paris.Game.System.Stage, TMNT, Version=1.0.0.258, Culture=neutral, PublicKeyToken=null
+00:17:50.996 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:20:10.136 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSPresence] Didn't update Presence for a while. Forcing Presence auto-update.
+00:20:10.136 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSPresence] Updating Presence to Online. LocalUserId=[cd4...68a] RichText=[]
+00:22:13.457 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] Updating Product SDK Config, Time: 1332.142334
+00:22:14.040 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] SDK Config Product Update Request Completed - No Change
+00:22:14.040 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOS] ScheduleNextSDKConfigDataUpdate - Time: 1332.607788, Update Interval: 324.134033
+00:24:24.896 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:24:29.331 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:24:30.018 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Picking winner for award MostEnemiesDefeated, player count: 1, tieBreakerIndex: 0...
+00:24:30.018 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: player #0, name=POOLED_Donatello_000, rank=23, valid?=True
+00:24:30.018 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Updating winner from (NONE) to POOLED_Donatello_000
+00:24:30.018 - Paris.Game.GameInfo.PickAwardWinner : INFO | PickAwardWinner: Chosen winner: POOLED_Donatello_000
+00:24:30.018 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:24:38.537 - Paris.Engine.Scene.Scene2d.SwitchToScene : INFO | Switching scene to 2d\Level\Playfield\Stage\Stage_03\Level_03_art
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_06ebff86-203b-41b8-b02f-4958abbba90b_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_2f8bae47-0ee6-4af4-bf5d-fa1377671eff_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_511235d9-4bfd-455d-8b9a-5db10a1aa22d_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_db5b2295-96b5-4035-86c3-c81d1a33f092_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_fcd82cc3-4e4c-4a61-b882-3d2ccff6ba69_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6916c6b9-504d-4737-8aee-a033160dd5f6_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_60dddc6b-c898-45b3-93ef-facf67402e33_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_60dddc6b-c898-45b3-93ef-facf67402e33_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_572c0b81-3558-4f93-9b3d-1bd33e9e9596_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_572c0b81-3558-4f93-9b3d-1bd33e9e9596_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_676fcee1-ac9c-4600-b01d-94fba004cd93_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_676fcee1-ac9c-4600-b01d-94fba004cd93_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3c41d92f-ec76-4159-b529-70100413a98b_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3c41d92f-ec76-4159-b529-70100413a98b_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_cd1febfe-1571-4930-b979-15705043f4f8_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_cd1febfe-1571-4930-b979-15705043f4f8_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_78dd3e88-ed4f-4073-bbe1-1c5d60a8bde2_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_78dd3e88-ed4f-4073-bbe1-1c5d60a8bde2_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_35de77e0-865d-4fac-8b93-4df1750a8a49_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e59a60ab-99e3-4a7f-a0cd-c74e91f9f5e7_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_35fb8166-9dd3-4be1-b386-5962eafb2c25_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_35fb8166-9dd3-4be1-b386-5962eafb2c25_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8349f8c2-9d70-43d0-bba0-a49daab219c0_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_8349f8c2-9d70-43d0-bba0-a49daab219c0_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e53cca61-981e-4e60-a7ef-d15c6cc54fe8_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e53cca61-981e-4e60-a7ef-d15c6cc54fe8_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_e53cca61-981e-4e60-a7ef-d15c6cc54fe8_002
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3c350a79-5329-452f-a47e-3a7a0ddadd2f_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3c350a79-5329-452f-a47e-3a7a0ddadd2f_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_3c350a79-5329-452f-a47e-3a7a0ddadd2f_002
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0a93335d-9f6f-4894-b79a-a2f8f78eaae9_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_36ef39b0-979c-4adf-b90e-3298c390e500_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c17769af-7832-4f78-be2f-1903f92080bc_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_0aa6f5e1-35e8-455c-87ae-e0c3fce9c760_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_4389b31f-543a-4a54-8c22-6e74b5fa2253_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_dfef873d-0851-43b6-889d-bb72d942c8e6_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a989d9b7-5c4c-4176-adc6-3d751028c1ba_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d9efc1ca-d41b-4be0-ae9a-91a4521729b6_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_6927e37f-adc9-4ca8-bfa2-1223daa50145_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_35ad5884-df0f-4787-91ac-f89599a199af_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_684870da-30ed-4b16-8f53-24d6d1c8fa12_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_159ddc61-7a90-4f93-acff-18b984672f8c_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b888ae9d-1837-44cb-9a03-d3ef0ffd90e8_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_262f4cb7-ea5f-49df-b29d-de0862bfaf6a_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_58375d68-832c-4c73-9848-bacdaf43d724_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_58375d68-832c-4c73-9848-bacdaf43d724_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_58375d68-832c-4c73-9848-bacdaf43d724_002
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c5268611-bdb2-4ade-9ba0-f7a74d0487f6_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c5268611-bdb2-4ade-9ba0-f7a74d0487f6_001
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_c5268611-bdb2-4ade-9ba0-f7a74d0487f6_002
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_490c2321-0bc9-43aa-908a-05ea595694e0_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_d9c74d78-8f0f-4bff-b324-dd2fa777539d_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_caf682f4-2406-43f1-a0ba-94af59fbfef2_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_a86b9cd8-2004-44de-b8d5-acde5a819ab9_000
+00:24:38.537 - Paris.Engine.Physic.CollisionManager.InvalidateRigidBody : WARN | Problem with object not being in active scene: POOLED_b7b4fcca-f544-4b4f-89c8-56a8d1361697_000
+00:24:38.550 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:24:38.605 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0681647 - Paris.Engine.Cutscenes.CutsceneContext, ParisEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:24:42.418 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context '2d\Level\Scene2d\WorldMap'
+00:24:42.516 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.608 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.635 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.780 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionX'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'Background'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'NYCpaths'.
+00:24:42.800 - Paris.Engine.Graphics.Animations.AnimatedObject2d.set_CurrentAnimationID : WARN | Animation id '-1' is not valid for animation project 'DimensionXPaths'.
+00:24:43.540 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:24:43.586 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:24:43.586 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:24:43.586 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:24:43.586 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:24:43.586 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:24:43.586 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level03
+00:24:43.606 - Paris.Game.HUD.WorldMap.PostReset : INFO | [WM] PostReset IsHost=True
+00:24:43.606 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM] Setup IsHost=True
+00:24:43.606 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _currentPathsToReveal.Count=0
+00:24:43.606 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _waypointsToReveal.Count=0
+00:24:43.606 - Paris.Game.HUD.WorldMap.Setup : INFO | [WM]  _statesStack.Count=0
+00:24:43.606 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle C IsHost=True CurrentWP=Level03
+00:24:43.626 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:01.2083585 - 2d\Level\Scene2d\WorldMap
+00:24:45.223 - Paris.Game.HUD.WorldMap.StateVehicle : INFO | [WM] StateVehicle D IsHost=True CurrentWP=Level03 NextState=8
+00:24:46.873 - Paris.Game.HUD.WorldMap.Uninit : INFO | [WM] Uninit IsHost=True
+00:24:46.873 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null'
+00:24:46.952 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.0779857 - Paris.Game.Menu.CharacterSelect, TMNT, Version=1.0.0.8541, Culture=neutral, PublicKeyToken=null
+00:24:47.282 - Paris.Engine.Save.SaveSystem.Save : INFO | Writing Save : GameSave.sav
+00:24:50.659 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading context 'Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+00:24:50.757 - Paris.Engine.Menu.Control.SelectionMenuControl.Init : WARN | Could not init animation data for anim set '' since it's not loaded yet.
+00:24:50.815 - Paris.Engine.Context.ContextManager.LoadContext : INFO | Loading time : 00:00:00.1622091 - Paris.Game.Menu.MainMenu, TMNT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:24:54.226 - Paris.Engine.EpicHelper.EpicLogMessage : INFO | EOS[Info][LogEOSOverlay] Closing browser [InstanceId=2407175660448, BrowserId=1, TabId=0]
+Time Ended : 16:02:56.7929
+Duration : 00:24:55.296
+
