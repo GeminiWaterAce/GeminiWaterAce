@@ -1,13 +1,8 @@
 [filter "lfs"]
+	required = true
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
-	required = true
 [user]
 	name = GeminiWaterAce
 	email = userwaterzz@163.com
-	signingkey = AAAAB3NzaC1yc2EAAAADAQABAAABgQDSDFEdGZZMi7SeqAx4wnERW2FNSVI21Y7CUIcIhRAmzdlTt6nniUDiwTmroutW
-[init]
-	defaultBranch = master
-[save]
-	directory = C:/Users/GeminiWaterAce
