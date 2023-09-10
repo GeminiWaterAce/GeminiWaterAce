@@ -13860,3 +13860,288 @@
 [0x000050c4] | UI.GLIO              | INFO  | 2023-03-04 03:10:43,642 | AuxPlayer: OpenGL I/O uninit done.
 [0x000050c4] | UI.GLContext         | INFO  | 2023-03-04 03:10:43,654 | Destroyed main context.
 [0x000050c4] | Main                 | INFO  | 2023-03-04 03:10:43,662 | Main thread exited successfully
+[0x00002c24] | Undefined            | INFO  | 2023-08-07 00:23:34,452 | --------------------------------------------------------------------------------
+[0x00002c24] | Undefined            | INFO  | 2023-08-07 00:23:34,452 | Loaded log config from C:\Users\GeminiWaterAce\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Preferences\log-conf.xml
+[0x00002c24] | Undefined            | INFO  | 2023-08-07 00:23:34,452 | --------------------------------------------------------------------------------
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:34,453 | Running DaVinci Resolve Studio v17.0.0b.0023 (Windows/MSVC)
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:34,453 | BMD_BUILD_UUID 6cdc18d0-943d-4672-a5ec-ce009cd0ed33
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:34,453 | BMD_GIT_COMMIT b84e94734ffdb9758ad536650b5e8ce6e4459adb
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,458 | Starting GPUDetect -        
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 | Done in 107 ms.
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 | Detected System:
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - OS: Windows 10 Pro (Build 19045)
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - Model: ASUSTeK ROG CROSSHAIR VIII HERO (WI-FI)
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - System ID: 06ac360d-556c-4bd7-9871-c0e9d2987c74
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - CPU: AMD Ryzen 9 5950X, 32 threads, x86-64
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - RAM: 20.4 GiB used of 127.9 GiB
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 |   - NVIDIA Driver: 536.67, supports CUDA 12.2
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,566 | Detected 1 GPUs:
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |   - "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849) <- Main Display GPU
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |     Discrete, 684 MiB used of 23.2 GiB VRAM, PCI:13:0 (x16)
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |     Matches: CUDA, DirectX, NVAPI, NVML, OpenCL
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 | Detected 2 monitors:
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |   - "AOC PD32M" <- Main Monitor
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |     3840x2160, connected to "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849)
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |   - "AOC U32U1WR6B" <- Main Monitor
+[0x00002c24] | GPUDetect            | INFO  | 2023-08-07 00:23:34,568 |     3840x2160, connected to "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849)
+[0x00002c24] | Main.GPUConfig       | INFO  | 2023-08-07 00:23:34,971 | Compute API set to automatic, defaulting to CUDA.
+[0x00002c24] | Main.GPUConfig       | INFO  | 2023-08-07 00:23:34,971 | Selected compute API: CUDA
+[0x00002c24] | Main.GPUConfig       | INFO  | 2023-08-07 00:23:34,971 | Automatic GPU Selection:
+[0x00002c24] | Main.GPUConfig       | INFO  | 2023-08-07 00:23:34,971 |   - "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:34,981 | RED InitializeSdk with library path at C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Libraries
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:36,321 | R3DAPI 7.3.5-48A04 (20201023 W64S) R3DSDK 7.3.5-48A04 (20201023 W64D C3B3) RED CUDA 7.3.5-50124 (20201026) [C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Libraries\] init is successful
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,321 | 0 RED rocket cards available
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,321 | Setting Local.DtManager.1.Red.Threads = 0
+[0x00002c24] | SyManager.DeckLink   | ERROR | 2023-08-07 00:23:36,324 | Failed to create instance.
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,324 | Decklink model name: '', version: ''
+[0x00002c24] | DVIP                 | INFO  | 2023-08-07 00:23:36,324 | DVIP release/17.0 build 39 (42e12e45f62bb7cce327cb736bdaf35c168f7732). Release, version 17.0.0.
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,325 | Resolve Module Handle 00007FF7A8410000
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,451 | Installed custom font: Open Sans
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,452 | Installed custom font: Open Sans Semibold
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,452 | Installed custom font: Open Sans
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:23:36,457 | Finished loading Application style sheet
+[0x00003858] | Main                 | INFO  | 2023-08-07 00:23:36,609 | Started listener socket at port 15000
+[0x00002c24] | LeManager            | ERROR | 2023-08-07 00:23:38,695 | 22, 174, -1
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,695 | Memory config: reserved=4000M pinned=3000M log=0
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,695 | Using default pooled memory manager
+[0x00001c90] | BtCommon             | INFO  | 2023-08-07 00:23:38,695 | BtResourceManager Process Thread Started
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,713 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,728 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,730 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,732 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,734 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,736 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,739 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | BtCommon             | INFO  | 2023-08-07 00:23:38,742 | Starting Daemon: C:/Program Files/Blackmagic Design/DaVinci Resolve/DPDecoder.exe
+[0x00002c24] | SyManager            | INFO  | 2023-08-07 00:23:38,750 | Total: 20, NumDtThreads: 8, NumComms: 0, NumSites: 1
+
+[0x00002c24] | SyManager            | INFO  | 2023-08-07 00:23:38,750 | Lookaheads -> playback = 20, record = 20, stop = 2
+
+[0x00002c24] | DtManager            | INFO  | 2023-08-07 00:23:38,751 | Using 8 generic IO threads
+[0x00002c24] | DtManager            | INFO  | 2023-08-07 00:23:38,751 | Total of 16 IO threads (including 8 generic and 8 Red decode threads)
+[0x00002b80] | GsManager            | INFO  | 2023-08-07 00:23:38,752 | Gs Processor Thread ----- (11136)
+
+[0x00000a10] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Data Handler Thread Started
+[0x00002d68] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x00000614] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x00001cc4] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x00002be4] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x00002830] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x000043b8] | DtManager            | INFO  | 2023-08-07 00:23:38,753 | Dt Worker Thread Started
+[0x00001e54] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00001814] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00001904] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00001224] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00002adc] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x000037d0] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00001e9c] | DtManager            | INFO  | 2023-08-07 00:23:38,754 | Dt Worker Thread Started
+[0x00002288] | DtManager            | INFO  | 2023-08-07 00:23:38,755 | Dt Worker Thread Started
+[0x00001dcc] | DtManager            | INFO  | 2023-08-07 00:23:38,755 | Dt Worker Thread Started
+[0x00001b68] | DtManager            | INFO  | 2023-08-07 00:23:38,755 | Dt Worker Thread Started
+[0x00000b18] | DtManager            | INFO  | 2023-08-07 00:23:38,755 | Dt Worker Thread Started
+[0x00003488] | DtManager            | INFO  | 2023-08-07 00:23:38,755 | Dt Worker Thread Started
+[0x00002c24] | DbCommon2            | INFO  | 2023-08-07 00:23:38,759 | Loading dblist file: C:\Users\GeminiWaterAce\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Preferences\dblist.conf
+[0x00002c24] | DbCommon2            | ERROR | 2023-08-07 00:23:38,759 | Cannot connect to Local Database database: path not found
+[0x000024e4] | GPU.MultiBoardMgr    | INFO  | 2023-08-07 00:23:38,761 | Let There Be CUDA Light!
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,824 | Using DNxHR library v2.6.1.19r
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,954 | NVDEC is using upto (3071) MB
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,956 | NVDEC decodes H264, chroma 4:2:0, bitdepth 8, upto 4096 x 4096
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,957 | NVDEC decodes HEVC, chroma 4:2:0, bitdepth 8, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,958 | NVDEC decodes HEVC, chroma 4:2:0, bitdepth 10, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,960 | NVDEC decodes HEVC, chroma 4:2:0, bitdepth 12, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,962 | NVDEC decodes HEVC, chroma 4:4:4, bitdepth 8, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,963 | NVDEC decodes HEVC, chroma 4:4:4, bitdepth 10, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,964 | NVDEC decodes HEVC, chroma 4:4:4, bitdepth 12, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,965 | NVDEC decodes VP9, chroma 4:2:0, bitdepth 8, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,966 | NVDEC decodes VP9, chroma 4:2:0, bitdepth 10, upto 8192 x 8192
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,987 | Nvidia GPU (0) is initialised as decoding and encoding device.
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(0), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(4), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(8), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(12), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(16), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(20), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(24), thds(4)
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:23:38,988 | Kdu ctx(0), bundle(28), thds(4)
+[0x00001138] | SyManager            | WARN  | 2023-08-07 00:23:40,772 | socket failed to connect to server, error: 10061
+
+[0x00001138] | SyManager            | ERROR | 2023-08-07 00:23:40,772 | DRIVER: panel connection failed
+[0x00002c24] | UI.GLContext         | INFO  | 2023-08-07 00:23:41,130 | Creating shared OpenGL context for this thread (2 total).
+[0x00002c24] | UI.GLContext         | INFO  | 2023-08-07 00:23:41,174 | Initialized OpenGL 4.6 (requested 2.0) on device 'NVIDIA Corporation NVIDIA GeForce RTX 3090/PCIe/SSE2'
+[0x000024e4] | GPU.MultiBoardMgr    | INFO  | 2023-08-07 00:23:41,174 | Initializing CUDA board manager for Main Display GPU gpu:ebf12eac.0f05f849.
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,084 | Fusion Build: e650af3a_0031 (Jan 18 2021 14:18:17)
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,084 | fusionsystem: = "C:\Program Files\Blackmagic Design\DaVinci Resolve\fusionsystem.dll"
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,161 | FusionLibs: = "C:\Program Files\Blackmagic Design\DaVinci Resolve\"
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,161 | UserData:   = "C:\Users\GeminiWaterAce\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion"
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,161 | Profiles:   = "UserData:Profiles\"
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:23:43,236 | Module Handle 000001C8A7A00000 fusiongraphics
+[0x00002b74] | UI.GLContext         | INFO  | 2023-08-07 00:23:43,290 | Creating shared OpenGL context for this thread (3 total).
+[0x00002b74] | UI.GLIO              | INFO  | 2023-08-07 00:24:16,739 | Initialized MainPlayer OpenGL I/O on CUDA device 'NVIDIA GeForce RTX 3090'
+[0x00002c24] | UI.GLIO              | INFO  | 2023-08-07 00:24:16,739 | MainPlayer: OpenGL I/O setup done.
+[0x00001e04] | GPU.SingleBoardMgr   | INFO  | 2023-08-07 00:24:16,739 | Board manager thread for "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849) is ready.
+[0x000024e4] | UI.GLInterop         | INFO  | 2023-08-07 00:24:16,739 | OpenGL interop was initialized.
+[0x000024e4] | UI.GLInterop         | INFO  | 2023-08-07 00:24:16,740 | OpenGL interop was initialized.
+[0x000024e4] | GPU.MultiBoardMgr    | INFO  | 2023-08-07 00:24:16,740 | Initializing Canon SDK for CUDA and CPU.
+[0x000014fc] | UI.GLContext         | INFO  | 2023-08-07 00:24:16,740 | Creating shared OpenGL context for this thread (4 total).
+[0x000014fc] | UI.GLIO              | INFO  | 2023-08-07 00:24:16,810 | Initialized AuxPlayer OpenGL I/O on CUDA device 'NVIDIA GeForce RTX 3090'
+[0x00002c24] | UI.GLIO              | INFO  | 2023-08-07 00:24:16,811 | AuxPlayer: OpenGL I/O setup done.
+[0x00003358] | UI.GLContext         | INFO  | 2023-08-07 00:24:16,811 | Creating shared OpenGL context for this thread (5 total).
+[0x000024e4] | GPU.MultiBoardMgr    | INFO  | 2023-08-07 00:24:16,813 | Enabled CUDA pinned memory.
+[0x00003358] | UI.Scopes            | INFO  | 2023-08-07 00:24:16,876 | Initialized GPU Scopes Manager on CUDA device 'NVIDIA GeForce RTX 3090'
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:16,960 | Failed to find value '0' in combo-box
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:17,122 | Main menu action [viewViewerOverlaySmartReframe]'s slot is not defined: viewViewerOverlaySmartReframe_triggered(bool)
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:17,123 | Main menu action [workspaceLayoutFusion_sub001Default]'s slot is not defined: workspaceLayoutFusion_sub001Default_triggered()
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:17,123 | Main menu action [workspaceWIPlugins_placeholder]'s slot is not defined: workspaceWIPlugins_placeholder_triggered()
+[0x00002c24] | DbCommon2            | INFO  | 2023-08-07 00:24:17,179 | Sm2SysIdEntry is not supported in disk database (xml) mode
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:17,337 | Failed to find value '0' in combo-box
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:17,526 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:17,530 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI.ActionManager     | WARN  | 2023-08-07 00:24:17,795 | Action [fairlightBusStructure] is not a global action
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:18,519 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:18,522 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:18,713 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:18,715 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,728 | Module Handle 000001C91F1E0000 fusionsystem
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,746 | Module Handle 000001C934730000 fusionoperators
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,758 | Module Handle 000001C8C1140000 fusioncontrols
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,775 | Module Handle 000001C8DA5E0000 3d.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,785 | Module Handle 000001C934FD0000 alembic.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,806 | Module Handle 000001C9352C0000 dimension.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,819 | Module Handle 000001C935640000 fbx.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,828 | Module Handle 000001C8906A0000 fuses.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,836 | Module Handle 000001C8AF000000 opencolorio.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,845 | Module Handle 000001C891D00000 openfx.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,869 | Module Handle 000001C890B80000 openvr.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,879 | Module Handle 000001C892280000 paint.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,889 | Module Handle 000001C8AA240000 particles.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,898 | Module Handle 000001C8BB690000 text.plugin
+[0x00002c24] | Fusion               | INFO  | 2023-08-07 00:24:18,907 | Module Handle 000001C8922F0000 utilities.plugin
+[0x00001138] | SyManager            | WARN  | 2023-08-07 00:24:19,235 | socket failed to connect to server, error: 10061
+
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:20,194 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:20,197 | Failed to load media metadata preset list or the list is empty.
+[0x00002c24] | UI                   | INFO  | 2023-08-07 00:24:20,547 | Not creating special GL widget for screen 0
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:20,971 | Failed to find value '8192' in combo-box
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:21,071 | Failed to find value '100' in combo-box
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:21,463 | Plugged In Action [workspace_sub1_menu5_triggered()] is owned by [000001C921B9C290]
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:21,463 | Plugged In Action [workspace_sub1_sub001_triggered()] is owned by [000001C921B9C290]
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:21,463 | Plugged In Action [workspace_sub1_sub002_triggered()] is owned by [000001C921B9C290]
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:21,463 | Plugged In Action [workspace_sub1_sub003_triggered()] is owned by [000001C921B9C290]
+[0x00002c24] | UI.MenuBar           | WARN  | 2023-08-07 00:24:21,463 | Plugged In Action [workspace_sub1_sub004_triggered()] is owned by [000001C921B9C290]
+[0x00002c24] | IO                   | WARN  | 2023-08-07 00:24:21,540 | Plugin Repository :: Codec uuid  not found
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:24:21,553 | RED rocket decode has been disabled in the config file
+[0x00002c24] | SyManager.DeckLink   | ERROR | 2023-08-07 00:24:21,664 | Failed to create instance.
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:21,669 | Failed to find value '0' in combo-box
+[0x00002c24] | BtCommon             | ERROR | 2023-08-07 00:24:26,513 | mkdir failed for directory 'C:\Users\GeminiWater' (errno 13)
+[0x00002c24] | BtCommon             | ERROR | 2023-08-07 00:24:26,529 | mkdir failed for directory 'C:\Users\GeminiWater' (errno 13)
+[0x00002c24] | BtCommon             | ERROR | 2023-08-07 00:24:26,552 | mkdir failed for directory 'C:\Users\GeminiWater' (errno 13)
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:24:26,566 | Current user pointer is changed
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:26,595 | UI Persistence - UseDisplayNameForClips not read
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:26,596 | UI Persistence - DefaultTransitionKey not read
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:26,596 | UI Persistence - DefaultAudioTransitionKey not read
+[0x00002c24] | SyManager            | INFO  | 2023-08-07 00:24:26,627 | Search Parameter (-2) or Search Operation (0) not supported, and hence disabling the condition.
+[0x00002c24] | SyManager            | INFO  | 2023-08-07 00:24:26,627 | Search Parameter (-1) or Search Operation (-1) not supported, and hence disabling the condition.
+[0x00002c24] | UI.ActionManager     | WARN  | 2023-08-07 00:24:26,655 | Action [fairlightBusStructure] is not a global action
+[0x00002c24] | UI.ActionManager     | WARN  | 2023-08-07 00:24:26,655 | Action [fairlightBusStructure] is not a valid global action
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:27,872 | Failed to find value '14' in combo-box
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:27,876 | Failed to find value '0' in combo-box
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:24:27,909 | Failed to find value '0' in combo-box
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:24:27,948 | Start purging still caches
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:24:27,948 | Finish purging still caches
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:24:27,972 | Media pool relink status changed to 0
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:24:27,993 | Main view page is changed to 12
+[0x00002c24] | UI                   | INFO  | 2023-08-07 00:24:28,025 | Gallery pointer is changed, refreshing color gallery
+[0x00002c24] | UI                   | INFO  | 2023-08-07 00:24:28,036 | Gallery pointer is changed, refreshing gallery browser
+[0x000021a4] | UI                   | ERROR | 2023-08-07 00:24:29,937 | UiAutoUpdateController: Failed to get response from server (responseCode:3) (httpStatus:301) (response:<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+)
+[0x00002c24] | SyManager            | WARN  | 2023-08-07 00:25:13,108 | No reply received from file system, assume successfully deleted folder C:\Users\GeminiWater\Videos\Resolve Project Backups\aabff9e9-a741-4242-9925-648468d43cf7.
+[0x00002c24] | SyManager            | WARN  | 2023-08-07 00:25:13,119 | No reply received from file system, assume successfully deleted folder C:\Users\GeminiWater\Videos\CacheClip\aabff9e9-a741-4242-9925-648468d43cf7.
+[0x00002c24] | SyManager            | WARN  | 2023-08-07 00:25:13,130 | No reply received from file system, assume successfully deleted folder C:\Users\GeminiWater\Videos\.gallery\aabff9e9-a741-4242-9925-648468d43cf7.
+[0x00004304] | BtCommon             | ERROR | 2023-08-07 00:25:19,832 | mkdir failed for directory 'C:\Users\s8j8.0' (errno 13)
+[0x00004304] | BtCommon             | ERROR | 2023-08-07 00:25:20,836 | mkdir failed for directory 'C:\Users\s8j8.1' (errno 13)
+[0x00004304] | BtCommon             | ERROR | 2023-08-07 00:25:21,696 | mkdir failed for directory 'C:\Users\s8j8.2' (errno 13)
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:25:22,327 | Main view page is changed to 1
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:25:22,356 | Main view page is changed to 17
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:25:22,553 | UI Persistence - MediaPoolFloatingWindowGeometry not read
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:25:23,014 | Main view page is changed to 17
+[0x00002c24] | UI                   | WARN  | 2023-08-07 00:25:23,039 | Failed to get auto update infomation.
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,895 | Finished saving HiddenView to database (size = 0)
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,895 | Finished clearing HiddenView (size = 0)
+[0x00002c24] | SyManager            | WARN  | 2023-08-07 00:25:26,923 | No reply received from file system, assume successfully deleted folder C:\Users\GeminiWater\Videos\CacheClip\1af19496-82c0-492c-8475-4a0ea9498bc4.
+[0x00002c24] | SyManager            | WARN  | 2023-08-07 00:25:26,934 | No reply received from file system, assume successfully deleted folder C:\Users\GeminiWater\Videos\.gallery\1af19496-82c0-492c-8475-4a0ea9498bc4.
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,940 | Finished saving HiddenView to database (size = 0)
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,940 | Finished clearing HiddenView (size = 0)
+[0x00002c24] | SyManager.Project    | INFO  | 2023-08-07 00:25:26,955 | Unlock project Untitled Project
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,956 | Start purging still caches
+[0x00002c24] | SyManager.Gallery    | INFO  | 2023-08-07 00:25:26,956 | Finish purging still caches
+[0x00002c24] | SyManager.Signals    | INFO  | 2023-08-07 00:25:26,961 | Main view page is changed to 17
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:27,971 | Starting terminate sequence by calling g_MainTerm
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:27,971 | Closing components
+[0x00002c24] | UI                   | INFO  | 2023-08-07 00:25:27,971 | Audio thread terminated.
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:27,972 | g_MainTerm: BtStartupShutdownControl.Shutdown() - begin
+[0x00002d20] | SyManager            | INFO  | 2023-08-07 00:25:28,463 | Exit SY low priority cmd handler
+[0x000042f4] | SyManager            | INFO  | 2023-08-07 00:25:28,466 | Exit SY high priority cmd handler
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,479 | SvcManager: SyManager.StopThreads() - end
+[0x00002b80] | GsManager            | INFO  | 2023-08-07 00:25:28,481 | Exit GS process handler
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,481 | SvcManager: GsManager.StopThreads() - end
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,481 | SvcManager: DpManager.StopThreads() - end
+[0x0000426c] | DpManager            | INFO  | 2023-08-07 00:25:28,484 | Exit DP low priority cmd handler
+[0x00004304] | DtManager            | INFO  | 2023-08-07 00:25:28,485 | Exit DT low priority cmd handler
+[0x00001554] | DtManager            | INFO  | 2023-08-07 00:25:28,485 | Exit DT high priority cmd handler
+[0x000013f4] | DpManager            | INFO  | 2023-08-07 00:25:28,486 | Exit DP high priority cmd handler
+[0x00000a10] | DtManager            | INFO  | 2023-08-07 00:25:28,495 | Exit DT data handler thread
+[0x00003488] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001904] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001b68] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00000b18] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002288] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001e9c] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002830] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002adc] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001224] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00000614] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002be4] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001cc4] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x000043b8] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001e54] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x000037d0] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002d68] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001814] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00001dcc] | DtManager            | INFO  | 2023-08-07 00:25:28,508 | Exit DT worker thread
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,545 | SvcManager: DtManager.StopThreads() - end
+[0x0000226c] | LsManager            | INFO  | 2023-08-07 00:25:28,546 | Exit LS low priority cmd handler
+[0x00000d50] | LsManager            | INFO  | 2023-08-07 00:25:28,546 | Exit LS high priority cmd handler
+[0x00003680] | LsManager            | INFO  | 2023-08-07 00:25:28,554 | Exit LS data handler
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,572 | SvcManager: LsManager.StopThreads() - end
+[0x00002dec] | LsManager            | INFO  | 2023-08-07 00:25:28,575 | Exit LS data handler
+[0x0000250c] | LsManager            | INFO  | 2023-08-07 00:25:28,584 | Exit LS low priority cmd handler
+[0x00004074] | LsManager            | INFO  | 2023-08-07 00:25:28,586 | Exit LS high priority cmd handler
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,599 | SvcManager: LsManager.StopThreads() - end
+[0x00003958] | LsManager            | INFO  | 2023-08-07 00:25:28,605 | Exit LS low priority cmd handler
+[0x00001910] | LsManager            | INFO  | 2023-08-07 00:25:28,606 | Exit LS high priority cmd handler
+[0x00001e04] | GPU.SingleBoardMgr   | ERROR | 2023-08-07 00:25:28,617 | Board manager thread for "NVIDIA GeForce RTX 3090" (gpu:ebf12eac.0f05f849) is done.
+[0x000024e4] | LsManager            | INFO  | 2023-08-07 00:25:28,617 | Exit LS data handler
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,627 | SvcManager: LsManager.StopThreads() - end
+[0x00002c24] | DpManager            | INFO  | 2023-08-07 00:25:28,629 | Stopping DpWfmWorker threads -- start
+[0x00004318] | DpManager            | INFO  | 2023-08-07 00:25:28,629 | DpWfmWorker thread exit
+[0x00002338] | DpManager            | INFO  | 2023-08-07 00:25:28,629 | DpWfmWorker thread exit
+[0x00003fe8] | DpManager            | INFO  | 2023-08-07 00:25:28,629 | DpWfmWorker thread exit
+[0x00004040] | DpManager            | INFO  | 2023-08-07 00:25:28,629 | DpWfmWorker thread exit
+[0x00002c24] | DpManager            | INFO  | 2023-08-07 00:25:28,637 | Stopping DpWfmWorker threads -- done
+[0x00002c24] | IO                   | INFO  | 2023-08-07 00:25:28,645 | RED FinalizeSdk
+[0x00002c24] | SyManager.Project    | INFO  | 2023-08-07 00:25:28,686 | Unlock project Untitled Project
+[0x00001c90] | BtCommon             | INFO  | 2023-08-07 00:25:28,703 | Exit BtResourceManager Process Thread
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,816 | g_MainTerm: BtStartupShutdownControl.Shutdown() - finished
+[0x00003358] | UI.Scopes            | INFO  | 2023-08-07 00:25:28,816 | GPU Scopes thread done.
+[0x00002b74] | UI.GLIO              | INFO  | 2023-08-07 00:25:28,822 | MainPlayer: OpenGL I/O worker thread is done.
+[0x00002c24] | UI.GLIO              | INFO  | 2023-08-07 00:25:28,828 | MainPlayer: OpenGL I/O uninit done.
+[0x000014fc] | UI.GLIO              | INFO  | 2023-08-07 00:25:28,828 | AuxPlayer: OpenGL I/O worker thread is done.
+[0x00002c24] | UI.GLIO              | INFO  | 2023-08-07 00:25:28,833 | AuxPlayer: OpenGL I/O uninit done.
+[0x00002c24] | UI.GLContext         | INFO  | 2023-08-07 00:25:28,838 | Destroyed main context.
+[0x00002c24] | Main                 | INFO  | 2023-08-07 00:25:28,847 | Main thread exited successfully
