@@ -260,3 +260,7 @@ ntuser.*
 /AppData/Roaming/BOINC
 /AppData/Local/BrightData
 /*.viminfo
+/AppData/Local/Afterimage/Saved/SaveGames/Bakup
+/AppData/Local/SEGA/Judgment/Steam/temp
+/AppData/Local/SEGA/Judgment/Steam/album
+/AppData/Roaming/Blackmagic Design/DaVinci Resolve
