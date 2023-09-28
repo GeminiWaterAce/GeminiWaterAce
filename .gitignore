@@ -251,3 +251,16 @@ ntuser.*
 /Documents/Rockstar Games/Social Club
 /Links/*.lnk
 /Links/desktop.ini
+/AppData/Local/*.tmp
+/AppData/Local/*.db
+/AppData/Local/NhNotifSys
+/AppData/Local/Origin
+/AppData/LocalLow/Studio MDHR
+/AppData/Roaming/BaiduYunGuanjia
+/AppData/Roaming/BOINC
+/AppData/Local/BrightData
+/*.viminfo
+/AppData/Local/Afterimage/Saved/SaveGames/Bakup
+/AppData/Local/SEGA/Judgment/Steam/temp
+/AppData/Local/SEGA/Judgment/Steam/album
+/AppData/Roaming/Blackmagic Design/DaVinci Resolve
