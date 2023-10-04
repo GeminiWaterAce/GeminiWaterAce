@@ -251,6 +251,19 @@ ntuser.*
 /Documents/Rockstar Games/Social Club
 /Links/*.lnk
 /Links/desktop.ini
+/AppData/Local/*.tmp
+/AppData/Local/*.db
+/AppData/Local/NhNotifSys
+/AppData/Local/Origin
+/AppData/LocalLow/Studio MDHR
+/AppData/Roaming/BaiduYunGuanjia
+/AppData/Roaming/BOINC
+/AppData/Local/BrightData
+/*.viminfo
+/AppData/Local/Afterimage/Saved/SaveGames/Bakup
+/AppData/Local/SEGA/Judgment/Steam/temp
+/AppData/Local/SEGA/Judgment/Steam/album
+/AppData/Roaming/Blackmagic Design/DaVinci Resolve
 /Documents/Rockstar Games/Social Club/Launcher
 /Documents/Rockstar Games/Social Club/Launcher/Renderer/Code Cache
 /Documents/Rockstar Games/Social Club/Launcher/Renderer/Cache
@@ -270,3 +283,103 @@ ntuser.*
 /AppData/LocalLow/Team Cherry/Hollow Knight/*.bak1
 /AppData/Roaming/BaiduYunGuanjia
 /Documents/KoeiTecmo/Wolong/Savedata/108398629/SAVEDATA00/*.BIN
+/Documents/Horizon Zero Dawn/Saved Game/quicksave4
+/Documents/Horizon Zero Dawn/Saved Game/autosave0
+/Documents/Horizon Zero Dawn/Saved Game/autosave1
+/Documents/Horizon Zero Dawn/Saved Game/autosave2
+/Documents/Horizon Zero Dawn/Saved Game/autosave3
+/Documents/Horizon Zero Dawn/Saved Game/autosave4
+/Documents/Horizon Zero Dawn/Saved Game/autosave5
+/Documents/Horizon Zero Dawn/Saved Game/autosave6
+/Documents/Horizon Zero Dawn/Saved Game/autosave7
+/Documents/Horizon Zero Dawn/Saved Game/autosave8
+/Documents/Horizon Zero Dawn/Saved Game/autosave9
+/Documents/Horizon Zero Dawn/Saved Game/quicksave0
+/Documents/Horizon Zero Dawn/Saved Game/quicksave1
+/Documents/Horizon Zero Dawn/Saved Game/quicksave2
+/Documents/Horizon Zero Dawn/Saved Game/quicksave3
+/Documents/KoeiTecmo/NIOH2/NIOH_LOG.txt
+/Documents/Shadow of the Tomb Raider/*.log
+/Documents/Shadow of the Tomb Raider/*.mdmp
+/Documents/Shadow of the Tomb Raider/*.txt
+/Documents/Tribute Games/TMNT/*.txt
+/Documents/WB Games/Batman Arkham Knight/STEAMID/SaveData/backup
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-1
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-3
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-4
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-5
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-6
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-7
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-15
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-16
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-17
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-18
+/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-0
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-1
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-2
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-3
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-4
+/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-5
+/Documents/Anno 1800/log
+/Documents/Anno 1800/shaders
+/Documents/CRYSTALiA/絆きらめく恋いろは-椿恋歌-
+/AppData/Roaming/obs-studio/updates
+/AppData/Roaming/Sekiro/76561198068664357/*.bak
+/AppData/Roaming/Sekiro/76561197960267366/*.bak
+/AppData/Roaming/xmp
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave0
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave1
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave2
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave3
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave4
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave5
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave6
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave7
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave8
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave9
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave10
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave11
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave12
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave13
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave14
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave15
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave16
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave17
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave18
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave19
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave20
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave21
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave22
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave6
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave7
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave8
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave9
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave10
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave11
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave12
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave13
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave14
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave15
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave16
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave17
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave18
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave19
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave20
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave21
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave22
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave0
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave1
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave2
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave3
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave4
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave5
