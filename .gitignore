@@ -251,3 +251,22 @@ ntuser.*
 /Documents/Rockstar Games/Social Club
 /Links/*.lnk
 /Links/desktop.ini
+/Documents/Rockstar Games/Social Club/Launcher
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/Code Cache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/Cache
+/AppData/Local/*.tmp
+/*.viminfo
+/AppData/Local/Larian Studios/Baldur's Gate 3/*.lsx
+/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache
+/AppData/Local/Larian Studios/Baldur's Gate 3/Temp
+/AppData/Roaming/LibreOffice
+/AppData/Local/Nox
+/AppData/Roaming/QQ
+/AppData/Roaming/foobar2000-v2
+/AppData/Local/Origin/AvatarsCache
+/AppData/Local/Origin/Web Cache
+/AppData/LocalLow/Studio MDHR
+/AppData/LocalLow/Team Cherry/Hollow Knight/*.log
+/AppData/LocalLow/Team Cherry/Hollow Knight/*.bak1
+/AppData/Roaming/BaiduYunGuanjia
+/Documents/KoeiTecmo/Wolong/Savedata/108398629/SAVEDATA00/*.BIN

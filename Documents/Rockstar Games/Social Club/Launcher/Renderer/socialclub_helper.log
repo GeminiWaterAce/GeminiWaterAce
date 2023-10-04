@@ -1,15 +1,16 @@
-[2023-08-19 12:45:12.273] [ 16628] [2174] ===================================
-[2023-08-19 12:45:12.273] [ 16628] [2174] Browser process opened from pid: 18032
-[2023-08-19 12:45:12.273] [ 16628] [2174] Language: zh-CN
-[2023-08-19 12:45:12.273] [ 16628] [2174] Connecting to IPC channel: rgsc_ipc_4670
-[2023-08-19 12:45:12.274] [ 16628] [2174] Product version: RockstarGames/2.1.9.2/1.0.76.1567/launcher/Epic
-[2023-08-19 12:45:12.609] [ 16628] [2174] OnChannelConnected - rgsc_ipc_4670 (remoteProcessId 18032)
-[2023-08-19 12:45:15.596] [ 16628] [2174] Renderer[1][22212] IPC channel response: connect to 'rgsc_ipc_4670_channel_1'
-[2023-08-19 12:45:15.596] [ 16628] [2174] Renderer[1][22212] Connecting to IPC channel: rgsc_ipc_4670_channel_1
-[2023-08-19 12:45:15.688] [ 16628] [2174] Renderer[1][22212] OnChannelConnected - rgsc_ipc_4670_channel_1 (remoteProcessId 18032)
-[2023-08-19 12:45:52.528] [ 16628] [2174] All windows now closed, requesting cleanup.
-[2023-08-19 12:45:52.529] [ 16628] [2174] Posting quit to main message loop.
-[2023-08-19 12:45:52.529] [ 16628] [2174] MainMessageLoopInternalPump - Quit requested
-[2023-08-19 12:45:52.554] [ 16628] [2174] MainMessageLoopInternalPump - Preparing to shutdown
-[2023-08-19 12:45:55.919] [ 16628] [2174] MainMessageLoopInternalPump - Shutdown
-[2023-08-19 12:45:55.919] [ 16628] [2174] Shutdown requested
+[2023-09-10 02:47:16.064] [ 18588] [ EE8] ===================================
+[2023-09-10 02:47:16.064] [ 18588] [ EE8] Browser process opened from pid: 11932
+[2023-09-10 02:47:16.064] [ 18588] [ EE8] Language: zh-CN
+[2023-09-10 02:47:16.065] [ 18588] [ EE8] Connecting to IPC channel: rgsc_ipc_2e9c
+[2023-09-10 02:47:16.065] [ 18588] [ EE8] Product version: RockstarGames/2.1.9.8/1.0.77.1590/launcher/PC
+[2023-09-10 02:47:16.111] [ 18588] [ EE8] OnChannelConnected - rgsc_ipc_2e9c (remoteProcessId 11932)
+[2023-09-10 02:47:17.618] [ 18588] [ EE8] Renderer[1][7828] IPC channel response: connect to 'rgsc_ipc_2e9c_channel_1'
+[2023-09-10 02:47:17.619] [ 18588] [ EE8] Renderer[1][7828] Connecting to IPC channel: rgsc_ipc_2e9c_channel_1
+[2023-09-10 02:47:17.696] [ 18588] [ EE8] Renderer[1][7828] OnChannelConnected - rgsc_ipc_2e9c_channel_1 (remoteProcessId 11932)
+[2023-09-10 02:53:52.919] [ 18588] [ EE8] All windows now closed, requesting cleanup.
+[2023-09-10 02:53:52.921] [ 18588] [ EE8] Posting quit to main message loop.
+[2023-09-10 02:53:52.921] [ 18588] [ EE8] MainMessageLoopInternalPump - Quit requested
+[2023-09-10 02:53:52.944] [ 18588] [ EE8] MainMessageLoopInternalPump - Preparing to shutdown
+[2023-09-10 02:53:53.941] [ 18588] [ EE8] OnChannelError() - rgsc_ipc_2e9c
+[2023-09-10 02:53:53.941] [ 18588] [ EE8] Shutdown requested
+[2023-09-10 02:53:56.078] [ 18588] [ EE8] MainMessageLoopInternalPump - Shutdown

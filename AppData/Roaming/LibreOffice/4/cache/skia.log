@@ -2,7 +2,7 @@ RenderMethod: vulkan
 Vendor: 0x10de
 Device: 0x2204
 API: 1.3.242
-Driver: 536.396.0
+Driver: 537.168.0
 DeviceType: discrete
 DeviceName: NVIDIA GeForce RTX 3090
 Denylisted: no
