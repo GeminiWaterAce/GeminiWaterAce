@@ -390,3 +390,5 @@ ntuser.*
 /AppData/Local/Kena/Saved/Crashes
 /Documents/CD Projekt Red/Cyberpunk 2077/benchmarkResults
 /AppData/LocalLow/NVIDIA
+/Saved Games/*.ini
+/Saved Games/CD Projekt Red/Cyberpunk 2077/*.gls
