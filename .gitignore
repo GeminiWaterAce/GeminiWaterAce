@@ -386,3 +386,11 @@ ntuser.*
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.prefs
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
 /AppData/LocalLow/DefaultCompany/salamander/*.log
+/AppData/Local/LOTF2/Saved/Config
+/AppData/LocalLow/NVIDIA/PerDriverVersion
+/AppData/Local/Backup
+/Documents/Blackmagic Design/DaVinci Resolve/Test/Resolve Projects/Users/guest
+/AppData/Local/LOTF2/Saved/*.upipelinecache
+/AppData/Local/LOTF2/Saved/Logs
+/AppData/Roaming/obs-studio/basic/scenes/未命名.json
+/AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
