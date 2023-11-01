@@ -392,3 +392,6 @@ ntuser.*
 /AppData/LocalLow/NVIDIA
 /Saved Games/*.ini
 /Saved Games/CD Projekt Red/Cyberpunk 2077/*.gls
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.prefs
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
+/AppData/LocalLow/DefaultCompany/salamander/*.log
