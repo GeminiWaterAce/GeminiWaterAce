@@ -397,3 +397,5 @@ ntuser.*
 /AppData/LocalLow/DefaultCompany/salamander/*.log
 /AppData/Roaming/com.adobe.dunamis
 /AppData/LocalLow/Adobe/CRLogs
+/AppData/Roaming/The Witcher 3
+/Documents/The Witcher 3/*.bak
