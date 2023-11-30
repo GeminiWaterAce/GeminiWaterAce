@@ -1,7 +1,7 @@
 clc;
 clear;
 H = 0;
-n = 5000;
+n = 1000000000;
 x = 1:n;
 y = zeros(1, n);
 z = log(x);
