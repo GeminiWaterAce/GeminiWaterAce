@@ -395,3 +395,16 @@ ntuser.*
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.prefs
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
 /AppData/LocalLow/DefaultCompany/salamander/*.log
+/AppData/Roaming/com.adobe.dunamis
+/AppData/LocalLow/Adobe/CRLogs
+/AppData/Roaming/The Witcher 3
+/Documents/The Witcher 3/*.bak
+/AppData/LocalLow/sega co_ ltd/SaveData/WindowsPlayer/GeminiWaterAce/PlayerLog
+/AppData/Local/LOTF2/Saved/Config
+/AppData/LocalLow/NVIDIA/PerDriverVersion
+/AppData/Local/Backup
+/Documents/Blackmagic Design/DaVinci Resolve/Test/Resolve Projects/Users/guest
+/AppData/Local/LOTF2/Saved/*.upipelinecache
+/AppData/Local/LOTF2/Saved/Logs
+/AppData/Roaming/obs-studio/basic/scenes/未命名.json
+/AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
