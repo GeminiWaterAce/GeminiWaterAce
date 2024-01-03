@@ -408,3 +408,5 @@ ntuser.*
 /AppData/Local/LOTF2/Saved/Logs
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
+/AppData/LocalLow/CreSpirit/TEVI/*.vdf
+/AppData/LocalLow/CreSpirit/TEVI/*.log
