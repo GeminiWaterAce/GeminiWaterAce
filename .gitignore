@@ -410,3 +410,13 @@ ntuser.*
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
 /AppData/LocalLow/CreSpirit/TEVI/*.vdf
 /AppData/LocalLow/CreSpirit/TEVI/*.log
+/AppData/Local/DingTalk_91
+/.anaconda
+/.conda
+/*.condarc
+/.continuum
+/AppData/Local/CloudCutter/Saved/Config
+/AppData/Local/Phoenix/Saved/Logs
+/AppData/Local/Phoenix/Saved/Config
+/AppData/Roaming/Braid/logs
+/AppData/Roaming/Trine5/log
