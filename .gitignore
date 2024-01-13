@@ -410,3 +410,8 @@ ntuser.*
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
 /AppData/LocalLow/CreSpirit/TEVI/*.vdf
 /AppData/LocalLow/CreSpirit/TEVI/*.log
+/AppData/Local/HogwartsLegacy/Saved/pc_info.json
+/AppData/Local/HogwartsLegacy/Saved/Config
+/AppData/Local/HogwartsLegacy/Saved/Logs
+/AppData/Roaming/Trine5/log
+/AppData/Roaming/Trine5/options.txt
