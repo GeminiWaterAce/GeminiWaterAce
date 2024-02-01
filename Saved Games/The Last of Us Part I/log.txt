@@ -2,7 +2,7 @@ T1X Startup
 
 ____________________________________________________________________________________
 |
-|  Compiled on Mar 25 2023 at 12:21:53 from changelist 3558905
+|  Compiled on Jul 27 2023 at 11:05:53 from changelist 3648826
 |___________________________________________________________________________________
 
 -[ CPU Info ]--------------------------------------------------------
@@ -15,28 +15,29 @@ ________________________________________________________________________________
                      sse42, sse4a, f16c, bmi1, bmi2, abm, popcnt
                      xsave, osxsave, monitor, ssse3, fma, aes
                      rdseed, rdrand, msr, cx8, sep, cmov, movbe
-                     clfsh, fxsr, fsgsbase, erms, invpcid, adx, sha
-                     lahf, pclmulqdq, cmpxchg16b
+                     clfsh, fxsr, fsgsbase, erms, invpcid, avx512f
+                     avx512cd, adx, sha, lahf, pclmulqdq
+                     cmpxchg16b
 ---------------------------------------------------------------------
 
 -[ GPU Adapter Info ]------------------------------------------------
     Number of Adapters          : 2
     Number of Supported Adapters: 1
 
-    1. NVIDIA GeForce RTX 3090 [used]
+    1. NVIDIA GeForce RTX 4090 [used]
             Supported           : Yes
             Type                : Hardware
             Max Feature Level   : 12_2 [require 12_0]
             Vendor ID           : 0x000010de
-            Device ID           : 0x00002204
-            SubSys ID           : 0x161919da
+            Device ID           : 0x00002684
+            SubSys ID           : 0x271119da
             Revision            : 0x000000a1
-            Video Memory        : 23.77 GiB (24,340 MiB)
+            Video Memory        : 23.59 GiB (24,156 MiB)
             System Memory       : 0
-            Shared System Memory: 63.96 GiB (65,493 MiB)
+            Shared System Memory: 31.86 GiB (32,620 MiB)
             Graphics Preemption : pixel
             Compute Preemption  : dispatch
-            TFlops              : 44.398079
+            TFlops              : 103.710716
             Dedicated GPU       : 1
             Flags               : ACG_COMPATIBLE (0x04)
                                   SUPPORT_MONITORED_FENCES (0x08)
@@ -85,7 +86,7 @@ ________________________________________________________________________________
             Revision            : 0x00000000
             Video Memory        : 0
             System Memory       : 0
-            Shared System Memory: 63.96 GiB (65,493 MiB)
+            Shared System Memory: 31.86 GiB (32,620 MiB)
             Graphics Preemption : instruction
             Compute Preemption  : instruction
             TFlops              : 0.000000
@@ -128,6 +129,6 @@ ________________________________________________________________________________
           - Shader Model              - 6_2      [require 6_6     ]
 ---------------------------------------------------------------------
 -[ NVIDIA Driver Info ]----------------------------------------------
-	Version       : 531.61
-	Branch        : r530_00
+	Version       : 546.33
+	Branch        : r545_00
 ---------------------------------------------------------------------
