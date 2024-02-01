@@ -420,3 +420,12 @@ ntuser.*
 /AppData/Local/Phoenix/Saved/Config
 /AppData/Roaming/Braid/logs
 /AppData/Roaming/Trine5/log
+/AppData/Local/HogwartsLegacy/Saved/pc_info.json
+/AppData/Local/HogwartsLegacy/Saved/Config
+/AppData/Local/HogwartsLegacy/Saved/Logs
+/AppData/Roaming/Trine5/log
+/AppData/Roaming/Trine5/options.txt
+/AppData/Roaming/obs-studio/basic/scenes/*.bak
+/AppData/LocalLow/Ubisoft/Prince Of Persia The Lost Crown/*.log
+/Documents/My Games/Prince Of Persia The Lost Crown/85bef99d-6ab4-4538-b928-6f1d5f3bf471/Saves/SaveSlot1/lastSavedFolder.txt
+/AppData/Local/Steam++
