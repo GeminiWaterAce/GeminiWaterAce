@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report Date="2023-11-18T16:52:19Z">
+  <Profile Name="Dynamic" Result="Ultra|High|Medium|Low">
+    <TestGroup Result="Ultra|High|Medium|Low" Type="System" Score="10.699794" TotalScore="33.63079" Duration="0.004764">
+      <Tests>
+        <Test Result="Ultra|High|Medium|Low" Name="NumProcessors" Score="7.0" RawResult="32.0" Duration="0.000012" />
+        <Test Result="Ultra|High|Medium|Low" Name="SystemMemory" Score="16.682521" TextRawResult="127.91GiB" RawResult="137346772992.0" Duration="0.000017">
+          <Samples>
+            <Sample Parameter="AdjustedSystemMemorySize=127.91415 GiB (137346772992 Bytes), AcquiredSystemMemorySize=146.91415 GiB (157747867648 Bytes), Diff=19.0 GiB (20401094656 Bytes)" Duration="0.0" TextValue="127.91GiB" Value="137346772992.0" />
+          </Samples>
+        </Test>
+        <Test Result="Ultra|High|Medium|Low" Name="CPUPerformance" Score="9.948269" TextRawResult="34.82MVerts/sec" RawResult="34818941.504178" Duration="0.004731">
+          <Samples>
+            <Sample Parameter="TaskGroups: 32 TasksPerGroup: 5000 TotalVertices: 160000 RenderedVertices: 75725 AveragePos:(97.808640,147.151871,-3783.789307)" Duration="0.004595" TextValue="34.82MVerts/sec" Value="34818941.504178" />
+          </Samples>
+        </Test>
+      </Tests>
+    </TestGroup>
+    <TestGroup Result="Ultra|High|Medium|Low" Type="D3DAdapter" Score="8.136863" TotalScore="8.136863" Id="0" Description="NVIDIA GeForce RTX 3090" Duration="0.024272">
+      <Tests>
+        <Test Result="Ultra|High|Medium|Low" Name="DedicatedVideoMemory" Score="8.136863" TextRawResult="23.77GiB" RawResult="25522339840.0" Duration="0.024269" />
+      </Tests>
+    </TestGroup>
+  </Profile>
+  <SystemInformation>BuildTimeStamp:Sep 18 2018 16:04:41
+SystemInfo:
+  Structure Version: 3
+     Processor Name: AMD Ryzen 9 5950X 16-Core Processor            
+      NumProcessors: 32
+           CPUFlags: HyperThreading
+   SIMDInstructions: SSE1|SSE2|SSE3|SSE4.0|SSE4.1|SSE4.2|POPCNT|LZCNT|AVX1
+TotalPhysicalMemory: 127.91415 GiB (137346772992 Bytes)
+       Num Adapters: 1
+             Adapter#: 0
+    Structure Version: 4
+          Description: NVIDIA GeForce RTX 3090
+    Known Device Name: NVIDIA GeForce RTX 3090
+            Vendor Id: 0x000010de(4318)
+            Device Id: 0x00002204(8708)
+            SubSys Id: 0x161919da(370743770)
+          Revision Id: 0x000000a1(161)
+       Driver Version: 31.0.15.4617
+         FeatureLevel: 11.0
+  ResourceBindingTier: Tier 3
+   TiledResourcesTier: Tier 3
+     ResourceHeapTier: Tier 2
+ DedicatedVideoMemory: 23.769531 GiB (25522339840 Bytes)
+DedicatedSystemMemory: 0 Bytes
+   SharedSystemMemory: 63.957075 GiB (68673386496 Bytes)
+            TeraFlops: 0.000000
+</SystemInformation>
+</Report>

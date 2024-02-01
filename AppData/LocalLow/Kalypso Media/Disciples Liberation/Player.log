@@ -1,0 +1,291 @@
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path H:/Game/Disciples Liberation Deluxe Edition/Disciples_Liberation_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24340 MB
+    Driver:   31.0.15.4617
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 14.370900 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for H:/Game/Disciples Liberation Deluxe Edition/Disciples_Liberation_Data/sharedassets0.resource
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+AsyncManager:SetupSingleton()
+AsyncManager:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+SystemInitializer:InitManager()
+UnityEngine.AndroidJavaRunnable:Invoke()
+<_InvokeNextFrame>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1395726728]
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+SystemInitializer:InitManager()
+UnityEngine.AndroidJavaRunnable:Invoke()
+<_InvokeNextFrame>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1395726632]
+
+WwiseUnity: Wwise(R) SDK Version 2019.2.8 Build 7432.
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+AkWwiseInitializationSettings:InitializeSoundEngine()
+AkInitializer:OnEnable()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+SystemInitializer:InitManager()
+UnityEngine.AndroidJavaRunnable:Invoke()
+<_InvokeNextFrame>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WwiseUnity: Setting Plugin DLL path to: H:/Game/Disciples Liberation Deluxe Edition/Disciples_Liberation_Data\Plugins\x86_64
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkCommonPlatformSettings:get_AkInitializationSettings()
+AkWwiseInitializationSettings:InitializeSoundEngine()
+AkInitializer:OnEnable()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+SystemInitializer:InitManager()
+UnityEngine.AndroidJavaRunnable:Invoke()
+<_InvokeNextFrame>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WwiseUnity: Sound engine initialized successfully.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkWwiseInitializationSettings:InitializeSoundEngine()
+AkInitializer:OnEnable()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+SystemInitializer:InitManager()
+UnityEngine.AndroidJavaRunnable:Invoke()
+<_InvokeNextFrame>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 27)
+
+Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 24527.
+Total: 38.924600 ms (FindLiveObjects: 0.768600 ms CreateObjectMapping: 0.593300 ms MarkObjects: 37.296600 ms  DeleteObjects: 0.265400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 27)
+
+Unloading 1784 unused Assets to reduce memory usage. Loaded Objects now: 38190.
+Total: 57.560500 ms (FindLiveObjects: 1.377000 ms CreateObjectMapping: 1.452700 ms MarkObjects: 53.119000 ms  DeleteObjects: 1.611500 ms)
+
+The AnimationClip 'Inspect_Companion_Avyanna_Staff' used by the Animation component 'SK_cha_mainAvyanna' must be marked as Legacy.
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.ResourceManagement.ResourceProviders.InstantiationParameters:Instantiate(TObject)
+UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider:ProvideInstance(ResourceManager, AsyncOperationHandle`1, InstantiationParameters)
+UnityEngine.ResourceManagement.InstanceOperation:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass55_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:ActionComplete(AsyncOperation)
+System.Action`1:Invoke(T)
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+[ line -1395728152]
+
+Default clip could not be found in attached animations list.
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.ResourceManagement.ResourceProviders.InstantiationParameters:Instantiate(TObject)
+UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider:ProvideInstance(ResourceManager, AsyncOperationHandle`1, InstantiationParameters)
+UnityEngine.ResourceManagement.InstanceOperation:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass55_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:ActionComplete(AsyncOperation)
+System.Action`1:Invoke(T)
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+[ line -1395727800]
+
+The AnimationClip 'Inspect_Companion_Avyanna_Staff' used by the Animation component 'SK_cha_mainAvyanna' must be marked as Legacy.
+<InitCustomizationController>d__40:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+<InitAsync>d__30:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+<LoadAndSetAnimatorController>d__35:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+[ line -1395728792]
+
+Default clip could not be found in attached animations list.
+<InitCustomizationController>d__40:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+<InitAsync>d__30:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+<LoadAndSetAnimatorController>d__35:MoveNext()
+System.Action`1:Invoke(T)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Action`1:Invoke(T)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+[ line -1395728440]
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Max Tweens reached: capacity has automatically been increased from 200/50 to 500/50. Use DOTween.SetTweensCapacity to set it manually at startup
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DG.Tweening.Core.TweenManager:GetTweener()
+DG.Tweening.DOTween:To(DOGetter`1, DOSetter`1, Single, Single)
+Frima.Character.Camera.BaseCameraController:ApplyCameraZoom()
+Frima.Character.Camera.BaseCameraController:Inputs_OnZoomCamera(InputActionEventData)
+System.Action`1:Invoke(T)
+pZoDLROoNCEbMKYDwgWOmGCbZGq:nQGvvIzlIvlFpfMNMFcuPWgBnjw(VcgtdQJxxtTDLNlQVPzcCVeMgGk, UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:NbhLzItgkNwvEZPHZAvsnKTICXh(UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.ReInput:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.InputManager_Base:DoUpdate(UpdateLoopType, UpdateLoopSetting)
+Rewired.InputManager_Base:Update()
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Max Tweens reached: capacity has automatically been increased from 500/50 to 1250/50. Use DOTween.SetTweensCapacity to set it manually at startup
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DG.Tweening.Core.TweenManager:GetTweener()
+DG.Tweening.DOTween:To(DOGetter`1, DOSetter`1, Single, Single)
+Frima.Character.Camera.BaseCameraController:ApplyCameraZoom()
+Frima.Character.Camera.BaseCameraController:Inputs_OnZoomCamera(InputActionEventData)
+System.Action`1:Invoke(T)
+pZoDLROoNCEbMKYDwgWOmGCbZGq:nQGvvIzlIvlFpfMNMFcuPWgBnjw(VcgtdQJxxtTDLNlQVPzcCVeMgGk, UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:NbhLzItgkNwvEZPHZAvsnKTICXh(UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.ReInput:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.InputManager_Base:DoUpdate(UpdateLoopType, UpdateLoopSetting)
+Rewired.InputManager_Base:Update()
+
+The AnimationClip 'Inspect_Companion_Avyanna_Staff' used by the Animation component 'SK_cha_mainAvyanna' must be marked as Legacy.
+ViewGameplayMenu:ShowCharacterAfterUpdateVisualInternal()
+ViewGameplayMenu:UpdateCustomizationVisual()
+ViewGameplayMenu:Initialize(Object, EViewType)
+<OpenViewAsync>d__49:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+ViewManager:OpenViewAsync(EViewType, Object)
+Frima.PlayerController.<OnOpenInventory>d__41:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+Frima.PlayerController.NavigationPlayerController:OnOpenInventory(InputActionEventData)
+System.Action`1:Invoke(T)
+pZoDLROoNCEbMKYDwgWOmGCbZGq:nQGvvIzlIvlFpfMNMFcuPWgBnjw(VcgtdQJxxtTDLNlQVPzcCVeMgGk, UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:NbhLzItgkNwvEZPHZAvsnKTICXh(UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.ReInput:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.InputManager_Base:DoUpdate(UpdateLoopType, UpdateLoopSetting)
+Rewired.InputManager_Base:Update()
+
+[ line -1395728008]
+
+Default clip could not be found in attached animations list.
+ViewGameplayMenu:ShowCharacterAfterUpdateVisualInternal()
+ViewGameplayMenu:UpdateCustomizationVisual()
+ViewGameplayMenu:Initialize(Object, EViewType)
+<OpenViewAsync>d__49:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+ViewManager:OpenViewAsync(EViewType, Object)
+Frima.PlayerController.<OnOpenInventory>d__41:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+Frima.PlayerController.NavigationPlayerController:OnOpenInventory(InputActionEventData)
+System.Action`1:Invoke(T)
+pZoDLROoNCEbMKYDwgWOmGCbZGq:nQGvvIzlIvlFpfMNMFcuPWgBnjw(VcgtdQJxxtTDLNlQVPzcCVeMgGk, UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:NbhLzItgkNwvEZPHZAvsnKTICXh(UpdateLoopType)
+cdrEpkcfqcxTrJErjbjwlbSGwwU:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.ReInput:qXwDYyKCyFfTgcusxrpGHxgdnQbT(UpdateLoopType)
+Rewired.InputManager_Base:DoUpdate(UpdateLoopType, UpdateLoopSetting)
+Rewired.InputManager_Base:Update()
+
+[ line -1395727656]
+
+The AnimationClip 'Inspect_Companion_Avyanna_Staff' used by the Animation component 'SK_cha_mainAvyanna' must be marked as Legacy.
+
+Default clip could not be found in attached animations list.
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 30)
+
+Unloading 1387 unused Assets to reduce memory usage. Loaded Objects now: 62042.
+Total: 73.390500 ms (FindLiveObjects: 2.229300 ms CreateObjectMapping: 2.079400 ms MarkObjects: 68.176800 ms  DeleteObjects: 0.904700 ms)
+
+Setting up 16 worker threads for Enlighten.
+  Thread -> id: 5ac4 -> priority: 1 
+  Thread -> id: 7588 -> priority: 1 
+  Thread -> id: 6278 -> priority: 1 
+  Thread -> id: 6f78 -> priority: 1 
+  Thread -> id: 6bbc -> priority: 1 
+  Thread -> id: 74d8 -> priority: 1 
+  Thread -> id: 66ac -> priority: 1 
+  Thread -> id: 6b80 -> priority: 1 
+  Thread -> id: 76f8 -> priority: 1 
+  Thread -> id: 6954 -> priority: 1 
+  Thread -> id: 7704 -> priority: 1 
+  Thread -> id: 3de4 -> priority: 1 
+  Thread -> id: 3118 -> priority: 1 
+  Thread -> id: 2be4 -> priority: 1 
+  Thread -> id: 76b4 -> priority: 1 
+  Thread -> id: 6758 -> priority: 1 

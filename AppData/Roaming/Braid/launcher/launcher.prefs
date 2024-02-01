@@ -1,0 +1,10 @@
+; FLTK preferences file format 1.0
+; vendor: NumberNone
+; application: launcher
+
+[.]
+
+FPS:0
+Resolution:1
+LaunchFlags:4
+RunLauncher:1
