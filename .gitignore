@@ -488,3 +488,11 @@ ntuser.*
 /AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave22
 /Documents/Rockstar Games/GTA V/Benchmarks
 /Documents/Rockstar Games/Red Dead Redemption 2/Profiles/407086B5/ProfileSettings
+/AppData/Local/Stormgate/Saved/Config
+/AppData/Local/Stormgate/Saved/Logs
+/AppData/Local/Stormgate/Saved/Replays
+/AppData/Local/Stormgate/Saved/Temp/Replays
+/AppData/Local/Stormgate/Saved/Temp
+/AppData/Local/Stormgate/Saved/webcache_4430
+/AppData/Local/Stormgate/Saved/*.upipelinecache
+/.cache
