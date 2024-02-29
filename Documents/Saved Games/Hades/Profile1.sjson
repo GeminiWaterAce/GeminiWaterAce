@@ -1,15 +1,15 @@
 {
   WindowHeight = 2160
+  UseMouse = true
+  AskAboutCloudSaves = false
   NewUpdateSoundRevisionViewed = 38177
-  LastRoadmapRevisionViewed = 38177
+  LastRoadmapRevisionViewed = 38290
   SwapInterval = 0
   DisplayIndex = 0
   ShowGameplayTimer = true
-  LastPatchNoteRevisionViewed = 38177
+  PlayerOptInToCloudSaves = true
+  LastPatchNoteRevisionViewed = 38290
   Y = 2160
   X = 3840
   WindowWidth = 3840
-  NoBorder = false
-  FullScreen = true
 }
-
