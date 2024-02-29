@@ -1,9 +1,9 @@
 setOption(rendererModule, "ScreenWidth", 3840)
 setOption(rendererModule, "ScreenHeight", 2160)
 setOption(rendererModule, "VSyncEnabled", false)
-setOption(rendererModule, "RenderMaxAspectRatio", 50)
+setOption(rendererModule, "RenderMaxAspectRatio", 50.0)
 setOption(rendererModule, "AnisotropySamples", 1)
-setOption(rendererModule, "SuperSamplingFactor", 4)
+setOption(rendererModule, "SuperSamplingFactor", 4.0)
 setOption(rendererModule, "SuperSampleAA", true)
 setOption(rendererModule, "TemporalAA", false)
 setOption(rendererModule, "ContrastSharpening", false)
@@ -24,6 +24,8 @@ setOption(rendererModule, "DevTempShadowQuality", 1)
 setOption(vamputModule, "DefaultControllerType", 6)
 
 setOption(inputModule, "ChangeToTouchscreenOnTouch", false)
+
+setOption(audioModule, "VolumeMaster", 90.0)
 
 setOption(settingsMenuUtilModule, "DetectResolution", false)
 setOption(settingsMenuUtilModule, "VisualQualityValue", 0)
