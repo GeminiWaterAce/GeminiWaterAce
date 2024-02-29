@@ -429,3 +429,12 @@ ntuser.*
 /AppData/LocalLow/Ubisoft/Prince Of Persia The Lost Crown/*.log
 /Documents/My Games/Prince Of Persia The Lost Crown/85bef99d-6ab4-4538-b928-6f1d5f3bf471/Saves/SaveSlot1/lastSavedFolder.txt
 /AppData/Local/Steam++
+/AppData/Local/ToastNotificationManagerCompat
+/AppData/Local/Stormgate/Saved/Config
+/AppData/Local/Stormgate/Saved/Logs
+/AppData/Local/Stormgate/Saved/Replays
+/AppData/Local/Stormgate/Saved/Temp/Replays
+/AppData/Local/Stormgate/Saved/Temp
+/AppData/Local/Stormgate/Saved/webcache_4430
+/AppData/Local/Stormgate/Saved/*.upipelinecache
+/.cache
