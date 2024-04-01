@@ -496,3 +496,9 @@ ntuser.*
 /AppData/Local/Stormgate/Saved/webcache_4430
 /AppData/Local/Stormgate/Saved/*.upipelinecache
 /.cache
+/Documents/My Games/FINAL FANTASY VII REMAKE/Saved
+/Documents/My Games/UnrealEngine3/Binaries
+/Documents/My Games/UnrealEngine3/DevilGame
+/Documents/Horizon Forbidden West Complete Edition/Screenshots
+/Documents/Horizon Forbidden West Complete Edition/*.log
+/Documents/Horizon Forbidden West Complete Edition/*.mdmp
