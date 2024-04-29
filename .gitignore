@@ -1,411 +1,263 @@
-/.ssh
-/.vscode
-/Downloads
-/Music
-/Desktop
+/.ssh/id_rsa
+/.ssh/id_rsa.pub
+/.continuum
 /.bash_history
-/.gitconfig
-/NTUSER.DAT
-/3D Objects
-/ansel
-/Creative Cloud Files
-/OneDrive
-/Programs
-/Contacts - 副本
-/Links - 副本
-/Videos
-/Favorites
-/Searches
-/Pictures
-/Documents/Tencent Files
-/Documents/TencentMeeting
-/AppData/Local/Afterimage/Saved/Logs
+/.anaconda
+/.conda
+/AppData/Local/Hk_project
+/AppData/Local/Kena/Saved/Config
+/AppData/Local/Kena/Saved/Crashes
+/AppData/Local/Kena/Saved/Logs
+/AppData/Local/Kena/Saved/SaveGames/Autosave.sav
+/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav
+/AppData/Local/Kena/Saved/SaveGames/AutosaveB.sav
+/AppData/Local/Kena/Saved/SaveGames/AutosaveC.sav
+/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav
+/AppData/Roaming/.anaconda
+/AppData/Roaming/fltk.org
+/AppData/Roaming/Blackmagic Design
+/AppData/Roaming/Braid/launcher/*.prefs
+/AppData/Roaming/Braid/logs
+/Documents/Blackmagic Design/DaVinci Resolve/Test
+/Documents/Marvel's Spider-Man Remastered/*.log
+/.ssh/known_hosts
+/*.condarc
+/AppData/Local/ASP.NET/DataProtection-Keys
+/AppData/Local/Activision/Spider-Man (TM) SD/*.lock
+/AppData/Local/Activision/The Amazing Spider-Man 2 (TM)/*.lock
+/AppData/Local/Adobe
 /AppData/Local/Afterimage/Saved/Config
-/AppData/Local/BloodstainedRotN/Saved/Logs
+/AppData/Local/Afterimage/Saved/Logs
+/AppData/Local/BCUT
+/AppData/Local/Backup
+/AppData/Local/Blizzard Entertainment/Telemetry
 /AppData/Local/BloodstainedRotN/Saved/Config
+/AppData/Local/BloodstainedRotN/Saved/Logs
 /AppData/Local/CrashBandicoot4/Saved/Config
 /AppData/Local/CrashBandicoot4/Saved/Logs
 /AppData/Local/CrashBandicoot4/Saved/Profiling
-/AppData/Local/ItTakesTwo/Saved/Config
-/AppData/Local/ItTakesTwo/Saved/Logs
-/AppData/Local/ZingangGame/Saved/Logs
-/AppData/Local/ZingangGame/Saved/Config
-/Saved Games/AcmeGS/Asterigos/Saved/Config
-/Saved Games/AcmeGS/Asterigos/Saved/Logs
-/AppData/Roaming/thunder/Code Cache
-/AppData/Roaming/thunder/Cache
-/AppData/Local/_8BitDoFirmwareUpdater
-/AppData/Local/Activision
-/AppData/Local/Adobe
-/AppData/Local/ControlLauncher
-/AppData/Local/Borderlands 3
-/AppData/Local/cache
-/AppData/Local/CCFF7R
-/AppData/Local/CD Projekt Red
-/AppData/Local/CEF
-/AppData/Local/Chess2
-/AppData/Local/ChromeExtensionCache
-/AppData/Local/Citrix
-/AppData/Local/Comms
-/AppData/Local/ConnectedDevicesPlatform
-/AppData/Local/History
 /AppData/Local/CrashDumps
 /AppData/Local/CrashReportClient
-/AppData/Local/CrashRpt
 /AppData/Local/Creative
+/AppData/Local/BCutPath
+/AppData/Local/CCFF7R
+/AppData/Local/CEF
+/AppData/Local/Chess2/Saved/Config
+/AppData/Local/Chess2/Saved/Logs
+/AppData/Local/ChromeExtensionCache
+/AppData/Local/Citrix
+/AppData/Local/CloudCutter/Saved/Config
+/AppData/Local/Comms
+/AppData/Local/ConnectedDevicesPlatform
+/AppData/Local/ControlLauncher
+/AppData/Roaming/Adobe
+/AppData/Local/CD Projekt Red/Cyberpunk 2077/*.json
 /AppData/Local/Creative_Technology_Ltd
-/AppData/Local/Cube
 /AppData/Local/D3DSCache
-/AppData/Local/DBG
-/AppData/Local/Downloaded Installations
+/AppData/Local/EAConnect_microsoft
 /AppData/Local/EADesktop
-/AppData/Local/EALaunchHelper
+/AppData/Local/GitHubDesktop
+/AppData/Local/Google
+/AppData/Local/Microsoft
+/AppData/Local/Mozilla
+/AppData/Local/Packages
+/AppData/Local/Package Cache
+/AppData/Local/ZingangGame/Saved/Config
+/AppData/Local/ZingangGame/Saved/Logs
+/AppData/Local/_8BitDoFirmwareUpdater
+/AppData/Local/bililive
+/AppData/Local/pip
+/AppData/Local/qBittorrent
+/AppData/Local/Afterimage/Saved/SaveGames/Bakup
+/AppData/Local/EALaunchHelper/cache
 /AppData/Local/Electronic Arts
-/AppData/Local/ElevatedDiagnostics
+/AppData/Local/NVIDIA Corporation/NVIDIA App/*.log
+/AppData/Local/NVIDIA Corporation/NVIDIA App/*.bak
+/AppData/Local/NVIDIA Corporation/NVIDIA App/*.json
+/AppData/Local/NVIDIA Corporation/NVIDIA App/CefCache
+/AppData/Local/NVIDIA Corporation/NVIDIA App/Diagnostics
+/AppData/Local/NVIDIA Corporation/NVIDIA App/gfe_backup
+/AppData/Local/NVIDIA Corporation/NVIDIA App/NvBackend
+/AppData/Local/Programs/Microsoft VS Code
+/AppData/Local/Steam
+/AppData/Local/Temp
+/AppData/Local/Afterimage/Saved/SaveGames/*.vdf
 /AppData/Local/EOSUserHelper
 /AppData/Local/Epic Games
-/AppData/Local/EpicGamesLauncher
-/AppData/Local/Free_Time_Co.,_Ltd
-/AppData/Local/FromSoftware
-/AppData/Local/FTMod
-/AppData/Local/GameAnalytics
-/AppData/Local/GitHubDesktop
-/AppData/Local/g-menu-updater
-/AppData/Local/GOG.com
-/AppData/Local/Google
-/AppData/Local/GunGraveGore
-/AppData/Local/HaloInfinite
-/AppData/Roaming/thunder/blob_storage
-/AppData/Roaming/BetopGame
-/AppData/Roaming/Adobe
-/AppData/Roaming/AMD
-/AppData/Roaming/BaiduYunKernel
-/AppData/Roaming/BCUT
-/AppData/Roaming/FLT
-/AppData/Roaming/Campus
-/AppData/Roaming/CatSystem2
-/AppData/Roaming/Crystal Dynamics
-/AppData/Roaming/CubeLauncher
-/AppData/Roaming/Daum
-/AppData/Roaming/DMM_GAMES
-/AppData/Roaming/EasyAntiCheat
-/AppData/Roaming/Eidos Montreal
-/AppData/Roaming/EMPRESS
-/AppData/Roaming/lds
-/AppData/Roaming/Goldberg EOS Emu Saves
-/AppData/Roaming/Goldberg SocialClub Emu Saves
-/AppData/Roaming/Goldberg SteamEmu Saves
-/AppData/Roaming/Goldberg UplayEmu Saves
-/AppData/Roaming/HOODLUM
-/AppData/Roaming/ICAClient
-/AppData/Roaming/Insomniac Games
-/AppData/Roaming/kaiko
-/AppData/Roaming/Kalypso Media
-/AppData/Roaming/Mozilla
-/AppData/Roaming/MathWorks
+/AppData/Local/Mercury/Saved/Config
+/AppData/Local/Mercury/Saved/Logs
+/AppData/Local/NVIDIA Corporation/FrameViewSDK/*.log
+/AppData/Local/NVIDIA Corporation/GfnRuntimeSdk/*.log
+/AppData/Local/NVIDIA Corporation/NVIDIA Overlay/*.log
+/AppData/Local/NVIDIA Corporation/NVIDIA Overlay/*.bak
+/AppData/Local/NVIDIA Corporation/NVIDIA Overlay/*.json
+/AppData/Local/NVIDIA Corporation/NVIDIA Overlay/CefCache
+/AppData/Local/NVIDIA Corporation/NVIDIA Overlay/Highlights
+/AppData/Roaming/Code
 /AppData/Roaming/Microsoft
-/AppData/Roaming/Notepad++/backup
-/AppData/Roaming/NVIDIA
-/AppData/Roaming/Tencent
-/AppData/Roaming/PDFPrefs
-/AppData/Roaming/PlatinumGames
-/AppData/Roaming/PLogs
-/AppData/Roaming/PotPlayerMini
-/AppData/Roaming/PotPlayerMini64
+/AppData/Roaming/NVIDIA/ComputeCache
+/AppData/Roaming/Mozilla
 /AppData/Roaming/Python
-/AppData/Roaming/R-TT
-/AppData/Roaming/T2GP Launcher
-/AppData/Roaming/Teams
-/AppData/Local/hotwheels/Saved/Config
-/AppData/Local/hotwheels/Saved/Logs
+/AppData/Roaming/QQ
+/AppData/Roaming/Tencent
+/AppData/Roaming/thunder
+/Documents/Rockstar Games/Red Dead Redemption 2/Settings
+/AppData/Local/EpicGamesLauncher
+/AppData/Local/GOG.com
+/AppData/Local/Free_Time_Co.,_Ltd
+/AppData/Local/GunGraveGore/Saved/Config
+/AppData/Local/GunGraveGore/Saved/Logs
 /AppData/Local/HouseOfAshes/Saved/Config
 /AppData/Local/HouseOfAshes/Saved/Crashes
 /AppData/Local/HouseOfAshes/Saved/Logs
-/AppData/Local/Blizzard Entertainment
-/AppData/Local/AMD
-/AppData/Local/ASP.NET
-/AppData/Local/BCUT
-/AppData/Local/BCutPath
-/AppData/Local/bililive
+/AppData/Local/*.db
+/AppData/Local/*.resmoncfg
 /AppData/Local/Installwin
-/AppData/Local/INetHistory
-/AppData/Local/luminati
+/AppData/Local/ItTakesTwo/Saved
+/AppData/Local/LOTF2/Saved/*.upipelinecache
+/AppData/Local/LOTF2/Saved/Config
+/AppData/Local/LOTF2/Saved/Logs
 /AppData/Local/Link2EA
-/AppData/Local/LittleHope
-/AppData/Local/log
-/AppData/Local/Publishers
-/AppData/Local/MathWorks
-/AppData/Local/Mercury
-/AppData/Local/Microsoft
-/AppData/Local/mod.io
-/AppData/Local/motrix-updater
-/AppData/Local/Mozilla
-/AppData/Local/NemuPlayer
-/AppData/Local/NVIDIA
-/AppData/Local/NVIDIA Corporation
-/AppData/Local/OneDrive
-/AppData/Local/Package Cache
-/AppData/Local/Packages
-/AppData/Local/PeerDistRepub
-/AppData/Local/pip
-/AppData/Local/PlaceholderTileLogoFolder
-/AppData/Local/Programs
-/AppData/Local/Rockstar Games
 /AppData/Local/Reckfeng
-/AppData/Local/REDEngine
-/AppData/Local/Remedy
-/AppData/Local/Vivox
-/AppData/Local/setup
-/AppData/Local/SKIDROW
-/AppData/Local/Slightly Mad Studios
-/AppData/Local/Softdeluxe
-/AppData/Local/Sony Corporation
-/AppData/Local/speech
-/AppData/Local/SquirrelTemp
-/AppData/Local/Steam
-/AppData/Local/SwGame
+/AppData/LocalLow/NVIDIA/PerDriverVersion/DXCache
+/AppData/Roaming/BCUT
+/AppData/Local/Softdeluxe/Free Download Manager/org.freedownloadmanager.fdm5.cnh.json
+/AppData/Local/Softdeluxe/Free Download Manager/backup
+/AppData/Local/Softdeluxe/Free Download Manager/cache
+/AppData/Local/Softdeluxe/Free Download Manager/logs
+/AppData/Local/Softdeluxe/Free Download Manager/Mozilla
+/AppData/Local/Softdeluxe/Free Download Manager/db.sqlite
 /AppData/Local/T2GP Launcher
-/AppData/Local/T6ControllerAssistant
-/AppData/Local/Temp
-/AppData/Local/Tencent
-/AppData/Local/TheDevilInMe
-/AppData/Local/THQ Nordic
-/AppData/Local/TortoiseGit
-/AppData/Local/Turbo.net
-/AppData/Local/Ubisoft Game Launcher
-/AppData/Local/Uninstallwin
-/AppData/Local/UniSDK
+/AppData/Local/speech
 /AppData/Local/UnrealEngine
 /AppData/Local/UnrealEngineLauncher
-/AppData/Local/VirtualStore
-/AppData/Local/Zeasn
-/AppData/Local/WW
-/AppData/Local/IconCache.db
-/AppData/Roaming/CoreAVC.ini
-NTUSER.*
-ntuser.*
-/AppData/Roaming/Netease/UU/uu_proxy.log
-/AppData/Roaming/thunder/Cookies
-/Documents/My Music
-/Documents/My Pictures
-/Documents/My Videos
-/Documents/game.ico
-/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log
-/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered-v1.1014.0.0 2022-10-22-20-52-10.mdmp
-/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered-v1.1014.0.0 2022-11-12-17-14-25.mdmp
-/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered-v1.1212.0.0 2023-01-25-21-47-19.mdmp
-/Documents/desktop.ini
-/AppData/Roaming/Notepad++/config.xml
-/Documents/Assassin's Creed Odyssey/cache
-/Documents/Assassin's Creed Odyssey/image_cache
-/Documents/Assassin's Creed Valhalla/cache
-/Documents/Assassin's Creed Valhalla/file_cache
-/Documents/Rockstar Games/Red Dead Redemption 2/Settings
-/Documents/My Games/Far Cry 6/benchmarks
-/Documents/My Games/Far Cry 6/38-39-32-32-44-31-44-32-30-32-34-34-46-30-42-37_pipelines.bin
-/AppData/Roaming/Blackmagic Design/DaVinci Resolve/Support/logs
-/AppData/Roaming/GitHub Desktop/GPUCache
-/AppData/Roaming/GitHub Desktop/Cache
-/AppData/Roaming/Crash Bandicoot(TM) N. Sane Trilogy/steam_autocloud.vdf
-/AppData/Roaming/Code/Code Cache
-/AppData/Roaming/Code/Cache
-/AppData/Roaming/Code/CachedData
-/AppData/Roaming/Code/CachedExtensions
-/AppData/Roaming/Netease/UU
-/AppData/Roaming/WinRAR
-/AppData/Roaming/thunder
-/AppData/Local/Afterimage/Saved/SaveGames/steam_autocloud.vdf
-/AppData/Roaming/Code
-/AppData/Roaming/GitHub Desktop
-/AppData/Roaming/TortoiseGit
+/AppData/Local/WW/Saved/Config
+/AppData/Local/WW/Saved/Logs
+/AppData/Local/cache
+/AppData/Local/setup
+/AppData/LocalLow/Microsoft
+/AppData/LocalLow/Thunder Network
+/AppData/Roaming/AMD
+/AppData/Roaming/BaiduYunGuanjia
+/AppData/Roaming/BaiduYunKernel
+/AppData/Roaming/Baidu
+/AppData/Roaming/BetopGame
+/AppData/Local/LittleHope/Saved/Config
+/AppData/Local/NemuPlayer
+/AppData/Local/Phoenix/Saved/Config
+/AppData/Local/Phoenix/Saved/Logs
+/AppData/Local/PlaceholderTileLogoFolder
+/AppData/Local/Rockstar Games/GTA III Definitive Edition/Saved/Config
+/AppData/Local/Rockstar Games/GTA III Definitive Edition/Saved/Logs
+/AppData/Local/Remedy/AlanWake2/cache
+/AppData/Local/Rockstar Games/Red Dead Redemption 2/CrashLogs
+/AppData/Local/Rockstar Games/Red Dead Redemption 2/*.dat
+/AppData/Local/Rockstar Games/Launcher
+/AppData/Local/Rockstar Games/GTAV/CrashLogs
+/AppData/Local/Rockstar Games/GTA V/User Music
+/AppData/Local/NVIDIA/GLCache
+/AppData/Local/Slightly Mad Studios/Project CARS 3/*.xml
+/AppData/Local/Slightly Mad Studios/Project CARS 3/ugc
+/AppData/Local/Sony Corporation
+/AppData/Local/SquirrelTemp
+/AppData/Local/Steam++
+/AppData/Local/SwGame/Saved/Config
+/AppData/Local/SwGame/Saved/Logs
+/AppData/Local/T6ControllerAssistant/cache
+/AppData/Local/THQ Nordic/Darksiders Genesis/Saved/Config
+/AppData/Local/THQ Nordic/Darksiders Genesis/Saved/Logs
+/AppData/Local/Tencent
+/AppData/Local/TheDevilInMe/Saved/Config
+/AppData/Local/TheDevilInMe/Saved/Logs
+/AppData/Local/ToastNotificationManagerCompat
+/AppData/Local/TortoiseGit
+/AppData/Local/Turbo.net
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/*.log
+/AppData/LocalLow/Oracle
+/AppData/LocalLow/Studio MDHR/Cuphead/Crashes
+/AppData/LocalLow/Studio MDHR/Cuphead/*.txt
+/AppData/LocalLow/Sun
+/AppData/LocalLow/Team Cherry/Hollow Knight/*.bak1
+/AppData/LocalLow/Team Cherry/Hollow Knight/*.log
+/AppData/LocalLow/Team Cherry/Hollow Knight/*.vdf
+/AppData/Roaming/*.ini
+/AppData/Roaming/Crystal Dynamics/Rise of the Tomb Raider/*.bin
+/AppData/Roaming/CubeLauncher
+/AppData/Roaming/LibreOffice
+/AppData/Roaming/Netease
+/Saved Games/The Last of Us Part I/*.txt
+/Searches/winrt--{S-1-5-21-3878021286-1724457655-4214615345-1001}-.searchconnector-ms
+/Searches/Everywhere.search-ms
+/Searches/Indexed Locations.search-ms
+/Searches/*.ini
+/Videos/Captures/*.ini
+/Videos/*.ini
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/ntuser.ini
+/Saved Games/AcmeGS/Asterigos/Saved/Config
+/Saved Games/AcmeGS/Asterigos/Saved/Logs
+/Documents/Tencent Files
 /AppData/Roaming/vlc
 /Documents/Adobe
-/AppData/Local/qBittorrent
-/AppData/Roaming/G-Menu
-/Documents/Rockstar Games/Launcher
-/AppData/Roaming/Notepad++
-/AppData/LocalLow/IceSitruuna/Frontier_Hunter/*.log
-/*.lesshst
+/Documents/Assassin's Creed Valhalla/cache
+/Documents/Assassin's Creed Valhalla/file_cache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/DawnCache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/GPUCache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/Cache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/Code Cache
+/Documents/Rockstar Games/Social Club/Launcher/Renderer/Service Worker
+/Documents/Rockstar Games/Social Club/Cache
+/Documents/Rockstar Games/Social Club/Launcher
+/Documents/Rockstar Games/Social Club/*.log
 /Documents/The Riftbreaker/cache
 /Documents/The Riftbreaker/crash_info
-/Documents/The Riftbreaker/*.txt
-/Documents/Rockstar Games/Social Club/Cache
-/AppData/Roaming/qBittorrent
-/AppData/LocalLow/Microsoft
-/AppData/LocalLow/Oracle
-/AppData/LocalLow/Sun
-/AppData/LocalLow/WinReader.users
-/AppData/LocalLow/TENCENT
-/AppData/LocalLow/Thunder Network
-/AppData/LocalLow/WinReader
-/AppData/Roaming/G_Menu
-/AppData/Roaming/obs-studio/crashes
-/AppData/Roaming/obs-studio/logs
-/AppData/Roaming/obs-studio/profiler_data
-/Contacts
-/Documents/Ratchet & Clank - Rift Apart/*.mdmp
-/Documents/Ratchet & Clank - Rift Apart/*.log
-/Documents/Ratchet & Clank - Rift Apart/Screenshots
-/Documents/Rockstar Games/Red Dead Redemption 2/Benchmarks
-/Documents/Rockstar Games/Social Club/*.log
-/Documents/Rockstar Games/Social Club
+/Documents/Rockstar Games/Launcher/*.log
+/*.DAT
+/*.blf
+/*.regtrans-ms
+/Documents/*.ini
+/Downloads/*.ini
+/Favorites/Links/*.ini
+/Favorites/*.ini
 /Links/*.lnk
-/Links/desktop.ini
-/AppData/Local/*.tmp
-/AppData/Local/*.db
-/AppData/Local/NhNotifSys
-/AppData/Local/Origin
-/AppData/LocalLow/Studio MDHR
-/AppData/Roaming/BaiduYunGuanjia
-/AppData/Roaming/BOINC
-/AppData/Local/BrightData
-/*.viminfo
-/AppData/Local/Afterimage/Saved/SaveGames/Bakup
-/AppData/Local/SEGA/Judgment/Steam/temp
-/AppData/Local/SEGA/Judgment/Steam/album
-/AppData/Roaming/Blackmagic Design/DaVinci Resolve
-/Documents/Rockstar Games/Social Club/Launcher
-/Documents/Rockstar Games/Social Club/Launcher/Renderer/Code Cache
-/Documents/Rockstar Games/Social Club/Launcher/Renderer/Cache
-/AppData/Local/*.tmp
-/*.viminfo
-/AppData/Local/Larian Studios/Baldur's Gate 3/*.lsx
-/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache
-/AppData/Local/Larian Studios/Baldur's Gate 3/Temp
-/AppData/Roaming/LibreOffice
-/AppData/Local/Nox
-/AppData/Roaming/QQ
+/Links/*.ini
+/Music/*.ini
+/OneDrive/*.ini
+/Pictures/Camera Roll/*.ini
+/Pictures/Saved Pictures/*.ini
+/Pictures/*.ini
+/Documents/Rockstar Games/Red Dead Redemption 2/Benchmarks
+/Documents/Ratchet & Clank - Rift Apart/*.log
+/Documents/Ratchet & Clank - Rift Apart/*.mdmp
+/Documents/Ratchet & Clank - Rift Apart/Screenshots
+/Documents/Marvel's Spider-Man Remastered/Screenshots
+/Documents/Assassin's Creed Odyssey/cache
+/Documents/Assassin's Creed Odyssey/image_cache
+/AppData/Roaming/PotPlayerMini64
+/AppData/Roaming/MathWorks
+/AppData/Roaming/Goldberg SteamEmu Saves
+/AppData/Roaming/Goldberg UplayEmu Saves
+/AppData/Roaming/Goldberg SocialClub Emu Saves
+/AppData/Roaming/GitHub Desktop
+/AppData/Roaming/T2GP Launcher
+/AppData/Roaming/obs-studio/profiler_data
+/Desktop
+/Documents/My Games/Far Cry 6/*.bin
+/Documents/My Games/Far Cry 6/benchmarks
+/Documents/My Games/Far Cry 6/*.txt
+/AppData/Roaming/obs-studio/logs
+/AppData/Roaming/obs-studio/crashes
+/Contacts/*.ini
+/AppData/Roaming/qBittorrent
 /AppData/Roaming/foobar2000-v2
-/AppData/Local/Origin/AvatarsCache
-/AppData/Local/Origin/Web Cache
-/AppData/LocalLow/Studio MDHR
-/AppData/LocalLow/Team Cherry/Hollow Knight/*.log
-/AppData/LocalLow/Team Cherry/Hollow Knight/*.bak1
-/AppData/Roaming/BaiduYunGuanjia
-/Documents/KoeiTecmo/Wolong/Savedata/108398629/SAVEDATA00/*.BIN
-/Documents/Horizon Zero Dawn/Saved Game/quicksave4
-/Documents/Horizon Zero Dawn/Saved Game/autosave0
-/Documents/Horizon Zero Dawn/Saved Game/autosave1
-/Documents/Horizon Zero Dawn/Saved Game/autosave2
-/Documents/Horizon Zero Dawn/Saved Game/autosave3
-/Documents/Horizon Zero Dawn/Saved Game/autosave4
-/Documents/Horizon Zero Dawn/Saved Game/autosave5
-/Documents/Horizon Zero Dawn/Saved Game/autosave6
-/Documents/Horizon Zero Dawn/Saved Game/autosave7
-/Documents/Horizon Zero Dawn/Saved Game/autosave8
-/Documents/Horizon Zero Dawn/Saved Game/autosave9
-/Documents/Horizon Zero Dawn/Saved Game/quicksave0
-/Documents/Horizon Zero Dawn/Saved Game/quicksave1
-/Documents/Horizon Zero Dawn/Saved Game/quicksave2
-/Documents/Horizon Zero Dawn/Saved Game/quicksave3
-/Documents/KoeiTecmo/NIOH2/NIOH_LOG.txt
-/Documents/Shadow of the Tomb Raider/*.log
-/Documents/Shadow of the Tomb Raider/*.mdmp
-/Documents/Shadow of the Tomb Raider/*.txt
-/Documents/Tribute Games/TMNT/*.txt
-/Documents/WB Games/Batman Arkham Knight/STEAMID/SaveData/backup
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-1
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-3
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-4
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-5
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-6
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-7
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-15
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-16
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-17
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-18
-/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-0
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-1
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-2
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-3
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-4
-/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-5
-/Documents/Anno 1800/log
-/Documents/Anno 1800/shaders
-/Documents/CRYSTALiA/絆きらめく恋いろは-椿恋歌-
-/AppData/Roaming/obs-studio/updates
-/AppData/Roaming/Sekiro/76561198068664357/*.bak
-/AppData/Roaming/Sekiro/76561197960267366/*.bak
-/AppData/Roaming/xmp
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave0
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave1
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave2
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave3
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave4
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave5
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave6
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave7
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave8
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave9
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave10
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave11
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave12
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave13
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave14
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave15
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave16
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave17
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave18
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave19
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave20
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave21
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave22
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave6
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave7
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave8
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave9
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave10
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave11
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave12
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave13
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave14
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave15
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave16
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave17
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave18
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave19
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave20
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave21
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave22
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave0
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave1
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave2
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave3
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave4
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave5
-/AppData/Local/EpicOnlineServicesUIHelper/Saved/Logs
-/AppData/Local/KaoDRMFree/Saved/Config
-/AppData/Local/Kena/Saved/Logs
-/AppData/Local/Kena/Saved/Config
-/AppData/Local/Kena/Saved/Crashes
-/Documents/CD Projekt Red/Cyberpunk 2077/benchmarkResults
-/AppData/LocalLow/NVIDIA
-/Saved Games/*.ini
-/Saved Games/CD Projekt Red/Cyberpunk 2077/*.gls
-/AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.prefs
-/AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
-/AppData/LocalLow/DefaultCompany/salamander/*.log
-/AppData/Roaming/com.adobe.dunamis
-/AppData/LocalLow/Adobe/CRLogs
-/AppData/Roaming/The Witcher 3
-/Documents/The Witcher 3/*.bak
-/AppData/LocalLow/sega co_ ltd/SaveData/WindowsPlayer/GeminiWaterAce/PlayerLog
-/AppData/Local/LOTF2/Saved/Config
-/AppData/LocalLow/NVIDIA/PerDriverVersion
-/AppData/Local/Backup
-/Documents/Blackmagic Design/DaVinci Resolve/Test/Resolve Projects/Users/guest
-/AppData/Local/LOTF2/Saved/*.upipelinecache
-/AppData/Local/LOTF2/Saved/Logs
+/AppData/Roaming/PotPlayerMini
+/AppData/Roaming/Notepad++
+/AppData/Roaming/TortoiseGit
+/AppData/Roaming/Trine5/log
+/AppData/Roaming/ICAClient
+/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs
+/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/crs
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
 /AppData/LocalLow/CreSpirit/TEVI/*.vdf
@@ -502,3 +354,66 @@ ntuser.*
 /Documents/Horizon Forbidden West Complete Edition/Screenshots
 /Documents/Horizon Forbidden West Complete Edition/*.log
 /Documents/Horizon Forbidden West Complete Edition/*.mdmp
+/AppData/Roaming/Eidos Montreal/Shadow of the Tomb Raider/*.bin
+/AppData/Roaming/Eidos Montreal/Shadow of the Tomb Raider/crashpad
+/AppData/Roaming/Daum/PotPlayer/Log
+/AppData/Roaming/Daum
+/AppData/LocalLow/WinReader
+/AppData/Local/hotwheels/Saved/Logs
+/AppData/Local/hotwheels/Saved/Config
+/AppData/Local/luminati
+/AppData/Local/HaloInfinite/Settings/*.bin
+/AppData/Local/MathWorks/MATLAB/R2023b/*.bin
+/AppData/Local/Publishers
+/AppData/Local/UniSDK
+/AppData/Local/Vivox
+/AppData/Local/Zeasn
+/AppData/Local/g-menu-updater
+/AppData/Local/log
+/AppData/Local/motrix-updater
+/AppData/LocalLow/DefaultCompany
+/Documents/KoeiTecmo/Wolong/Savedata/108398629/SAVEDATA00/*.BIN
+/Documents/Ratchet & Clank - Rift Apart/76561199301844140/*.backup01
+/Documents/My Games/UnrealEngine3/DevilGame/Logs
+/Documents/My Games/UnrealEngine3/DevilGame/Config
+/Documents/My Games/UnrealEngine3/DevilGame/*.ini
+/.vscode
+/AppData/Local/*.tmp
+/AppData/Local/BrightData
+/AppData/Local/CD Projekt Red/Cyberpunk 2077/cache
+/AppData/Local/EACrashReporter
+/AppData/Local/GameAnalytics
+/AppData/Local/KaoDRMFree/Saved/Config
+/AppData/Local/KaoDRMFree/Saved/Logs
+/AppData/Local/NVIDIA Corporation/NVIDIA App/NvAccount
+/AppData/Local/NVIDIA Corporation/NvProfileUpdater
+/AppData/Local/NVIDIA/DXCache
+/AppData/Local/NhNotifSys
+/AppData/Local/Origin
+/AppData/Local/Programs/CD Projekt Red/REDlauncher
+/AppData/LocalLow/Adobe
+/AppData/Roaming/BOINC
+/AppData/Roaming/G-Menu
+/AppData/Roaming/com.adobe.dunamis
+/AppData/Roaming/WinRAR
+/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/*.pso
+/AppData/Roaming/PDFPrefs
+/AppData/Roaming/PLogs
+/AppData/Roaming/Sekiro/76561198068664357/*.bak
+/AppData/Roaming/Sekiro/76561198068664357/*.vdf
+/AppData/Roaming/The Witcher 3/CrashInfo.json
+/Documents/CD Projekt Red/Cyberpunk 2077/benchmarkResults
+/Documents/Rockstar Games/Social Club/Renderer
+/Searches/*.searchconnector-ms
+/AppData/Roaming/obs-studio/updates
+/AppData/Roaming/G_Menu
+/AppData/Roaming/EasyAntiCheat
+/3D Objects/*.ini
+/AppData/Local/EpicOnlineServicesUIHelper
+/AppData/Local/REDEngine
+/AppData/Local/Remedy/AlanWake2/*.ini
+/AppData/Local/SwGame/Saved/Crashes
+/AppData/Local/Ubisoft Game Launcher/spool
+/AppData/Local/Ubisoft Game Launcher/user.dat
+/AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
+/Documents/Rockstar Games/Social Club/Titles

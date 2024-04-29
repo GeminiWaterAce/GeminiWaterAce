@@ -1,9 +1,0 @@
-[0x000020ac] | SyManager            | WARN  | 2021-10-10 23:09:55,732 | Failed to load user preferences.
-[0x000020ac] | Main                 | INFO  | 2021-10-10 23:09:55,733 | Installed custom font: Open Sans
-[0x000020ac] | Main                 | INFO  | 2021-10-10 23:09:55,734 | Installed custom font: Open Sans Semibold
-[0x000020ac] | Main                 | INFO  | 2021-10-10 23:09:55,734 | Installed custom font: Open Sans
-[0x000020ac] | Main                 | INFO  | 2021-10-10 23:09:55,739 | Finished loading Application style sheet
-[0x000020ac] | SyManager.Lut        | ERROR | 2021-10-10 23:09:55,869 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
-[0x000020ac] | SyManager.Lut        | ERROR | 2021-10-10 23:09:55,870 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
-[0x000020ac] | SyManager.Lut        | ERROR | 2021-10-10 23:09:55,870 | C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\ProjectServer\LUT : no dir
-[0x000020ac] | DbCommon2            | ERROR | 2021-10-10 23:09:56,033 | No valid database connection!

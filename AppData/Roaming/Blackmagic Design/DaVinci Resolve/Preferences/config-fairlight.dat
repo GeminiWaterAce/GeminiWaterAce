@@ -1,8 +1,0 @@
-FaderDisplayTimeoutSeconds = 600
-enableGUIFPS = 0
-enableStreamingDebug = 0
-engineConfig = 1
-ioConfig = 0
-madiConfig = 0
-screenSaverState = 20
-systemAudioEnabled = 0
