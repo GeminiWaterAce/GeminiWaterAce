@@ -1,0 +1,109 @@
+autoPatching:
+  enabled: true
+betas:
+  optIn: false
+branded_installer:
+  pending_protocol: ""
+connect_view:
+  default_opt_out: false
+  enabled: false
+conversations:
+  taskbarTabsEnabled: false
+downloads:
+  limit: 200000000
+  limitEnabled: false
+  pauseOnGameLaunch: true
+epic:
+  exchangeCode: ""
+hotkeys_captureScreenshot:
+  altState: false
+  controlState: false
+  keyCode: 123
+  shiftState: false
+hotkeys_overlayHide:
+  altState: false
+  controlState: false
+  keyCode: 27
+  shiftState: false
+hotkeys_overlayToggle:
+  altState: false
+  controlState: false
+  keyCode: 113
+  shiftState: true
+language:
+  code: zh-CN
+masters:
+  password: ""
+  username: ""
+misc:
+  enable_auto_wall_posts: true
+  enable_screenshots_on_achievements: false
+  game_installation_path: F:/Ubisoft Games/
+  installer_cache_path: I:/Cache/Ubisoft/
+  save_screenshot_uncompressed_copy: false
+  screenshot_root_path: C:/Users/GeminiWaterAce/Pictures/UbisoftConnect/
+modeless_positions:
+  conversations_window:
+    height: 0
+    left: 0
+    maximized: false
+    top: 0
+    width: 0
+  friends_window:
+    height: 570
+    left: 1615
+    maximized: false
+    top: 431
+    width: 400
+notifications:
+  desktopAchievementsEnabled: true
+  desktopChatEnabled: true
+  desktopClubActionsEnabled: false
+  desktopDownloadCompleteEnabled: true
+  desktopFriendGameEnabled: true
+  desktopFriendOnlineEnabled: true
+  desktopFriendRequestEnabled: true
+  desktopGameInviteEnabled: true
+  desktopGamePatchAvailableEnabled: true
+  desktopGroupInviteEnabled: true
+  desktopPartyInviteEnabled: true
+  desktopPlayAvailableEnabled: true
+  desktopScreenshotsEnabled: true
+  inGameEnabled: true
+  inGameFriendOnlineEnabled: true
+  permanentInGameEnabled: true
+  sysTrayEnabled: true
+overlay:
+  enabled: true
+  forceunhookgame: false
+  fps_enabled: false
+  warning_enabled: true
+position:
+  height: 1358
+  left: 411
+  maximized: false
+  top: 326
+  width: 2120
+remotePlay:
+  allowed: false
+sharePlay:
+  bitrate: 20
+  displayOnboarding: true
+  displayWizardTour: true
+  fps: 60
+  gamepadAccessAllowed: true
+  lastTimeFeedBackWindowDisplayed: 0
+  mouseAndKeyboardAccessAllowed: true
+  nbBuyGameRefused: 0
+  nbFeedbackUnfilled: 0
+  resolution: 1080
+spotlight:
+  enabled: true
+user:
+  closebehavior: CloseBehavior_Close
+  landingpage: LandingPageNews
+  landingpage_set_by_user: false
+  non_friend_game_invite_enabled: true
+  offline: false
+  start_on_windows_start: false
+  syncsavegames: true
