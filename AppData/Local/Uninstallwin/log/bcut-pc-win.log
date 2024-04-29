@@ -1,0 +1,3 @@
+[I]2023-02-05 22:16:25.297 16316 UserProfile.cpp:109 UserProfile::ExtractLoginInfo -> entry UserProfile::ExtractLoginInfo
+[W]2023-02-05 22:16:25.298 16316 UserProfile.cpp:115 UserProfile::ExtractLoginInfo -> The loginInfoFile lsi.dat does not exist
+[I]2023-02-05 22:16:25.298 16316 UserProfile.cpp:0 UserProfile::ExtractLoginInfo -> exit UserProfile::ExtractLoginInfo, cost : 1
