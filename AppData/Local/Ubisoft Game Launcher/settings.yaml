@@ -10,7 +10,7 @@ connect_view:
 conversations:
   taskbarTabsEnabled: false
 downloads:
-  limit: 10000000
+  limit: 200000000
   limitEnabled: false
   pauseOnGameLaunch: true
 epic:
@@ -38,23 +38,23 @@ masters:
 misc:
   enable_auto_wall_posts: true
   enable_screenshots_on_achievements: false
-  game_installation_path: D:/Ubisoft Games/
-  installer_cache_path: H:/Cache/Ubisoft/
+  game_installation_path: F:/Ubisoft Games/
+  installer_cache_path: I:/Cache/Ubisoft/
   save_screenshot_uncompressed_copy: false
   screenshot_root_path: C:/Users/GeminiWaterAce/Pictures/UbisoftConnect/
 modeless_positions:
   conversations_window:
-    height: 450
-    left: 1323
-    maximized: false
-    top: 758
-    width: 800
-  friends_window:
     height: 0
     left: 0
     maximized: false
     top: 0
     width: 0
+  friends_window:
+    height: 570
+    left: 1615
+    maximized: false
+    top: 431
+    width: 400
 notifications:
   desktopAchievementsEnabled: true
   desktopChatEnabled: true
@@ -79,11 +79,11 @@ overlay:
   fps_enabled: false
   warning_enabled: true
 position:
-  height: 706
-  left: 683
+  height: 1358
+  left: 411
   maximized: false
-  top: 603
-  width: 974
+  top: 326
+  width: 2120
 remotePlay:
   allowed: false
 sharePlay:
@@ -100,7 +100,7 @@ sharePlay:
 spotlight:
   enabled: true
 user:
-  closebehavior: CloseBehavior_Minimize
+  closebehavior: CloseBehavior_Close
   landingpage: LandingPageNews
   landingpage_set_by_user: false
   non_friend_game_invite_enabled: true
