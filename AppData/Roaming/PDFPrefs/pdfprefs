@@ -1,0 +1,317 @@
+﻿# 
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = false
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #d0e0ff
+	WindowMargin = 1 1 1 1
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = cn
+ShowToolbar = false
+ShowFavorites = false
+AssociatedExtensions = .pdf
+AssociateSilently = true
+CheckForUpdates = false
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit width
+WindowState = 2
+WindowPos = 0 0 0 0
+ShowToc = true
+SidebarDx = 280
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+BookmarkStates [
+]
+FileStates [
+	[
+		FilePath = C:\Program Files (x86)\MSI Afterburner\Doc\ReadMe.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\GeminiWaterAce\Desktop\耿俊の攒机.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Program Files (x86)\RivaTuner Statistics Server\Doc\ReadMe.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 153
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\液晶显示器设置及安规说明 -PD32M.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 25
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 11
+	]
+	[
+		FilePath = F:\Library\Advanced Algebra\高等代数（第五版）张禾瑞.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 418
+		PageNo = 253
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\拍摄手册  77种方法让你的影片更完美.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 245
+		PageNo = 233
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\程序员数学 附录.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 633
+		PageNo = 47
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\远程办公工具\3_远程办公操作手册V7.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 618
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\数学分析 陈纪修 第三版 上 by 陈纪修，于崇华，金路 (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 325
+		PageNo = 73
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\gddsdwb_xz7.com\gdds5th\高等代数（第五版）张禾瑞.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 1269
+		PageNo = 74
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\Download\数学分析(陈纪修.上下册).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 280
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1 5 6
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = C:\Program Files (x86)\MSI Afterburner\Doc\ReadMe.pdf
+				DisplayMode = continuous facing
+				PageNo = 1
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 -1
+				ShowToc = false
+			]
+		]
+		TabIndex = 1
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		SidebarDx = 280
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 666
+
+# Settings after this line have not been recognized by the current version
