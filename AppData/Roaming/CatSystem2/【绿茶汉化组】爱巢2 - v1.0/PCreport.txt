@@ -1,0 +1,623 @@
+■■PCreport■■
+
+当出现「游戏画面静止」「游戏画面显示异常」「游戏闪退」等问题时，请在邮件里记录出现问题的详细情况，并附上这个PCreport.txt文件，发送给NEXTON User Support。
+
+NEXTON User Support E-Mail [support@nexton-net.jp]
+
+
+
+{01}-- title --
+(01)【绿茶汉化组】爱巢2 - v1.0
+
+{02}-- system --
+(01)cs2.exe version 2.6.1.90
+(02)【绿茶汉化组】爱巢2 - v1.0 version 1.0
+(03)id : 13e4d1a3-07bafc2a-0e3f0873-2a35b07d
+
+{03}-- pc model info --
+(01)Manufacturer : 
+(02)Model : 
+
+{04}-- windows info --
+(01)Windows 10 (x64)
+(02)Professional
+(03)
+(04)Version : 10.0.19044
+
+{05}-- cpu info --
+(01)AMD Ryzen 9 5950X 16-Core Processor            
+(02)AuthenticAMD
+(03)type : 0
+(04)family.model.stepping : 15.1.0
+(05)number : 32
+(06)clock : 3400MHz (3399MHz)
+(07)cpuid : 1
+(08)mmx : 1
+(09)cmov : 1
+(10)SSE : 1
+(11)3DNow! : 0
+
+{06}-- memory info --
+(01)全物理メモリ : 130985 MB
+(02)空き物理メモリ : 122716 MB
+(03)全仮想メモリ : 150441 MB
+(04)空き仮想メモリ : 138449 MB
+
+{07}-- DirectX info --
+(01)Version : 11.0
+
+
+{09}-- display driver info --
+(01)Driver : nvldumd.dll [0.0.0.0]
+(02)Description : NVIDIA GeForce RTX 3090
+(03)Product : 30
+(04)Version : 0
+(05)SubVersion : 15
+(06)Build : 1179
+(07)VendorId : 000010de
+(08)DeviceId : 00002204
+(09)SubSysId : 161919da
+(10)Revision : 000000a1
+(11)DeviceIdentifier : d7b71e3e:00006144:000011cf:019d12f8
+(12)WHQLLevel : 00000000
+
+{09}-- now display info --
+(01)Width  : 3840
+(02)Height : 2160
+(03)Rate   : 144
+(04)Format : X8R8G8B8
+
+{10}-- device caps info (Direct3D9) --
+[DeviceType] : HAL
+[Caps] : 00020000
+  READ_SCANLINE : 1
+[Caps2] : e0020000
+  CANCALIBRATEGAMMA : 0
+  FULLSCREENGAMMA : 1
+[Caps3] : 000003a0
+[PresentationIntervals] : 8000000f
+  unknown
+[CursorCaps] : 00000001
+  COLOR : 1
+  LOWRES : 0
+[DevCaps] : 001bbef0
+  CANBLTSYSTONONLOCAL : 1
+  CANRENDERAFTERFLIP : 1
+  DRAWPRIMTLVERTEX : 1
+  EXECUTESYSTEMMEMORY : 1
+  EXECUTEVIDEOMEMORY : 1
+  HWRASTERIZATION : 1
+  HWTRANSFORMANDLIGHT : 1
+  NPATCHES : 0
+  PUREDEVICE : 1
+  QUINTICRTPATCHES : 0
+  RTPATCHES : 0
+  RTPATCHHANDLEZERO : 0
+  SEPARATETEXTUREMEMORIES : 0
+  TEXTURENONLOCALVIDMEM : 1
+  TEXTURESYSTEMMEMORY : 0
+  TEXTUREVIDEOMEMORY : 1
+  TLVERTEXSYSTEMMEMORY : 1
+  TLVERTEXVIDEOMEMORY : 1
+[PrimitiveMiscCaps] : 002fcef2
+  BLENDOP : 1
+  CLIPPLANESCALEDPOINTS : 0
+  CLIPTLVERTS : 1
+  COLORWRITEENABLE : 1
+  CULLCCW : 1
+  CULLCW : 1
+  CULLNONE : 1
+  MASKZ : 1
+  TSSARGTEMP : 1
+[RasterCaps] : 07732191
+  ANISOTROPY : 1
+  COLORPERSPECTIVE : 1
+  DITHER : 1
+  FOGRANGE : 1
+  FOGTABLE : 1
+  FOGVERTEX : 1
+  MIPMAPLODBIAS : 1
+  WBUFFER : 0
+  D3DPRASTERCAPS_WFOG : 1
+  ZBUFFERLESSHSR : 0
+  ZFOG : 1
+  ZTEST : 1
+[ZCmpCaps] : 000000ff
+  ALWAYS : 1
+  EQUAL : 1
+  GREATER : 1
+  GREATEREQUAL : 1
+  LESS : 1
+  LESSEQUAL : 1
+  NEVER : 1
+  NOTEQUAL : 1
+[SrcBlendCaps] : 00003fff
+  BOTHINVSRCALPHA : 1
+  BOTHSRCALPHA : 1
+  DESTALPHA : 1
+  DESTCOLOR : 1
+  INVDESTALPHA : 1
+  INVDESTCOLOR : 1
+  INVSRCALPHA : 1
+  INVSRCCOLOR : 1
+  ONE : 1
+  SRCALPHA : 1
+  SRCALPHASAT : 1
+  SRCCOLOR : 1
+  ZERO : 1
+[DestBlendCaps] : 00003fff
+  BOTHINVSRCALPHA : 1
+  BOTHSRCALPHA : 1
+  DESTALPHA : 1
+  DESTCOLOR : 1
+  INVDESTALPHA : 1
+  INVDESTCOLOR : 1
+  INVSRCALPHA : 1
+  INVSRCCOLOR : 1
+  ONE : 1
+  SRCALPHA : 1
+  SRCALPHASAT : 1
+  SRCCOLOR : 1
+  ZERO : 1
+[AlphaCmpCaps] : 000000ff
+  ALWAYS : 1
+  EQUAL : 1
+  GREATER : 1
+  GREATEREQUAL : 1
+  LESS : 1
+  LESSEQUAL : 1
+  NEVER : 1
+  NOTEQUAL : 1
+[ShadeCaps] : 00084208
+  ALPHAGOURAUDBLEND : 1
+  COLORGOURAUDRGB : 1
+  FOGGOURAUD : 1
+  SPECULARGOURAUDRGB : 1
+[TextureCaps] : 0001ecc5
+  ALPHA : 1
+  ALPHAPALETTE : 1
+  CUBEMAP : 1
+  CUBEMAP_POW2 : 0
+  MIPCUBEMAP : 1
+  MIPMAP : 1
+  MIPVOLUMEMAP : 1
+  NONPOW2CONDITIONAL : 0
+  PERSPECTIVE : 1
+  POW2 : 0
+  PROJECTED : 1
+  SQUAREONLY : 0
+  TEXREPEATNOTSCALEDBYSIZE : 1
+  VOLUMEMAP : 1
+  VOLUMEMAP_POW2 : 0
+[TextureFilterCaps] : 03030700
+  MAGFANISOTROPIC : 0
+  MAGFLINEAR : 1
+  MAGFPOINT : 1
+  MINFANISOTROPIC : 1
+  MINFLINEAR : 1
+  MINFPOINT : 1
+  MIPFLINEAR : 1
+  MIPFPOINT : 1
+[CubeTextureFilterCaps] : 03030300
+  MAGFANISOTROPIC : 0
+  MAGFLINEAR : 1
+  MAGFPOINT : 1
+  MINFANISOTROPIC : 0
+  MINFLINEAR : 1
+  MINFPOINT : 1
+  MIPFLINEAR : 1
+  MIPFPOINT : 1
+[VolumeTextureFilterCaps] : 03030300
+  MAGFANISOTROPIC : 0
+  MAGFLINEAR : 1
+  MAGFPOINT : 1
+  MINFANISOTROPIC : 0
+  MINFLINEAR : 1
+  MINFPOINT : 1
+  MIPFLINEAR : 1
+  MIPFPOINT : 1
+[TextureAddressCaps] : 0000003f
+  BORDER : 1
+  CLAMP : 1
+  INDEPENDENTUV : 1
+  MIRROR : 1
+  MIRRORONCE : 1
+  WRAP : 1
+[VolumeTextureAddressCaps] : 0000003f
+  BORDER : 1
+  CLAMP : 1
+  INDEPENDENTUV : 1
+  MIRROR : 1
+  MIRRORONCE : 1
+  WRAP : 1
+[LineCaps] : 0000001f
+  ALPHACMP : 1
+  BLEND : 1
+  FOG : 1
+  TEXTURE : 1
+  ZTEST : 1
+[MaxTexture] : 16384 x 16384
+[MaxVolumeExtent] : 2048
+[MaxTextureRepeat] : 8192
+[MaxTextureAspectRatio] : 16384
+[MaxAnisotropy] : 16
+[MaxVertexW] : f
+[GuardBand] : f, f, f, f
+[ExtentsAdjust] : f
+[StencilCaps] : 000001ff
+  DECR : 1
+  DECRSAT : 1
+  INCR : 1
+  INCRSAT : 1
+  INVERT : 1
+  KEEP : 1
+  REPLACE : 1
+  ZERO : 1
+[FVFCaps] : 00180008
+  DONOTSTRIPELEMENTS : 1
+  PSIZE : 1
+  TEXCOORDCOUNTMASK : 1
+[TextureOpCaps] : 03feffff
+  ADD : 1
+  ADDSIGNED : 1
+  ADDSIGNED2X : 1
+  ADDSMOOTH : 1
+  BLENDCURRENTALPHA : 1
+  BLENDDIFFUSEALPHA : 1
+  BLENDFACTORALPHA : 1
+  BLENDTEXTUREALPHA : 1
+  BLENDTEXTUREALPHAPM : 1
+  BUMPENVMAP : 1
+  BUMPENVMAPLUMINANCE : 1
+  DISABLE : 1
+  DOTPRODUCT3 : 1
+  LERP : 1
+  MODULATE : 1
+  MODULATE2X : 1
+  MODULATE4X : 1
+  MODULATEALPHA_ADDCOLOR : 1
+  MODULATECOLOR_ADDALPHA : 1
+  MODULATEINVALPHA_ADDCOLOR : 1
+  MODULATEINVCOLOR_ADDALPHA : 1
+  MULTIPLYADD : 1
+  PREMODULATE : 0
+  SELECTARG1 : 1
+  SELECTARG2 : 1
+  SUBTRACT : 1
+[ExtentsAdjust] : 8
+[MaxSimultaneousTextures] : 8
+[VertexProcessingCaps] : 0000013b
+  DIRECTIONALLIGHTS : 1
+  LOCALVIEWER : 1
+  MATERIALSOURCE7 : 1
+  POSITIONALLIGHTS : 1
+  TEXGEN : 1
+  TWEENING : 0
+[MaxActiveLights] : 8
+[MaxUserClipPlanes] : 8
+[MaxVertexBlendMatrices] : 4
+[MaxVertexBlendMatrixIndex] : 0
+[MaxPointSize] : f
+[MaxPrimitiveCount] : 16777215
+[MaxVertexIndex] : 16777215
+[MaxStreams] : 16
+[MaxStreamStride] : 255
+[VertexShaderVersion] : fffe0300
+[MaxVertexShaderConst] : 256
+[PixelShaderVersion] : ffff0300
+
+{11}-- display mode --
+640 x 480 (59) [X8R8G8B8]
+640 x 480 (120) [X8R8G8B8]
+640 x 480 (119) [X8R8G8B8]
+640 x 480 (75) [X8R8G8B8]
+640 x 480 (60) [X8R8G8B8]
+640 x 480 (144) [X8R8G8B8]
+640 x 480 (72) [X8R8G8B8]
+720 x 480 (60) [X8R8G8B8]
+720 x 480 (59) [X8R8G8B8]
+720 x 480 (120) [X8R8G8B8]
+720 x 480 (119) [X8R8G8B8]
+720 x 480 (144) [X8R8G8B8]
+720 x 576 (50) [X8R8G8B8]
+720 x 576 (120) [X8R8G8B8]
+720 x 576 (119) [X8R8G8B8]
+720 x 576 (144) [X8R8G8B8]
+800 x 600 (120) [X8R8G8B8]
+800 x 600 (119) [X8R8G8B8]
+800 x 600 (75) [X8R8G8B8]
+800 x 600 (56) [X8R8G8B8]
+800 x 600 (144) [X8R8G8B8]
+800 x 600 (72) [X8R8G8B8]
+800 x 600 (60) [X8R8G8B8]
+1024 x 768 (120) [X8R8G8B8]
+1024 x 768 (119) [X8R8G8B8]
+1024 x 768 (75) [X8R8G8B8]
+1024 x 768 (60) [X8R8G8B8]
+1024 x 768 (144) [X8R8G8B8]
+1024 x 768 (70) [X8R8G8B8]
+1152 x 864 (120) [X8R8G8B8]
+1152 x 864 (119) [X8R8G8B8]
+1152 x 864 (75) [X8R8G8B8]
+1152 x 864 (144) [X8R8G8B8]
+1176 x 664 (50) [X8R8G8B8]
+1176 x 664 (60) [X8R8G8B8]
+1176 x 664 (59) [X8R8G8B8]
+1280 x 720 (60) [X8R8G8B8]
+1280 x 720 (59) [X8R8G8B8]
+1280 x 720 (50) [X8R8G8B8]
+1280 x 720 (120) [X8R8G8B8]
+1280 x 720 (119) [X8R8G8B8]
+1280 x 720 (144) [X8R8G8B8]
+1280 x 768 (120) [X8R8G8B8]
+1280 x 768 (119) [X8R8G8B8]
+1280 x 768 (60) [X8R8G8B8]
+1280 x 768 (144) [X8R8G8B8]
+1280 x 800 (120) [X8R8G8B8]
+1280 x 800 (119) [X8R8G8B8]
+1280 x 800 (60) [X8R8G8B8]
+1280 x 800 (144) [X8R8G8B8]
+1280 x 960 (120) [X8R8G8B8]
+1280 x 960 (119) [X8R8G8B8]
+1280 x 960 (60) [X8R8G8B8]
+1280 x 960 (144) [X8R8G8B8]
+1280 x 1024 (120) [X8R8G8B8]
+1280 x 1024 (119) [X8R8G8B8]
+1280 x 1024 (75) [X8R8G8B8]
+1280 x 1024 (144) [X8R8G8B8]
+1280 x 1024 (60) [X8R8G8B8]
+1360 x 768 (120) [X8R8G8B8]
+1360 x 768 (119) [X8R8G8B8]
+1360 x 768 (60) [X8R8G8B8]
+1360 x 768 (144) [X8R8G8B8]
+1366 x 768 (120) [X8R8G8B8]
+1366 x 768 (119) [X8R8G8B8]
+1366 x 768 (60) [X8R8G8B8]
+1366 x 768 (144) [X8R8G8B8]
+1600 x 900 (120) [X8R8G8B8]
+1600 x 900 (119) [X8R8G8B8]
+1600 x 900 (59) [X8R8G8B8]
+1600 x 900 (60) [X8R8G8B8]
+1600 x 900 (144) [X8R8G8B8]
+1600 x 1024 (120) [X8R8G8B8]
+1600 x 1024 (119) [X8R8G8B8]
+1600 x 1024 (59) [X8R8G8B8]
+1600 x 1024 (60) [X8R8G8B8]
+1600 x 1024 (144) [X8R8G8B8]
+1600 x 1200 (120) [X8R8G8B8]
+1600 x 1200 (119) [X8R8G8B8]
+1600 x 1200 (144) [X8R8G8B8]
+1600 x 1200 (59) [X8R8G8B8]
+1600 x 1200 (60) [X8R8G8B8]
+1680 x 1050 (120) [X8R8G8B8]
+1680 x 1050 (119) [X8R8G8B8]
+1680 x 1050 (59) [X8R8G8B8]
+1680 x 1050 (60) [X8R8G8B8]
+1680 x 1050 (144) [X8R8G8B8]
+1920 x 1080 (60) [X8R8G8B8]
+1920 x 1080 (59) [X8R8G8B8]
+1920 x 1080 (50) [X8R8G8B8]
+1920 x 1080 (120) [X8R8G8B8]
+1920 x 1080 (119) [X8R8G8B8]
+1920 x 1080 (144) [X8R8G8B8]
+1920 x 1200 (120) [X8R8G8B8]
+1920 x 1200 (119) [X8R8G8B8]
+1920 x 1200 (144) [X8R8G8B8]
+1920 x 1200 (59) [X8R8G8B8]
+1920 x 1200 (60) [X8R8G8B8]
+1920 x 1440 (120) [X8R8G8B8]
+1920 x 1440 (119) [X8R8G8B8]
+1920 x 1440 (144) [X8R8G8B8]
+1920 x 1440 (59) [X8R8G8B8]
+1920 x 1440 (60) [X8R8G8B8]
+2048 x 1536 (60) [X8R8G8B8]
+2048 x 1536 (24) [X8R8G8B8]
+2048 x 1536 (23) [X8R8G8B8]
+2048 x 1536 (30) [X8R8G8B8]
+2048 x 1536 (29) [X8R8G8B8]
+2048 x 1536 (59) [X8R8G8B8]
+2048 x 1536 (120) [X8R8G8B8]
+2048 x 1536 (119) [X8R8G8B8]
+2048 x 1536 (144) [X8R8G8B8]
+2560 x 1440 (120) [X8R8G8B8]
+2560 x 1440 (119) [X8R8G8B8]
+2560 x 1440 (144) [X8R8G8B8]
+2560 x 1440 (59) [X8R8G8B8]
+2560 x 1440 (60) [X8R8G8B8]
+2560 x 1600 (60) [X8R8G8B8]
+2560 x 1600 (24) [X8R8G8B8]
+2560 x 1600 (23) [X8R8G8B8]
+2560 x 1600 (30) [X8R8G8B8]
+2560 x 1600 (29) [X8R8G8B8]
+2560 x 1600 (59) [X8R8G8B8]
+2560 x 1600 (120) [X8R8G8B8]
+2560 x 1600 (119) [X8R8G8B8]
+2560 x 1600 (144) [X8R8G8B8]
+3840 x 2160 (60) [X8R8G8B8]
+3840 x 2160 (24) [X8R8G8B8]
+3840 x 2160 (23) [X8R8G8B8]
+3840 x 2160 (30) [X8R8G8B8]
+3840 x 2160 (29) [X8R8G8B8]
+3840 x 2160 (59) [X8R8G8B8]
+3840 x 2160 (120) [X8R8G8B8]
+3840 x 2160 (119) [X8R8G8B8]
+3840 x 2160 (144) [X8R8G8B8]
+1440 x 900 (120) [X8R8G8B8]
+1440 x 900 (119) [X8R8G8B8]
+1440 x 900 (60) [X8R8G8B8]
+1440 x 900 (144) [X8R8G8B8]
+1920 x 2160 (60) [X8R8G8B8]
+1920 x 2160 (24) [X8R8G8B8]
+1920 x 2160 (23) [X8R8G8B8]
+1920 x 2160 (30) [X8R8G8B8]
+1920 x 2160 (29) [X8R8G8B8]
+1920 x 2160 (59) [X8R8G8B8]
+1920 x 2160 (120) [X8R8G8B8]
+1920 x 2160 (119) [X8R8G8B8]
+1920 x 2160 (144) [X8R8G8B8]
+
+{12}-- audio device info --
+device(0) : 主声音驱动程序
+module(0) : 
+device(1) : 扬声器 (Sound Blaster AE-9)
+module(1) : {0.0.0.00000000}.{08cf1096-2c79-42f2-afd4-f16cc34f647b}
+
+-- config --
+texture bpp : 32
+texture filter min : 1
+texture filter mag : 1
+use dither : 1
+use 3d sound : 0
+use sticky : 1
+use camouflage : 0
+use gdi cap : 0
+32bit Zbuffer : 0
+use Zbuffer : 1
+out info : 1
+use file cache : 1
+enable drag wnd : 1
+startup screen : 0
+full screen : 1
+screen bpp : -1
+game bpp : 32
+font : メイリオ
+font shadow : 75523140
+font bold : 0
+use proportional : 1
+width : 1280
+height : 720
+img cache : 32
+enable dual core : 1
+disable movie : 0
+max back buffer : 2
+disable pixelshader : 0
+wait D3D query : 0
+use hardware TnL : 1
+use back buffer : 1
+use light : 1
+use wait vsync : 1
+use antialias : 0
+backbuffer max size : -1
+
+-- voice --
+vol bgm : 100
+vol se : 100
+vol voice : 100
+vol play : 100
+play 0 : 1
+master 0 : 100
+play 1 : 1
+master 1 : 100
+play 2 : 1
+master 2 : 100
+play 3 : 1
+master 3 : 100
+play 4 : 1
+master 4 : 100
+play 5 : 1
+master 5 : 100
+play 6 : 1
+master 6 : 100
+play 7 : 1
+master 7 : 100
+play 8 : 1
+master 8 : 100
+play 9 : 1
+master 9 : 100
+play 10 : 1
+master 10 : 100
+play 11 : 1
+master 11 : 100
+play 12 : 1
+master 12 : 100
+play 13 : 1
+master 13 : 100
+play 14 : 1
+master 14 : 100
+play 15 : 1
+master 15 : 100
+play 16 : 1
+master 16 : 100
+play 17 : 1
+master 17 : 100
+play 18 : 1
+master 18 : 100
+play 19 : 1
+master 19 : 100
+play 20 : 1
+master 20 : 100
+play 21 : 1
+master 21 : 100
+play 22 : 1
+master 22 : 100
+play 23 : 1
+master 23 : 100
+play 24 : 1
+master 24 : 100
+play 25 : 1
+master 25 : 100
+play 26 : 1
+master 26 : 100
+play 27 : 1
+master 27 : 100
+play 28 : 1
+master 28 : 100
+play 29 : 1
+master 29 : 100
+play 30 : 1
+master 30 : 100
+play 31 : 1
+master 31 : 100
+play 32 : 1
+master 32 : 100
+play 33 : 1
+master 33 : 100
+play 34 : 1
+master 34 : 100
+play 35 : 1
+master 35 : 100
+play 36 : 1
+master 36 : 100
+play 37 : 1
+master 37 : 100
+play 38 : 1
+master 38 : 100
+play 39 : 1
+master 39 : 100
+play 40 : 1
+master 40 : 100
+play 41 : 1
+master 41 : 100
+play 42 : 1
+master 42 : 100
+play 43 : 1
+master 43 : 100
+play 44 : 1
+master 44 : 100
+play 45 : 1
+master 45 : 100
+play 46 : 1
+master 46 : 100
+play 47 : 1
+master 47 : 100
+cont : 1
+
+-- message --
+speed : 4
+auto p : 4
+auto base : 15
+auto CHAR : 5
+continue auto : 0
+wait pcm : 1
+
+-- effect --
+speed : 0
+auto cursor : 1
+auto cursor hide : 1
+auto cursor hide spd : 5
+dramatic : 0
+
+-- window --
+argb : 0x50000000
+drag : 1
+disp : 1
