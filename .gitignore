@@ -420,3 +420,5 @@
 /*.lesshst
 /AppData/Roaming/Braid, Anniversary Edition/logs
 /AppData/Roaming/Braid, Anniversary Edition/*.vdf
+/AppData/Local/adrive-desktop-updater
+/AppData/Roaming/aDrive
