@@ -9,3 +9,10 @@
 [safe]
 	directory = H:/Repository/GeminiWaterAce
 	directory = C:/Users/GeminiWaterAce
+	directory = I:/Repositories/GeminiWaterAce
+[http]
+	sslVerify = false
+	version = HTTP/1.1
+	postBuffer = 524288000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
