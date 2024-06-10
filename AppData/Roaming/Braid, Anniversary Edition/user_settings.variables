@@ -1,0 +1,17 @@
+
+:/
+render_every_n_frames 1
+preferred_monitor_index -1
+windowed_width 2560
+windowed_height 1440
+hd_texture_size 2
+resolution_scale 1.000000
+screen_size 1.000000
+windowed false
+vsync false
+allow_ultrawide false
+requested_fullscreen_mode -1
+requested_fullscreen_res -1
+requested_gpu_index -1
+requested_gpu_capability -1
+touch_ui_show_hd_sd_button false
