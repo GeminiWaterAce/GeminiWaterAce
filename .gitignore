@@ -424,3 +424,13 @@
 /AppData/Roaming/aDrive
 /Documents/Ghost of Tsushima DIRECTOR'S CUT/*.log
 /Documents/Ghost of Tsushima DIRECTOR'S CUT/Screenshots
+/*.viminfo
+/AppData/Local/ForzaHorizon4/cef/cache
+/AppData/Local/WeGame
+/AppData/Local/ForzaHorizon4/scratch/DrivatarGlobalCache
+/AppData/Local/ForzaHorizon4/scratch/GraphicsCache
+/AppData/Local/ForzaHorizon4/scratch/LiveryCache
+/AppData/LocalLow/miHoYo
+/AppData/Local/RailCrashReport
+/Documents/KoeiTecmo/WolongDemo/Savedata/108398629/*.vdf
+/AppData/Local/rail/credence
