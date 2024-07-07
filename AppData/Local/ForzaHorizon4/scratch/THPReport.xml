@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Report Date="2023-11-18T16:52:19Z">
+<Report Date="2024-06-27T14:48:52Z">
   <Profile Name="Dynamic" Result="Ultra|High|Medium|Low">
-    <TestGroup Result="Ultra|High|Medium|Low" Type="System" Score="10.699794" TotalScore="33.63079" Duration="0.004764">
+    <TestGroup Result="Ultra|High|Medium|Low" Type="System" Score="7.723799" TotalScore="23.086114" Duration="0.005639">
       <Tests>
-        <Test Result="Ultra|High|Medium|Low" Name="NumProcessors" Score="7.0" RawResult="32.0" Duration="0.000012" />
-        <Test Result="Ultra|High|Medium|Low" Name="SystemMemory" Score="16.682521" TextRawResult="127.91GiB" RawResult="137346772992.0" Duration="0.000017">
+        <Test Result="Ultra|High|Medium|Low" Name="NumProcessors" Score="7.0" RawResult="32.0" Duration="0.000009" />
+        <Test Result="Ultra|High|Medium|Low" Name="SystemMemory" Score="7.765651" TextRawResult="63.71GiB" RawResult="68410978304.0" Duration="0.000013">
           <Samples>
-            <Sample Parameter="AdjustedSystemMemorySize=127.91415 GiB (137346772992 Bytes), AcquiredSystemMemorySize=146.91415 GiB (157747867648 Bytes), Diff=19.0 GiB (20401094656 Bytes)" Duration="0.0" TextValue="127.91GiB" Value="137346772992.0" />
+            <Sample Parameter="AdjustedSystemMemorySize=63.712688 GiB (68410978304 Bytes), AcquiredSystemMemorySize=67.712688 GiB (72705945600 Bytes), Diff=4.0 GiB (4294967296 Bytes)" Duration="0.0" TextValue="63.71GiB" Value="68410978304.0" />
           </Samples>
         </Test>
-        <Test Result="Ultra|High|Medium|Low" Name="CPUPerformance" Score="9.948269" TextRawResult="34.82MVerts/sec" RawResult="34818941.504178" Duration="0.004731">
+        <Test Result="Ultra|High|Medium|Low" Name="CPUPerformance" Score="8.320463" TextRawResult="29.12MVerts/sec" RawResult="29121619.162025" Duration="0.005615">
           <Samples>
-            <Sample Parameter="TaskGroups: 32 TasksPerGroup: 5000 TotalVertices: 160000 RenderedVertices: 75725 AveragePos:(97.808640,147.151871,-3783.789307)" Duration="0.004595" TextValue="34.82MVerts/sec" Value="34818941.504178" />
+            <Sample Parameter="TaskGroups: 32 TasksPerGroup: 5000 TotalVertices: 160000 RenderedVertices: 75725 AveragePos:(97.808640,147.151871,-3783.789307)" Duration="0.005494" TextValue="29.12MVerts/sec" Value="29121619.162025" />
           </Samples>
         </Test>
       </Tests>
     </TestGroup>
-    <TestGroup Result="Ultra|High|Medium|Low" Type="D3DAdapter" Score="8.136863" TotalScore="8.136863" Id="0" Description="NVIDIA GeForce RTX 3090" Duration="0.024272">
+    <TestGroup Result="Ultra|High|Medium|Low" Type="D3DAdapter" Score="8.065249" TotalScore="8.065249" Id="0" Description="NVIDIA GeForce RTX 4090" Duration="0.025755">
       <Tests>
-        <Test Result="Ultra|High|Medium|Low" Name="DedicatedVideoMemory" Score="8.136863" TextRawResult="23.77GiB" RawResult="25522339840.0" Duration="0.024269" />
+        <Test Result="Ultra|High|Medium|Low" Name="DedicatedVideoMemory" Score="8.065249" TextRawResult="23.58GiB" RawResult="25314721792.0" Duration="0.025754" />
       </Tests>
     </TestGroup>
   </Profile>
   <SystemInformation>BuildTimeStamp:Sep 18 2018 16:04:41
 SystemInfo:
   Structure Version: 3
-     Processor Name: AMD Ryzen 9 5950X 16-Core Processor            
+     Processor Name: AMD Ryzen 9 7950X3D 16-Core Processor          
       NumProcessors: 32
            CPUFlags: HyperThreading
    SIMDInstructions: SSE1|SSE2|SSE3|SSE4.0|SSE4.1|SSE4.2|POPCNT|LZCNT|AVX1
-TotalPhysicalMemory: 127.91415 GiB (137346772992 Bytes)
+TotalPhysicalMemory: 63.712688 GiB (68410978304 Bytes)
        Num Adapters: 1
              Adapter#: 0
     Structure Version: 4
-          Description: NVIDIA GeForce RTX 3090
-    Known Device Name: NVIDIA GeForce RTX 3090
+          Description: NVIDIA GeForce RTX 4090
+    Known Device Name: NVIDIA GeForce RTX 4090
             Vendor Id: 0x000010de(4318)
-            Device Id: 0x00002204(8708)
-            SubSys Id: 0x161919da(370743770)
+            Device Id: 0x00002684(9860)
+            SubSys Id: 0x271119da(655432154)
           Revision Id: 0x000000a1(161)
-       Driver Version: 31.0.15.4617
+       Driver Version: 32.0.15.5599
          FeatureLevel: 11.0
   ResourceBindingTier: Tier 3
    TiledResourcesTier: Tier 3
      ResourceHeapTier: Tier 2
- DedicatedVideoMemory: 23.769531 GiB (25522339840 Bytes)
+ DedicatedVideoMemory: 23.576172 GiB (25314721792 Bytes)
 DedicatedSystemMemory: 0 Bytes
-   SharedSystemMemory: 63.957075 GiB (68673386496 Bytes)
+   SharedSystemMemory: 31.856344 GiB (34205489152 Bytes)
             TeraFlops: 0.000000
 </SystemInformation>
 </Report>
