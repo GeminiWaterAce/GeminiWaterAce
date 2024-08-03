@@ -417,9 +417,24 @@
 /AppData/Local/Ubisoft Game Launcher/user.dat
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/*.vdf
 /Documents/Rockstar Games/Social Club/Titles
-/AppData/Local/NVIDIA Corporation
+/*.lesshst
+/AppData/Roaming/Braid, Anniversary Edition/logs
+/AppData/Roaming/Braid, Anniversary Edition/*.vdf
+/AppData/Local/adrive-desktop-updater
+/AppData/Roaming/aDrive
+/Documents/Ghost of Tsushima DIRECTOR'S CUT/*.log
+/Documents/Ghost of Tsushima DIRECTOR'S CUT/Screenshots
+/*.viminfo
+/AppData/Local/ForzaHorizon4/cef/cache
 /AppData/Local/WeGame
+/AppData/Local/ForzaHorizon4/scratch/DrivatarGlobalCache
+/AppData/Local/ForzaHorizon4/scratch/GraphicsCache
+/AppData/Local/ForzaHorizon4/scratch/LiveryCache
+/AppData/LocalLow/miHoYo
+/AppData/Local/RailCrashReport
+/Documents/KoeiTecmo/WolongDemo/Savedata/108398629/*.vdf
 /AppData/Local/rail
 /Documents/Shadow of the Tomb Raider/*.log
 /Documents/Shadow of the Tomb Raider/*.txt
 /AppData/Roaming/Rizonesoft
+/AppData/Local/NVIDIA Corporation
