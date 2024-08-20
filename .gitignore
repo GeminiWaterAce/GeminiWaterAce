@@ -454,3 +454,14 @@
 /AppData/Local/NVIDIA
 /AppData/Local/NVIDIA Corporation
 /AppData/Local/Ubisoft Game Launcher
+/AppData/Roaming/obs-studio/plugin_config
+/AppData/Local/b1/Saved_WeGame/Config
+/AppData/Local/b1/Saved_WeGame/Logs
+/AppData/Local/b1/Saved_WeGame/webcache_4147
+/AppData/Local/b1/Saved_WeGame/*.ushaderprecache
+/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/ArchiveSnapshot
+/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/GMCmdPack
+/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.lock
+/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.txt
+/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.ini
+/AppData/Local/Softdeluxe

@@ -1,73 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <Settings>
-  <version value="27" />
-  <configSource>SMC_AUTO</configSource>
-  <graphics>
-    <Tessellation value="3" />
-    <LodScale value="1.000000" />
-    <PedLodBias value="0.200000" />
-    <VehicleLodBias value="0.000000" />
-    <ShadowQuality value="3" />
-    <ReflectionQuality value="3" />
-    <ReflectionMSAA value="8" />
-    <SSAO value="2" />
-    <AnisotropicFiltering value="16" />
-    <MSAA value="4" />
-    <MSAAFragments value="0" />
-    <MSAAQuality value="0" />
-    <SamplingMode value="0" />
-    <TextureQuality value="2" />
-    <ParticleQuality value="2" />
-    <WaterQuality value="2" />
-    <GrassQuality value="3" />
-    <ShaderQuality value="2" />
-    <Shadow_SoftShadows value="5" />
-    <UltraShadows_Enabled value="true" />
-    <Shadow_ParticleShadows value="true" />
-    <Shadow_Distance value="2.000000" />
-    <Shadow_LongShadows value="true" />
-    <Shadow_SplitZStart value="0.930000" />
-    <Shadow_SplitZEnd value="0.890000" />
-    <Shadow_aircraftExpWeight value="0.990000" />
-    <Shadow_DisableScreenSizeCheck value="false" />
-    <Reflection_MipBlur value="true" />
-    <FXAA_Enabled value="true" />
-    <TXAA_Enabled value="true" />
-    <Lighting_FogVolumes value="true" />
-    <Shader_SSA value="true" />
-    <DX_Version value="2" />
-    <CityDensity value="1.000000" />
-    <PedVarietyMultiplier value="1.000000" />
-    <VehicleVarietyMultiplier value="1.000000" />
-    <PostFX value="3" />
-    <DoF value="true" />
-    <HdStreamingInFlight value="true" />
-    <MaxLodScale value="1.000000" />
-    <MotionBlurStrength value="1.000000" />
-  </graphics>
-  <system>
-    <numBytesPerReplayBlock value="9000000" />
-    <numReplayBlocks value="30" />
-    <maxSizeOfStreamingReplay value="1024" />
-    <maxFileStoreSize value="65536" />
-  </system>
-  <audio>
-    <Audio3d value="false" />
-  </audio>
-  <video>
-    <AdapterIndex value="0" />
-    <OutputIndex value="0" />
-    <ScreenWidth value="3840" />
-    <ScreenHeight value="2160" />
-    <RefreshRate value="143" />
-    <Windowed value="0" />
-    <VSync value="0" />
-    <Stereo value="0" />
-    <Convergence value="0.100000" />
-    <Separation value="1.000000" />
-    <PauseOnFocusLoss value="1" />
-    <AspectRatio value="0" />
-  </video>
-  <VideoCardDescription>NVIDIA GeForce RTX 4090</VideoCardDescription>
+    <version value="27" />
+    <configSource>SMC_AUTO</configSource>
+    <graphics>
+        <Tessellation value="3" />
+        <LodScale value="1.000000" />
+        <PedLodBias value="0.200000" />
+        <VehicleLodBias value="0.000000" />
+        <ShadowQuality value="3" />
+        <ReflectionQuality value="3" />
+        <ReflectionMSAA value="8" />
+        <SSAO value="2" />
+        <AnisotropicFiltering value="16" />
+        <MSAA value="4" />
+        <MSAAFragments value="0" />
+        <MSAAQuality value="0" />
+        <SamplingMode value="0" />
+        <TextureQuality value="2" />
+        <ParticleQuality value="2" />
+        <WaterQuality value="2" />
+        <GrassQuality value="3" />
+        <ShaderQuality value="2" />
+        <Shadow_SoftShadows value="5" />
+        <UltraShadows_Enabled value="true" />
+        <Shadow_ParticleShadows value="true" />
+        <Shadow_Distance value="2.000000" />
+        <Shadow_LongShadows value="true" />
+        <Shadow_SplitZStart value="0.930000" />
+        <Shadow_SplitZEnd value="0.890000" />
+        <Shadow_aircraftExpWeight value="0.990000" />
+        <Shadow_DisableScreenSizeCheck value="false" />
+        <Reflection_MipBlur value="true" />
+        <FXAA_Enabled value="true" />
+        <TXAA_Enabled value="true" />
+        <Lighting_FogVolumes value="true" />
+        <Shader_SSA value="true" />
+        <DX_Version value="2" />
+        <CityDensity value="1.000000" />
+        <PedVarietyMultiplier value="1.000000" />
+        <VehicleVarietyMultiplier value="1.000000" />
+        <PostFX value="3" />
+        <DoF value="true" />
+        <HdStreamingInFlight value="true" />
+        <MaxLodScale value="1.000000" />
+        <MotionBlurStrength value="1.000000" />
+    </graphics>
+    <system>
+        <numBytesPerReplayBlock value="9000000" />
+        <numReplayBlocks value="30" />
+        <maxSizeOfStreamingReplay value="1024" />
+        <maxFileStoreSize value="65536" />
+    </system>
+    <audio>
+        <Audio3d value="false" />
+    </audio>
+    <video>
+        <AdapterIndex value="0" />
+        <OutputIndex value="0" />
+        <ScreenWidth value="3840" />
+        <ScreenHeight value="2160" />
+        <RefreshRate value="143" />
+        <Windowed value="0" />
+        <VSync value="0" />
+        <Stereo value="0" />
+        <Convergence value="0.100000" />
+        <Separation value="1.000000" />
+        <PauseOnFocusLoss value="1" />
+        <AspectRatio value="0" />
+    </video>
+    <VideoCardDescription>NVIDIA GeForce RTX 4090</VideoCardDescription>
 </Settings>
