@@ -147,3 +147,5 @@ trainingConfig.enemyMultiplier: 1
 trainingConfig.enemyLifeMultiplier: 250
 trainingConfig.timeMultiplier: 100
 trainingConfig.spectatorMode: False
+
+
