@@ -12,4 +12,8 @@
   Y = 2160
   X = 3840
   WindowWidth = 3840
+  NoBorder = false
+  FullScreen = true
 }
+
+
