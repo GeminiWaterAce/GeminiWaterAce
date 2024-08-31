@@ -433,6 +433,7 @@
 /AppData/LocalLow/miHoYo
 /AppData/Local/RailCrashReport
 /Documents/KoeiTecmo/WolongDemo/Savedata/108398629/*.vdf
+/AppData/Local/rail
 /AppData/Local/rail/credence
 /AppData/Local/Battle.net
 /AppData/Local/Blizzard Entertainment
@@ -470,3 +471,5 @@
 /AppData/Local/LGHUB
 /AppData/Roaming/G HUB
 /AppData/Roaming/lghub
+/Documents/Shadow of the Tomb Raider/*.log
+/Documents/Shadow of the Tomb Raider/*.txt
