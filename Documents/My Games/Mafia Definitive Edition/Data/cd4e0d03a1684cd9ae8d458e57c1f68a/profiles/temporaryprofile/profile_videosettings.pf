@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <C_SaveDataUnwrapped>
-	<m_Blocks>
-		<S_VideoSettingsSaveBlock>
-			<m_GameplayFOVMultiplier>1.38461542e+00</m_GameplayFOVMultiplier>
-			<m_GameplayDepthOfFieldEnabled>true</m_GameplayDepthOfFieldEnabled>
-			<m_GlobalSettings>4</m_GlobalSettings>
-			<m_GamaCorrection>1.10000002e+00</m_GamaCorrection>
-			<m_SSAO>2</m_SSAO>
-			<m_ShadowQuality>2</m_ShadowQuality>
-			<m_GeometryDetail>2</m_GeometryDetail>
-			<m_VegetationQuality>2</m_VegetationQuality>
-			<m_DecalsQuality>2</m_DecalsQuality>
-			<m_DirectLightingQuality>2</m_DirectLightingQuality>
-			<m_IndirectLightingQuality>2</m_IndirectLightingQuality>
-			<m_AntiAliasing>2</m_AntiAliasing>
-			<m_ReflectionQuality>0</m_ReflectionQuality>
-			<m_VolumetricEffects>0</m_VolumetricEffects>
-			<m_VSync>false</m_VSync>
-			<m_MotionBlur>true</m_MotionBlur>
-			<m_FPS>2</m_FPS>
-			<m_IsFullscreen>true</m_IsFullscreen>
-			<m_ResolutionWidth>3840</m_ResolutionWidth>
-			<m_ResolutionHeight>2160</m_ResolutionHeight>
-			<m_WindowBorder>true</m_WindowBorder>
-			<m_BlackAndWhite>false</m_BlackAndWhite>
-			<m_Id>VideoSettings</m_Id>
-			<m_Layer>0</m_Layer>
-		</S_VideoSettingsSaveBlock>
-	</m_Blocks>
-</C_SaveDataUnwrapped>mÚD
+  <m_Blocks>
+    <S_VideoSettingsSaveBlock>
+      <m_GameplayFOVMultiplier>1.00000000e+00</m_GameplayFOVMultiplier>
+      <m_GameplayDepthOfFieldEnabled>true</m_GameplayDepthOfFieldEnabled>
+      <m_GlobalSettings>4</m_GlobalSettings>
+      <m_GamaCorrection>1.00000000e+00</m_GamaCorrection>
+      <m_SSAO>0</m_SSAO>
+      <m_ShadowQuality>2</m_ShadowQuality>
+      <m_GeometryDetail>2</m_GeometryDetail>
+      <m_VegetationQuality>2</m_VegetationQuality>
+      <m_DecalsQuality>2</m_DecalsQuality>
+      <m_DirectLightingQuality>2</m_DirectLightingQuality>
+      <m_IndirectLightingQuality>2</m_IndirectLightingQuality>
+      <m_AntiAliasing>2</m_AntiAliasing>
+      <m_ReflectionQuality>0</m_ReflectionQuality>
+      <m_VolumetricEffects>0</m_VolumetricEffects>
+      <m_VSync>false</m_VSync>
+      <m_MotionBlur>false</m_MotionBlur>
+      <m_FPS>2</m_FPS>
+      <m_IsFullscreen>true</m_IsFullscreen>
+      <m_ResolutionWidth>1366</m_ResolutionWidth>
+      <m_ResolutionHeight>768</m_ResolutionHeight>
+      <m_WindowBorder>false</m_WindowBorder>
+      <m_BlackAndWhite>false</m_BlackAndWhite>
+      <m_Id>VideoSettings</m_Id>
+      <m_Layer>0</m_Layer>
+    </S_VideoSettingsSaveBlock>
+  </m_Blocks>
+</C_SaveDataUnwrapped>
+¥ï•9

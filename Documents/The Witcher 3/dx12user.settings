@@ -49,7 +49,7 @@ DebugScriptsLogDir=
 SharpenAmount=2
 FSR2SharpnessHigh=1
 MotionBlurPositionTreshold=0.05
-DLSSQuality=1
+DLSSQuality=0
 FSR2Sharpness=0.3
 LockhartPerformanceMode=true
 RCASAmount=0.2
@@ -134,9 +134,9 @@ Disabled=false
 EnableAOSSSampling=true
 EnableRT=false
 RTGIPreset=true
-Shadows=true
-EnableRtRadiance=true
-RTAOEnabled=true
+Shadows=false
+EnableRtRadiance=false
+RTAOEnabled=false
 EnableAOPretrace=true
 [LoadingOverlay/TCR]
 FadeOutCooldownExtraTime=1
@@ -215,6 +215,12 @@ WidescreenCutscene=false
 HairWorksAALevel=8
 TextureInFlightCountBudgetLoadingMode=256
 CascadeShadowDistanceScale1=1.5
+UseDynamicWaterSimulation=true
+MaxCubeShadowSize=512
+TerrainErrorMetricMultiplier=10
+MaxCascadeCount=5
+MaxSpotShadowSize=512
+HairWorksGlobalStrandSmoothness=3
 [Input/Gestures]
 EnableSwipe=true
 EnablePan=true
@@ -265,3 +271,4 @@ ShowCompatWarning=true
 Kinect=true
 [Foliage]
 MaxVisibilityDepth=24
+[Streaming/Textures]
