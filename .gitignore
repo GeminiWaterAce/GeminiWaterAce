@@ -473,3 +473,8 @@
 /AppData/Roaming/lghub
 /Documents/Shadow of the Tomb Raider/*.log
 /Documents/Shadow of the Tomb Raider/*.txt
+/AppData/Local/Diagnostics
+/AppData/LocalLow/NatsumeAtari/KAGE Shadow of the Ninja/*.log
+/AppData/LocalLow/NatsumeAtari/KAGE Shadow of the Ninja Digital Soundtrack/*.log
+/AppData/Local/Sony Interactive Entertainment Inc/PSPC_SDK/titles
+/AppData/Local/PCHealthCheck
