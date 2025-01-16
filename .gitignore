@@ -532,3 +532,7 @@
 /AppData/LocalLow/DarkPigeonGames/AWAKEN - Astral Blade/*.log
 /AppData/Roaming/CC
 /AppData/LocalLow/DarkPigeonGames/AWAKEN - Astral Blade/GameSave/BackUp
+/AppData/Local/Stalker2/Saved/Config
+/AppData/Local/Stalker2/Saved/*.cfg
+/AppData/Local/Unreal Engine/Engine/Config
+/AppData/Local/Stalker2/Saved/Logs
