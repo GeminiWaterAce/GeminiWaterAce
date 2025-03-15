@@ -545,3 +545,6 @@
 /AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/*.dat
 /AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/metadata
 /AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/reports
+/AppData/Local/SplitFiction/*.vdf
+/AppData/Local/SplitFiction/Saved/Config
+/AppData/Local/SplitFiction/Saved/Logs
