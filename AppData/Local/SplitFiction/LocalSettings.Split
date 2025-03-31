@@ -1,0 +1,13 @@
+{
+	"WindowMode": "Fullscreen",
+	"HDR": "On",
+	"VSync": "Off",
+	"TextureQuality": "Ultra",
+	"ShadowQuality": "Ultra",
+	"DetailLevel": "Ultra",
+	"ResolutionScale": "100.0",
+	"ShaderQuality": "Ultra",
+	"MaxAnisotropy": "16X",
+	"PostProcessingQuality": "Ultra",
+	"Gamma": "3.0"
+}
