@@ -30,11 +30,11 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "双影奇境",
-    "current_program_scene": "双影奇境",
+    "current_scene": "战神诸神黄昏",
+    "current_program_scene": "战神诸神黄昏",
     "scene_order": [
         {
-            "name": "边境猎人"
+            "name": "边境猎人艾尔莎的命运之轮"
         },
         {
             "name": "索尼克超级巨星"
@@ -49,10 +49,13 @@
             "name": "时空幻境周年纪念版"
         },
         {
-            "name": "通用显示器采集"
+            "name": "黑神话悟空"
         },
         {
             "name": "战神诸神黄昏"
+        },
+        {
+            "name": "新战神"
         },
         {
             "name": "游聚游戏平台"
@@ -69,128 +72,6 @@
     ],
     "name": "GeminiWaterAce",
     "sources": [
-        {
-            "prev_ver": 520093698,
-            "name": "边境猎人",
-            "uuid": "7c721ba8-7d1f-4fb6-8e78-4ecfeff51c2c",
-            "id": "scene",
-            "versioned_id": "scene",
-            "settings": {
-                "id_counter": 1,
-                "custom_size": false,
-                "items": [
-                    {
-                        "name": "边境猎人游戏",
-                        "source_uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    }
-                ]
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
-            "name": "边境猎人游戏",
-            "uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
-            "id": "game_capture",
-            "versioned_id": "game_capture",
-            "settings": {
-                "window": "Frontier_Hunter:UnityWndClass:Frontier_Hunter.exe",
-                "capture_mode": "window"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "hotkey_start": [],
-                "hotkey_stop": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
         {
             "prev_ver": 520093698,
             "name": "索尼克超级巨星",
@@ -685,211 +566,6 @@
         },
         {
             "prev_ver": 520093698,
-            "name": "显示器采集",
-            "uuid": "976b27af-40f3-4abd-b907-c3ce06dd5fc3",
-            "id": "monitor_capture",
-            "versioned_id": "monitor_capture",
-            "settings": {
-                "monitor_id": "\\\\?\\DISPLAY#VSCFB41#5&15b463a1&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
-            "name": "通用显示器采集",
-            "uuid": "658dc5da-ace2-422a-998b-302c702433c9",
-            "id": "scene",
-            "versioned_id": "scene",
-            "settings": {
-                "id_counter": 9,
-                "custom_size": false,
-                "items": [
-                    {
-                        "name": "显示器采集",
-                        "source_uuid": "976b27af-40f3-4abd-b907-c3ce06dd5fc3",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 8,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "通用文本1",
-                        "source_uuid": "b2f9c663-c407-47b1-96c8-b4c672f4c6d2",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 9,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 1634.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -0.2648148238658905,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    }
-                ]
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.8": [],
-                "libobs.hide_scene_item.8": [],
-                "libobs.show_scene_item.9": [],
-                "libobs.hide_scene_item.9": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
-            "name": "通用文本1",
-            "uuid": "b2f9c663-c407-47b1-96c8-b4c672f4c6d2",
-            "id": "text_gdiplus",
-            "versioned_id": "text_gdiplus_v3",
-            "settings": {
-                "text": "主力机直播没有麦克风",
-                "font": {
-                    "face": "Arial",
-                    "style": "Regular",
-                    "size": 100,
-                    "flags": 0
-                },
-                "color": 4294923519,
-                "opacity": 79
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
             "name": "战神诸神黄昏",
             "uuid": "6c36faa3-1b50-4ece-9dc2-136ef066d16d",
             "id": "scene",
@@ -952,61 +628,6 @@
                             "duration": 0
                         },
                         "private_settings": {}
-                    },
-                    {
-                        "name": "通用文本1 2",
-                        "source_uuid": "e26d3cbe-72ec-458d-b00c-05043612ab4b",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 2,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 1000.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -0.85185188055038452,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     }
                 ]
             },
@@ -1024,9 +645,7 @@
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
-                "libobs.show_scene_item.2": [],
-                "libobs.hide_scene_item.2": []
+                "libobs.hide_scene_item.1": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1041,7 +660,8 @@
             "versioned_id": "game_capture",
             "settings": {
                 "window": "God of War Ragnar鰇:SMSGameWindow:GoWR.exe",
-                "capture_mode": "window"
+                "capture_mode": "window",
+                "rgb10a2_space": "2100pq"
             },
             "mixers": 255,
             "sync": 0,
@@ -1062,40 +682,6 @@
                 "hotkey_start": [],
                 "hotkey_stop": []
             },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
-            "name": "通用文本1 2",
-            "uuid": "e26d3cbe-72ec-458d-b00c-05043612ab4b",
-            "id": "text_gdiplus",
-            "versioned_id": "text_gdiplus_v3",
-            "settings": {
-                "text": "战神诸神黄昏1周目战神难度再来亿遍！主力机无麦克风",
-                "font": {
-                    "face": "Arial",
-                    "style": "Regular",
-                    "size": 100,
-                    "flags": 0
-                },
-                "color": 4294923519,
-                "opacity": 79
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -1563,6 +1149,468 @@
             "versioned_id": "game_capture",
             "settings": {
                 "window": "双影奇境:UnrealWindow:SplitFiction.exe",
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "边境猎人艾尔莎的命运之轮",
+            "uuid": "7c721ba8-7d1f-4fb6-8e78-4ecfeff51c2c",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 4,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "边境猎人艾尔莎的命运之轮游戏",
+                        "source_uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 480.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.3333333730697632,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 3.5999999046325684,
+                            "y": 3.5999999046325684
+                        },
+                        "scale_rel": {
+                            "x": 3.5999999046325684,
+                            "y": 3.5999999046325684
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "浏览器",
+                        "source_uuid": "e9041810-97ab-450e-a68a-c86b805758a3",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 2267.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": 0.32129630446434021,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 2.6216666698455811,
+                            "y": 2.6212499141693115
+                        },
+                        "scale_rel": {
+                            "x": 2.6216666698455811,
+                            "y": 2.6212499141693115
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "边境猎人艾尔莎的命运之轮游戏",
+            "uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Frontier_Hunter:UnityWndClass:Frontier_Hunter.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "浏览器",
+            "uuid": "e9041810-97ab-450e-a68a-c86b805758a3",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "http://localhost:12450/room/test?roomKeyType=2&minGiftPrice=0&showGiftName=true&mergeSimilarDanmaku=true&maxNumber=30&lang=zh",
+                "width": 600,
+                "height": 800,
+                "shutdown": false,
+                "restart_when_active": true,
+                "css": "@import url(\"https://fonts.googleapis.com/css?family=Noto%20Sans%20SC\");\n\n/* Transparent background */\nyt-live-chat-renderer {\n  background-color: transparent !important;\n}\n\nyt-live-chat-ticker-renderer {\n  background-color: transparent !important;\n  box-shadow: none !important;\n}\n\nyt-live-chat-author-chip #author-name {\n  background-color: transparent !important;\n}\n\n/* Hide scrollbar */\nyt-live-chat-item-list-renderer #items {\n  overflow: hidden !important;\n}\n\nyt-live-chat-item-list-renderer #item-scroller {\n  overflow: hidden !important;\n}\n\nyt-live-chat-text-message-renderer #content,\nyt-live-chat-membership-item-renderer #content {\n  overflow: visible !important;\n}\n\n/* Hide header and input */\nyt-live-chat-header-renderer,\nyt-live-chat-message-input-renderer {\n  display: none !important;\n}\n\n/* Hide unimportant messages */\nyt-live-chat-text-message-renderer[is-deleted],\nyt-live-chat-membership-item-renderer[is-deleted] {\n  display: none !important;\n}\n\nyt-live-chat-mode-change-message-renderer, \nyt-live-chat-viewer-engagement-message-renderer, \nyt-live-chat-restricted-participation-renderer {\n  display: none !important;\n}\n\nyt-live-chat-text-message-renderer a,\nyt-live-chat-membership-item-renderer a {\n  text-decoration: none !important;\n}\n\n/* Reduce side padding */\nyt-live-chat-text-message-renderer {\n  padding-left: 4px !important;\n  padding-right: 4px !important;\n}\n\n/* Avatars */\nyt-live-chat-text-message-renderer #author-photo,\nyt-live-chat-text-message-renderer #author-photo img,\nyt-live-chat-paid-message-renderer #author-photo,\nyt-live-chat-paid-message-renderer #author-photo img,\nyt-live-chat-membership-item-renderer #author-photo,\nyt-live-chat-membership-item-renderer #author-photo img {\n  \n  width: 40px !important;\n  height: 40px !important;\n  border-radius: 40px !important;\n  margin-right: 10px !important;\n}\n\n/* Channel names */\nyt-live-chat-text-message-renderer yt-live-chat-author-chip {\n  margin-bottom: 5px;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"owner\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"owner\"] {\n  color: #ffd600 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"moderator\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"moderator\"] {\n  color: #5e84f1 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"member\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"member\"] {\n  color: #0f9d58 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name {\n  \n  color: #cccccc !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 20px !important;\n  line-height: 22px !important;\n}\n\n/* Hide badges */\nyt-live-chat-text-message-renderer #chat-badges {\n  \n  vertical-align: text-top !important;\n}\n\n/* Messages */\nyt-live-chat-text-message-renderer #message,\nyt-live-chat-text-message-renderer #message * {\n  color: #000000 !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-text-message-renderer #message {\n  display: block !important;\n  position: relative;\n  width: fit-content;\n  overflow: visible !important;\n  padding: 15px;\n  border-radius: 24px;\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji) {\n  \n}\n\nyt-live-chat-text-message-renderer #message .emoji {\n  width: auto !important;\n  height: 18px !important;\n}\n\nyt-live-chat-text-message-renderer #message .emoji.blc-large-emoji {\n  height: 36px !important;\n}\n\n/* The triangle beside dialog */\nyt-live-chat-text-message-renderer #message::before {\n  content: \"\";\n  display: inline-block;\n  position: absolute;\n  top: -3px;\n  left: -10px;\n  border: 8px solid transparent;\n  border-right: 18px solid;\n  transform: rotate(35deg);\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji)::before {\n  \n}\n\n/* Timestamps */\nyt-live-chat-text-message-renderer #timestamp {\n  display: inline !important;\n  color: #999999 !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 16px !important;\n  line-height: 16px !important;\n}\n\n/* Background colors */\nbody {\n  overflow: hidden;\n  background-color: rgba(0, 0, 0, 0);\n}\n\nyt-live-chat-text-message-renderer #message {\n  background-color: #ffffff !important;\n}\n\nyt-live-chat-text-message-renderer #message::before {\n  border-right-color: #ffffff;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"owner\"] #message {\n  background-color: rgba(231, 199, 30, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"owner\"] #message::before {\n  border-right-color: rgba(231, 199, 30, 1);\n}\n\nyt-live-chat-text-message-renderer[author-type=\"moderator\"] #message {\n  background-color: rgba(41, 95, 251, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"moderator\"] #message::before {\n  border-right-color: rgba(41, 95, 251, 1);\n}\n\nyt-live-chat-text-message-renderer[author-type=\"member\"] #message {\n  background-color: rgba(43, 234, 43, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"member\"] #message::before {\n  border-right-color: rgba(43, 234, 43, 1);\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji) {\n  \n}\n\n/* SuperChat/Fan Funding Messages */\nyt-live-chat-paid-message-renderer {\n  margin: 4px 0 !important;\n}\n\nyt-live-chat-paid-message-renderer #author-name,\nyt-live-chat-paid-message-renderer #author-name *,\nyt-live-chat-membership-item-renderer #header-content-inner-column,\nyt-live-chat-membership-item-renderer #header-content-inner-column * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 20px !important;\n  line-height: 22px !important;\n}\n\nyt-live-chat-paid-message-renderer #purchase-amount,\nyt-live-chat-paid-message-renderer #purchase-amount *,\nyt-live-chat-membership-item-renderer #header-subtext,\nyt-live-chat-membership-item-renderer #header-subtext * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-paid-message-renderer #content,\nyt-live-chat-paid-message-renderer #content * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-membership-item-renderer #card,\nyt-live-chat-membership-item-renderer #header {\n  background-color: #0f9d58 !important;\n  margin: 4px 0 !important;\n}\n\nyt-live-chat-ticker-renderer {\n  display: none !important;\n}\n\n/* SuperChat Ticker */\nyt-live-chat-ticker-paid-message-item-renderer,\nyt-live-chat-ticker-paid-message-item-renderer *,\nyt-live-chat-ticker-sponsor-item-renderer,\nyt-live-chat-ticker-sponsor-item-renderer * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n}\n\n\n\n/* Animation */\n@keyframes anim {\n  0% { opacity: 0; transform: translateX(-16px); }\n  100% { opacity: 1; transform: none; }\n}\n\nyt-live-chat-text-message-renderer,\nyt-live-chat-membership-item-renderer,\nyt-live-chat-paid-message-renderer {\n  animation: anim 200ms;\n  animation-fill-mode: both;\n}\n"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "黑神话悟空",
+            "uuid": "658dc5da-ace2-422a-998b-302c702433c9",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 10,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "黑神话悟空游戏",
+                        "source_uuid": "aaa89b41-4896-4c35-bf39-429118a873f9",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 10,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.10": [],
+                "libobs.hide_scene_item.10": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "黑神话悟空游戏",
+            "uuid": "aaa89b41-4896-4c35-bf39-429118a873f9",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "b1  :UnrealWindow:b1-Win64-Shipping.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "新战神",
+            "uuid": "52277fad-5bea-47f2-a189-f9d00fd8655f",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "新战神游戏",
+                        "source_uuid": "2949326f-1991-44d7-a8a7-d6e7c2892cf2",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520093698,
+            "name": "新战神游戏",
+            "uuid": "2949326f-1991-44d7-a8a7-d6e7c2892cf2",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "God of War:SonySantaMonica:GoW.exe",
                 "capture_mode": "window"
             },
             "mixers": 255,
@@ -1597,8 +1645,8 @@
     "current_transition": "淡入淡出",
     "transition_duration": 300,
     "preview_locked": false,
-    "scaling_enabled": true,
-    "scaling_level": -6,
+    "scaling_enabled": false,
+    "scaling_level": 0,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
