@@ -577,3 +577,7 @@
 /AppData/Local/SplitFiction/Saved/Crashes
 /AppData/Local/npm-cache
 /AppData/Roaming/obs-studio/safe_mode
+/AppData/Local/*.RND
+/AppData/Local/The Last of Us Part II/*.log
+/AppData/Roaming/Naughty Dog/The Last of Us Part II/crs/attachments
+/AppData/Roaming/Naughty Dog/The Last of Us Part II/crs/reports
