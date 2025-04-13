@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "边境猎人艾尔莎的命运之轮",
-    "current_program_scene": "边境猎人艾尔莎的命运之轮",
+    "current_scene": "新战神",
+    "current_program_scene": "新战神",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -1428,7 +1428,7 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 1,
+                "id_counter": 2,
                 "custom_size": false,
                 "items": [
                     {
