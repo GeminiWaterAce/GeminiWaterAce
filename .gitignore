@@ -582,3 +582,18 @@
 /AppData/Roaming/Naughty Dog/The Last of Us Part II/crs/attachments
 /AppData/Roaming/Naughty Dog/The Last of Us Part II/crs/reports
 /AppData/LocalLow/WayForward Technologies/River City Girls/*.log
+/AppData/Local/BlueClient/Saved/Crashes
+/AppData/Local/BlueClient/Saved/Logs
+/AppData/Local/BlueClient/Saved/Config/CrashReportClient
+/AppData/Local/BlueClient/Saved/Config/Windows
+/AppData/Local/BlueClient/Saved/webcache_4430
+/AppData/Local/MathWorks/MATLABConnector
+/AppData/Local/MathWorks/ServiceHost
+/AppData/Local/MathWorks/mwEndpointRegistry
+/AppData/Local/Sandfall/.sentry-native
+/AppData/Local/Sandfall/Saved/Logs
+/AppData/Local/Sandfall/Saved/Config
+/AppData/Local/Sandfall/Saved/SaveGames/76561197960271872/Backup
+/AppData/Local/Sandfall/Saved/*.upipelinecache
+/AppData/Local/rmmz-game
+/AppData/Roaming/DarkSoulsIII/*.vdf
