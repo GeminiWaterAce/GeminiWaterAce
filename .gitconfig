@@ -10,6 +10,7 @@
 	directory = H:/Repository/GeminiWaterAce
 	directory = C:/Users/GeminiWaterAce
 	directory = I:/Repositories/GeminiWaterAce
+	directory = I:/Repositories/GamingStrategy
 [http]
 	sslVerify = false
 	version = HTTP/1.1
