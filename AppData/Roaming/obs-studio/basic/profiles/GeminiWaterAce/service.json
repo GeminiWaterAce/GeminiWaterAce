@@ -1,1 +1,1 @@
-{"type":"rtmp_custom","settings":{"server":"rtmp://live-push.bilivideo.com/live-bvc/","use_auth":false,"bwtest":false,"key":"?streamname=live_3260750_332_c521e483&key=ca3e9befafaa2b329acb715bfe53530c&schedule=rtmp&pflag=1"}}
+{"type":"rtmp_custom","settings":{"server":"rtmp://sendhw3.douyu.com/live","use_auth":true,"username":"userwaterzz","password":"Blizzard3s","bwtest":false,"key":"671450rIHtMAotqK?dyPRI=0&origin=hw&record=flv&roirecognition=0&stemp_id=12898962&tw=0&wm=0&wsSecret=ec60df4ff102610752bf9fb809415f8f&wsSeek=off&wsTime=6829f4aa"}}
