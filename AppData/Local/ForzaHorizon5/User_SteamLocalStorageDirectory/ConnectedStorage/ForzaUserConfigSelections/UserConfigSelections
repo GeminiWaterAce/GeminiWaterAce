@@ -82,18 +82,18 @@
   </settings>
   <selections>
     <option id="UseDynamicOptimization" value="0"/>
-    <option id="FrameRate" value="4"/>
+    <option id="FrameRate" value="3"/>
     <option id="VSync" value="0"/>
     <option id="EnableHDR" value="1"/>
     <option id="MotionBlurAmount" value="2"/>
     <option id="ShowFPS" value="0"/>
     <option id="ResolutionScaling" value="0"/>
     <option id="DLSSMode" value="0"/>
-    <option id="DLSSGMode" value="1"/>
+    <option id="DLSSGMode" value="0"/>
     <option id="FSR2Mode" value="0"/>
     <option id="XeSSMode" value="0"/>
-    <option id="REFLEXMode" value="1"/>
-    <option id="NVIDIATech" value="1"/>
+    <option id="REFLEXMode" value="0"/>
+    <option id="NVIDIATech" value="0"/>
     <option id="Anisotropic" value="2"/>
     <option id="ShadowQuality" value="4"/>
     <option id="NightShadows" value="1"/>
@@ -103,7 +103,7 @@
     <option id="MSAA" value="0"/>
     <option id="FXAA" value="0"/>
     <option id="TAA" value="0"/>
-    <option id="DLAA" value="1"/>
+    <option id="DLAA" value="0"/>
     <option id="FSR2AA" value="0"/>
     <option id="XeSSAA" value="0"/>
     <option id="SSAO" value="2"/>
