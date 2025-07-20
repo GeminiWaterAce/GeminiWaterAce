@@ -1,120 +1,121 @@
-<UserConfig Version='29' HardwareHash='0'>
+
+<UserConfig Version="29" HardwareHash="0">
   <settings>
-    <PresentInterval isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <MonitorRefreshPeriod value='0.006944' />
-    <ForceAnisoFiltering isDynamic='0' dynamicValue='Default' name='Default' value='2' />
-    <AnisoSettingBias isDynamic='0' dynamicValue='Default' name='Default' value='2' />
-    <EnableShadows isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <EnableForwardPlusShadows isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <CollidableShadows isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <EnvStreamingTex isDynamic='0' dynamicValue='Default' StreamingPoolSizeMB='1700' DropQualityLevels='0' UseHighQualityTexturePVS='1' />
-    <UIScale value='1.000000' />
-    <CarSpecularCubemapResolution isDynamic='0' dynamicValue='Default' name='Default' value='512' />
-    <GlobalSpecularCubemapResolution isDynamic='0' dynamicValue='Default' name='Default' value='512' />
-    <UseCarSpecularCubemapInCockpit isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <CarSpecularCubemapMSAA isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <CubemapDrawDistanceScalar isDynamic='0' dynamicValue='Default' name='Default' value='3.000000' />
-    <CubemapMeshSizeThresholdScalar isDynamic='0' dynamicValue='Default' name='Default' value='0.143000' />
-    <ParticleRateScale isDynamic='0' dynamicValue='Default' name='Default' value='1.000000' />
-    <EnvMapFrequencyScale isDynamic='1' dynamicValue='Ultra' />
-    <TilingScenario isDynamic='0' dynamicValue='Default' name='Default' value='3' />
-    <CollidablesInMirror isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <CrowdDrawMirror isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <MaxCarsInMirror isDynamic='0' dynamicValue='Default' name='Default' value='16' />
-    <LOD3CarsInMirror isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <HalfRateMirror isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <ParticlesInMirror isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <CarLODThresholds isDynamic='0' dynamicValue='Default' name='Default' lod1='4' lod2='8' lod3='12' count='30' />
-    <CarFocusLODMinMax isDynamic='1' dynamicValue='Ultra' />
-    <CarNonFocusLODMinMax isDynamic='0' dynamicValue='Default' name='Default' min='1' max='5' />
-    <CarLODTransDist isDynamic='0' dynamicValue='Default' name='Default' near='22.500000' far='37.500000' veryFar='75.000000' farthest='112.500000' />
-    <CarTextureMIPsDropped isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <ShadowMapUpdateRate isDynamic='1' dynamicValue='Ultra' />
-    <ShadowMapUpdateRateWhenReduced isDynamic='1' dynamicValue='Ultra' />
-    <FXAA isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <SSAOQuality isDynamic='1' dynamicValue='Ultra' />
-    <AllowScreenTearing isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <MotionBlurAmount isDynamic='0' dynamicValue='Default' name='Default' value='1.000000' />
-    <MotionBlurSamples isDynamic='0' dynamicValue='Default' name='Default' value='5.000000' />
-    <MotionBlurPrePassSamples isDynamic='0' dynamicValue='Default' name='Default' value='5.000000' />
-    <EnableWindshieldReflections isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <WindshieldReflectionResolution isDynamic='0' dynamicValue='Default' name='Default' value='512' />
-    <MirrorResolution isDynamic='0' dynamicValue='Default' name='Default' value='320' />
-    <MirrorFarDistance isDynamic='0' dynamicValue='Default' name='Default' value='2000' />
-    <ResolutionWidth value='3840' />
-    <ResolutionHeight value='2160' />
-    <ShadowFilterTapCount isDynamic='0' dynamicValue='Default' PSSMNumTaps0='25' PSSMNumTaps1='25' PSSMNumTaps2='25' CSMNumTaps0='25' CSMNumTaps1='25' CSMNumTaps2='25' CSMNumTaps3='25' CloudShadow='1' MaxCSMLevel='3' MaxPSSMLevel='2' LevelBlending='1' />
-    <CSMShadowDistanceScalar isDynamic='0' dynamicValue='' name='Default' value='1.000000' />
-    <CSMShadowResolution isDynamic='1' dynamicValue='Ultra' />
-    <PSSMShadowResolution isDynamic='0' dynamicValue='Default' Resolution_Level0='2048' Resolution_Level1='1536' Resolution_Level2='1536' />
-    <Fullscreen value='1' />
-    <ShowFPS isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <UseDynamicOptimization value='0' />
-    <DeformableSnowQuality isDynamic='0' dynamicValue='Default' Active='1' TessellationLOD0Dist='20.000000' TessellationLOD0EdgeLength='0.150000' TessellationLOD1Dist='40.000000' TessellationLOD1EdgeLength='0.750000' TessellationLOD2Dist='60.000000' TessellationLOD2EdgeLength='2.000000' VertexModifyMinDist='50.000000' VertexModifyMaxDist='60.000000' />
-    <SSRQuality isDynamic='1' dynamicValue='Ultra' />
-    <MasterVolume value='1.000000' />
-    <ParticlesQuality isDynamic='0' dynamicValue='Default' name='Default' value='High' />
-    <PlayerCarLiveryResolution isDynamic='0' dynamicValue='Default' name='Default' value='2048' />
-    <OpponentCarLiveryResolution isDynamic='0' dynamicValue='Default' name='Default' value='1024' />
-    <PlayerCarLiveryIntermediateSSAA isDynamic='0' dynamicValue='Default' name='Default' value='2' />
-    <OpponentCarLiveryIntermediateSSAA isDynamic='0' dynamicValue='Default' name='Default' value='2' />
-    <PlayerCarLiveryIntermediateMSAA isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <OpponentCarLiveryIntermediateMSAA isDynamic='0' dynamicValue='Default' name='Default' value='2' />
-    <LiveryHighResolutionDecals isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <UIHUDGlassCaptureEnabled isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <LensEffectsQuality isDynamic='0' dynamicValue='Default' FlaresEnabled='1' StreaksEnabled='1' BloomEnabled='1' GodRaysEnabled='1' SunFlareEnabled='1' />
-    <ProceduralQuality isDynamic='0' dynamicValue='Default' DrawDistanceType='slod' DensityScale='1.000000' BushDensityScale='1.000000' LODDistanceScale='1.000000' TreesLODDistanceScale='1.250000' GrassLODDistanceScale='2.000000' BushLODDistanceScale='1.500000' CubeMinArea='0.000000' ShadowMinArea='0.000000' CrowdCull='0.000000' TreeLODReduction='0' UseScreenAreaTests='0' />
-    <LightGlowOcclusionDistancePushOut isDynamic='0' dynamicValue='Default' name='Default' value='0.004000' />
-    <MegaTextureLowSpeedBudget isDynamic='0' dynamicValue='' name='Default' value='0.025000' />
-    <MegaTextureHighSpeedBudget isDynamic='0' dynamicValue='' name='Default' value='0.003000' />
-    <HighQualityGrassAndFoliageEnabled isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <TerrainNoiseEnabled isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <TerrainParallaxEnabled isDynamic='1' dynamicValue='Ultra' />
-    <FollowLowFOV value='48.500000' />
-    <FollowHighFOV value='58.000000' />
-    <DriverFOV value='48.000000' />
-    <DriverNoWheelFOV value='48.000000' />
-    <HoodFOV value='66.000000' />
-    <BumperHighFOV value='58.000000' />
-    <DisplayWaterOnLens isDynamic='1' dynamicValue='Ultra' />
-    <DepthOfField isDynamic='0' dynamicValue='Default' name='Default' value='1' />
-    <DepthPrePass isDynamic='0' dynamicValue='Default' TrackCullDistanceDefault='0.000000' TrackCullDistanceReduced='0.000000' />
-    <ScreenAreaTestsMain isDynamic='0' dynamicValue='Default' MainScene='200.000000' Depth='60.000000' Cinematic='130.000000' GroundReflection='23.000000' />
-    <ScreenAreaTestsShadow isDynamic='0' dynamicValue='Default' name='Default' value='100.000000' />
-    <ScreenAreaTestsCubemap isDynamic='0' dynamicValue='Default' name='Default' value='100.000000' />
-    <ScreenAreaTestsMirror isDynamic='0' dynamicValue='Default' name='Default' value='25.000000' />
-    <UseOptimisedDayTrackShaders isDynamic='0' dynamicValue='' name='Default' value='1' />
-    <FWDPlusQuality isDynamic='0' dynamicValue='Default' ForceSimpleFWPPlusEverything='0' ForceSimpleFWPPlusExceptHeadlights='0' ForceAIToReceiveSimpleForwardPlus='0' />
-    <UseGlobalSpecularCubemapForCar isDynamic='0' dynamicValue='Default' name='Default' value='0' />
-    <KeepCarsClean isDynamic='0' dynamicValue='' name='Default' value='0' />
-    <MirrorDetail isDynamic='0' dynamicValue='' RenderLightGlows='1' SimpleForwardPlus='0' AggressiveCulling='0' AggressiveCullFarDistance='100.000000' AggressiveCullLOD3Distance='50.000000' />
-    <EnablePCHDR isDynamic='0' dynamicValue='Default' name='Default' value='1' />
+    <PresentInterval isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <MonitorRefreshPeriod value="0.004167"/>
+    <ForceAnisoFiltering isDynamic="0" dynamicValue="Default" name="Default" value="2"/>
+    <AnisoSettingBias isDynamic="0" dynamicValue="Default" name="Default" value="2"/>
+    <EnableShadows isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <EnableForwardPlusShadows isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <CollidableShadows isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <EnvStreamingTex isDynamic="0" dynamicValue="Default" StreamingPoolSizeMB="1700" DropQualityLevels="0" UseHighQualityTexturePVS="1"/>
+    <UIScale value="1.000000"/>
+    <CarSpecularCubemapResolution isDynamic="0" dynamicValue="Default" name="Default" value="512"/>
+    <GlobalSpecularCubemapResolution isDynamic="0" dynamicValue="Default" name="Default" value="512"/>
+    <UseCarSpecularCubemapInCockpit isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <CarSpecularCubemapMSAA isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <CubemapDrawDistanceScalar isDynamic="0" dynamicValue="Default" name="Default" value="3.000000"/>
+    <CubemapMeshSizeThresholdScalar isDynamic="0" dynamicValue="Default" name="Default" value="0.143000"/>
+    <ParticleRateScale isDynamic="0" dynamicValue="Default" name="Default" value="1.000000"/>
+    <EnvMapFrequencyScale isDynamic="1" dynamicValue="Ultra"/>
+    <TilingScenario isDynamic="0" dynamicValue="Default" name="Default" value="3"/>
+    <CollidablesInMirror isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <CrowdDrawMirror isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <MaxCarsInMirror isDynamic="0" dynamicValue="Default" name="Default" value="16"/>
+    <LOD3CarsInMirror isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <HalfRateMirror isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <ParticlesInMirror isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <CarLODThresholds isDynamic="0" dynamicValue="Default" name="Default" lod1="4" lod2="8" lod3="12" count="30"/>
+    <CarFocusLODMinMax isDynamic="1" dynamicValue="Ultra"/>
+    <CarNonFocusLODMinMax isDynamic="0" dynamicValue="Default" name="Default" min="1" max="5"/>
+    <CarLODTransDist isDynamic="0" dynamicValue="Default" name="Default" near="22.500000" far="37.500000" veryFar="75.000000" farthest="112.500000"/>
+    <CarTextureMIPsDropped isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <ShadowMapUpdateRate isDynamic="1" dynamicValue="Ultra"/>
+    <ShadowMapUpdateRateWhenReduced isDynamic="1" dynamicValue="Ultra"/>
+    <FXAA isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <SSAOQuality isDynamic="1" dynamicValue="Ultra"/>
+    <AllowScreenTearing isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <MotionBlurAmount isDynamic="0" dynamicValue="Default" name="Default" value="1.000000"/>
+    <MotionBlurSamples isDynamic="0" dynamicValue="Default" name="Default" value="5.000000"/>
+    <MotionBlurPrePassSamples isDynamic="0" dynamicValue="Default" name="Default" value="5.000000"/>
+    <EnableWindshieldReflections isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <WindshieldReflectionResolution isDynamic="0" dynamicValue="Default" name="Default" value="512"/>
+    <MirrorResolution isDynamic="0" dynamicValue="Default" name="Default" value="320"/>
+    <MirrorFarDistance isDynamic="0" dynamicValue="Default" name="Default" value="2000"/>
+    <ResolutionWidth value="3840"/>
+    <ResolutionHeight value="2160"/>
+    <ShadowFilterTapCount isDynamic="0" dynamicValue="Default" PSSMNumTaps0="25" PSSMNumTaps1="25" PSSMNumTaps2="25" CSMNumTaps0="25" CSMNumTaps1="25" CSMNumTaps2="25" CSMNumTaps3="25" CloudShadow="1" MaxCSMLevel="3" MaxPSSMLevel="2" LevelBlending="1"/>
+    <CSMShadowDistanceScalar isDynamic="0" dynamicValue="" name="Default" value="1.000000"/>
+    <CSMShadowResolution isDynamic="1" dynamicValue="Ultra"/>
+    <PSSMShadowResolution isDynamic="0" dynamicValue="Default" Resolution_Level0="2048" Resolution_Level1="1536" Resolution_Level2="1536"/>
+    <Fullscreen value="1"/>
+    <ShowFPS isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <UseDynamicOptimization value="0"/>
+    <DeformableSnowQuality isDynamic="0" dynamicValue="Default" Active="1" TessellationLOD0Dist="20.000000" TessellationLOD0EdgeLength="0.150000" TessellationLOD1Dist="40.000000" TessellationLOD1EdgeLength="0.750000" TessellationLOD2Dist="60.000000" TessellationLOD2EdgeLength="2.000000" VertexModifyMinDist="50.000000" VertexModifyMaxDist="60.000000"/>
+    <SSRQuality isDynamic="1" dynamicValue="Ultra"/>
+    <MasterVolume value="1.000000"/>
+    <ParticlesQuality isDynamic="0" dynamicValue="Default" name="Default" value="High"/>
+    <PlayerCarLiveryResolution isDynamic="0" dynamicValue="Default" name="Default" value="2048"/>
+    <OpponentCarLiveryResolution isDynamic="0" dynamicValue="Default" name="Default" value="1024"/>
+    <PlayerCarLiveryIntermediateSSAA isDynamic="0" dynamicValue="Default" name="Default" value="2"/>
+    <OpponentCarLiveryIntermediateSSAA isDynamic="0" dynamicValue="Default" name="Default" value="2"/>
+    <PlayerCarLiveryIntermediateMSAA isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <OpponentCarLiveryIntermediateMSAA isDynamic="0" dynamicValue="Default" name="Default" value="2"/>
+    <LiveryHighResolutionDecals isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <UIHUDGlassCaptureEnabled isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <LensEffectsQuality isDynamic="0" dynamicValue="Default" FlaresEnabled="1" StreaksEnabled="1" BloomEnabled="1" GodRaysEnabled="1" SunFlareEnabled="1"/>
+    <ProceduralQuality isDynamic="0" dynamicValue="Default" DrawDistanceType="slod" DensityScale="1.000000" BushDensityScale="1.000000" LODDistanceScale="1.000000" TreesLODDistanceScale="1.250000" GrassLODDistanceScale="2.000000" BushLODDistanceScale="1.500000" CubeMinArea="0.000000" ShadowMinArea="0.000000" CrowdCull="0.000000" TreeLODReduction="0" UseScreenAreaTests="0"/>
+    <LightGlowOcclusionDistancePushOut isDynamic="0" dynamicValue="Default" name="Default" value="0.004000"/>
+    <MegaTextureLowSpeedBudget isDynamic="0" dynamicValue="" name="Default" value="0.025000"/>
+    <MegaTextureHighSpeedBudget isDynamic="0" dynamicValue="" name="Default" value="0.003000"/>
+    <HighQualityGrassAndFoliageEnabled isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <TerrainNoiseEnabled isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <TerrainParallaxEnabled isDynamic="1" dynamicValue="Ultra"/>
+    <FollowLowFOV value="48.500000"/>
+    <FollowHighFOV value="58.000000"/>
+    <DriverFOV value="48.000000"/>
+    <DriverNoWheelFOV value="48.000000"/>
+    <HoodFOV value="66.000000"/>
+    <BumperHighFOV value="58.000000"/>
+    <DisplayWaterOnLens isDynamic="1" dynamicValue="Ultra"/>
+    <DepthOfField isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <DepthPrePass isDynamic="0" dynamicValue="Default" TrackCullDistanceDefault="0.000000" TrackCullDistanceReduced="0.000000"/>
+    <ScreenAreaTestsMain isDynamic="0" dynamicValue="Default" MainScene="200.000000" Depth="60.000000" Cinematic="130.000000" GroundReflection="23.000000"/>
+    <ScreenAreaTestsShadow isDynamic="0" dynamicValue="Default" name="Default" value="100.000000"/>
+    <ScreenAreaTestsCubemap isDynamic="0" dynamicValue="Default" name="Default" value="100.000000"/>
+    <ScreenAreaTestsMirror isDynamic="0" dynamicValue="Default" name="Default" value="25.000000"/>
+    <UseOptimisedDayTrackShaders isDynamic="0" dynamicValue="" name="Default" value="1"/>
+    <FWDPlusQuality isDynamic="0" dynamicValue="Default" ForceSimpleFWPPlusEverything="0" ForceSimpleFWPPlusExceptHeadlights="0" ForceAIToReceiveSimpleForwardPlus="0"/>
+    <UseGlobalSpecularCubemapForCar isDynamic="0" dynamicValue="Default" name="Default" value="0"/>
+    <KeepCarsClean isDynamic="0" dynamicValue="" name="Default" value="0"/>
+    <MirrorDetail isDynamic="0" dynamicValue="" RenderLightGlows="1" SimpleForwardPlus="0" AggressiveCulling="0" AggressiveCullFarDistance="100.000000" AggressiveCullLOD3Distance="50.000000"/>
+    <EnablePCHDR isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
   </settings>
   <selections>
-    <option id='UseDynamicOptimization' value='1' />
-    <option id='FrameRate' value='4' />
-    <option id='VSync' value='0' />
-    <option id='EnableHDR' value='1' />
-    <option id='MotionBlurAmount' value='2' />
-    <option id='ShowFPS' value='0' />
-    <option id='Anisotropic' value='2' />
-    <option id='NightShadows' value='1' />
-    <option id='ShadowQuality' value='4' />
-    <option id='MotionBlurQuality' value='3' />
-    <option id='EnvStreamingTex' value='3' />
-    <option id='EnvDetail' value='4' />
-    <option id='ProceduralQuality' value='4' />
-    <option id='MSAA' value='3' />
-    <option id='FXAA' value='1' />
-    <option id='SSAO' value='3' />
-    <option id='CubemapResolution' value='5' />
-    <option id='WindshieldReflectionQuality' value='3' />
-    <option id='MirrorQuality' value='3' />
-    <option id='CarLOD' value='4' />
-    <option id='DeformableSnowQuality' value='4' />
-    <option id='SSRQuality' value='4' />
-    <option id='LensEffects' value='3' />
-    <option id='ShaderQuality' value='3' />
-    <option id='ParticlesSettings' value='2' />
+    <option id="UseDynamicOptimization" value="1"/>
+    <option id="FrameRate" value="4"/>
+    <option id="VSync" value="0"/>
+    <option id="EnableHDR" value="1"/>
+    <option id="MotionBlurAmount" value="2"/>
+    <option id="ShowFPS" value="0"/>
+    <option id="Anisotropic" value="2"/>
+    <option id="NightShadows" value="1"/>
+    <option id="ShadowQuality" value="4"/>
+    <option id="MotionBlurQuality" value="3"/>
+    <option id="EnvStreamingTex" value="3"/>
+    <option id="EnvDetail" value="4"/>
+    <option id="ProceduralQuality" value="4"/>
+    <option id="MSAA" value="3"/>
+    <option id="FXAA" value="1"/>
+    <option id="SSAO" value="3"/>
+    <option id="CubemapResolution" value="5"/>
+    <option id="WindshieldReflectionQuality" value="3"/>
+    <option id="MirrorQuality" value="3"/>
+    <option id="CarLOD" value="4"/>
+    <option id="DeformableSnowQuality" value="4"/>
+    <option id="SSRQuality" value="4"/>
+    <option id="LensEffects" value="3"/>
+    <option id="ShaderQuality" value="3"/>
+    <option id="ParticlesSettings" value="2"/>
   </selections>
 </UserConfig>
