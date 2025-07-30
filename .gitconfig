@@ -14,6 +14,7 @@
 	directory = H:/Repository/AnimationBroadcas
 	directory = H:/Repository/AnimationBroadcas
 	directory = H:/Repository/AnimationBroadcastTable
+	directory = I:/Repositories/AnimationBroadcastTable
 [http]
 	sslVerify = false
 	version = HTTP/1.1

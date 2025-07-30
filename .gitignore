@@ -677,3 +677,5 @@
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.cfg
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.local
 /AppData/Local/WB Games/Shadow of War/*.csv
+/AppData/LocalLow/NVIDIA
+/AppData/Roaming/Blender Foundation
