@@ -119,7 +119,6 @@
 /AppData/Local/LOTF2/Saved/Logs
 /AppData/Local/Link2EA
 /AppData/Local/Reckfeng
-/AppData/LocalLow/NVIDIA/PerDriverVersion/DXCache
 /AppData/Roaming/BCUT
 /AppData/Local/Softdeluxe/Free Download Manager/org.freedownloadmanager.fdm5.cnh.json
 /AppData/Local/Softdeluxe/Free Download Manager/backup
@@ -676,6 +675,8 @@
 /AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/cache.pso
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.cfg
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.local
+/AppData/Local/SB/Saved/SaveGames/76561198068664357/*.vdf
+/AppData/Local/SB/Saved/SaveGames/*.vdf
 /AppData/Local/WB Games/Shadow of War/*.csv
 /AppData/LocalLow/NVIDIA
 /AppData/Roaming/Blender Foundation
