@@ -21,7 +21,7 @@ setOption(rendererModule, "LowPerformanceMode", true)
 setOption(rendererModule, "ModelLodDrop", true)
 setOption(rendererModule, "DevTempShadowQuality", 1)
 
-setOption(vamputModule, "DefaultControllerType", 6)
+setOption(vamputModule, "DefaultControllerType", 20)
 
 setOption(inputModule, "ChangeToTouchscreenOnTouch", false)
 
