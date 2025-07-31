@@ -48,7 +48,7 @@
 	"MinigameFlag.Volleyball_HavePlayed": "True",
 	"MinigameCounter.Volleyball_CodyHighScore": "1",
 	"MinigameCounter.Volleyball_CodyWinsData": "1",
-	"ProfileCounter.CrusherRoomFails": "1",
+	"ProfileCounter.CrusherRoomFails": "0",
 	"MinigameCounter.Whack-A-Cody_MayHighScore": "1",
 	"MinigameCounter.Whack-A-Cody_MayWinsData": "1",
 	"MinigameCounter.Plunger_CodyWinsData": "1",
