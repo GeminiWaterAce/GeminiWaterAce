@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "游聚游戏平台",
-    "current_program_scene": "游聚游戏平台",
+    "current_scene": "血污(赤痕)夜之仪式",
+    "current_program_scene": "血污(赤痕)夜之仪式",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -1718,20 +1718,20 @@
                         "id": 1,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 19.0,
+                            "y": 26.0
                         },
                         "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -1.0
+                            "x": -1.7601852416992188,
+                            "y": -0.9759259223937988
                         },
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 0.9880208373069763,
+                            "y": 0.9879629611968994
                         },
                         "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 0.9880208373069763,
+                            "y": 0.9879629611968994
                         },
                         "bounds": {
                             "x": 0.0,
@@ -1874,7 +1874,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "血污(赤痕)夜之仪式1周目无继承噩梦无血Bloodless",
+                "text": "血污(赤痕)夜之仪式1周目无继承噩梦主角正传",
                 "font": {
                     "face": "楷体",
                     "style": "Regular",
