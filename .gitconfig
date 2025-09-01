@@ -13,6 +13,7 @@
 	directory = I:/Repositories/GamingStrategy
 	directory = H:/Repository/AnimationBroadcastTable
 	directory = H:/Repository/GamingStrategy
+	directory = I:/Repositories/AnimationBroadcastTable
 [http]
 	sslVerify = false
 	version = HTTP/1.1
