@@ -9,7 +9,6 @@
 	"ShaderQuality": "Ultra",
 	"MaxAnisotropy": "16X",
 	"PostProcessingQuality": "Ultra",
-	"Gamma": "3.494634",
-	"MasterVolume": "10.0",
-	"AntiAliasing": "FSR"
+	"Gamma": "3.0",
+	"MasterVolume": "10.0"
 }
