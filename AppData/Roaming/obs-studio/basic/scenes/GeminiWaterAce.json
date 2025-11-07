@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520159234,
+        "prev_ver": 536870913,
         "name": "桌面音频",
         "uuid": "30611f25-8d39-4c57-b00f-6c5fbf3c8f50",
         "id": "wasapi_output_capture",
@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "战神诸神黄昏",
-    "current_program_scene": "战神诸神黄昏",
+    "current_scene": "游聚游戏平台",
+    "current_program_scene": "游聚游戏平台",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -82,7 +82,7 @@
     "name": "GeminiWaterAce",
     "sources": [
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "索尼克超级巨星",
             "uuid": "352208bf-ad21-46eb-81aa-98e6e4c902a1",
             "id": "scene",
@@ -171,7 +171,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "索尼克超级巨星游戏",
             "uuid": "2fa674fb-e89e-4bdb-b18c-641d7e0573fd",
             "id": "game_capture",
@@ -206,7 +206,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "TEVI",
             "uuid": "f9b581ca-18ca-4e1f-bce0-60683528f525",
             "id": "scene",
@@ -295,7 +295,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "TEVI游戏",
             "uuid": "c135fe2d-d256-4f26-aa26-1f7672998411",
             "id": "game_capture",
@@ -330,7 +330,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "波斯王子失落的王冠",
             "uuid": "002aade1-fe09-41d4-ba72-2ea4d8fab8c1",
             "id": "scene",
@@ -419,7 +419,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "波斯王子失落的王冠游戏",
             "uuid": "b3ca019b-76b9-48e3-bc1c-0f47b3e4e9c8",
             "id": "game_capture",
@@ -454,7 +454,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "时空幻境周年纪念版",
             "uuid": "fb9e4e00-c7fa-4276-9f0e-55c9fdbb79ed",
             "id": "scene",
@@ -543,7 +543,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "时空幻境周年纪念版游戏",
             "uuid": "f442ff80-4575-4eff-afda-4f0c2389bf7a",
             "id": "game_capture",
@@ -578,7 +578,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "战神诸神黄昏",
             "uuid": "6c36faa3-1b50-4ece-9dc2-136ef066d16d",
             "id": "scene",
@@ -667,7 +667,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "战神诸神黄昏游戏",
             "uuid": "d58cdd74-ff2a-4822-9da1-6964b3ee1460",
             "id": "game_capture",
@@ -702,7 +702,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "游聚游戏平台",
             "uuid": "00269fcb-d6c1-476e-afb6-b3604e271db5",
             "id": "scene",
@@ -733,19 +733,19 @@
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
-                            "y": 0.0
+                            "y": 25.0
                         },
                         "pos_rel": {
                             "x": -1.7777777910232544,
-                            "y": -1.0
+                            "y": -0.9768518805503845
                         },
                         "scale": {
-                            "x": 2.805495262145996,
-                            "y": 2.805194854736328
+                            "x": 2.7765727043151855,
+                            "y": 2.776623487472534
                         },
                         "scale_rel": {
-                            "x": 2.805495262145996,
-                            "y": 2.805194854736328
+                            "x": 2.7765727043151855,
+                            "y": 2.776623487472534
                         },
                         "bounds": {
                             "x": 0.0,
@@ -791,13 +791,13 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "游聚游戏平台窗口",
             "uuid": "f692f7c8-774b-40b3-806c-2c66ed8cff4b",
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "window": "赤色要塞(水水Ace):Qt5QWindowIcon:X-Zone.exe",
+                "window": "龙之斗士(水水Ace):Qt5QWindowIcon:X-Zone.exe",
                 "capture_mode": "window"
             },
             "mixers": 255,
@@ -825,7 +825,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "觉醒异刃",
             "uuid": "ea85366a-76ba-4b65-80ec-83227dad6e51",
             "id": "scene",
@@ -914,7 +914,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "觉醒异刃游戏",
             "uuid": "2b6e9521-e8f6-49ff-af35-6365f272f35c",
             "id": "game_capture",
@@ -948,7 +948,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "终焉之玛格诺利亚-雾中盛放之花",
             "uuid": "2c592586-d7f8-4681-9164-9ba0b1f3e2a1",
             "id": "scene",
@@ -1037,7 +1037,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "\n终焉之玛格诺利亚-雾中盛放之花游戏",
             "uuid": "60884564-6451-483b-ad76-0b4bfba9a9fb",
             "id": "game_capture",
@@ -1071,7 +1071,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "双影奇境",
             "uuid": "2a72c2fd-02c4-4bcd-b70f-7efe68dc34a0",
             "id": "scene",
@@ -1160,7 +1160,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "双影奇境游戏",
             "uuid": "365232de-e5d2-40c6-8717-bfd802e833bc",
             "id": "game_capture",
@@ -1196,7 +1196,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "边境猎人艾尔莎的命运之轮",
             "uuid": "7c721ba8-7d1f-4fb6-8e78-4ecfeff51c2c",
             "id": "scene",
@@ -1285,7 +1285,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "边境猎人艾尔莎的命运之轮游戏",
             "uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
             "id": "game_capture",
@@ -1319,7 +1319,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "黑神话悟空",
             "uuid": "658dc5da-ace2-422a-998b-302c702433c9",
             "id": "scene",
@@ -1408,7 +1408,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "黑神话悟空游戏",
             "uuid": "aaa89b41-4896-4c35-bf39-429118a873f9",
             "id": "game_capture",
@@ -1442,7 +1442,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "新战神",
             "uuid": "52277fad-5bea-47f2-a189-f9d00fd8655f",
             "id": "scene",
@@ -1531,7 +1531,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "新战神游戏",
             "uuid": "2949326f-1991-44d7-a8a7-d6e7c2892cf2",
             "id": "game_capture",
@@ -1565,7 +1565,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "魔兽争霸3重铸版",
             "uuid": "390c3dfd-8cf9-40a9-97cb-956554f9560d",
             "id": "scene",
@@ -1654,7 +1654,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "魔兽争霸3重铸版游戏",
             "uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
             "id": "game_capture",
@@ -1688,7 +1688,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "血污(赤痕)夜之仪式",
             "uuid": "ca423442-e9e3-4541-b9a1-02761df1068d",
             "id": "scene",
@@ -1834,7 +1834,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "血污(赤痕)夜之仪式游戏",
             "uuid": "0b8fede4-2c0a-451e-bb93-157d5ca728b2",
             "id": "game_capture",
@@ -1868,7 +1868,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "血污(赤痕)夜之仪式文本",
             "uuid": "28aabd54-aafe-49bd-a86b-b651992a35a3",
             "id": "text_gdiplus",
@@ -1901,7 +1901,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "泡姆泡姆",
             "uuid": "f3f6d0ff-d780-49c6-a863-0cafed6c5252",
             "id": "scene",
@@ -1990,7 +1990,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520159234,
+            "prev_ver": 536870913,
             "name": "泡姆泡姆游戏",
             "uuid": "beec695b-c908-4b60-bf09-f58b43a0d558",
             "id": "game_capture",
@@ -2034,7 +2034,7 @@
     "preview_locked": false,
     "scaling_enabled": true,
     "scaling_level": -11,
-    "scaling_off_x": 0.0,
+    "scaling_off_x": 19.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
         "type2": 3

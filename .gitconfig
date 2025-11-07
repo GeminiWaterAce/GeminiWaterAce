@@ -14,6 +14,8 @@
 	directory = H:/Repository/AnimationBroadcastTable
 	directory = H:/Repository/GamingStrategy
 	directory = I:/Repositories/AnimationBroadcastTable
+	directory = I:/Git Clone/Microsoft-Activation-Scripts
+	directory = I:/Git Clone/blivechat
 [http]
 	sslVerify = false
 	version = HTTP/1.1
