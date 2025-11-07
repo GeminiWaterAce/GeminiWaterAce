@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "战神诸神黄昏",
-    "current_program_scene": "战神诸神黄昏",
+    "current_scene": "游聚游戏平台",
+    "current_program_scene": "游聚游戏平台",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -733,19 +733,19 @@
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
-                            "y": 0.0
+                            "y": 25.0
                         },
                         "pos_rel": {
                             "x": -1.7777777910232544,
-                            "y": -1.0
+                            "y": -0.9768518805503845
                         },
                         "scale": {
-                            "x": 2.805495262145996,
-                            "y": 2.805194854736328
+                            "x": 2.7765727043151855,
+                            "y": 2.776623487472534
                         },
                         "scale_rel": {
-                            "x": 2.805495262145996,
-                            "y": 2.805194854736328
+                            "x": 2.7765727043151855,
+                            "y": 2.776623487472534
                         },
                         "bounds": {
                             "x": 0.0,
@@ -797,7 +797,7 @@
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "window": "赤色要塞(水水Ace):Qt5QWindowIcon:X-Zone.exe",
+                "window": "龙之斗士(水水Ace):Qt5QWindowIcon:X-Zone.exe",
                 "capture_mode": "window"
             },
             "mixers": 255,
@@ -2034,7 +2034,7 @@
     "preview_locked": false,
     "scaling_enabled": true,
     "scaling_level": -11,
-    "scaling_off_x": 0.0,
+    "scaling_off_x": 19.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
         "type2": 3
