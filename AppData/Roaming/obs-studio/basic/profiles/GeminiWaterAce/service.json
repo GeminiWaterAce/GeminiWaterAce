@@ -1,1 +1,1 @@
-{"type":"rtmp_custom","settings":{"server":"rtmp://192.168.1.101:1935","use_auth":true,"username":"userwaterzz","password":"Blizzard3s","bwtest":false,"key":"livehime"}}
+{"type":"rtmp_custom","settings":{"server":"rtmp://192.168.1.100:1935","use_auth":false,"bwtest":false,"key":"livehime"}}
