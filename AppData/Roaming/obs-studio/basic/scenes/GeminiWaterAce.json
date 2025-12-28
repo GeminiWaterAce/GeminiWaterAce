@@ -1602,8 +1602,8 @@
             "settings": {
                 "window": "God of War:SonySantaMonica:GoW.exe",
                 "capture_mode": "window",
-                "rgb10a2_space": "2100pq",
-                "capture_cursor": false
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
             },
             "mixers": 255,
             "sync": 0,
@@ -2342,9 +2342,9 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "color": 4294927160,
                 "text": "先搓盘打过新战神2周目战神难度希格露恩，\n再打1周目战神难度诸神黄昏。",
-                "align": "left"
+                "align": "left",
+                "color": 4294927160
             },
             "mixers": 0,
             "sync": 0,
