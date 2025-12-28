@@ -1,1 +1,1 @@
-{"type":"rtmp_custom","settings":{"server":"rtmp://sendhw3.douyu.com/live","use_auth":true,"username":"userwaterzz","password":"Blizzard3s","bwtest":false,"key":"671450rY9JsIr6aP?dyPRI=0&noforward=1&origin=hw&record=flv&roirecognition=0&stemp_id=12898962&tw=0&wm=0&wsSecret=8ef78d73446b0bfdaed9e92b0547fe3a&wsSeek=off&wsTime=68f3434b"}}
+{"type":"rtmp_custom","settings":{"server":"rtmp://192.168.1.100:1935","use_auth":false,"bwtest":false,"key":"livehime"}}
