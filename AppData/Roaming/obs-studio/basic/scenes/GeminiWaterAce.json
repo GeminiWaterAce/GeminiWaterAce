@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "血污(赤痕)夜之仪式",
-    "current_program_scene": "血污(赤痕)夜之仪式",
+    "current_scene": "新战神",
+    "current_program_scene": "新战神",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -1511,61 +1511,6 @@
                             "duration": 0
                         },
                         "private_settings": {}
-                    },
-                    {
-                        "name": "文本 (GDI+)",
-                        "source_uuid": "f45395cb-a57c-45e6-8678-bdcd49397127",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 3,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 2232.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": 0.2888889014720917,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 0.31665316224098206,
-                            "y": 0.3162878751754761
-                        },
-                        "scale_rel": {
-                            "x": 0.31665316224098206,
-                            "y": 0.3162878751754761
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     }
                 ]
             },
@@ -1583,9 +1528,7 @@
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
-                "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": []
+                "libobs.hide_scene_item.1": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2330,34 +2273,6 @@
                 "hotkey_start": [],
                 "hotkey_stop": []
             },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536870913,
-            "name": "文本 (GDI+)",
-            "uuid": "f45395cb-a57c-45e6-8678-bdcd49397127",
-            "id": "text_gdiplus",
-            "versioned_id": "text_gdiplus_v3",
-            "settings": {
-                "text": "先搓盘打过新战神2周目战神难度希格露恩，\n再打1周目战神难度诸神黄昏。",
-                "align": "left",
-                "color": 4294927160
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
