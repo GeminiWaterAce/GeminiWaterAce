@@ -254,8 +254,6 @@
 /AppData/Roaming/TortoiseGit
 /AppData/Roaming/Trine5/log
 /AppData/Roaming/ICAClient
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs
-/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/crs
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
 /AppData/LocalLow/CreSpirit/TEVI/*.vdf
@@ -394,7 +392,6 @@
 /AppData/Roaming/G-Menu
 /AppData/Roaming/com.adobe.dunamis
 /AppData/Roaming/WinRAR
-/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/*.pso
 /AppData/Roaming/PDFPrefs
 /AppData/Roaming/PLogs
 /AppData/Roaming/Sekiro/76561198068664357/*.bak
@@ -540,9 +537,6 @@
 /AppData/Local/EnderMagnolia/Saved/Config
 /AppData/Local/EnderMagnolia/Saved/*.upipelinecache
 /AppData/Local/EnderMagnolia/Saved/SaveGames/*.vdf
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/*.dat
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/metadata
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/reports
 /AppData/Local/SplitFiction/*.vdf
 /AppData/Local/SplitFiction/Saved/Config
 /AppData/Local/SplitFiction/Saved/Logs
@@ -559,7 +553,6 @@
 /AppData/Local/SEGA/Judgment/Steam/$judgment.pipeline.d3d12.cache
 /AppData/Local/SEGA/Judgment/Steam/$judgment.pipeline.d3d12.cache.preload
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/*.prefs
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/temp
 /AppData/Roaming/Maxon
 /AppData/Local/b1/Saved_WeGame/Crashes
 /AppData/Roaming/obs-studio/basic/scenes/*.v1
@@ -672,7 +665,6 @@
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/savegame.user/76561199043883529/SLOT0/GAME-AUTOSAVE0
 /AppData/LocalLow/Oddworld Inhabitants Inc/Oddworld_ Soulstorm/*.log
 /Saved Games/UnrealEngine/4.26/Saved/Config
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/cache.pso
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.cfg
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.local
 /AppData/Local/SB/Saved/SaveGames/76561198068664357/*.vdf
@@ -778,3 +770,19 @@
 /AppData/LocalLow/HyperGryph
 /AppData/Roaming/Hypergryph/33a0a6296a20400d503c59ac0fd6341e/icon
 /AppData/Roaming/obs-studio/.sentinel
+/AppData/Local/KoeiTecmo/NIOH3/*.xml
+/AppData/Local/KoeiTecmo/NIOH3/Savedata/76561198068664357/*.vdf
+/AppData/Local/NTEGame/cache
+/AppData/Roaming/leigod
+/.leigod
+/AppData/Local/WB Games/Shadow of War/gpu.nfo
+/AppData/Local/WB Games/Shadow of War/render.cfg
+/AppData/Roaming/Insomniac Games
+/Documents/My Games/Mafia Definitive Edition/Saves
+/Documents/Saved Games/Hades
+/Saved Games/MachineGames/TheGreatCircle
+/Saved Games/The Last of Us Part I/users/cd4e0d03a1684cd9ae8d458e57c1f68a/*.cfg
+/Saved Games/Respawn/JediFallenOrder/GameUserSettings.sav
+/AppData/Local/ForzaHorizon4
+/AppData/Local/HogwartsLegacy/Saved/SaveGames/cd4e0d03a1684cd9ae8d458e57c1f68a/SavedUserOptions.sav
+/AppData/Local/SplitFiction/LocalSettings.Split
