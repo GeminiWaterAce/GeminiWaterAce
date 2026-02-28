@@ -215,7 +215,6 @@
 /*.blf
 /*.regtrans-ms
 /Documents/*.ini
-/Downloads/*.ini
 /Favorites/Links/*.ini
 /Favorites/*.ini
 /Links/*.lnk
@@ -254,8 +253,6 @@
 /AppData/Roaming/TortoiseGit
 /AppData/Roaming/Trine5/log
 /AppData/Roaming/ICAClient
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs
-/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/crs
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json
 /AppData/Roaming/obs-studio/basic/scenes/未命名.json.bak
 /AppData/LocalLow/CreSpirit/TEVI/*.vdf
@@ -394,7 +391,6 @@
 /AppData/Roaming/G-Menu
 /AppData/Roaming/com.adobe.dunamis
 /AppData/Roaming/WinRAR
-/AppData/Roaming/Insomniac Games/Ratchet & Clank - Rift Apart/*.pso
 /AppData/Roaming/PDFPrefs
 /AppData/Roaming/PLogs
 /AppData/Roaming/Sekiro/76561198068664357/*.bak
@@ -509,7 +505,6 @@
 /Links
 /Favorites
 /Searches
-/Documents
 /Music
 /AppData/Local/ItTakesTwo/Settings.Nuts
 /AppData/Local/ItTakesTwo/LocalSettings.Nuts
@@ -540,9 +535,6 @@
 /AppData/Local/EnderMagnolia/Saved/Config
 /AppData/Local/EnderMagnolia/Saved/*.upipelinecache
 /AppData/Local/EnderMagnolia/Saved/SaveGames/*.vdf
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/*.dat
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/metadata
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/reports
 /AppData/Local/SplitFiction/*.vdf
 /AppData/Local/SplitFiction/Saved/Config
 /AppData/Local/SplitFiction/Saved/Logs
@@ -559,7 +551,6 @@
 /AppData/Local/SEGA/Judgment/Steam/$judgment.pipeline.d3d12.cache
 /AppData/Local/SEGA/Judgment/Steam/$judgment.pipeline.d3d12.cache.preload
 /AppData/LocalLow/IceSitruuna/Frontier_Hunter/*.prefs
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man 2/crs/temp
 /AppData/Roaming/Maxon
 /AppData/Local/b1/Saved_WeGame/Crashes
 /AppData/Roaming/obs-studio/basic/scenes/*.v1
@@ -672,7 +663,6 @@
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/savegame.user/76561199043883529/SLOT0/GAME-AUTOSAVE0
 /AppData/LocalLow/Oddworld Inhabitants Inc/Oddworld_ Soulstorm/*.log
 /Saved Games/UnrealEngine/4.26/Saved/Config
-/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/cache.pso
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.cfg
 /Saved Games/MachineGames/Wolfenstein II The New Colossus/base/*.local
 /AppData/Local/SB/Saved/SaveGames/76561198068664357/*.vdf
@@ -778,3 +768,101 @@
 /AppData/LocalLow/HyperGryph
 /AppData/Roaming/Hypergryph/33a0a6296a20400d503c59ac0fd6341e/icon
 /AppData/Roaming/obs-studio/.sentinel
+/AppData/Local/KoeiTecmo/NIOH3/*.xml
+/AppData/Local/KoeiTecmo/NIOH3/Savedata/76561198068664357/*.vdf
+/AppData/Local/NTEGame/cache
+/AppData/Roaming/leigod
+/.leigod
+/AppData/Local/WB Games/Shadow of War/gpu.nfo
+/AppData/Local/WB Games/Shadow of War/render.cfg
+/AppData/Roaming/Insomniac Games
+/Documents/My Games/Mafia Definitive Edition/Saves
+/Documents/Saved Games/Hades
+/Saved Games/MachineGames/TheGreatCircle
+/Saved Games/The Last of Us Part I/users/cd4e0d03a1684cd9ae8d458e57c1f68a/*.cfg
+/Saved Games/Respawn/JediFallenOrder/GameUserSettings.sav
+/AppData/Local/ForzaHorizon4
+/AppData/Local/HogwartsLegacy/Saved/SaveGames/cd4e0d03a1684cd9ae8d458e57c1f68a/SavedUserOptions.sav
+/AppData/Local/SplitFiction/LocalSettings.Split
+/AppData/Roaming/Braid, Anniversary Edition/*.variables
+/Documents/3DMark
+/Documents/Adobe/Adobe Media Encoder/25.0/Adobe Media Encoder Prefs
+/Documents/Adobe/Adobe Media Encoder/25.0/ArchivedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/25.0/Export Templates
+/Documents/Adobe/Adobe Media Encoder/25.0/logs
+/Documents/Adobe/Adobe Media Encoder/25.0/Preservation Rules
+/Documents/Adobe/Adobe Media Encoder/25.0/SavedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/25.0/SyncBackup
+/Documents/Adobe/Adobe Media Encoder/25.0/SystemCompatibilityReport
+/Documents/Adobe/Adobe Media Encoder/25.0/WSMgrCfg
+/Documents/Adobe/Adobe Media Encoder/25.0/*.txt
+/Documents/Adobe/Adobe Media Encoder/25.0/*.xml
+/Documents/Adobe/Adobe Media Encoder/25.0/*.epr
+/Documents/Adobe/Adobe Media Encoder/25.0/SharedView Column Settings
+/Documents/Adobe/Adobe Media Encoder/25.0/AudioPlugInsScannedOnFirstLaunch_x64
+/Documents/Adobe/Adobe Media Encoder/25.0/Media Browser Provider Exception
+/Documents/Adobe/Adobe Media Encoder/25.0/Recent Directories
+/Documents/Marvel's Spider-Man 2/*.log
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/slot1-autosave.save
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/slot1-autosave.save.backup01
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/prefs-autosave.save
+/Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/*.ushaderprecache
+/Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/Logs
+/Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/Config
+/Documents/My Games/RustyRabbit/Saved/Logs
+/Documents/My Games/RustyRabbit/Saved/Config
+/Documents/My Games/RustyRabbit/Saved/Crashes
+/Documents/Rockstar Games/GTAV Enhanced/Settings
+/Documents/Rockstar Games/GTAV Enhanced/Benchmarks
+/Documents/Rockstar Games/GTAV Enhanced/*.xml
+/Documents/Warcraft III
+/Documents/美少女万華鏡異聞_雪おんな/GameData
+/Documents/Adobe/Premiere Pro/25.0/Profile-GeminiWaterAce
+/Documents/Adobe/Premiere Pro/25.0/Adobe Premiere Pro Auto-Save
+/Documents/KoeiTecmo/Venus Vacation PRISM - DEAD OR ALIVE Xtreme -/Savedata/4660/SAVEDATA00/BACKUP.BIN
+/Documents/My Games/RustyRabbit/Saved/SaveGames/*.vdf
+/Documents/My Games/RustyRabbit/Saved/SaveGames/System.sav
+/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/407086B5/Player
+/Documents/Rockstar Games/Social Club/Profiles/*.dat
+/Documents/The Last of Us Part II/76561198175417257/savedata/SAVEFILE0P/*.json
+/Documents/The Last of Us Part II/*.log
+/Documents/The Last of Us Part II/Screenshots
+/Documents/Tribute Games/MARVELCosmicInvasion/*.txt
+/Documents/Tribute Games/MARVELCosmicInvasion/Settings.cfg
+/Documents/Adobe/Premiere Pro/25.0/*.xml
+/Documents/Adobe/Premiere Pro/25.0/*.log
+/Documents/Adobe/Premiere Pro/25.0/AMERequestDB
+/Documents/My Games/UnrealEngine/5.2/Saved/Config
+/Documents/Rockstar Games/GTAV Enhanced/Profiles/407086B5/*.bak
+/Documents/Rockstar Games/GTAV Enhanced/Profiles/407086B5/pc_settings.bin
+/Documents/Rockstar Games/GTAV Enhanced/Profiles/407086B5/cloudsavedata.dat
+/Documents/Rockstar Games/GTAV Enhanced/Profiles/407086B5/cfg.dat
+/Documents/KoeiTecmo/Venus Vacation PRISM - DEAD OR ALIVE Xtreme -/Savedata/*.json
+/AppData/LocalLow/WindofDaybreak/MetalFlame/*.log
+/AppData/Local/和存在感薄弱妹妹一起的简单生活
+/AppData/Local/￥ﾒﾌ￥ﾭﾘ￥ﾜﾨ￦ﾄﾟ￨ﾖﾄ￥ﾼﾱ￥ﾦﾹ￥ﾦﾹ￤ﾸﾀ￨ﾵﾷ￧ﾚﾄ￧ﾮﾀ￥ﾍﾕ￧ﾔﾟ￦ﾴﾻ
+/AppData/LocalLow/Worknite/Married Into Hell/*.log
+/AppData/Local/8wh8e7g8/User Data
+/AppData/Roaming/GSE Saves/0/*.txt
+/Documents/Diablo II/GameLogs
+/Documents/Diablo II/Settings
+/Documents/Epic Games
+/Saved Games/Diablo II Resurrected/*.fltr
+/Saved Games/Diablo II Resurrected/*.json
+/Saved Games/Diablo II Resurrected/*.d2i
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*.backup*
+/Documents/MAXON
+/AppData/LocalLow/LovelyGames/AFascinatingStory_2/*.log
+/AppData/LocalLow/DigitalDream/Island Of Enchantment/*.log
+/AppData/LocalLow/DigitalDream/Island Of Enchantment/*.txt
+/AppData/Roaming/GSE Saves/2899680/*.txt
+/AppData/Roaming/tyranogame
+/AppData/LocalLow/LovelyGames/AFascinatingStory_2/Unity
+/AppData/LocalLow/DigitalDream/Island Of Enchantment/Unity
+/AppData/Local/SotS/global.rmmzsave
+/AppData/Local/SotS/config.rmmzsave
+/Documents/Overwatch
+/Documents/Marvel's Spider-Man Miles Morales/*.log
+/Documents/Marvel's Spider-Man Miles Morales/cd4e0d03a1684cd9ae8d458e57c1f68a/-userprefs.save
+/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/profile
+/AppData/LocalLow/IceSitruuna/TowerHunter/*.log

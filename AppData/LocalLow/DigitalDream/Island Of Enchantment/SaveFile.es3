@@ -1,0 +1,34 @@
+{
+	"Coin" : {
+		"__type" : "int",
+		"value" : 750
+	},
+	"3G1" : {
+		"__type" : "string",
+		"value" : "3G1"
+	},
+	"playerName" : {
+		"__type" : "string",
+		"value" : "GeminiWaterAce"
+	},
+	"Level0" : {
+		"__type" : "string",
+		"value" : "Level0"
+	},
+	"MusicBG" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Outline" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Language" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Volume" : {
+		"__type" : "float",
+		"value" : 1
+	}
+}
