@@ -2508,7 +2508,7 @@
                 "align": "right",
                 "valign": "center",
                 "color": 4286535167,
-                "text": "录制DLC1周目普通难度全A+"
+                "text": "先做圣遗物护身符，后打圣杯专家模式"
             },
             "mixers": 0,
             "sync": 0,
@@ -2836,8 +2836,8 @@
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "capture_mode": "window",
                 "window": "Overwatch:TankWindowClass:Overwatch.exe",
+                "capture_mode": "window",
                 "rgb10a2_space": "2100pq"
             },
             "mixers": 255,
