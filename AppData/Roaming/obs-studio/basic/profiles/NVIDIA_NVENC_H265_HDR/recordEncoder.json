@@ -1,0 +1,1 @@
+{"rate_control":"VBR","bitrate":30000,"preset":"p7","multipass":"disabled","max_bitrate":50000,"profile":"main10","split_encode":3,"cqp":18,"keyint_sec":0,"bframe_ref_mode":2,"lookahead":false,"adaptive_quantization":false}

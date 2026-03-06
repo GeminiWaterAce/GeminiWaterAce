@@ -870,3 +870,5 @@
 /Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_*
 /AppData/Local/KoeiTecmo/FatalFrameIIDemo
 /AppData/Local/KoeiTecmo/FatalFrameII/Savedata/*.json
+/AppData/Roaming/obs-studio/basic/profiles/NVIDIA_NVENC_H264_SDR/*.bak
+/AppData/Roaming/obs-studio/basic/profiles/NVIDIA_NVENC_H265_HDR/*.bak
