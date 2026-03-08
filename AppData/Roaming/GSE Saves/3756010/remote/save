@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PlayerPrefsDatas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <KeysInts>
+    <string>SwapButtons</string>
+    <string>Vsync</string>
+    <string>CrtFilter</string>
+    <string>InputOverlay</string>
+    <string>Fullscreen</string>
+    <string>Rumble</string>
+    <string>Width</string>
+    <string>Height</string>
+    <string>Aspect</string>
+    <string>LangApp</string>
+    <string>Region</string>
+    <string>Frame</string>
+  </KeysInts>
+  <ValuesInts>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>3840</int>
+    <int>2160</int>
+    <int>1</int>
+    <int>8</int>
+    <int>2</int>
+    <int>0</int>
+  </ValuesInts>
+  <KeysFloats />
+  <ValuesFloats />
+  <KeysStrings>
+    <string>AllPlayersMappingMap</string>
+    <string>bsSaveDatas</string>
+  </KeysStrings>
+  <ValuesStrings>
+    <string>{"0":[2,1,0,3],"1":[2,1,0,3],"2":[2,1,0,3],"3":[2,1,0,3],"4":[2,1,0,3]}</string>
+    <string>{"0":[{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0}],"1":[{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0}],"2":[{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0}],"3":[{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0}],"4":[{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0},{"totalTime":"00:00:00","bossDefeated":0}]}</string>
+  </ValuesStrings>
+</PlayerPrefsDatas>
