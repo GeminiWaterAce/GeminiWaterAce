@@ -690,8 +690,8 @@
             "settings": {
                 "window": "God of War Ragnar鰇:SMSGameWindow:GoWR.exe",
                 "capture_mode": "window",
-                "rgb10a2_space": "2100pq",
-                "capture_cursor": false
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
             },
             "mixers": 255,
             "sync": 0,
