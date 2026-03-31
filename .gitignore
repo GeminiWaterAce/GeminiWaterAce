@@ -9,10 +9,7 @@
 /AppData/Local/Kena/Saved/Crashes
 /AppData/Local/Kena/Saved/Logs
 /AppData/Local/Kena/Saved/SaveGames/Autosave.sav
-/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav
-/AppData/Local/Kena/Saved/SaveGames/AutosaveB.sav
-/AppData/Local/Kena/Saved/SaveGames/AutosaveC.sav
-/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav
+/AppData/Local/Kena/Saved/SaveGames/Autosave*.sav
 /AppData/Roaming/.anaconda
 /AppData/Roaming/fltk.org
 /AppData/Roaming/Blackmagic Design
@@ -287,52 +284,8 @@
 /Documents/Saved Games/Hades/*.bak
 /Documents/Saved Games/Hades/*.log
 /Saved Games/The Last of Us Part I/log.txt
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave0
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave1
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave2
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave3
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave4
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave5
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave6
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave7
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave8
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave9
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave10
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave11
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave12
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave13
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave14
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave15
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave16
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave17
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave18
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave19
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave20
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave21
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave22
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave0
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave1
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave2
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave3
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave4
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave5
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave6
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave7
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave8
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave9
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave10
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave11
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave12
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave13
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave14
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave15
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave16
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave17
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave18
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave19
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave20
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave21
-/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave22
+/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave*
+/AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/quicksave*
 /Documents/Rockstar Games/GTA V/Benchmarks
 /Documents/Rockstar Games/Red Dead Redemption 2/Profiles/407086B5/ProfileSettings
 /AppData/Local/Stormgate/Saved/Config
@@ -604,11 +557,7 @@
 /AppData/LocalLow/HyperGryph/Popucom/Settings
 /AppData/LocalLow/HyperGryph/Popucom/Unity
 /AppData/Roaming/Valve Corporation
-/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave0.dat
-/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave1.dat
-/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave2.dat
-/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave3.dat
-/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave4.dat
+/Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave*.dat
 /Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/courtesysave0.dat
 /Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/courtesysave1.dat
 /Documents/Horizon Forbidden West Complete Edition/cd4e0d03a1684cd9ae8d458e57c1f68a/courtesysave2.dat
@@ -617,29 +566,7 @@
 /AppData/LocalLow/The Game Kitchen/NINJA GAIDEN Ragebound Demo
 /AppData/Local/SB/Saved/SaveGames/cd4e0d03a1684cd9ae8d458e57c1f68a/Backup
 /AppData/Local/SB/Saved/Crashes
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave22
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave0
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave1
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave2
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave3
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave4
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave5
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave6
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave7
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave8
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave9
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave10
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave11
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave12
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave13
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave14
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave15
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave16
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave17
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave18
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave19
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave20
-/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave21
+/AppData/LocalLow/KojimaProductions/DeathStranding/cd4e0d03a1684cd9ae8d458e57c1f68a/autosave*
 /AppData/Local/WB Games/Shadow of War/CloudStorage
 /Documents/My Games/Mafia Definitive Edition/Data/cd4e0d03a1684cd9ae8d458e57c1f68a/profiles/temporaryprofile
 /AppData/Local/OfficePLUS
@@ -721,7 +648,7 @@
 /AppData/Local/LittleNightmaresIII/Saved/Config
 /AppData/Local/LittleNightmaresIII/Saved/Logs
 /AppData/LocalLow/1000-REKA/HayasakiNoKuroyuri/*.log
-/AppData/LocalLow/1000-REKA/HayasakiNoKuroyuri/Savedata/AutoSave0001.dat
+/AppData/LocalLow/1000-REKA/HayasakiNoKuroyuri/Savedata/AutoSave*.dat
 /Saved Games/INTI CREATES/Gal Guardians Servants of the Dark/config.ini
 /Saved Games/MachineGames/TheGreatCircle/base/logs
 /Saved Games/MachineGames/TheGreatCircle/base/configs
@@ -729,8 +656,7 @@
 /AppData/Local/Arkansas/Saved/Logs
 /AppData/LocalLow/bluebackpack/CONSTANCE/*.log
 /AppData/LocalLow/taito.co.jp/BB5Project/*.log
-/Saved Games/TheOuterWorlds2/Autosave00
-/Saved Games/TheOuterWorlds2/Autosave01
+/Saved Games/TheOuterWorlds2/Autosave*
 /AppData/LocalLow/bluebackpack/CONSTANCE/Saves/Prod/76561198068664357/*.vdf
 /AppData/LocalLow/AtomStringCompany/KotamaAcademyCitadel_Demo
 /AppData/LocalLow/Bitmap Bureau/Terminator 2D NO FATE
@@ -803,9 +729,8 @@
 /Documents/Adobe/Adobe Media Encoder/25.0/Media Browser Provider Exception
 /Documents/Adobe/Adobe Media Encoder/25.0/Recent Directories
 /Documents/Marvel's Spider-Man 2/*.log
-/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/slot1-autosave.save
-/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/slot1-autosave.save.backup01
-/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/prefs-autosave.save
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save
+/Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save.*
 /Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/*.ushaderprecache
 /Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/Logs
 /Documents/My Games/FINAL FANTASY VII REBIRTH/Saved/Config
@@ -849,7 +774,6 @@
 /Documents/Epic Games
 /Saved Games/Diablo II Resurrected/*.fltr
 /Saved Games/Diablo II Resurrected/*.json
-/Saved Games/Diablo II Resurrected/*.d2i
 /Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*.backup*
 /Documents/MAXON
 /AppData/LocalLow/LovelyGames/AFascinatingStory_2/*.log
@@ -866,4 +790,39 @@
 /Documents/Marvel's Spider-Man Miles Morales/cd4e0d03a1684cd9ae8d458e57c1f68a/-userprefs.save
 /AppData/LocalLow/KojimaProductions/DeathStrandingDC/cd4e0d03a1684cd9ae8d458e57c1f68a/profile
 /AppData/LocalLow/IceSitruuna/TowerHunter/*.log
-/Saved Games/God of War Ragnarök/cd4e0d03a1684cd9ae8d458e57c1f68a/userpreferences
+/AppData/Roaming/Sucker Punch Productions
+/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_*
+/AppData/Local/KoeiTecmo/FatalFrameIIDemo
+/AppData/Local/KoeiTecmo/FatalFrameII/Savedata/*.json
+/AppData/Roaming/obs-studio/basic/profiles/NVIDIA_NVENC_H264_SDR/*.bak
+/AppData/Roaming/obs-studio/basic/profiles/NVIDIA_NVENC_H265_HDR/*.bak
+/Documents/Marvel's Spider-Man Remastered/cd4e0d03a1684cd9ae8d458e57c1f68a/slot0-s.save
+/AppData/LocalLow/Konami/SUPER BOMBERMAN COLLECTION/*.log
+/AppData/Local/Ori and the Will of The Wisps/*.txt
+/AppData/Roaming/leigod-c5e96d21
+/.leigod-c5e96d21.config
+/AppData/Local/SplitFiction/Settings.Split
+/AppData/Local/DEATH STRANDING 2 - ON THE BEACH/*.log
+/AppData/Local/DEATH STRANDING 2 - ON THE BEACH/*.ini
+/AppData/Local/KoeiTecmo/FatalFrameII/Savedata/6144/SAVEDATA00/*.BIN
+/AppData/Roaming/KOJIMA PRODUCTIONS/DEATH STRANDING 2 - ON THE BEACH/crs
+/Documents/DEATH STRANDING 2 - ON THE BEACH/cd4e0d03a1684cd9ae8d458e57c1f68a/Download
+/Documents/DEATH STRANDING 2 - ON THE BEACH/cd4e0d03a1684cd9ae8d458e57c1f68a/checkpointsave*.dat
+/Documents/タユタマ零【ＤＬ版】/SaveData/SystemData.dat
+/Documents/タユタマ零【ＤＬ版】/SaveData/FormCloseSave.svd
+/Documents/タユタマ零【ＤＬ版】/GameData/System
+/Documents/DEATH STRANDING 2 - ON THE BEACH/cd4e0d03a1684cd9ae8d458e57c1f68a/bindings.cfg
+/Documents/DEATH STRANDING 2 - ON THE BEACH/cd4e0d03a1684cd9ae8d458e57c1f68a/game_settings.cfg
+/Documents/DEATH STRANDING 2 - ON THE BEACH/cd4e0d03a1684cd9ae8d458e57c1f68a/profile.dat
+/Documents/Assassin's Creed Mirage/*.ini
+/Documents/DEATH STRANDING 2 - ON THE BEACH/*.log
+/Documents/DEATH STRANDING 2 - ON THE BEACH/Screenshots
+/AppData/Roaming/KOJIMA PRODUCTIONS/DEATH STRANDING 2 - ON THE BEACH/UserHashDB.bin
+/Saved Games/Diablo II Resurrected/*.map
+/Saved Games/Diablo II Resurrected/*.ctl
+/Saved Games/Diablo II Resurrected/*.key
+/Saved Games/Diablo II Resurrected/*.ma0
+/Saved Games/Diablo II Resurrected/*.ma1
+/Saved Games/Diablo II Resurrected/*.ma2
+/Saved Games/Diablo II Resurrected/*.ma3
+/Documents/DEATH STRANDING 2 - ON THE BEACH/*.mdmp
