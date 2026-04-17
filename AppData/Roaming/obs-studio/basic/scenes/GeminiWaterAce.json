@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "死亡搁浅2",
-    "current_program_scene": "死亡搁浅2",
+    "current_scene": "识质存在",
+    "current_program_scene": "识质存在",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -55,7 +55,7 @@
             "name": "战神诸神黄昏"
         },
         {
-            "name": "PRAGMATA"
+            "name": "识质存在"
         },
         {
             "name": "新战神"
@@ -2249,7 +2249,7 @@
         },
         {
             "prev_ver": 536870916,
-            "name": "PRAGMATA",
+            "name": "识质存在",
             "uuid": "79ff66c8-af85-49e8-8773-62a105803e92",
             "id": "scene",
             "versioned_id": "scene",
@@ -2258,7 +2258,7 @@
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "PRAGMATA Demo",
+                        "name": "识质存在游戏",
                         "source_uuid": "18a539e5-5e67-414f-9c99-dfe377730832",
                         "visible": true,
                         "locked": false,
@@ -2338,12 +2338,12 @@
         },
         {
             "prev_ver": 536870916,
-            "name": "PRAGMATA Demo",
+            "name": "识质存在游戏",
             "uuid": "18a539e5-5e67-414f-9c99-dfe377730832",
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "window": "PRAGMATA SKETCHBOOK:via:PRAGMATA_SKETCHBOOK.exe",
+                "window": "PRAGMATA:via:PRAGMATA.exe",
                 "capture_mode": "window",
                 "rgb10a2_space": "2100pq"
             },
