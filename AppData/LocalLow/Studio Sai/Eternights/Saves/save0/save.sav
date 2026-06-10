@@ -1,0 +1,2577 @@
+﻿{
+    "gameProgress": {
+        "progressSections": [
+            {
+                "progress": [
+                    {
+                        "key": 1,
+                        "value": true
+                    },
+                    {
+                        "key": 13,
+                        "value": true
+                    },
+                    {
+                        "key": 30,
+                        "value": true
+                    },
+                    {
+                        "key": 31,
+                        "value": true
+                    },
+                    {
+                        "key": 32,
+                        "value": true
+                    },
+                    {
+                        "key": 35,
+                        "value": false
+                    },
+                    {
+                        "key": 33,
+                        "value": false
+                    },
+                    {
+                        "key": 34,
+                        "value": false
+                    },
+                    {
+                        "key": 15,
+                        "value": false
+                    },
+                    {
+                        "key": 16,
+                        "value": false
+                    },
+                    {
+                        "key": 11,
+                        "value": false
+                    },
+                    {
+                        "key": 12,
+                        "value": false
+                    },
+                    {
+                        "key": 37,
+                        "value": true
+                    },
+                    {
+                        "key": 38,
+                        "value": false
+                    },
+                    {
+                        "key": 10,
+                        "value": false
+                    },
+                    {
+                        "key": 17,
+                        "value": false
+                    },
+                    {
+                        "key": 20,
+                        "value": false
+                    },
+                    {
+                        "key": 18,
+                        "value": false
+                    },
+                    {
+                        "key": 19,
+                        "value": false
+                    },
+                    {
+                        "key": 21,
+                        "value": false
+                    },
+                    {
+                        "key": 14,
+                        "value": false
+                    },
+                    {
+                        "key": 6,
+                        "value": false
+                    },
+                    {
+                        "key": 7,
+                        "value": false
+                    },
+                    {
+                        "key": 8,
+                        "value": false
+                    },
+                    {
+                        "key": 75,
+                        "value": false
+                    },
+                    {
+                        "key": 83,
+                        "value": false
+                    },
+                    {
+                        "key": 36,
+                        "value": false
+                    },
+                    {
+                        "key": 409,
+                        "value": false
+                    },
+                    {
+                        "key": 411,
+                        "value": true
+                    },
+                    {
+                        "key": 410,
+                        "value": false
+                    },
+                    {
+                        "key": 41,
+                        "value": false
+                    },
+                    {
+                        "key": 40,
+                        "value": false
+                    },
+                    {
+                        "key": 39,
+                        "value": false
+                    },
+                    {
+                        "key": 44,
+                        "value": false
+                    },
+                    {
+                        "key": 42,
+                        "value": false
+                    },
+                    {
+                        "key": 43,
+                        "value": false
+                    },
+                    {
+                        "key": 45,
+                        "value": false
+                    },
+                    {
+                        "key": 46,
+                        "value": true
+                    },
+                    {
+                        "key": 47,
+                        "value": true
+                    },
+                    {
+                        "key": 441,
+                        "value": false
+                    },
+                    {
+                        "key": 446,
+                        "value": false
+                    },
+                    {
+                        "key": 447,
+                        "value": false
+                    },
+                    {
+                        "key": 448,
+                        "value": false
+                    },
+                    {
+                        "key": 449,
+                        "value": false
+                    },
+                    {
+                        "key": 450,
+                        "value": false
+                    },
+                    {
+                        "key": 636,
+                        "value": true
+                    },
+                    {
+                        "key": 637,
+                        "value": true
+                    },
+                    {
+                        "key": 642,
+                        "value": true
+                    }
+                ],
+                "values": [],
+                "fastTravels": [
+                    {
+                        "key": "Dungeon_Intro_Section_A0",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Intro_Section_B1",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "progress": [
+                    {
+                        "key": 2,
+                        "value": false
+                    },
+                    {
+                        "key": 310,
+                        "value": false
+                    },
+                    {
+                        "key": 50,
+                        "value": false
+                    },
+                    {
+                        "key": 64,
+                        "value": false
+                    },
+                    {
+                        "key": 66,
+                        "value": false
+                    },
+                    {
+                        "key": 65,
+                        "value": false
+                    },
+                    {
+                        "key": 67,
+                        "value": false
+                    },
+                    {
+                        "key": 69,
+                        "value": false
+                    },
+                    {
+                        "key": 70,
+                        "value": false
+                    },
+                    {
+                        "key": 71,
+                        "value": false
+                    },
+                    {
+                        "key": 72,
+                        "value": false
+                    },
+                    {
+                        "key": 408,
+                        "value": false
+                    },
+                    {
+                        "key": 412,
+                        "value": false
+                    },
+                    {
+                        "key": 430,
+                        "value": false
+                    },
+                    {
+                        "key": 433,
+                        "value": false
+                    },
+                    {
+                        "key": 432,
+                        "value": false
+                    },
+                    {
+                        "key": 431,
+                        "value": false
+                    },
+                    {
+                        "key": 434,
+                        "value": false
+                    },
+                    {
+                        "key": 435,
+                        "value": false
+                    },
+                    {
+                        "key": 300,
+                        "value": false
+                    },
+                    {
+                        "key": 304,
+                        "value": false
+                    },
+                    {
+                        "key": 48,
+                        "value": false
+                    },
+                    {
+                        "key": 451,
+                        "value": false
+                    },
+                    {
+                        "key": 452,
+                        "value": false
+                    },
+                    {
+                        "key": 453,
+                        "value": false
+                    },
+                    {
+                        "key": 454,
+                        "value": false
+                    },
+                    {
+                        "key": 455,
+                        "value": false
+                    },
+                    {
+                        "key": 456,
+                        "value": false
+                    },
+                    {
+                        "key": 457,
+                        "value": false
+                    },
+                    {
+                        "key": 458,
+                        "value": false
+                    },
+                    {
+                        "key": 459,
+                        "value": false
+                    },
+                    {
+                        "key": 460,
+                        "value": false
+                    },
+                    {
+                        "key": 504,
+                        "value": false
+                    },
+                    {
+                        "key": 505,
+                        "value": false
+                    },
+                    {
+                        "key": 506,
+                        "value": false
+                    },
+                    {
+                        "key": 507,
+                        "value": false
+                    },
+                    {
+                        "key": 508,
+                        "value": false
+                    },
+                    {
+                        "key": 509,
+                        "value": false
+                    },
+                    {
+                        "key": 510,
+                        "value": false
+                    },
+                    {
+                        "key": 511,
+                        "value": false
+                    },
+                    {
+                        "key": 512,
+                        "value": false
+                    },
+                    {
+                        "key": 513,
+                        "value": false
+                    },
+                    {
+                        "key": 514,
+                        "value": false
+                    },
+                    {
+                        "key": 570,
+                        "value": false
+                    },
+                    {
+                        "key": 571,
+                        "value": false
+                    },
+                    {
+                        "key": 572,
+                        "value": false
+                    },
+                    {
+                        "key": 573,
+                        "value": false
+                    },
+                    {
+                        "key": 574,
+                        "value": false
+                    },
+                    {
+                        "key": 575,
+                        "value": false
+                    },
+                    {
+                        "key": 576,
+                        "value": false
+                    },
+                    {
+                        "key": 577,
+                        "value": false
+                    },
+                    {
+                        "key": 578,
+                        "value": false
+                    },
+                    {
+                        "key": 579,
+                        "value": false
+                    },
+                    {
+                        "key": 580,
+                        "value": false
+                    },
+                    {
+                        "key": 73,
+                        "value": false
+                    },
+                    {
+                        "key": 74,
+                        "value": false
+                    },
+                    {
+                        "key": 438,
+                        "value": false
+                    },
+                    {
+                        "key": 633,
+                        "value": false
+                    },
+                    {
+                        "key": 634,
+                        "value": false
+                    },
+                    {
+                        "key": 635,
+                        "value": false
+                    },
+                    {
+                        "key": 420,
+                        "value": false
+                    },
+                    {
+                        "key": 641,
+                        "value": false
+                    },
+                    {
+                        "key": 643,
+                        "value": false
+                    },
+                    {
+                        "key": 644,
+                        "value": false
+                    },
+                    {
+                        "key": 649,
+                        "value": false
+                    }
+                ],
+                "values": [],
+                "fastTravels": [
+                    {
+                        "key": "Dungeon_Wrath_Section_A0",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Wrath_Section_C1",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Wrath_Section_C2",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Wrath_Section_D3",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Wrath_Section_E4",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "progress": [
+                    {
+                        "key": 3,
+                        "value": false
+                    },
+                    {
+                        "key": 311,
+                        "value": false
+                    },
+                    {
+                        "key": 110,
+                        "value": false
+                    },
+                    {
+                        "key": 78,
+                        "value": false
+                    },
+                    {
+                        "key": 79,
+                        "value": false
+                    },
+                    {
+                        "key": 80,
+                        "value": false
+                    },
+                    {
+                        "key": 81,
+                        "value": false
+                    },
+                    {
+                        "key": 82,
+                        "value": false
+                    },
+                    {
+                        "key": 76,
+                        "value": false
+                    },
+                    {
+                        "key": 77,
+                        "value": false
+                    },
+                    {
+                        "key": 413,
+                        "value": false
+                    },
+                    {
+                        "key": 111,
+                        "value": false
+                    },
+                    {
+                        "key": 112,
+                        "value": false
+                    },
+                    {
+                        "key": 436,
+                        "value": false
+                    },
+                    {
+                        "key": 301,
+                        "value": false
+                    },
+                    {
+                        "key": 305,
+                        "value": false
+                    },
+                    {
+                        "key": 302,
+                        "value": false
+                    },
+                    {
+                        "key": 306,
+                        "value": false
+                    },
+                    {
+                        "key": 437,
+                        "value": false
+                    },
+                    {
+                        "key": 49,
+                        "value": false
+                    },
+                    {
+                        "key": 439,
+                        "value": false
+                    },
+                    {
+                        "key": 461,
+                        "value": false
+                    },
+                    {
+                        "key": 462,
+                        "value": false
+                    },
+                    {
+                        "key": 463,
+                        "value": false
+                    },
+                    {
+                        "key": 464,
+                        "value": false
+                    },
+                    {
+                        "key": 465,
+                        "value": false
+                    },
+                    {
+                        "key": 466,
+                        "value": false
+                    },
+                    {
+                        "key": 467,
+                        "value": false
+                    },
+                    {
+                        "key": 468,
+                        "value": false
+                    },
+                    {
+                        "key": 469,
+                        "value": false
+                    },
+                    {
+                        "key": 535,
+                        "value": false
+                    },
+                    {
+                        "key": 536,
+                        "value": false
+                    },
+                    {
+                        "key": 537,
+                        "value": false
+                    },
+                    {
+                        "key": 538,
+                        "value": false
+                    },
+                    {
+                        "key": 539,
+                        "value": false
+                    },
+                    {
+                        "key": 540,
+                        "value": false
+                    },
+                    {
+                        "key": 541,
+                        "value": false
+                    },
+                    {
+                        "key": 542,
+                        "value": false
+                    },
+                    {
+                        "key": 543,
+                        "value": false
+                    },
+                    {
+                        "key": 544,
+                        "value": false
+                    },
+                    {
+                        "key": 545,
+                        "value": false
+                    },
+                    {
+                        "key": 520,
+                        "value": false
+                    },
+                    {
+                        "key": 521,
+                        "value": false
+                    },
+                    {
+                        "key": 522,
+                        "value": false
+                    },
+                    {
+                        "key": 523,
+                        "value": false
+                    },
+                    {
+                        "key": 524,
+                        "value": false
+                    },
+                    {
+                        "key": 525,
+                        "value": false
+                    },
+                    {
+                        "key": 526,
+                        "value": false
+                    },
+                    {
+                        "key": 527,
+                        "value": false
+                    },
+                    {
+                        "key": 528,
+                        "value": false
+                    },
+                    {
+                        "key": 529,
+                        "value": false
+                    },
+                    {
+                        "key": 530,
+                        "value": false
+                    },
+                    {
+                        "key": 600,
+                        "value": false
+                    },
+                    {
+                        "key": 601,
+                        "value": false
+                    },
+                    {
+                        "key": 602,
+                        "value": false
+                    },
+                    {
+                        "key": 603,
+                        "value": false
+                    },
+                    {
+                        "key": 604,
+                        "value": false
+                    },
+                    {
+                        "key": 605,
+                        "value": false
+                    },
+                    {
+                        "key": 606,
+                        "value": false
+                    },
+                    {
+                        "key": 607,
+                        "value": false
+                    },
+                    {
+                        "key": 608,
+                        "value": false
+                    },
+                    {
+                        "key": 609,
+                        "value": false
+                    },
+                    {
+                        "key": 610,
+                        "value": false
+                    },
+                    {
+                        "key": 585,
+                        "value": false
+                    },
+                    {
+                        "key": 586,
+                        "value": false
+                    },
+                    {
+                        "key": 587,
+                        "value": false
+                    },
+                    {
+                        "key": 588,
+                        "value": false
+                    },
+                    {
+                        "key": 589,
+                        "value": false
+                    },
+                    {
+                        "key": 590,
+                        "value": false
+                    },
+                    {
+                        "key": 591,
+                        "value": false
+                    },
+                    {
+                        "key": 592,
+                        "value": false
+                    },
+                    {
+                        "key": 593,
+                        "value": false
+                    },
+                    {
+                        "key": 594,
+                        "value": false
+                    },
+                    {
+                        "key": 595,
+                        "value": false
+                    },
+                    {
+                        "key": 113,
+                        "value": false
+                    },
+                    {
+                        "key": 114,
+                        "value": false
+                    },
+                    {
+                        "key": 115,
+                        "value": false
+                    },
+                    {
+                        "key": 116,
+                        "value": false
+                    },
+                    {
+                        "key": 117,
+                        "value": false
+                    },
+                    {
+                        "key": 118,
+                        "value": false
+                    },
+                    {
+                        "key": 119,
+                        "value": false
+                    },
+                    {
+                        "key": 120,
+                        "value": false
+                    },
+                    {
+                        "key": 645,
+                        "value": false
+                    },
+                    {
+                        "key": 646,
+                        "value": false
+                    },
+                    {
+                        "key": 685,
+                        "value": false
+                    }
+                ],
+                "values": [],
+                "fastTravels": [
+                    {
+                        "key": "Dungeon_Pride_GasStation0",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_B1",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_C2",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_C3",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_C4",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_C5",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Pride_Section_D6",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "progress": [
+                    {
+                        "key": 4,
+                        "value": false
+                    },
+                    {
+                        "key": 312,
+                        "value": false
+                    },
+                    {
+                        "key": 151,
+                        "value": false
+                    },
+                    {
+                        "key": 152,
+                        "value": false
+                    },
+                    {
+                        "key": 84,
+                        "value": false
+                    },
+                    {
+                        "key": 154,
+                        "value": false
+                    },
+                    {
+                        "key": 153,
+                        "value": false
+                    },
+                    {
+                        "key": 156,
+                        "value": false
+                    },
+                    {
+                        "key": 320,
+                        "value": false
+                    },
+                    {
+                        "key": 321,
+                        "value": false
+                    },
+                    {
+                        "key": 414,
+                        "value": false
+                    },
+                    {
+                        "key": 418,
+                        "value": false
+                    },
+                    {
+                        "key": 419,
+                        "value": false
+                    },
+                    {
+                        "key": 303,
+                        "value": false
+                    },
+                    {
+                        "key": 307,
+                        "value": false
+                    },
+                    {
+                        "key": 440,
+                        "value": false
+                    },
+                    {
+                        "key": 470,
+                        "value": false
+                    },
+                    {
+                        "key": 471,
+                        "value": false
+                    },
+                    {
+                        "key": 472,
+                        "value": false
+                    },
+                    {
+                        "key": 473,
+                        "value": false
+                    },
+                    {
+                        "key": 474,
+                        "value": false
+                    },
+                    {
+                        "key": 475,
+                        "value": false
+                    },
+                    {
+                        "key": 476,
+                        "value": false
+                    },
+                    {
+                        "key": 477,
+                        "value": false
+                    },
+                    {
+                        "key": 478,
+                        "value": false
+                    },
+                    {
+                        "key": 550,
+                        "value": false
+                    },
+                    {
+                        "key": 551,
+                        "value": false
+                    },
+                    {
+                        "key": 552,
+                        "value": false
+                    },
+                    {
+                        "key": 615,
+                        "value": false
+                    },
+                    {
+                        "key": 616,
+                        "value": false
+                    },
+                    {
+                        "key": 617,
+                        "value": false
+                    },
+                    {
+                        "key": 157,
+                        "value": false
+                    },
+                    {
+                        "key": 160,
+                        "value": false
+                    },
+                    {
+                        "key": 161,
+                        "value": false
+                    },
+                    {
+                        "key": 159,
+                        "value": false
+                    },
+                    {
+                        "key": 158,
+                        "value": false
+                    },
+                    {
+                        "key": 162,
+                        "value": false
+                    },
+                    {
+                        "key": 163,
+                        "value": false
+                    },
+                    {
+                        "key": 164,
+                        "value": false
+                    },
+                    {
+                        "key": 553,
+                        "value": false
+                    },
+                    {
+                        "key": 632,
+                        "value": false
+                    },
+                    {
+                        "key": 165,
+                        "value": false
+                    },
+                    {
+                        "key": 166,
+                        "value": false
+                    },
+                    {
+                        "key": 167,
+                        "value": false
+                    },
+                    {
+                        "key": 169,
+                        "value": false
+                    },
+                    {
+                        "key": 171,
+                        "value": false
+                    },
+                    {
+                        "key": 173,
+                        "value": false
+                    },
+                    {
+                        "key": 168,
+                        "value": false
+                    },
+                    {
+                        "key": 170,
+                        "value": false
+                    },
+                    {
+                        "key": 172,
+                        "value": false
+                    },
+                    {
+                        "key": 647,
+                        "value": false
+                    },
+                    {
+                        "key": 648,
+                        "value": false
+                    }
+                ],
+                "values": [],
+                "fastTravels": [
+                    {
+                        "key": "Dungeon_Greed_Section_Intro0",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_A1",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_B2",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_B3",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_B4",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_C5",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_C6",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Greed_Section_D7",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "progress": [
+                    {
+                        "key": 5,
+                        "value": false
+                    },
+                    {
+                        "key": 330,
+                        "value": false
+                    },
+                    {
+                        "key": 331,
+                        "value": false
+                    },
+                    {
+                        "key": 332,
+                        "value": false
+                    },
+                    {
+                        "key": 333,
+                        "value": false
+                    },
+                    {
+                        "key": 334,
+                        "value": false
+                    },
+                    {
+                        "key": 335,
+                        "value": false
+                    },
+                    {
+                        "key": 336,
+                        "value": false
+                    },
+                    {
+                        "key": 337,
+                        "value": false
+                    },
+                    {
+                        "key": 338,
+                        "value": false
+                    },
+                    {
+                        "key": 400,
+                        "value": false
+                    },
+                    {
+                        "key": 401,
+                        "value": false
+                    },
+                    {
+                        "key": 402,
+                        "value": false
+                    },
+                    {
+                        "key": 403,
+                        "value": false
+                    },
+                    {
+                        "key": 404,
+                        "value": false
+                    },
+                    {
+                        "key": 405,
+                        "value": false
+                    },
+                    {
+                        "key": 406,
+                        "value": false
+                    },
+                    {
+                        "key": 407,
+                        "value": false
+                    },
+                    {
+                        "key": 415,
+                        "value": false
+                    },
+                    {
+                        "key": 416,
+                        "value": false
+                    },
+                    {
+                        "key": 417,
+                        "value": false
+                    },
+                    {
+                        "key": 442,
+                        "value": false
+                    },
+                    {
+                        "key": 443,
+                        "value": false
+                    },
+                    {
+                        "key": 444,
+                        "value": false
+                    },
+                    {
+                        "key": 445,
+                        "value": false
+                    },
+                    {
+                        "key": 479,
+                        "value": false
+                    },
+                    {
+                        "key": 480,
+                        "value": false
+                    },
+                    {
+                        "key": 481,
+                        "value": false
+                    },
+                    {
+                        "key": 482,
+                        "value": false
+                    },
+                    {
+                        "key": 483,
+                        "value": false
+                    },
+                    {
+                        "key": 622,
+                        "value": false
+                    },
+                    {
+                        "key": 623,
+                        "value": false
+                    },
+                    {
+                        "key": 624,
+                        "value": false
+                    },
+                    {
+                        "key": 625,
+                        "value": false
+                    },
+                    {
+                        "key": 626,
+                        "value": false
+                    },
+                    {
+                        "key": 627,
+                        "value": false
+                    },
+                    {
+                        "key": 628,
+                        "value": false
+                    },
+                    {
+                        "key": 629,
+                        "value": false
+                    },
+                    {
+                        "key": 630,
+                        "value": false
+                    },
+                    {
+                        "key": 631,
+                        "value": false
+                    },
+                    {
+                        "key": 618,
+                        "value": false
+                    },
+                    {
+                        "key": 619,
+                        "value": false
+                    },
+                    {
+                        "key": 620,
+                        "value": false
+                    },
+                    {
+                        "key": 621,
+                        "value": false
+                    },
+                    {
+                        "key": 638,
+                        "value": false
+                    },
+                    {
+                        "key": 639,
+                        "value": false
+                    },
+                    {
+                        "key": 640,
+                        "value": false
+                    },
+                    {
+                        "key": 650,
+                        "value": false
+                    },
+                    {
+                        "key": 651,
+                        "value": false
+                    },
+                    {
+                        "key": 652,
+                        "value": true
+                    },
+                    {
+                        "key": 653,
+                        "value": false
+                    },
+                    {
+                        "key": 654,
+                        "value": false
+                    },
+                    {
+                        "key": 655,
+                        "value": false
+                    },
+                    {
+                        "key": 656,
+                        "value": false
+                    },
+                    {
+                        "key": 657,
+                        "value": false
+                    },
+                    {
+                        "key": 658,
+                        "value": false
+                    },
+                    {
+                        "key": 659,
+                        "value": false
+                    },
+                    {
+                        "key": 660,
+                        "value": false
+                    },
+                    {
+                        "key": 661,
+                        "value": true
+                    },
+                    {
+                        "key": 662,
+                        "value": false
+                    },
+                    {
+                        "key": 663,
+                        "value": false
+                    },
+                    {
+                        "key": 664,
+                        "value": false
+                    },
+                    {
+                        "key": 665,
+                        "value": false
+                    },
+                    {
+                        "key": 666,
+                        "value": false
+                    },
+                    {
+                        "key": 667,
+                        "value": false
+                    },
+                    {
+                        "key": 668,
+                        "value": false
+                    },
+                    {
+                        "key": 669,
+                        "value": false
+                    },
+                    {
+                        "key": 670,
+                        "value": false
+                    },
+                    {
+                        "key": 671,
+                        "value": false
+                    },
+                    {
+                        "key": 672,
+                        "value": false
+                    },
+                    {
+                        "key": 673,
+                        "value": false
+                    },
+                    {
+                        "key": 674,
+                        "value": false
+                    },
+                    {
+                        "key": 675,
+                        "value": false
+                    },
+                    {
+                        "key": 676,
+                        "value": false
+                    },
+                    {
+                        "key": 677,
+                        "value": false
+                    },
+                    {
+                        "key": 678,
+                        "value": false
+                    },
+                    {
+                        "key": 679,
+                        "value": false
+                    },
+                    {
+                        "key": 680,
+                        "value": false
+                    },
+                    {
+                        "key": 681,
+                        "value": false
+                    },
+                    {
+                        "key": 682,
+                        "value": false
+                    },
+                    {
+                        "key": 683,
+                        "value": false
+                    },
+                    {
+                        "key": 684,
+                        "value": false
+                    },
+                    {
+                        "key": 686,
+                        "value": false
+                    }
+                ],
+                "values": [],
+                "fastTravels": [
+                    {
+                        "key": "Dungeon_Final_Section_A0",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Final_Section_B1",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Final_Section_C2",
+                        "value": false
+                    },
+                    {
+                        "key": "Dungeon_Final_Section_D_23",
+                        "value": false
+                    }
+                ]
+            }
+        ]
+    },
+    "inventory": {
+        "blackMotherEssence": 3,
+        "whiteMotherEssence": 0,
+        "weaponSkills": {
+            "swordSkills": [
+                {
+                    "skill": 8,
+                    "unlocked": false
+                },
+                {
+                    "skill": 12,
+                    "unlocked": false
+                },
+                {
+                    "skill": 16,
+                    "unlocked": false
+                },
+                {
+                    "skill": 4,
+                    "unlocked": false
+                },
+                {
+                    "skill": 10,
+                    "unlocked": false
+                },
+                {
+                    "skill": 14,
+                    "unlocked": false
+                },
+                {
+                    "skill": 2,
+                    "unlocked": false
+                },
+                {
+                    "skill": 11,
+                    "unlocked": false
+                },
+                {
+                    "skill": 15,
+                    "unlocked": false
+                },
+                {
+                    "skill": 9,
+                    "unlocked": false
+                },
+                {
+                    "skill": 13,
+                    "unlocked": false
+                },
+                {
+                    "skill": 17,
+                    "unlocked": false
+                }
+            ],
+            "uniqueSkills": [
+                {
+                    "skill": 1,
+                    "unlocked": true
+                },
+                {
+                    "skill": 5,
+                    "unlocked": false
+                },
+                {
+                    "skill": 6,
+                    "unlocked": false
+                },
+                {
+                    "skill": 7,
+                    "unlocked": false
+                },
+                {
+                    "skill": 3,
+                    "unlocked": false
+                },
+                {
+                    "skill": 0,
+                    "unlocked": true
+                },
+                {
+                    "skill": 131,
+                    "unlocked": false
+                },
+                {
+                    "skill": 130,
+                    "unlocked": false
+                }
+            ]
+        },
+        "elementalSkills": {
+            "skySkills": [
+                {
+                    "key": {
+                        "type": 4,
+                        "level": 1
+                    },
+                    "unlocked": true
+                },
+                {
+                    "key": {
+                        "type": 4,
+                        "level": 4
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 4,
+                        "level": 7
+                    },
+                    "unlocked": false
+                }
+            ],
+            "sunSkills": [
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 1
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 2
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 3
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 4
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 5
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 6
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 0,
+                        "level": 7
+                    },
+                    "unlocked": false
+                }
+            ],
+            "earthSkills": [
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 1
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 2
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 3
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 4
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 5
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 6
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 1,
+                        "level": 7
+                    },
+                    "unlocked": false
+                }
+            ],
+            "moonSkills": [
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 1
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 2
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 3
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 4
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 5
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 6
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "type": 2,
+                        "level": 7
+                    },
+                    "unlocked": false
+                }
+            ]
+        },
+        "dateableSkills": {
+            "yunaSkills": [
+                {
+                    "key": {
+                        "skillType": 21
+                    },
+                    "unlocked": true
+                },
+                {
+                    "key": {
+                        "skillType": 22
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 23
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 24
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 25
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 26
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 27
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 111
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 112
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 113
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 114
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 115
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 124
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 125
+                    },
+                    "unlocked": false
+                }
+            ],
+            "chaniSkills": [
+                {
+                    "key": {
+                        "skillType": 54
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 55
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 56
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 57
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 58
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 59
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 60
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 61
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 62
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 63
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 64
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 65
+                    },
+                    "unlocked": false
+                }
+            ],
+            "minSkills": [
+                {
+                    "key": {
+                        "skillType": 33
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 34
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 35
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 39
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 80
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 81
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 82
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 83
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 84
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 85
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 86
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 119
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 120
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 121
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 126
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 127
+                    },
+                    "unlocked": false
+                }
+            ],
+            "siaSkills": [
+                {
+                    "key": {
+                        "skillType": 40
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 41
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 42
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 46
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 79
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 73
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 74
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 75
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 76
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 77
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 78
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 116
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 117
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 118
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 122
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 123
+                    },
+                    "unlocked": false
+                }
+            ],
+            "yohanSkills": [
+                {
+                    "key": {
+                        "skillType": 47
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 48
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 49
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 50
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 51
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 128
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 129
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 28
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 29
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 30
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 31
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 32
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 36
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 37
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 38
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 43
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 44
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 45
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 72
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 66
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 67
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 68
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 69
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 70
+                    },
+                    "unlocked": false
+                },
+                {
+                    "key": {
+                        "skillType": 71
+                    },
+                    "unlocked": false
+                }
+            ]
+        },
+        "relationships": {
+            "relationships": [
+                {
+                    "character": 0,
+                    "data": {
+                        "rank": 0,
+                        "points": 0
+                    }
+                },
+                {
+                    "character": 1,
+                    "data": {
+                        "rank": 0,
+                        "points": 0
+                    }
+                },
+                {
+                    "character": 3,
+                    "data": {
+                        "rank": 0,
+                        "points": 0
+                    }
+                },
+                {
+                    "character": 4,
+                    "data": {
+                        "rank": 0,
+                        "points": 0
+                    }
+                },
+                {
+                    "character": 5,
+                    "data": {
+                        "rank": 0,
+                        "points": 0
+                    }
+                },
+                {
+                    "character": 17,
+                    "data": {
+                        "rank": 1,
+                        "points": 0
+                    }
+                }
+            ]
+        }
+    },
+    "nameReveal": {
+        "names": [
+            {
+                "key": "Player",
+                "value": true,
+                "revealedName": "aG"
+            },
+            {
+                "key": "TeamName",
+                "value": false,
+                "revealedName": "team_name_here"
+            },
+            {
+                "key": "Chani",
+                "value": false,
+                "revealedName": "characterNameChani"
+            },
+            {
+                "key": "Aria",
+                "value": false,
+                "revealedName": "characterNameAria"
+            },
+            {
+                "key": "Yuna",
+                "value": true,
+                "revealedName": "characterNameYuna"
+            },
+            {
+                "key": "WhiteMother",
+                "value": true,
+                "revealedName": "characterNameLux"
+            },
+            {
+                "key": "Yuria",
+                "value": true,
+                "revealedName": "characterNameYuria"
+            },
+            {
+                "key": "Eunji",
+                "value": false,
+                "revealedName": "characterNameEunji"
+            },
+            {
+                "key": "Minji",
+                "value": true,
+                "revealedName": "characterNameMinji"
+            },
+            {
+                "key": "Sia",
+                "value": false,
+                "revealedName": "characterNameSia"
+            },
+            {
+                "key": "Min",
+                "value": false,
+                "revealedName": "characterNameMin"
+            },
+            {
+                "key": "Yohan",
+                "value": false,
+                "revealedName": "characterNameYohan"
+            },
+            {
+                "key": "BlackMother",
+                "value": true,
+                "revealedName": "characterNameUmbra"
+            },
+            {
+                "key": "Yosu",
+                "value": false,
+                "revealedName": "characterNameYohanBrother"
+            },
+            {
+                "key": "Inah",
+                "value": false,
+                "revealedName": "characterNameInah"
+            },
+            {
+                "key": "Suji",
+                "value": false,
+                "revealedName": "characterNameSuji"
+            },
+            {
+                "key": "JungIn",
+                "value": false,
+                "revealedName": "characterNameJungIn"
+            },
+            {
+                "key": "Bed",
+                "value": false,
+                "revealedName": "characterNameBed"
+            },
+            {
+                "key": "Reporter",
+                "value": false,
+                "revealedName": "characterNameReporter"
+            },
+            {
+                "key": "Speaker",
+                "value": false,
+                "revealedName": "characterNameSpeaker"
+            },
+            {
+                "key": "Computer",
+                "value": false,
+                "revealedName": "characterNameComputer"
+            },
+            {
+                "key": "Train",
+                "value": false,
+                "revealedName": "characterNameTrain"
+            },
+            {
+                "key": "Communication Log",
+                "value": false,
+                "revealedName": "characterNameComLog"
+            },
+            {
+                "key": "Sia Door",
+                "value": false,
+                "revealedName": "characterNameSiaDoor"
+            },
+            {
+                "key": "Min Door",
+                "value": false,
+                "revealedName": "characterNameMinDoor"
+            },
+            {
+                "key": "Yuna Door",
+                "value": false,
+                "revealedName": "characterNameYunaDoor"
+            },
+            {
+                "key": "Chani Door",
+                "value": false,
+                "revealedName": "characterNameChaniDoor"
+            },
+            {
+                "key": "Yuna_Fan_1",
+                "value": false,
+                "revealedName": "characterNameYunaFan1"
+            },
+            {
+                "key": "Yuna_Fan_2",
+                "value": false,
+                "revealedName": "characterNameYunaFan2"
+            },
+            {
+                "key": "Yuna_Fan_3",
+                "value": false,
+                "revealedName": "characterNameYunaFan3"
+            },
+            {
+                "key": "Glow Boy",
+                "value": false,
+                "revealedName": "characterNameGlowboyRevealed"
+            },
+            {
+                "key": "Ran Log",
+                "value": false,
+                "revealedName": "characterNameRanLog"
+            },
+            {
+                "key": "MonsterVoice",
+                "value": false,
+                "revealedName": "characterNameMonster"
+            },
+            {
+                "key": "Jisoo's Friend",
+                "value": false,
+                "revealedName": "characterNameJisooFriend"
+            },
+            {
+                "key": "Stranger 1",
+                "value": false,
+                "revealedName": "characterNameStranger1"
+            },
+            {
+                "key": "Stranger 2",
+                "value": false,
+                "revealedName": "characterNameStranger2"
+            },
+            {
+                "key": "Ran",
+                "value": false,
+                "revealedName": "characterNameRan"
+            },
+            {
+                "key": "Jisoo",
+                "value": false,
+                "revealedName": "characterNameJisoo"
+            }
+        ]
+    },
+    "calendarManagerData": {
+        "date": {
+            "year": 0,
+            "month": 5,
+            "day": 3,
+            "time": 0,
+            "hour": 3,
+            "min": 14
+        },
+        "locationType": 0,
+        "calendarEventNameInCalendar": "NormalDay_Ch01_Train_PostEnvy_A",
+        "calendarEventName": "NormalDay_Ch01_Train_PostEnvy_A",
+        "dungeonSectionID": 0,
+        "dungeonEntryPoint": 0,
+        "sceneName": "EnvScene_Train_Sunset"
+    },
+    "metaData": {
+        "timeSavedData": {
+            "year": 2025,
+            "month": 12,
+            "day": 20,
+            "hour": 3,
+            "min": 14
+        },
+        "gameSceneName": "EnvScene_Train_Sunset"
+    },
+    "dungeonCombatStats": {
+        "stats": {
+            "CurrentHP": 200.0,
+            "CurrentSP": 100.0,
+            "CurrentElementalGauge": 0.0,
+            "CurrentSkillGauge": 0.0,
+            "CurrentIsMinUltimateAvailable": true,
+            "CurrentIsYunaUltimateAvailable": true,
+            "CurrentIsSiaUltimateAvailable": true,
+            "MinBarrierCount": 0
+        }
+    },
+    "socialGameStats": {
+        "statsInfo": [
+            {
+                "statName": 1,
+                "level": 0,
+                "points": 3
+            },
+            {
+                "statName": 3,
+                "level": 0,
+                "points": 3
+            },
+            {
+                "statName": 0,
+                "level": 0,
+                "points": 1
+            },
+            {
+                "statName": 2,
+                "level": 0,
+                "points": 1
+            }
+        ]
+    },
+    "combatGameMetaStats": {
+        "statsMetaInfo": [
+            {
+                "combatMetaStatType": 3,
+                "statValue": 0
+            },
+            {
+                "combatMetaStatType": 0,
+                "statValue": 0
+            },
+            {
+                "combatMetaStatType": 1,
+                "statValue": 0
+            },
+            {
+                "combatMetaStatType": 2,
+                "statValue": 0
+            }
+        ]
+    }
+}

@@ -2,10 +2,10 @@ Initialize engine version: 2018.4.24f1 (5ebab45375c4)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4090 (ID=0x2684)
+    Renderer: NVIDIA GeForce RTX 5090 (ID=0x2b85)
     Vendor:   
-    VRAM:     24142 MB
-    Driver:   32.0.15.6636
+    VRAM:     32101 MB
+    Driver:   32.0.15.7652
 Default GameObject BitMask: worldMap already registered
  
 (Filename:  Line: 126)
@@ -13,7 +13,7 @@ Default GameObject BitMask: worldMap already registered
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.180300 ms
+UnloadTime: 1.222900 ms
 DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
  
 (Filename:  Line: 581)
@@ -650,54 +650,15 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-: Set ShouldUseLessEvents to False : 
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:LogError(Object, Object)
-PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
-PlayFab.<>c__DisplayClass19_0`1:<ExecuteCloudScript>b__0(ExecuteCloudScriptResult)
-PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
-PlayFab.Internal.<>c__DisplayClass25_0`1:<_MakeApiCall>b__1()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
-PlayFab.Internal.<Post>d__20:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
- 
-(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
-
-: Set AllowTelemetry to True : 
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:LogError(Object, Object)
-PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
-PlayFab.<>c__DisplayClass19_0`1:<ExecuteCloudScript>b__0(ExecuteCloudScriptResult)
-PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
-PlayFab.Internal.<>c__DisplayClass25_0`1:<_MakeApiCall>b__1()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
-PlayFab.Internal.<Post>d__20:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
- 
-(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
-
 Unloading 259 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 2037 unused Assets to reduce memory usage. Loaded Objects now: 184282.
-Total: 75.209200 ms (FindLiveObjects: 5.853700 ms CreateObjectMapping: 2.750800 ms MarkObjects: 65.847600 ms  DeleteObjects: 0.756500 ms)
+Unloading 2037 unused Assets to reduce memory usage. Loaded Objects now: 184268.
+Total: 155.256600 ms (FindLiveObjects: 11.983900 ms CreateObjectMapping: 6.359500 ms MarkObjects: 135.390900 ms  DeleteObjects: 1.521500 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 184282.
-Total: 72.813900 ms (FindLiveObjects: 5.446500 ms CreateObjectMapping: 2.004000 ms MarkObjects: 65.280500 ms  DeleteObjects: 0.082500 ms)
-
-[TimelineSystem : GameplayUISystem ] Created
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Moon.Timeline.TimelineSystem`1:get_Instance()
-Moon.Timeline.SeinUIEntity:OnUpdateEntity(Single)
-Moon.Timeline.TimelineEntity:OnUpdate(Single)
-Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
-Moon.Driver.UpdateManager:Update(Single)
- 
-(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 184268.
+Total: 151.282300 ms (FindLiveObjects: 11.552900 ms CreateObjectMapping: 4.760300 ms MarkObjects: 134.857900 ms  DeleteObjects: 0.110300 ms)
 
 [TimelineSystem : SceneManagementSystem ] Created
 UnityEngine.Logger:Log(LogType, Object)
@@ -715,6 +676,17 @@ Moon.Driver.UpdateManager:Update(Single)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
+[TimelineSystem : GameplayUISystem ] Created
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Moon.Timeline.TimelineSystem`1:get_Instance()
+Moon.Timeline.LockInputEntity:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
 The referenced script on this Behaviour (Game Object '<null>') is missing!
  
 (Filename:  Line: 294)
@@ -723,113 +695,624 @@ The referenced script on this Behaviour (Game Object 'questMapScene') is missing
  
 (Filename:  Line: 294)
 
-[1226/080617.835:INFO:API.cpp(274)] zfb_init: Started browser
-
-[1226/080617.835:INFO:API.cpp(276)] zfb_init: Using --disable-smooth-scrolling
-
-[1226/080617.835:INFO:API.cpp(276)] zfb_init: Using --enable-system-flash
-
-Exception: : 
-System.UriFormatException: Invalid URI: The URI is empty.
-  at System.Uri.CreateThis (System.String uri, System.Boolean dontEscape, System.UriKind uriKind) [0x00000] in <00000000000000000000000000000000>:0 
-  at System.Uri..ctor (System.String uriString) [0x00000] in <00000000000000000000000000000000>:0 
-  at SystemIntegration.XalBrowserWrapper.<SetupBrowserInstance>b__9_0 () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.VR.OpenVRBinding.IVRCompositor+_ForceReconnectProcess.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.VR.OpenVRBinding.IVRCompositor+_ForceReconnectProcess.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.EmbeddedBrowser.Browser.ProcessCallbacks () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.EmbeddedBrowser.Browser.LateUpdate () [0x00000] in <00000000000000000000000000000000>:0 
-============================
-
-
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:LogException(Exception, Object)
-SystemIntegration.XalBrowserWrapper:<SetupBrowserInstance>b__9_0()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
- 
-(Filename: currently not available on il2cpp Line: -1)
-
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
+: Set AllowTelemetry to True : 
 UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
+UnityEngine.Debug:LogError(Object, Object)
+PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
+PlayFab.<>c__DisplayClass19_0`1:<ExecuteCloudScript>b__0(ExecuteCloudScriptResult)
+PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
+PlayFab.Internal.<>c__DisplayClass25_0`1:<_MakeApiCall>b__1()
 ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
+: Set ShouldUseLessEvents to False : 
 UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
+UnityEngine.Debug:LogError(Object, Object)
+PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
+PlayFab.<>c__DisplayClass19_0`1:<ExecuteCloudScript>b__0(ExecuteCloudScriptResult)
+PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
+PlayFab.Internal.<>c__DisplayClass25_0`1:<_MakeApiCall>b__1()
 ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__20:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+The referenced script on this Behaviour (Game Object 'nightcrawlerCavernDoubleJumpEscalation') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'parts_BLD_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'parts_BLD_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'swampNightcrawlerCavernA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_BLD_NEU_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_BLD_NEU_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'placeholderShrineB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'howlsDenSaveRoom') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'swampNightcrawlerBackgroundA') is missing!
+ 
+(Filename:  Line: 294)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "swampNightcrawlerCavernA/interactives/barriers/swampBarrierBoneС/breakableWallLogicBarrier/damageReceiver"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "swampNightcrawlerCavernA/interactives/littleInteractives/breakableBonesC (1)"
+ 
+(Filename:  Line: 0)
+
+Unloading 93 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1890 unused Assets to reduce memory usage. Loaded Objects now: 328137.
+Total: 134.871300 ms (FindLiveObjects: 10.027800 ms CreateObjectMapping: 3.783500 ms MarkObjects: 119.911700 ms  DeleteObjects: 1.148000 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'nightcrawlerCavernDoubleJumpIntroduction') is missing!
+ 
+(Filename:  Line: 294)
+
+MoonTrailSystem.AllocateComputeBuffers
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Moon.MoonTrailSystem:AllocateComputeBuffers()
+Moon.MoonTrailSystem:GetFreeComputeBuffer()
+Moon.MoonTrail:UpdateRenderingData(MoonTrailUpdateContext&)
+Moon.MoonTrailSystem:LateUpdate()
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-Exception: : 
-System.UriFormatException: Invalid URI: The URI is empty.
-  at System.Uri.CreateThis (System.String uri, System.Boolean dontEscape, System.UriKind uriKind) [0x00000] in <00000000000000000000000000000000>:0 
-  at System.Uri..ctor (System.String uriString) [0x00000] in <00000000000000000000000000000000>:0 
-  at SystemIntegration.XalBrowserWrapper.<SetupBrowserInstance>b__9_0 () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.VR.OpenVRBinding.IVRCompositor+_ForceReconnectProcess.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.VR.OpenVRBinding.IVRCompositor+_ForceReconnectProcess.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.EmbeddedBrowser.Browser.ProcessCallbacks () [0x00000] in <00000000000000000000000000000000>:0 
-  at ZenFulcrum.EmbeddedBrowser.Browser.LateUpdate () [0x00000] in <00000000000000000000000000000000>:0 
-============================
-
-
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:LogException(Exception, Object)
-SystemIntegration.XalBrowserWrapper:<SetupBrowserInstance>b__9_0()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
- 
-(Filename: currently not available on il2cpp Line: -1)
-
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
 UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.MoonTimeline:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.MoonTimeline:OnEnable()
+UberPoolGroup:RequestObject(GameObject, Vector3, Quaternion, Nullable`1&)
+UberPoolManager:SpawnWithName(String, Vector3, Quaternion, GameObject, Boolean&)
+InstantiateUtility:InstantiateImmediate(GameObject, Vector3, Quaternion, Object, Boolean)
+MeleeComboMoveSword:SpawnEffects()
 ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+Moon.Timeline.EventTriggerAnimator:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
 UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
-ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.TimelineEntityRecord:Stop()
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
-https://logincdn.msauth.net/shared/5/chunks/gamepad-navigation_838be5794eb9c3ab9cd1.js:1: [GamepadNavigation]
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
 UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-System.EventHandler`1:Invoke(Object, TEventArgs)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.MoonTimeline:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.MoonTimeline:OnEnable()
+UberPoolGroup:RequestObject(GameObject, Vector3, Quaternion, Nullable`1&)
+UberPoolManager:SpawnWithName(String, Vector3, Quaternion, GameObject, Boolean&)
+InstantiateUtility:InstantiateImmediate(GameObject, Vector3, Quaternion, Object, Boolean)
+MeleeComboMoveSword:SpawnEffects()
 ZenFulcrum.VR.OpenVRBinding._ForceReconnectProcess:Invoke()
-ZenFulcrum.EmbeddedBrowser.Browser:ProcessCallbacks()
-ZenFulcrum.EmbeddedBrowser.Browser:LateUpdate()
+Moon.Timeline.EventTriggerAnimator:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
  
 (Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
 
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.TimelineEntityRecord:Stop()
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+MoonDataPlatform.PCQualityModeManager:ApplyMode(QualityMode)
+GameSettings:set_PCQualityMode(QualityMode)
+ToggleSettingsAction:Perform(IContext)
+ActionSequence:RunAction(ActionMethod)
+ActionSequence:Perform(IContext)
+CleverMenuItem:OnPressed()
+CleverMenuItemSelectionManager:PressCurrentItem()
+CleverMenuItemSelectionManager:FixedUpdate()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script on this Behaviour (Game Object 'wotwTitleScreen') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueMaster') is missing!
+ 
+(Filename:  Line: 294)
+
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 10576 unused Assets to reduce memory usage. Loaded Objects now: 174253.
+Total: 78.824800 ms (FindLiveObjects: 5.490800 ms CreateObjectMapping: 2.357700 ms MarkObjects: 65.892900 ms  DeleteObjects: 5.083200 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script (GizmoZonesRenderManager) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object 'Feather_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'FeatherWingStraps_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'eyes_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDLTrail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Feather_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'trail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Eye_R') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Eye_L') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_left') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gills_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'eyes_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'FeatherWingStraps_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'teethlower') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gumo') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gumogills') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'upperteeth') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconyLeavesB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Naru_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gills_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_body') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDLTrail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'radialGlow') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconyLeavesB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_right') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gizmoZonesRenderManager_') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'questMapScene') is missing!
+ 
+(Filename:  Line: 294)
+
+Setting up 16 worker threads for Enlighten.
+  Thread -> id: 6660 -> priority: 1 
+  Thread -> id: 6320 -> priority: 1 
+  Thread -> id: 5950 -> priority: 1 
+  Thread -> id: 72b8 -> priority: 1 
+  Thread -> id: 817c -> priority: 1 
+  Thread -> id: 1ca8 -> priority: 1 
+  Thread -> id: 7630 -> priority: 1 
+  Thread -> id: 4c08 -> priority: 1 
+  Thread -> id: 74f0 -> priority: 1 
+  Thread -> id: 7948 -> priority: 1 
+  Thread -> id: 1d78 -> priority: 1 
+  Thread -> id: 5704 -> priority: 1 
+  Thread -> id: 7eb4 -> priority: 1 
+  Thread -> id: 82b4 -> priority: 1 
+  Thread -> id: 66bc -> priority: 1 
+  Thread -> id: 8128 -> priority: 1 

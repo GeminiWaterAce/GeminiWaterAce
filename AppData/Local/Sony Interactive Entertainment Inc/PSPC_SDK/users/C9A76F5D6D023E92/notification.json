@@ -1,8 +1,0 @@
-{
-   "isFriendRequestAllowed" : true,
-   "isGameInvitesAllowed" : true,
-   "isNotificationsEnabled" : true,
-   "isTrophyEarnedAllowed" : true,
-   "sinceUpdatedDateTime" : "2018-10-01T00:00Z",
-   "toastPosition" : "top_right"
-}

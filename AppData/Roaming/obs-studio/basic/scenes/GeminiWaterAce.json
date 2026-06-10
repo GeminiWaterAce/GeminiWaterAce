@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093698,
+        "prev_ver": 536870916,
         "name": "桌面音频",
         "uuid": "30611f25-8d39-4c57-b00f-6c5fbf3c8f50",
         "id": "wasapi_output_capture",
@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "战神诸神黄昏",
-    "current_program_scene": "战神诸神黄昏",
+    "current_scene": "识质存在",
+    "current_program_scene": "识质存在",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -55,10 +55,37 @@
             "name": "战神诸神黄昏"
         },
         {
+            "name": "识质存在"
+        },
+        {
             "name": "新战神"
         },
         {
+            "name": "漫威蜘蛛侠2"
+        },
+        {
+            "name": "死亡搁浅2"
+        },
+        {
+            "name": "魔兽争霸3重铸版"
+        },
+        {
+            "name": "血污(赤痕)夜之仪式"
+        },
+        {
             "name": "游聚游戏平台"
+        },
+        {
+            "name": "茶杯头"
+        },
+        {
+            "name": "守望先锋"
+        },
+        {
+            "name": "康斯坦丝"
+        },
+        {
+            "name": "泡姆泡姆"
         },
         {
             "name": "觉醒异刃"
@@ -73,7 +100,7 @@
     "name": "GeminiWaterAce",
     "sources": [
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "索尼克超级巨星",
             "uuid": "352208bf-ad21-46eb-81aa-98e6e4c902a1",
             "id": "scene",
@@ -158,10 +185,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "索尼克超级巨星游戏",
             "uuid": "2fa674fb-e89e-4bdb-b18c-641d7e0573fd",
             "id": "game_capture",
@@ -196,7 +224,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "TEVI",
             "uuid": "f9b581ca-18ca-4e1f-bce0-60683528f525",
             "id": "scene",
@@ -281,10 +309,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "TEVI游戏",
             "uuid": "c135fe2d-d256-4f26-aa26-1f7672998411",
             "id": "game_capture",
@@ -319,7 +348,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "波斯王子失落的王冠",
             "uuid": "002aade1-fe09-41d4-ba72-2ea4d8fab8c1",
             "id": "scene",
@@ -404,10 +433,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "波斯王子失落的王冠游戏",
             "uuid": "b3ca019b-76b9-48e3-bc1c-0f47b3e4e9c8",
             "id": "game_capture",
@@ -442,7 +472,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "时空幻境周年纪念版",
             "uuid": "fb9e4e00-c7fa-4276-9f0e-55c9fdbb79ed",
             "id": "scene",
@@ -527,10 +557,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "时空幻境周年纪念版游戏",
             "uuid": "f442ff80-4575-4eff-afda-4f0c2389bf7a",
             "id": "game_capture",
@@ -565,18 +596,73 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "战神诸神黄昏",
             "uuid": "6c36faa3-1b50-4ece-9dc2-136ef066d16d",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 2,
+                "id_counter": 8,
                 "custom_size": false,
                 "items": [
                     {
+                        "name": "战神诸神黄昏文本1",
+                        "source_uuid": "15408193-e53d-415c-86f6-eda92b019f78",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 1125.0,
+                            "y": 2037.0
+                        },
+                        "pos_rel": {
+                            "x": -0.7361111044883728,
+                            "y": 0.8861111402511597
+                        },
+                        "scale": {
+                            "x": 0.4657694697380066,
+                            "y": 0.46590909361839294
+                        },
+                        "scale_rel": {
+                            "x": 0.4657694697380066,
+                            "y": 0.46590909361839294
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
                         "name": "战神诸神黄昏游戏",
-                        "source_uuid": "d58cdd74-ff2a-4822-9da1-6964b3ee1460",
+                        "source_uuid": "4020836d-81bf-47f7-9fce-bd3fe3121ede",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -592,7 +678,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 1,
+                        "id": 8,
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
@@ -644,62 +730,30 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": []
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.8": [],
+                "libobs.hide_scene_item.8": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
-            "name": "战神诸神黄昏游戏",
-            "uuid": "d58cdd74-ff2a-4822-9da1-6964b3ee1460",
-            "id": "game_capture",
-            "versioned_id": "game_capture",
-            "settings": {
-                "window": "God of War Ragnar鰇:SMSGameWindow:GoWR.exe",
-                "capture_mode": "window",
-                "rgb10a2_space": "2100pq"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "hotkey_start": [],
-                "hotkey_stop": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "游聚游戏平台",
             "uuid": "00269fcb-d6c1-476e-afb6-b3604e271db5",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
+                "id_counter": 6,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "游聚游戏平台窗口",
-                        "source_uuid": "f692f7c8-774b-40b3-806c-2c66ed8cff4b",
+                        "name": "游聚游戏平台游戏",
+                        "source_uuid": "2a56fed8-8521-4797-8696-0462aa9ad4dd",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -715,7 +769,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 3,
+                        "id": 5,
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
@@ -726,12 +780,67 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 2.8054952621459961,
-                            "y": 2.8051948547363281
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_rel": {
-                            "x": 2.8054952621459961,
-                            "y": 2.8051948547363281
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "茶杯头文本1",
+                        "source_uuid": "ec986fcf-6c7d-44a9-bd3f-76de53cade98",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 6,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 2049.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": 0.11944444477558136,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 5.815125942230225,
+                            "y": 5.80555534362793
+                        },
+                        "scale_rel": {
+                            "x": 5.815125942230225,
+                            "y": 5.80555534362793
                         },
                         "bounds": {
                             "x": 0.0,
@@ -767,50 +876,19 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": []
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
-            "name": "游聚游戏平台窗口",
-            "uuid": "f692f7c8-774b-40b3-806c-2c66ed8cff4b",
-            "id": "game_capture",
-            "versioned_id": "game_capture",
-            "settings": {
-                "window": "赤色要塞(水水Ace):Qt5QWindowIcon:X-Zone.exe",
-                "capture_mode": "window"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "hotkey_start": [],
-                "hotkey_stop": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "觉醒异刃",
             "uuid": "ea85366a-76ba-4b65-80ec-83227dad6e51",
             "id": "scene",
@@ -895,10 +973,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "觉醒异刃游戏",
             "uuid": "2b6e9521-e8f6-49ff-af35-6365f272f35c",
             "id": "game_capture",
@@ -932,7 +1011,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "终焉之玛格诺利亚-雾中盛放之花",
             "uuid": "2c592586-d7f8-4681-9164-9ba0b1f3e2a1",
             "id": "scene",
@@ -1017,10 +1096,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "\n终焉之玛格诺利亚-雾中盛放之花游戏",
             "uuid": "60884564-6451-483b-ad76-0b4bfba9a9fb",
             "id": "game_capture",
@@ -1054,7 +1134,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "双影奇境",
             "uuid": "2a72c2fd-02c4-4bcd-b70f-7efe68dc34a0",
             "id": "scene",
@@ -1139,10 +1219,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "双影奇境游戏",
             "uuid": "365232de-e5d2-40c6-8717-bfd802e833bc",
             "id": "game_capture",
@@ -1178,7 +1259,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "边境猎人艾尔莎的命运之轮",
             "uuid": "7c721ba8-7d1f-4fb6-8e78-4ecfeff51c2c",
             "id": "scene",
@@ -1208,75 +1289,20 @@
                         "id": 1,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 480.0,
-                            "y": 0.0
+                            "x": 85.0,
+                            "y": 55.0
                         },
                         "pos_rel": {
-                            "x": -1.3333333730697632,
-                            "y": -1.0
+                            "x": -1.6990740299224854,
+                            "y": -0.9490740895271301
                         },
                         "scale": {
-                            "x": 3.5999999046325684,
-                            "y": 3.5999999046325684
+                            "x": 0.9458333253860474,
+                            "y": 0.9458333253860474
                         },
                         "scale_rel": {
-                            "x": 3.5999999046325684,
-                            "y": 3.5999999046325684
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "浏览器",
-                        "source_uuid": "e9041810-97ab-450e-a68a-c86b805758a3",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 3840.0,
-                            "y": 2160.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 3,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 2267.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": 0.32129630446434021,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 2.6216666698455811,
-                            "y": 2.6212499141693115
-                        },
-                        "scale_rel": {
-                            "x": 2.6216666698455811,
-                            "y": 2.6212499141693115
+                            "x": 0.9458333253860474,
+                            "y": 0.9458333253860474
                         },
                         "bounds": {
                             "x": 0.0,
@@ -1313,17 +1339,16 @@
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
-                "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": []
+                "libobs.hide_scene_item.1": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "边境猎人艾尔莎的命运之轮游戏",
             "uuid": "0b811cb9-2614-4d8f-84e9-ae5b5094bce1",
             "id": "game_capture",
@@ -1357,44 +1382,7 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
-            "name": "浏览器",
-            "uuid": "e9041810-97ab-450e-a68a-c86b805758a3",
-            "id": "browser_source",
-            "versioned_id": "browser_source",
-            "settings": {
-                "url": "http://localhost:12450/room/test?roomKeyType=2&minGiftPrice=0&showGiftName=true&mergeSimilarDanmaku=true&maxNumber=30&lang=zh",
-                "width": 600,
-                "height": 800,
-                "shutdown": false,
-                "restart_when_active": true,
-                "css": "@import url(\"https://fonts.googleapis.com/css?family=Noto%20Sans%20SC\");\n\n/* Transparent background */\nyt-live-chat-renderer {\n  background-color: transparent !important;\n}\n\nyt-live-chat-ticker-renderer {\n  background-color: transparent !important;\n  box-shadow: none !important;\n}\n\nyt-live-chat-author-chip #author-name {\n  background-color: transparent !important;\n}\n\n/* Hide scrollbar */\nyt-live-chat-item-list-renderer #items {\n  overflow: hidden !important;\n}\n\nyt-live-chat-item-list-renderer #item-scroller {\n  overflow: hidden !important;\n}\n\nyt-live-chat-text-message-renderer #content,\nyt-live-chat-membership-item-renderer #content {\n  overflow: visible !important;\n}\n\n/* Hide header and input */\nyt-live-chat-header-renderer,\nyt-live-chat-message-input-renderer {\n  display: none !important;\n}\n\n/* Hide unimportant messages */\nyt-live-chat-text-message-renderer[is-deleted],\nyt-live-chat-membership-item-renderer[is-deleted] {\n  display: none !important;\n}\n\nyt-live-chat-mode-change-message-renderer, \nyt-live-chat-viewer-engagement-message-renderer, \nyt-live-chat-restricted-participation-renderer {\n  display: none !important;\n}\n\nyt-live-chat-text-message-renderer a,\nyt-live-chat-membership-item-renderer a {\n  text-decoration: none !important;\n}\n\n/* Reduce side padding */\nyt-live-chat-text-message-renderer {\n  padding-left: 4px !important;\n  padding-right: 4px !important;\n}\n\n/* Avatars */\nyt-live-chat-text-message-renderer #author-photo,\nyt-live-chat-text-message-renderer #author-photo img,\nyt-live-chat-paid-message-renderer #author-photo,\nyt-live-chat-paid-message-renderer #author-photo img,\nyt-live-chat-membership-item-renderer #author-photo,\nyt-live-chat-membership-item-renderer #author-photo img {\n  \n  width: 40px !important;\n  height: 40px !important;\n  border-radius: 40px !important;\n  margin-right: 10px !important;\n}\n\n/* Channel names */\nyt-live-chat-text-message-renderer yt-live-chat-author-chip {\n  margin-bottom: 5px;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"owner\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"owner\"] {\n  color: #ffd600 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"moderator\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"moderator\"] {\n  color: #5e84f1 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name[type=\"member\"],\nyt-live-chat-text-message-renderer yt-live-chat-author-badge-renderer[type=\"member\"] {\n  color: #0f9d58 !important;\n}\n\nyt-live-chat-text-message-renderer #author-name {\n  \n  color: #cccccc !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 20px !important;\n  line-height: 22px !important;\n}\n\n/* Hide badges */\nyt-live-chat-text-message-renderer #chat-badges {\n  \n  vertical-align: text-top !important;\n}\n\n/* Messages */\nyt-live-chat-text-message-renderer #message,\nyt-live-chat-text-message-renderer #message * {\n  color: #000000 !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-text-message-renderer #message {\n  display: block !important;\n  position: relative;\n  width: fit-content;\n  overflow: visible !important;\n  padding: 15px;\n  border-radius: 24px;\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji) {\n  \n}\n\nyt-live-chat-text-message-renderer #message .emoji {\n  width: auto !important;\n  height: 18px !important;\n}\n\nyt-live-chat-text-message-renderer #message .emoji.blc-large-emoji {\n  height: 36px !important;\n}\n\n/* The triangle beside dialog */\nyt-live-chat-text-message-renderer #message::before {\n  content: \"\";\n  display: inline-block;\n  position: absolute;\n  top: -3px;\n  left: -10px;\n  border: 8px solid transparent;\n  border-right: 18px solid;\n  transform: rotate(35deg);\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji)::before {\n  \n}\n\n/* Timestamps */\nyt-live-chat-text-message-renderer #timestamp {\n  display: inline !important;\n  color: #999999 !important;\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 16px !important;\n  line-height: 16px !important;\n}\n\n/* Background colors */\nbody {\n  overflow: hidden;\n  background-color: rgba(0, 0, 0, 0);\n}\n\nyt-live-chat-text-message-renderer #message {\n  background-color: #ffffff !important;\n}\n\nyt-live-chat-text-message-renderer #message::before {\n  border-right-color: #ffffff;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"owner\"] #message {\n  background-color: rgba(231, 199, 30, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"owner\"] #message::before {\n  border-right-color: rgba(231, 199, 30, 1);\n}\n\nyt-live-chat-text-message-renderer[author-type=\"moderator\"] #message {\n  background-color: rgba(41, 95, 251, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"moderator\"] #message::before {\n  border-right-color: rgba(41, 95, 251, 1);\n}\n\nyt-live-chat-text-message-renderer[author-type=\"member\"] #message {\n  background-color: rgba(43, 234, 43, 1) !important;\n}\n\nyt-live-chat-text-message-renderer[author-type=\"member\"] #message::before {\n  border-right-color: rgba(43, 234, 43, 1);\n}\n\nyt-live-chat-text-message-renderer #message:has(.emoji.blc-large-emoji) {\n  \n}\n\n/* SuperChat/Fan Funding Messages */\nyt-live-chat-paid-message-renderer {\n  margin: 4px 0 !important;\n}\n\nyt-live-chat-paid-message-renderer #author-name,\nyt-live-chat-paid-message-renderer #author-name *,\nyt-live-chat-membership-item-renderer #header-content-inner-column,\nyt-live-chat-membership-item-renderer #header-content-inner-column * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 20px !important;\n  line-height: 22px !important;\n}\n\nyt-live-chat-paid-message-renderer #purchase-amount,\nyt-live-chat-paid-message-renderer #purchase-amount *,\nyt-live-chat-membership-item-renderer #header-subtext,\nyt-live-chat-membership-item-renderer #header-subtext * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-paid-message-renderer #content,\nyt-live-chat-paid-message-renderer #content * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n  font-size: 18px !important;\n  line-height: 20px !important;\n}\n\nyt-live-chat-membership-item-renderer #card,\nyt-live-chat-membership-item-renderer #header {\n  background-color: #0f9d58 !important;\n  margin: 4px 0 !important;\n}\n\nyt-live-chat-ticker-renderer {\n  display: none !important;\n}\n\n/* SuperChat Ticker */\nyt-live-chat-ticker-paid-message-item-renderer,\nyt-live-chat-ticker-paid-message-item-renderer *,\nyt-live-chat-ticker-sponsor-item-renderer,\nyt-live-chat-ticker-sponsor-item-renderer * {\n  font-family: \"Noto Sans SC\", \"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"\\5FAE \\8F6F \\96C5 \\9ED1 \", SimHei, Arial, sans-serif;\n}\n\n\n\n/* Animation */\n@keyframes anim {\n  0% { opacity: 0; transform: translateX(-16px); }\n  100% { opacity: 1; transform: none; }\n}\n\nyt-live-chat-text-message-renderer,\nyt-live-chat-membership-item-renderer,\nyt-live-chat-paid-message-renderer {\n  animation: anim 200ms;\n  animation-fill-mode: both;\n}\n"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "ObsBrowser.Refresh": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "黑神话悟空",
             "uuid": "658dc5da-ace2-422a-998b-302c702433c9",
             "id": "scene",
@@ -1479,10 +1467,11 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "黑神话悟空游戏",
             "uuid": "aaa89b41-4896-4c35-bf39-429118a873f9",
             "id": "game_capture",
@@ -1516,9 +1505,98 @@
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
             "name": "新战神",
             "uuid": "52277fad-5bea-47f2-a189-f9d00fd8655f",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 6,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "新战神游戏",
+                        "source_uuid": "ba027a10-a400-41ca-9cea-697ffcb1e055",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 6,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "魔兽争霸3重铸版",
+            "uuid": "390c3dfd-8cf9-40a9-97cb-956554f9560d",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
@@ -1526,8 +1604,8 @@
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "新战神游戏",
-                        "source_uuid": "2949326f-1991-44d7-a8a7-d6e7c2892cf2",
+                        "name": "魔兽争霸3重铸版游戏",
+                        "source_uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -1601,17 +1679,1326 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093698,
+            "prev_ver": 536870916,
+            "name": "魔兽争霸3重铸版游戏",
+            "uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "HWiNFO® 64 v8.22-5670 - 传感器状态:#2232770:HWiNFO64.EXE",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "血污(赤痕)夜之仪式",
+            "uuid": "ca423442-e9e3-4541-b9a1-02761df1068d",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 2,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "血污(赤痕)夜之仪式游戏",
+                        "source_uuid": "0b8fede4-2c0a-451e-bb93-157d5ca728b2",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 19.0,
+                            "y": 26.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7601852416992188,
+                            "y": -0.9759259223937988
+                        },
+                        "scale": {
+                            "x": 0.9880208373069763,
+                            "y": 0.9879629611968994
+                        },
+                        "scale_rel": {
+                            "x": 0.9880208373069763,
+                            "y": 0.9879629611968994
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "血污(赤痕)夜之仪式文本",
+                        "source_uuid": "28aabd54-aafe-49bd-a86b-b651992a35a3",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 819.0,
+                            "y": 2035.0
+                        },
+                        "pos_rel": {
+                            "x": -1.019444465637207,
+                            "y": 0.8842592239379883
+                        },
+                        "scale": {
+                            "x": 2.3146066665649414,
+                            "y": 2.314814805984497
+                        },
+                        "scale_rel": {
+                            "x": 2.3146066665649414,
+                            "y": 2.314814805984497
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "血污(赤痕)夜之仪式游戏",
+            "uuid": "0b8fede4-2c0a-451e-bb93-157d5ca728b2",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Bloodstained#3A Ritual of the Night  :UnrealWindow:BloodstainedRotN-Win64-Shipping.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "血污(赤痕)夜之仪式文本",
+            "uuid": "28aabd54-aafe-49bd-a86b-b651992a35a3",
+            "id": "text_gdiplus",
+            "versioned_id": "text_gdiplus_v3",
+            "settings": {
+                "text": "血污(赤痕)夜之仪式1周目无继承噩梦主角正传",
+                "font": {
+                    "face": "楷体",
+                    "style": "Regular",
+                    "size": 48,
+                    "flags": 0
+                },
+                "color": 4286513407
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "泡姆泡姆",
+            "uuid": "f3f6d0ff-d780-49c6-a863-0cafed6c5252",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "泡姆泡姆游戏",
+                        "source_uuid": "beec695b-c908-4b60-bf09-f58b43a0d558",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "泡姆泡姆游戏",
+            "uuid": "beec695b-c908-4b60-bf09-f58b43a0d558",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Popucom:UnityWndClass:Popucom.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "康斯坦丝",
+            "uuid": "4979e6b6-6421-4335-9cfa-7aa7ceb7ceb9",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "康斯坦丝游戏",
+                        "source_uuid": "90a68f0f-c359-49d3-8287-31fe5beb5175",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "康斯坦丝游戏",
+            "uuid": "90a68f0f-c359-49d3-8287-31fe5beb5175",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "CONSTANCE:UnityWndClass:CONSTANCE.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "识质存在",
+            "uuid": "79ff66c8-af85-49e8-8773-62a105803e92",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "识质存在游戏",
+                        "source_uuid": "18a539e5-5e67-414f-9c99-dfe377730832",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "识质存在游戏",
+            "uuid": "18a539e5-5e67-414f-9c99-dfe377730832",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "PRAGMATA:via:PRAGMATA.exe",
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "漫威蜘蛛侠2",
+            "uuid": "345fc07f-e00d-40f3-b629-2a0a66731e7b",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 3,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "漫威蜘蛛侠2游戏",
+                        "source_uuid": "ff449d8c-8795-4f90-9741-b8cf49fb9eea",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "茶杯头文本1",
+            "uuid": "ec986fcf-6c7d-44a9-bd3f-76de53cade98",
+            "id": "text_gdiplus",
+            "versioned_id": "text_gdiplus_v3",
+            "settings": {
+                "vertical": false,
+                "text": "先做圣遗物护身符，后打圣杯专家模式",
+                "font": {
+                    "face": "微软雅黑",
+                    "style": "Regular",
+                    "size": 24,
+                    "flags": 0
+                },
+                "align": "right",
+                "valign": "center",
+                "color": 4286535167
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "游聚游戏平台游戏",
+            "uuid": "2a56fed8-8521-4797-8696-0462aa9ad4dd",
+            "id": "window_capture",
+            "versioned_id": "window_capture",
+            "settings": {
+                "window": "龙之斗士(水水Ace):Qt5QWindowIcon:X-Zone.exe",
+                "method": 2,
+                "force_sdr": true
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "茶杯头",
+            "uuid": "208cc146-32cf-452f-b2fc-ce24561ac031",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 2,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "茶杯头游戏",
+                        "source_uuid": "c21d2219-3ef6-4cf1-b082-aa8abf90d443",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "茶杯头文本1",
+                        "source_uuid": "ec986fcf-6c7d-44a9-bd3f-76de53cade98",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 2049.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": 0.11944444477558136,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 5.815125942230225,
+                            "y": 5.80555534362793
+                        },
+                        "scale_rel": {
+                            "x": 5.815125942230225,
+                            "y": 5.80555534362793
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "茶杯头游戏",
+            "uuid": "c21d2219-3ef6-4cf1-b082-aa8abf90d443",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Cuphead:UnityWndClass:Cuphead.exe",
+                "capture_mode": "window"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "守望先锋",
+            "uuid": "bbe95564-f832-4bb0-aa7b-aa0deb480830",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "守望先锋游戏",
+                        "source_uuid": "42e96068-a82f-4c9b-a2fd-ee29efd4373d",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "守望先锋游戏",
+            "uuid": "42e96068-a82f-4c9b-a2fd-ee29efd4373d",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Overwatch:TankWindowClass:Overwatch.exe",
+                "capture_mode": "window",
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "漫威蜘蛛侠2游戏",
+            "uuid": "ff449d8c-8795-4f90-9741-b8cf49fb9eea",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Marvel's Spider-Man 2 v1.526.0.0:GameNxApp:Spider-Man2.exe",
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "死亡搁浅2",
+            "uuid": "c28a32c2-df5f-4b27-8eec-b0651f18c719",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "死亡搁浅2游戏",
+                        "source_uuid": "56ae8466-91df-4914-9317-6fc6864b314b",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 3840.0,
+                            "y": 2160.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "死亡搁浅2游戏",
+            "uuid": "56ae8466-91df-4914-9317-6fc6864b314b",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "DEATH STRANDING 2#3A ON THE BEACH v1.0.46.0:GameNxApp:DS2.exe",
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "战神诸神黄昏文本1",
+            "uuid": "15408193-e53d-415c-86f6-eda92b019f78",
+            "id": "text_gdiplus",
+            "versioned_id": "text_gdiplus_v3",
+            "settings": {
+                "text": "2周目战神难度数值怪砍瓜切菜",
+                "align": "center",
+                "color": 4286535167,
+                "bk_opacity": 0
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
             "name": "新战神游戏",
-            "uuid": "2949326f-1991-44d7-a8a7-d6e7c2892cf2",
+            "uuid": "ba027a10-a400-41ca-9cea-697ffcb1e055",
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
                 "window": "God of War:SonySantaMonica:GoW.exe",
-                "capture_mode": "window"
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "战神诸神黄昏游戏",
+            "uuid": "4020836d-81bf-47f7-9fce-bd3fe3121ede",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "God of War Ragnar鰇:SMSGameWindow:GoWR.exe",
+                "capture_mode": "window",
+                "capture_cursor": false,
+                "rgb10a2_space": "2100pq"
             },
             "mixers": 255,
             "sync": 0,
@@ -1642,11 +3029,12 @@
     "quick_transitions": [],
     "transitions": [],
     "saved_projectors": [],
+    "canvases": [],
     "current_transition": "淡入淡出",
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": 0,
+    "scaling_level": -11,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
