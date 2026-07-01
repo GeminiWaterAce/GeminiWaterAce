@@ -1,1 +1,1 @@
-{"rate_control":"VBR","multipass":"fullres"}
+{"rate_control":"CBR","multipass":"fullres","bitrate":6000}

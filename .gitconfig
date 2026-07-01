@@ -8,12 +8,8 @@
 	email = userwaterzz@163.com
 [safe]
 	directory = C:/Users/GeminiWaterAce
-	directory = I:/Repositories/GeminiWaterAce
-	directory = I:/Repositories/GamingStrategy
-	directory = I:/Repositories/GalgameSaveData
-	directory = I:/Repositories/AnimationBroadcastTable
-	directory = I:/Git Clone/Microsoft-Activation-Scripts
-	directory = I:/Git Clone/blivechat
+	directory = D:/Repositories/*
+	directory = D:/Git Clone/*
 [http]
 	sslVerify = false
 	version = HTTP/1.1
