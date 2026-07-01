@@ -7,16 +7,9 @@
 	name = GeminiWaterAce
 	email = userwaterzz@163.com
 [safe]
-	directory = H:/Repository/GeminiWaterAce
 	directory = C:/Users/GeminiWaterAce
-	directory = I:/Repositories/GeminiWaterAce
-	directory = I:/Repositories/GamingStrategy
-	directory = H:/Repository/AnimationBroadcastTable
-	directory = H:/Repository/GamingStrategy
-	directory = I:/Repositories/AnimationBroadcastTable
-	directory = I:/Git Clone/Microsoft-Activation-Scripts
-	directory = I:/Git Clone/blivechat
-	directory = I:/Repositories/GalgameSaveData
+	directory = D:/Repositories/*
+	directory = D:/Git Clone/*
 [http]
 	sslVerify = false
 	version = HTTP/1.1
