@@ -384,7 +384,6 @@
 /AppData/Local/rail/credence
 /AppData/Local/Battle.net
 /AppData/Local/Blizzard Entertainment
-/Documents/StarCraft II
 /AppData/LocalLow/NatsumeAtari/KAGE Shadow of the Ninja Demo
 /Pictures
 /AppData/Roaming/Blizzard Entertainment
@@ -711,22 +710,6 @@
 /AppData/Local/SplitFiction/LocalSettings.Split
 /AppData/Roaming/Braid, Anniversary Edition/*.variables
 /Documents/3DMark
-/Documents/Adobe/Adobe Media Encoder/25.0/Adobe Media Encoder Prefs
-/Documents/Adobe/Adobe Media Encoder/25.0/ArchivedWorkspaces
-/Documents/Adobe/Adobe Media Encoder/25.0/Export Templates
-/Documents/Adobe/Adobe Media Encoder/25.0/logs
-/Documents/Adobe/Adobe Media Encoder/25.0/Preservation Rules
-/Documents/Adobe/Adobe Media Encoder/25.0/SavedWorkspaces
-/Documents/Adobe/Adobe Media Encoder/25.0/SyncBackup
-/Documents/Adobe/Adobe Media Encoder/25.0/SystemCompatibilityReport
-/Documents/Adobe/Adobe Media Encoder/25.0/WSMgrCfg
-/Documents/Adobe/Adobe Media Encoder/25.0/*.txt
-/Documents/Adobe/Adobe Media Encoder/25.0/*.xml
-/Documents/Adobe/Adobe Media Encoder/25.0/*.epr
-/Documents/Adobe/Adobe Media Encoder/25.0/SharedView Column Settings
-/Documents/Adobe/Adobe Media Encoder/25.0/AudioPlugInsScannedOnFirstLaunch_x64
-/Documents/Adobe/Adobe Media Encoder/25.0/Media Browser Provider Exception
-/Documents/Adobe/Adobe Media Encoder/25.0/Recent Directories
 /Documents/Marvel's Spider-Man 2/*.log
 /Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save
 /Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save.*
@@ -858,3 +841,37 @@
 /AppData/Local/ZingangGame/Saved/SaveGames/EGSSystemData.sav
 /AppData/LocalLow/CreSpirit/TEVI/tevisetting
 /AppData/LocalLow/CreSpirit/TEVI/tevisystem.sav
+/AppData/LocalLow/Temp
+/Documents/Adobe/Adobe Media Encoder/26.0/logs
+/Documents/Adobe/Adobe Media Encoder/26.0/*.xml
+/Documents/Adobe/Adobe Media Encoder/26.0/*.json
+/Documents/Adobe/Adobe Media Encoder/26.0/*.txt
+/Documents/Adobe/Adobe Media Encoder/26.0/ArchivedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/26.0/DVADialogPrefs
+/Documents/Adobe/Adobe Media Encoder/26.0/SavedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/26.0/SyncBackup
+/Documents/Adobe/Adobe Media Encoder/26.0/SystemCompatibilityReport
+/Documents/Adobe/Adobe Media Encoder/26.0/Adobe Media Encoder Prefs
+/Documents/Adobe/Adobe Media Encoder/26.0/AudioPlugInsScannedOnFirstLaunch_x64
+/Documents/Adobe/Adobe Media Encoder/26.0/Media Browser Provider Exception
+/Documents/Adobe/Adobe Media Encoder/26.0/Recent Directories
+/Documents/Adobe/Adobe Media Encoder/26.0/SharedView Column Settings
+/Documents/Adobe/Adobe Media Encoder/26.0/WSMgrCfg
+/Documents/Adobe/Adobe Media Encoder/26.0/Presets/PresetTree.xml
+/AppData/Local/ForzaHorizon6
+/AppData/Roaming/.1911
+/AppData/Roaming/Red Dead Redemption/cache
+/AppData/Local/Rockstar Games/GTAV Enhanced/CrashLogs
+/AppData/Local/Rockstar Games/GTAV Enhanced/*.dat
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/temp
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/banner.bin
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/config.sav
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/system.sav
+/AppData/Roaming/SEGA/SonicFrontiers/steam/76561198878104462
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/player_item_unlocks_temp
+/Documents/StarCraft II/Accounts/207829363/5-S2-1-3384335/Replays
+/Documents/StarCraft II/Accounts/207829363/5-S2-1-3384335/Saves/Unsaved
+/Documents/StarCraft II/*.txt
+/Documents/StarCraft II/GameLogs
+/Documents/StarCraft II/UserLogs
+/Documents/Streets of Rage 4 Save and Config/*.savebackup.bin
