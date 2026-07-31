@@ -710,6 +710,23 @@
 /AppData/Local/SplitFiction/LocalSettings.Split
 /AppData/Roaming/Braid, Anniversary Edition/*.variables
 /Documents/3DMark
+/Documents/Adobe/Adobe Media Encoder/26.0/Adobe Media Encoder Prefs
+/Documents/Adobe/Adobe Media Encoder/26.0/ArchivedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/26.0/Export Templates
+/Documents/Adobe/Adobe Media Encoder/26.0/logs
+/Documents/Adobe/Adobe Media Encoder/26.0/Preservation Rules
+/Documents/Adobe/Adobe Media Encoder/26.0/SavedWorkspaces
+/Documents/Adobe/Adobe Media Encoder/26.0/SyncBackup
+/Documents/Adobe/Adobe Media Encoder/26.0/SystemCompatibilityReport
+/Documents/Adobe/Adobe Media Encoder/26.0/WSMgrCfg
+/Documents/Adobe/Adobe Media Encoder/26.0/*.txt
+/Documents/Adobe/Adobe Media Encoder/26.0/*.xml
+/Documents/Adobe/Adobe Media Encoder/26.0/*.epr
+/Documents/Adobe/Adobe Media Encoder/26.0/*.json
+/Documents/Adobe/Adobe Media Encoder/26.0/SharedView Column Settings
+/Documents/Adobe/Adobe Media Encoder/26.0/AudioPlugInsScannedOnFirstLaunch_x64
+/Documents/Adobe/Adobe Media Encoder/26.0/Media Browser Provider Exception
+/Documents/Adobe/Adobe Media Encoder/26.0/Recent Directories
 /Documents/Marvel's Spider-Man 2/*.log
 /Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save
 /Documents/Marvel's Spider-Man 2/cd4e0d03a1684cd9ae8d458e57c1f68a/*-autosave.save.*
@@ -841,23 +858,6 @@
 /AppData/Local/ZingangGame/Saved/SaveGames/EGSSystemData.sav
 /AppData/LocalLow/CreSpirit/TEVI/tevisetting
 /AppData/LocalLow/CreSpirit/TEVI/tevisystem.sav
-/AppData/LocalLow/Temp
-/Documents/Adobe/Adobe Media Encoder/26.0/logs
-/Documents/Adobe/Adobe Media Encoder/26.0/*.xml
-/Documents/Adobe/Adobe Media Encoder/26.0/*.json
-/Documents/Adobe/Adobe Media Encoder/26.0/*.txt
-/Documents/Adobe/Adobe Media Encoder/26.0/ArchivedWorkspaces
-/Documents/Adobe/Adobe Media Encoder/26.0/DVADialogPrefs
-/Documents/Adobe/Adobe Media Encoder/26.0/SavedWorkspaces
-/Documents/Adobe/Adobe Media Encoder/26.0/SyncBackup
-/Documents/Adobe/Adobe Media Encoder/26.0/SystemCompatibilityReport
-/Documents/Adobe/Adobe Media Encoder/26.0/Adobe Media Encoder Prefs
-/Documents/Adobe/Adobe Media Encoder/26.0/AudioPlugInsScannedOnFirstLaunch_x64
-/Documents/Adobe/Adobe Media Encoder/26.0/Media Browser Provider Exception
-/Documents/Adobe/Adobe Media Encoder/26.0/Recent Directories
-/Documents/Adobe/Adobe Media Encoder/26.0/SharedView Column Settings
-/Documents/Adobe/Adobe Media Encoder/26.0/WSMgrCfg
-/Documents/Adobe/Adobe Media Encoder/26.0/Presets/PresetTree.xml
 /AppData/Local/ForzaHorizon6
 /AppData/Roaming/.1911
 /AppData/Roaming/Red Dead Redemption/cache
