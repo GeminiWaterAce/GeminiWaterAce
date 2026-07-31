@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PCampaign|MissionObjectives">
+        <Key name="PAiur01Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PAiur01Bonus01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur01Primary01">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionBestTime">
+        <Key name="PAiur01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-4">
+            <Value int="626"/>
+        </Key>
+        <Key name="PAiur01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>
