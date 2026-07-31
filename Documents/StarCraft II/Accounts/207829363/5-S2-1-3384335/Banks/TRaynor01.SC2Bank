@@ -23,14 +23,14 @@
         </Key>
     </Section>
     <Section name="StoryState"/>
-    <Section name="DebugTechCheatOption">
-        <Key name="0">
-            <Value int="2"/>
-        </Key>
-    </Section>
     <Section name="TutorialHistory">
         <Key name="0">
             <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
         </Key>
     </Section>
 </Bank>
