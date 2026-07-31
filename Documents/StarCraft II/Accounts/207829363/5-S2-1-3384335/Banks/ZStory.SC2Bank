@@ -1,0 +1,4559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ConversationSnapshot">
+        <Key name="zSM_CharFortress|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00078">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00269">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00386">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00404">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00405">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00291">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00048">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00097">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00104">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00053">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00019">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00294">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00022">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00200">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00210">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00054">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00185">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00211">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00116">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00168">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00094">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00055">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00132">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00102">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00142">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00046">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00381">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00029">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00035">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00174">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00012">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00159">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00281">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00093">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00182">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00231">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00262">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00161">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00178">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00148">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00060">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00345">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00133">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00084">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00127">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00245">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00192">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00248">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00103">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00118">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00012">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00073">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00212">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00019">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00383">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00165">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00186">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00181">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00403">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00076">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00213">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00270">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00139">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Wait00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00109">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00090">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00049">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00166">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00213">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00029">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00071">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00039">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00037">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00157">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00261">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00349">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00414">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00034">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00230">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00086">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00157">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00163">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00011">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00074">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00384">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00057">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00186">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00027">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00067">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00176">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00217">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00016">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00226">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00295">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00417">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00003">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00164">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00011">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00206">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00388">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00030">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00002">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00174">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00252">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00259">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00152">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00026">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00169">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00028">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00114">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Wait00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00266">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00421">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00069">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00211">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00042">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00150">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00027">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00080">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00178">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00114">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00277">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00062">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00428">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00101">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00077">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00016">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00150">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00026">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00072">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00214">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00408">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00220">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00052">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00180">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00387">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00023">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00158">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00406">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00292">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00061">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00017">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00051">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00399">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00430">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00110">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00193">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00126">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00298">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00314">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00054">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00030">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00191">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00413">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00165">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00079">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00244">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00036">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00093">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00167">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00021">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00299">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00167">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00263">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00418">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00026">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00013">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00047">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00260">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00264">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00181">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00249">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00415">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00156">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00043">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00003">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00018">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00223">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00095">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00026">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00262">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00409">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00141">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00278">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00426">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00149">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00347">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00039">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00161">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00385">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00429">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00149">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00023">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00008">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Wait00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00267">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00016">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00028">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Jump00001">
+            <LinePickedCount int="6"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00316">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00038">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00039">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00113">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00132">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00265">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00250">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00198">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00030">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00113">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00139">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00183">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00261">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00012">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00155">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00031">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00199">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00017">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00265">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00034">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00100">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00108">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00057">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00293">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00398">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00205">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00108">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00112">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00142">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00156">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00189">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00155">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00018">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00007">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00006">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00025">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00152">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00015">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00152">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00160">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00169">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00005">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00247">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00190">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00264">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00088">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00096">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00148">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00210">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00188">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00116">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00260">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00081">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00121">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00017">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00296">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00176">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00048">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00204">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00046">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00402">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00411">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00412">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00263">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00168">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00209">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00407">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00179">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00201">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00140">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00023">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00184">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00020">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00187">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00070">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00007">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00089">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00133">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00002">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00047">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00126">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00049">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00004">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00091">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00099">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00037">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Jump00031">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00028">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00118">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00013">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00208">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00224">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00131">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00004">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00028">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00056">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00023">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00245">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00121">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00140">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00162">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00416">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00038">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00380">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00410">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00024">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00016">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00098">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00268">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00346">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00031">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00058">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00031">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00036">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00027">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00075">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00061">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00109">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00035">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00215">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00389">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00058">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00020">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00021">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00158">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00184">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00189">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00037">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00092">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryConversations">
+        <Key name="zSM_CharFortress|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00078">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00269">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00386">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00404">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00405">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00291">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00048">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00097">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00104">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00053">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00019">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00294">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00022">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00200">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00210">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00054">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00185">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00211">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00116">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00168">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00094">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00055">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00132">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00102">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00142">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00046">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00381">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00029">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00035">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00174">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00012">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00159">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00281">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00093">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00182">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00231">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00262">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00161">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00178">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00148">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00060">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00345">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00133">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00084">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00127">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00245">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00128">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00192">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00248">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00103">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00118">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00012">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00073">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00212">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00019">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00383">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00165">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00186">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00181">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00403">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00076">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00213">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00270">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00139">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Wait00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00109">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00090">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00124">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00049">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00166">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00213">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00029">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00071">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00039">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00037">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00157">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00015">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00261">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00349">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00414">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00151">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00034">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00230">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00086">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00157">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00163">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00011">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00074">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00384">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00057">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00186">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00027">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00067">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00176">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00217">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00016">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00226">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00295">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00417">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00003">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00164">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00011">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00010">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00206">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00388">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00030">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00002">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00174">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00252">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00259">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00152">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00026">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00169">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00028">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00114">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Wait00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00266">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00421">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00069">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00211">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00042">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00150">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00027">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00080">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00178">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00114">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00277">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00062">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00428">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00020">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00101">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00077">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00172">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00016">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00150">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00026">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00072">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00214">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00408">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00220">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00052">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00180">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00387">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00023">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00158">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00406">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00292">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00061">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00017">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00051">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00175">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00399">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00430">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00110">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00193">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00126">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00298">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00314">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00054">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00030">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00191">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00413">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00165">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00079">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00244">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00036">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00093">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00167">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00170">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00021">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00299">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00167">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00263">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00418">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00026">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00013">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00047">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00003">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00260">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00264">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00181">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00249">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00415">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00156">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00043">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00146">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00003">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00018">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00223">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00095">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00111">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00026">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00262">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00409">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00141">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00278">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00426">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00149">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00347">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00039">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00161">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00385">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00429">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00019">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00149">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00023">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00129">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00008">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Wait00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00267">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00115">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00122">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00016">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00177">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00017">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00028">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Jump00001">
+            <LinePickedCount int="6"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00316">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00038">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00039">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00113">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00132">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00265">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00022">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00120">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00250">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00004">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00198">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00030">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00113">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00130">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00139">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00183">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00261">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00012">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00155">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00031">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00199">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00007">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00017">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00265">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00034">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00100">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00108">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00057">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00006">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00002">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00293">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00398">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00018">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00205">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00108">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00112">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00142">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00156">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00189">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00155">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00018">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00005">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00007">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00006">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00004">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00011">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00025">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00152">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00015">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00152">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00160">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00169">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00173">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00005">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00247">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00190">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00264">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00088">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00096">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00032">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00148">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00210">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00188">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00116">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00007">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00260">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00081">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00121">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00017">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00296">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00176">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00015">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00048">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00204">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00046">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00008">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00123">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00014">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00402">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00411">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00412">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00263">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00168">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00209">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00407">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00179">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00201">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00147">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00140">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00023">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00184">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00020">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00187">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00005">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00070">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00171">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00007">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00013">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00006">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00089">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00133">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00002">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00047">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00126">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00003">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00049">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00050">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00145">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00002">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00004">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00091">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00099">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00009">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00037">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Jump00031">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00028">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00044">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00153">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00118">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00013">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00208">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00224">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00117">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00131">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00004">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00014">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00028">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00056">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00125">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00023">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00024">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00245">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00143">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00121">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00140">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00119">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00144">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00162">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00416">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00154">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00038">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00001">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00380">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00410">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00024">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00040">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00041">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00010">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00016">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00098">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00001">
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00268">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00346">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00031">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00058">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00031">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00036">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00027">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00075">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00008">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00061">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00109">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00035">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00215">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00389">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00058">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00020">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00021">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00158">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00184">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00189">
+            <LinePlayedCount int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00037">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00092">
+            <LinePlayedCount int="1"/>
+            <LinePickedCount int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00009">
+            <LinePickedCount int="1"/>
+        </Key>
+    </Section>
+    <Section name="WriterStateSnapshot">
+        <Key name="WriterStates.KerriganPrimalColumn">
+            <Value.0.Int int="2"/>
+        </Key>
+        <Key name="WriterStates.1stEvolutionMissionComplete">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.EvolutionMaster TalkTimes">
+            <Value.0.Int int="4"/>
+        </Key>
+        <Key name="WriterStates.Evolution Explain">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.Korhal01BonusObjectiveComplete">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.Expedition02 Convo Played">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.TAdjutant_TravelPitch_FirstLine">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.ZagaraTalkTimes">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.KerriganFirstTier">
+            <Value.0.Int int="2"/>
+        </Key>
+        <Key name="WriterStates.KerriganFirstVisit">
+            <Value.0.Int int="2"/>
+        </Key>
+    </Section>
+    <Section name="CharacterNew">
+        <Key name="Zerg Adjutant">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="0"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="0"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="0"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="0"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield&apos;s Compound">
+            <Value int="0"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="0"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="0"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="0"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="CharacterAmbient">
+        <Key name="Zerg Adjutant">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="1"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield&apos;s Compound">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="1"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="CharacterUnlocked">
+        <Key name="Zerg Adjutant">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="0"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield&apos;s Compound">
+            <Value int="0"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="1"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Debug">
+        <Key name="DebugStoryScene">
+            <Value string="ScriptedScenes;"/>
+        </Key>
+    </Section>
+    <Signature value="619ED8FDCDA0DB0CED937F01C61297C380E5C5E0"/>
+</Bank>
