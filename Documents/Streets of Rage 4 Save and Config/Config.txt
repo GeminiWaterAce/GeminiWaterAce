@@ -62,7 +62,7 @@ keyboardConfig.pickupThrow: 87
 keyboardConfig.backAttack: 83
 keyboardConfig.starMove: 9
 isFullScreen: True
-graphicsQuality: 3
+graphicsQuality: 4
 backbufferScaling: 100
 vSync: False
 gammaCorrection: 100
@@ -147,5 +147,3 @@ trainingConfig.enemyMultiplier: 1
 trainingConfig.enemyLifeMultiplier: 250
 trainingConfig.timeMultiplier: 100
 trainingConfig.spectatorMode: False
-
-
