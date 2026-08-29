@@ -739,7 +739,6 @@
 /Documents/Rockstar Games/GTAV Enhanced/Settings
 /Documents/Rockstar Games/GTAV Enhanced/Benchmarks
 /Documents/Rockstar Games/GTAV Enhanced/*.xml
-/Documents/Warcraft III
 /Documents/美少女万華鏡異聞_雪おんな/GameData
 /Documents/Adobe/Premiere Pro/25.0/Profile-GeminiWaterAce
 /Documents/Adobe/Premiere Pro/25.0/Adobe Premiere Pro Auto-Save
@@ -876,3 +875,31 @@
 /Documents/StarCraft II/UserLogs
 /Documents/Streets of Rage 4 Save and Config/*.savebackup.bin
 /AppData/LocalLow/Temp
+/AppData/Local/BeastOfReincarnation/Saved/Logs
+/AppData/Local/BeastOfReincarnation/Saved/Config
+/AppData/Local/BeastOfReincarnation/Saved/ImGui
+/AppData/Local/BeastOfReincarnation/Saved/*.upipelinecache
+/AppData/Local/Meteorite/Saved/UnrealBlamSavedFilms
+/AppData/Local/Meteorite/Saved/BlamData
+/AppData/Local/Meteorite/Saved/Config
+/AppData/Local/Meteorite/Saved/ImGui
+/AppData/Local/Meteorite/Saved/Logs
+/AppData/Local/Meteorite/Saved/*.json
+/AppData/Local/Meteorite/Saved/*.upipelinecache
+/AppData/Local/Ubisoft/Assassin's Creed Black Flag Resynced/save/*.log
+/AppData/Local/Ubisoft/Assassin's Creed Black Flag Resynced/save/*.json
+/AppData/Local/Ubisoft/Assassin's Creed Black Flag Resynced/aegir
+/AppData/Local/Ubisoft/Assassin's Creed Black Flag Resynced/online
+/Documents/Assassin's Creed Black Flag Resynced/*.ini
+/Documents/Assassin's Creed Black Flag Resynced/*.bin
+/Documents/Assassin's Creed Black Flag Resynced/cache
+/AppData/Local/BeastOfReincarnation/Saved/SaveGames/borSaveDataNormal_AutoSave_*.sav
+/AppData/Local/BeastOfReincarnation/Saved/SaveGames/borSaveDataMetabup*.sav
+/Documents/Warcraft III/*.txt
+/Documents/Warcraft III/BlizzardBrowser
+/Documents/Warcraft III/CustomKeyBindings
+/Documents/Warcraft III/Errors
+/Documents/Warcraft III/Logs
+/Documents/Warcraft III/Maps
+/Documents/Warcraft III/Movies
+/Documents/Warcraft III/BattleNet/14598366/Replays

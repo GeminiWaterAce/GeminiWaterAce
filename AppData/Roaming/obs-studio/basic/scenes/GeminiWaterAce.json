@@ -346,40 +346,6 @@
         },
         {
             "prev_ver": 536936450,
-            "name": "魔兽争霸3重铸版游戏",
-            "uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
-            "id": "game_capture",
-            "versioned_id": "game_capture",
-            "settings": {
-                "window": "HWiNFO® 64 v8.22-5670 - 传感器状态:#2232770:HWiNFO64.EXE",
-                "capture_mode": "window"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "hotkey_start": [],
-                "hotkey_stop": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536936450,
             "name": "血污(赤痕)夜之仪式游戏",
             "uuid": "0b8fede4-2c0a-451e-bb93-157d5ca728b2",
             "id": "game_capture",
@@ -835,6 +801,40 @@
                 "capture_mode": "window",
                 "capture_cursor": false,
                 "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936450,
+            "name": "魔兽争霸3重铸版游戏",
+            "uuid": "b5869306-9b10-4fb1-b876-7552fff48cfb",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Warcraft III:OsWindow:Warcraft III.exe",
+                "capture_mode": "window"
             },
             "mixers": 255,
             "sync": 0,
@@ -1351,10 +1351,10 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.4": [],
-                "libobs.hide_scene_item.4": [],
                 "libobs.show_scene_item.8": [],
-                "libobs.hide_scene_item.8": []
+                "libobs.hide_scene_item.8": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2049,12 +2049,12 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 1,
+                "id_counter": 2,
                 "custom_size": false,
                 "items": [
                     {
                         "name": "魔兽争霸3重铸版游戏",
-                        "source_uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
+                        "source_uuid": "b5869306-9b10-4fb1-b876-7552fff48cfb",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -2070,7 +2070,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 1,
+                        "id": 2,
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
@@ -2100,10 +2100,10 @@
                         "blend_method": "default",
                         "blend_type": "normal",
                         "show_transition": {
-                            "duration": 0
+                            "duration": 300
                         },
                         "hide_transition": {
-                            "duration": 0
+                            "duration": 300
                         },
                         "private_settings": {}
                     }
@@ -2122,8 +2122,8 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": []
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -3024,8 +3024,8 @@
             "name": "双影奇境"
         }
     ],
-    "current_scene": "战神诸神黄昏",
-    "current_program_scene": "战神诸神黄昏",
+    "current_scene": "魔兽争霸3重铸版",
+    "current_program_scene": "魔兽争霸3重铸版",
     "canvases": [],
     "current_transition": "淡入淡出",
     "transition_duration": 300,

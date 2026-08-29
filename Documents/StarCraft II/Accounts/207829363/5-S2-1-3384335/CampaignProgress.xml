@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CampaignProgressList>
+    <CampaignProgress id="NovaDLC3" tutorialfinished="0" campaignfinished="1"/>
     <CampaignProgress id="HeartOfTheSwarm" tutorialfinished="0" campaignfinished="1"/>
     <CampaignProgress id="WingsOfLiberty" tutorialfinished="0" campaignfinished="1"/>
     <CampaignProgress id="LegacyOfTheVoid" tutorialfinished="0" campaignfinished="1"/>
     <CampaignProgress id="LegacyOfTheVoidPrologue" tutorialfinished="0" campaignfinished="1"/>
     <CampaignProgress id="LegacyOfTheVoidEpilogue" tutorialfinished="0" campaignfinished="1"/>
+    <CampaignProgress id="NovaDLC1" tutorialfinished="0" campaignfinished="0"/>
+    <CampaignProgress id="NovaDLC2" tutorialfinished="0" campaignfinished="0"/>
 </CampaignProgressList>

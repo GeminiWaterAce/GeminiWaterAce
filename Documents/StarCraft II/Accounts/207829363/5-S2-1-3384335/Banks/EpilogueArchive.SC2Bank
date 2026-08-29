@@ -5,272 +5,6 @@
             <Value flag="1"/>
         </Key>
     </Section>
-    <Section name="PCampaign|MissionBestTime">
-        <Key name="SC2Epilogue02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue03-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue01-4">
-            <Value int="2290"/>
-        </Key>
-        <Key name="PAiur03-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur03-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar03-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur03-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur05-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur03-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PMoebius01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar03-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur06-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur05-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier03-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur06-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PMoebius01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar03-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur05-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier03-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PMoebius01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur06-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue03-4">
-            <Value int="1722"/>
-        </Key>
-        <Key name="PTaldarim01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier03-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur04-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue03-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue03-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier03-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar03-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur06-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur05-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur04-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PMoebius01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras02-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PShakuras01-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur02-4">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur01-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PUlnar02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PPurifier02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur04-3">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue02-4">
-            <Value int="1792"/>
-        </Key>
-        <Key name="SC2Epilogue01-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue01-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="SC2Epilogue02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PTaldarim02-2">
-            <Value int="0"/>
-        </Key>
-        <Key name="PKorhal02-1">
-            <Value int="0"/>
-        </Key>
-        <Key name="PAiur04-2">
-            <Value int="0"/>
-        </Key>
-    </Section>
     <Section name="PCampaign|MissionObjectives">
         <Key name="SC2Epilogue03Primary01">
             <Value int="7"/>
@@ -281,19 +15,19 @@
         <Key name="SC2Epilogue01Primary03">
             <Value int="1"/>
         </Key>
-        <Key name="SC2Epilogue02Primary03">
-            <Value int="1"/>
-        </Key>
         <Key name="SC2Epilogue02Primary02">
             <Value int="1"/>
         </Key>
-        <Key name="SC2Epilogue02Primary01">
+        <Key name="SC2Epilogue02Primary03">
+            <Value int="1"/>
+        </Key>
+        <Key name="SC2Epilogue01Primary02">
             <Value int="1"/>
         </Key>
         <Key name="SC2Epilogue01Bonus01">
             <Value int="4"/>
         </Key>
-        <Key name="SC2Epilogue01Primary02">
+        <Key name="SC2Epilogue02Primary01">
             <Value int="1"/>
         </Key>
         <Key name="SC2Epilogue02Bonus02">
@@ -303,5 +37,270 @@
             <Value int="1"/>
         </Key>
     </Section>
-    <Signature value="856B5D672EA647CEA3128BF64B490865C7FB8EB4"/>
+    <Section name="PCampaign|MissionBestTime">
+        <Key name="SC2Epilogue01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-4">
+            <Value int="2290"/>
+        </Key>
+        <Key name="PShakuras01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-4">
+            <Value int="1722"/>
+        </Key>
+        <Key name="PAiur02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-4">
+            <Value int="1792"/>
+        </Key>
+        <Key name="PAiur04-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-1">
+            <Value int="0"/>
+        </Key>
+    </Section>
 </Bank>
