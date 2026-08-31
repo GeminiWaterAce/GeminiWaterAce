@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ConversationSnapshot"/>
+    <Section name="StoryConversations"/>
+    <Section name="WriterStateSnapshot">
+        <Key name="WriterStates.ResponseUpgradeVOEnabled">
+            <Value.0.Int int="0"/>
+        </Key>
+        <Key name="WriterStates.ResponseEquipmentVOEnabled">
+            <Value.0.Int int="0"/>
+        </Key>
+        <Key name="WriterStates.VisitedArmyUpgradeRoom">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.HaveReigel">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.VisitedEquipmentRoom">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.MissionsCompleted">
+            <Value.0.Int int="9"/>
+        </Key>
+    </Section>
+    <Section name="CharacterNew">
+        <Key name="Nova">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="ClickableType">
+        <Key name="Nova">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Debug">
+        <Key name="StartedFirstStorymodeEpisode">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>

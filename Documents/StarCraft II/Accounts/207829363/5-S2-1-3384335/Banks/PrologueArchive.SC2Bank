@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="VoidPrologue03|MissionBestTime">
+        <Key name="VoidPrologue03-4">
+            <Value int="1453"/>
+        </Key>
+    </Section>
+    <Section name="GlobalStates">
+        <Key name="ArchivesVisited">
+            <Value flag="1"/>
+        </Key>
+        <Key name="CampaignComplete">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue01|MissionBestTime">
+        <Key name="VoidPrologue01-4">
+            <Value int="1672"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionBestTime">
+        <Key name="VoidPrologue02-4">
+            <Value int="2341"/>
+        </Key>
+    </Section>
+</Bank>

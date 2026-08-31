@@ -1,0 +1,2707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Campaign|MissionBestTime">
+        <Key name="Nova01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova09-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova09-4">
+            <Value int="1339"/>
+        </Key>
+        <Key name="Nova03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova05-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-4">
+            <Value int="1728"/>
+        </Key>
+        <Key name="Nova05-4">
+            <Value int="2269"/>
+        </Key>
+        <Key name="Nova06-4">
+            <Value int="2519"/>
+        </Key>
+        <Key name="Nova07-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova04-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-4">
+            <Value int="1558"/>
+        </Key>
+        <Key name="Nova05-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova09-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova09-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-4">
+            <Value int="1312"/>
+        </Key>
+        <Key name="Nova02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova05-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova06-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova04-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova04-4">
+            <Value int="1480"/>
+        </Key>
+        <Key name="Nova06-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova06-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova04-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-4">
+            <Value int="1891"/>
+        </Key>
+        <Key name="Nova08-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-4">
+            <Value int="1078"/>
+        </Key>
+        <Key name="Nova02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|MissionCompletedAge">
+        <Key name="Nova04">
+            <Value int="6"/>
+        </Key>
+        <Key name="Nova08">
+            <Value int="2"/>
+        </Key>
+        <Key name="Nova06">
+            <Value int="4"/>
+        </Key>
+        <Key name="Nova07">
+            <Value int="3"/>
+        </Key>
+        <Key name="Nova01">
+            <Value int="9"/>
+        </Key>
+        <Key name="Nova03">
+            <Value int="7"/>
+        </Key>
+        <Key name="Nova09">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova02">
+            <Value int="8"/>
+        </Key>
+        <Key name="Nova05">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|ArmyUnit">
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova04|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Raven">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Hold Fire">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tal&apos;darim Challenge">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blazefire Gunblade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Solo Operative">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blink Suit">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Domination Visor">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Liberator">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Terrazine Harvester">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|ArmyUnit">
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova04|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|CharacterStatus">
+        <Key name="CharacterStatus.Pierce">
+            <IsAlive.0.Int int="1"/>
+        </Key>
+        <Key name="CharacterStatus.Delta">
+            <IsAlive.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova04|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Raven">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tal&apos;darim Challenge">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Solo Operative">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Liberator">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Terrazine Harvester">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|CampaignSetting">
+        <Key name="Difficulty">
+            <Value int="4"/>
+        </Key>
+        <Key name="MapInstanceID">
+            <Value int="37"/>
+        </Key>
+    </Section>
+    <Section name="Nova04|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|ArmyUnit">
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Raven">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Hold Fire">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tal&apos;darim Challenge">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Battlecruiser Tactical Jump">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blazefire Gunblade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips. Dominion Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Solo Operative">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blink Suit">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Domination Visor">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Liberator">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Terrazine Harvester">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|ArmyUnit">
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|MissionAvailableAge"/>
+    <Section name="Nova04|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|CampaignStats">
+        <Key name="MissionCompletedCountNext">
+            <Value int="10"/>
+        </Key>
+        <Key name="MissionCompletedCount">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <State.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.Nova08Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus02">
+            <Progress.0.Int int="0"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus03">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova06Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Raven"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Reaper"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Battlecruiser"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova04|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Raven">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tal&apos;darim Challenge">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Solo Operative">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Liberator">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Terrazine Harvester">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|CampaignLastInfo">
+        <Key name="Location">
+            <Value string="NovaStoryPH"/>
+        </Key>
+        <Key name="LastMission">
+            <Value string="Nova09"/>
+        </Key>
+        <Key name="LastSuccessfulMission">
+            <Value string="Nova09"/>
+        </Key>
+        <Key name="LastMapSuccess">
+            <Value flag="1"/>
+        </Key>
+        <Key name="LastMap">
+            <Value string="Nova09"/>
+        </Key>
+        <Key name="LastMissionSuccess">
+            <Value flag="1"/>
+        </Key>
+        <Key name="LastMissionSimulation">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Rail Gun">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Raven">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Xanthos">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Hold Fire">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Flame Turret">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tal&apos;darim Challenge">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Battlecruiser Tactical Jump">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Nuke Launcher">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blazefire Gunblade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Fighter Bay">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips. Dominion Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Solo Operative">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Blink Suit">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.(PH) Gorgon Repair Bay">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Domination Visor">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Liberator">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Terrazine Harvester">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova06Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova03|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Reaper"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|Scenes">
+        <Key name="Scenes.MP02_010">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MP01_030">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.Nova04VoidRay">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MP01_035">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP03_020">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP03_010">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP03_035">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP03_030">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP01_010">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP03_040">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MP02_020">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP01_020">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP02_035">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP02_040">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MP01_040">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MP02_025">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP02_005">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.MP02_030">
+            <Played.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|StoryStates">
+        <Key name="StoryStates.MissionCompletedCount">
+            <Value.0.Int int="9"/>
+        </Key>
+        <Key name="StoryStates.Can Travel">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="StoryStates.NovaHasRevivedBefore">
+            <Value.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|MissionObjectives">
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus03">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova06Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|MissionObjectives">
+        <Key name="MissionObjective.Nova02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="6"/>
+        </Key>
+        <Key name="MissionObjective.Nova08Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova04Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova07Bonus03">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova06Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Nova05Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova07|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Raven"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova02|Perks">
+        <Key name="CampaignPerk.EQPWeaponItem2">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem7">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem2">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem3">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPHelmetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem4">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem6">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem1">
+            <State.0.Int int="2"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPSuitItem5">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPWeaponItem4">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignPerk.EQPGadgetItem1">
+            <State.0.Int int="1"/>
+            <IsNew.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|ArmyCategory">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellion">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova06|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Raven"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <State.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|WriterStates">
+        <Key name="WriterStates.ResponseUpgradeVOEnabled">
+            <Value.0.Int int="0"/>
+        </Key>
+        <Key name="WriterStates.HaveReigel">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.VisitedArmyUpgradeRoom">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.ResponseEquipmentVOEnabled">
+            <Value.0.Int int="0"/>
+        </Key>
+        <Key name="WriterStates.VisitedEquipmentRoom">
+            <Value.0.Int int="1"/>
+        </Key>
+        <Key name="WriterStates.MissionsCompleted">
+            <Value.0.Int int="9"/>
+        </Key>
+    </Section>
+    <Section name="Nova05|Tips">
+        <Key name="CampaignTips.Nova Snipe">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Break Neck">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Reaper">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Banshee">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.High Ground">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Spider Mine">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zerg Presence">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Nova Respawn">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Goliath">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Garrison Buildings">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Cloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Feral Zerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Death Fleet">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.EMP Decloak">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Monomolecular Blade">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Pulse Grenade">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="Nova08|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Raven"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Reaper"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Battlecruiser"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="Nova09|ArmyTechItem">
+        <Key name="CampaignTechItem.XN51 Cloak Technology">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Banshee"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.InternalizedTechModule">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Raven"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Fast Build Tech">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.LaserTargetingSystem">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Goliath"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SpiderMines">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="SiegeTank"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.MagrailMunitions">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Marauder"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Advanced Weaponry">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Reaper"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.RegenerativeBio-Steel">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Battlecruiser"/>
+            <IsNewList.4.Int int="0"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.Multi-task &quot;MAF&quot; Servos">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Liberator"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.SuperStim">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <IsNewList.3.Int int="0"/>
+            <AssignedUnit.0.GameLink string="Marine"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+        <Key name="CampaignTechItem.JumpJets">
+            <IsNewList.1.Int int="0"/>
+            <IsNewList.2.Int int="0"/>
+            <State.0.Int int="1"/>
+            <AssignedUnit.0.GameLink string="Hellbat"/>
+            <IsNewList.0.Int int="0"/>
+        </Key>
+    </Section>
+</Bank>
