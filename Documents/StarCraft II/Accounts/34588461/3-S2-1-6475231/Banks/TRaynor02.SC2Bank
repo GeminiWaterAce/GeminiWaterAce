@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MissionCompletedAge">
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryMisc">
+        <Key name="0">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="MissionAvailableAge">
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ObjectiveProgress"/>
+    <Section name="HelpUnitsPanel">
+        <Key name="1">
+            <Value string="Marine"/>
+        </Key>
+        <Key name="0">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryStage">
+        <Key name="4">
+            <Value int="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value int="31"/>
+        </Key>
+        <Key name="7">
+            <Value int="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryState">
+        <Key name="StoryState|TychusOn">
+            <StateValue int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionCompletion">
+        <Key name="1-Brutal">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionBestTime">
+        <Key name="1-Brutal">
+            <Value int="322"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="TutorialHistory">
+        <Key name="2_2">
+            <Value text="Move your cursor to the edge of the screen to move the camera in that direction."/>
+        </Key>
+        <Key name="3_1">
+            <Value text="Unit Movement"/>
+        </Key>
+        <Key name="2_1">
+            <Value text="Camera Control"/>
+        </Key>
+        <Key name="1_4">
+            <Value string="Assets\Textures\video_tutorial_combat.ogv"/>
+        </Key>
+        <Key name="2_3">
+            <Value string="Assets\Textures\ui_tutorial_cameraicon.dds"/>
+        </Key>
+        <Key name="1_2">
+            <Value text="While units are selected, right click mouse button on an enemy to issue an attack order."/>
+        </Key>
+        <Key name="0">
+            <Value int="3"/>
+        </Key>
+        <Key name="2_4">
+            <Value string="Assets\Textures\video_tutorial_camera_control.ogv"/>
+        </Key>
+        <Key name="1_3">
+            <Value string="Assets\Textures\btn-command-attack.dds"/>
+        </Key>
+        <Key name="3_2">
+            <Value text="While units are selected, right click mouse button to issue movement order."/>
+        </Key>
+        <Key name="3_3">
+            <Value string="Assets\Textures\btn-command-move.dds"/>
+        </Key>
+        <Key name="1_1">
+            <Value text="Attack"/>
+        </Key>
+        <Key name="3_4">
+            <Value string="Assets\Textures\video_tutorial_movement.ogv"/>
+        </Key>
+    </Section>
+    <Section name="MercStatus">
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="TechStatus">
+        <Key name="9">
+            <Value int="4"/>
+        </Key>
+        <Key name="10">
+            <Value int="4"/>
+        </Key>
+    </Section>
+</Bank>

@@ -1,0 +1,17 @@
+AlertFadeSound=1.000000
+completedCampaignMask=1
+controlgroupmode=1
+displayunitstatus=Damaged
+gluetheme=25
+hotkeyprofile=GeminiWaterAce
+LastCampaignId[1]=36864
+MeleeHelpIntroCount=3
+musicvolume=1.000000
+OptionRevisionAccount=0
+selectuncontrolable=true
+showalerts=true
+soundambiencevolume=1.000000
+soundeffectsvolume=1.000000
+sounduivolume=1.000000
+subtitles=true
+Teen=false
