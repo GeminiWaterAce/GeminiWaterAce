@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="StoryMisc">
+        <Key name="0">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="MissionAvailableAge">
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ObjectiveProgress"/>
+    <Section name="StoryStage">
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value int="31"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryState"/>
+    <Section name="TutorialHistory">
+        <Key name="0">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+    </Section>
+</Bank>

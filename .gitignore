@@ -384,7 +384,6 @@
 /AppData/Local/rail/credence
 /AppData/Local/Battle.net
 /AppData/Local/Blizzard Entertainment
-/Documents/StarCraft II
 /AppData/LocalLow/NatsumeAtari/KAGE Shadow of the Ninja Demo
 /Pictures
 /AppData/Roaming/Blizzard Entertainment
@@ -855,9 +854,29 @@
 /Documents/CAPCOM/OnimushaWotS_Demo/backup
 /AppData/Local/Thunder Network
 /Saved Games/Diablo II Resurrected/Settings.json
+/*.cnpf
 /AppData/Local/ZingangGame/Saved/SaveGames/*.vdf
 /AppData/Local/ZingangGame/Saved/Crashes
 /AppData/Local/ZingangGame/Saved/SaveGames/EGSSystemData.sav
+/AppData/LocalLow/CreSpirit/TEVI/tevisetting
+/AppData/LocalLow/CreSpirit/TEVI/tevisystem.sav
+/AppData/Local/ForzaHorizon6
+/AppData/Roaming/.1911
+/AppData/Roaming/Red Dead Redemption/cache
+/AppData/Local/Rockstar Games/GTAV Enhanced/CrashLogs
+/AppData/Local/Rockstar Games/GTAV Enhanced/*.dat
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/temp
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/banner.bin
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/config.sav
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/savedData/system.sav
+/AppData/Roaming/SEGA/SonicFrontiers/steam/76561198878104462
+/AppData/Roaming/SEGA/SonicColorsUltimate/Steam/76561198878104462/player_item_unlocks_temp
+/Documents/StarCraft II/Accounts/207829363/5-S2-1-3384335/Replays
+/Documents/StarCraft II/Accounts/207829363/5-S2-1-3384335/Saves/Unsaved
+/Documents/StarCraft II/*.txt
+/Documents/StarCraft II/GameLogs
+/Documents/StarCraft II/UserLogs
+/Documents/Streets of Rage 4 Save and Config/*.savebackup.bin
 /AppData/LocalLow/Temp
 /Documents/Assassin's Creed Black Flag Resynced/cache
 /Documents/My Games/Resonance A Plague Tale Legacy/cache
@@ -870,3 +889,4 @@
 /Documents/Assassin's Creed Black Flag Resynced/*.bin
 /Documents/My Games/Resonance A Plague Tale Legacy/ENGINESETTINGS
 /Documents/My Games/Resonance A Plague Tale Legacy/inputprofile
+/Documents/StarCraft II/Accounts/34588461/3-S2-1-6475231/Saves/Unsaved

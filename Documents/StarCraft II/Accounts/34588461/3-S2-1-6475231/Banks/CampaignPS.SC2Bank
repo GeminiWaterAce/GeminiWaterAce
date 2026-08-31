@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="CampaignCompleted">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>
