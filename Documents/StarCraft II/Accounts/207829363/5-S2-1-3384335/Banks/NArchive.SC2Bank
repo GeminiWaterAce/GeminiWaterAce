@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Campaign|MissionBestTime">
+        <Key name="Nova09-4">
+            <Value int="1339"/>
+        </Key>
+        <Key name="Nova09-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-4">
+            <Value int="1728"/>
+        </Key>
+        <Key name="Nova05-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova05-4">
+            <Value int="2269"/>
+        </Key>
+        <Key name="Nova07-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova06-4">
+            <Value int="2519"/>
+        </Key>
+        <Key name="Nova04-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova05-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-4">
+            <Value int="1558"/>
+        </Key>
+        <Key name="Nova09-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova09-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-4">
+            <Value int="1312"/>
+        </Key>
+        <Key name="Nova06-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova05-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova06-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova06-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova04-4">
+            <Value int="1480"/>
+        </Key>
+        <Key name="Nova04-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova08-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova07-4">
+            <Value int="1891"/>
+        </Key>
+        <Key name="Nova04-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova01-4">
+            <Value int="1078"/>
+        </Key>
+        <Key name="Nova01-1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="GlobalStates">
+        <Key name="ArchivesVisited">
+            <Value flag="1"/>
+        </Key>
+        <Key name="CampaignComplete">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Campaign|MissionObjectives">
+        <Key name="Nova03Primary01">
+            <Value int="5"/>
+        </Key>
+        <Key name="Nova06Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova02Bonus02">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova04Bonus01">
+            <Value int="6"/>
+        </Key>
+        <Key name="Nova07Bonus03">
+            <Value int="1"/>
+        </Key>
+        <Key name="SamplePrimaryObjective">
+            <Value int="1"/>
+        </Key>
+        <Key name="NSamplePrimaryObjective">
+            <Value int="1"/>
+        </Key>
+        <Key name="NSampleOptionalObjective">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova01Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="Nova07Bonus04">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova07Bonus02">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova05Primary01">
+            <Value int="6"/>
+        </Key>
+        <Key name="Nova04Bonus02">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova02Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova06Primary01">
+            <Value int="5"/>
+        </Key>
+        <Key name="Nova07Primary03">
+            <Value int="2"/>
+        </Key>
+        <Key name="Nova05Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova05Bonus02">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova04Primary03">
+            <Value int="4"/>
+        </Key>
+        <Key name="Nova09Primary01">
+            <Value int="5"/>
+        </Key>
+        <Key name="Nova07Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="SampleOptionalObjective">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova03Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova08Bonus01">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

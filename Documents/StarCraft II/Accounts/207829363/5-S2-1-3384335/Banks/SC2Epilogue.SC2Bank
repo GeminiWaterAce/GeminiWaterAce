@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PCampaign|CampaignSetting">
+        <Key name="Difficulty">
+            <Value int="4"/>
+        </Key>
+        <Key name="MapInstanceID">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|ArmyUnit">
+        <Key name="PhoenixShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryTalDarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixAiur">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|MissionObjectives">
+        <Key name="MissionObjective.SC2Epilogue02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.SC2Epilogue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="4"/>
+        </Key>
+        <Key name="MissionObjective.SC2Epilogue02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|HelpUnitsPanel">
+        <Key name="4">
+            <Value string="Colossus"/>
+        </Key>
+        <Key name="14">
+            <Value string="Phoenix"/>
+        </Key>
+        <Key name="9">
+            <Value string="VoidRay"/>
+        </Key>
+        <Key name="1">
+            <Value string="Archon"/>
+        </Key>
+        <Key name="6">
+            <Value string="HighTemplar"/>
+        </Key>
+        <Key name="3">
+            <Value string="Carrier"/>
+        </Key>
+        <Key name="8">
+            <Value string="Stalker"/>
+        </Key>
+        <Key name="0">
+            <Value int="14"/>
+        </Key>
+        <Key name="2">
+            <Value string="KhaydarinMonolith"/>
+        </Key>
+        <Key name="10">
+            <Value string="Sentry"/>
+        </Key>
+        <Key name="11">
+            <Value string="Zealot"/>
+        </Key>
+        <Key name="7">
+            <Value string="Immortal"/>
+        </Key>
+        <Key name="12">
+            <Value string="PhotonCannon"/>
+        </Key>
+        <Key name="13">
+            <Value string="ShieldBattery"/>
+        </Key>
+        <Key name="5">
+            <Value string="DarkTemplar"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionAvailableAge"/>
+    <Section name="SC2Epilogue02|MissionObjectives">
+        <Key name="MissionObjective.SC2Epilogue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="4"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|Tips">
+        <Key name="CampaignTips.VoidThrasher">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidRift">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Narud">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidCorruption">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|SpearofAdun">
+        <Key name="SpearofAdunUpgrade.ShipShieldUpgrades">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipSupplyUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipStructureBuildUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|ArmyUnit">
+        <Key name="PhoenixShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryTalDarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixAiur">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|HelpUnitsPanel">
+        <Key name="4">
+            <Value string="Colossus"/>
+        </Key>
+        <Key name="14">
+            <Value string="Phoenix"/>
+        </Key>
+        <Key name="9">
+            <Value string="VoidRay"/>
+        </Key>
+        <Key name="1">
+            <Value string="Archon"/>
+        </Key>
+        <Key name="6">
+            <Value string="HighTemplar"/>
+        </Key>
+        <Key name="3">
+            <Value string="Carrier"/>
+        </Key>
+        <Key name="8">
+            <Value string="Stalker"/>
+        </Key>
+        <Key name="0">
+            <Value int="14"/>
+        </Key>
+        <Key name="2">
+            <Value string="KhaydarinMonolith"/>
+        </Key>
+        <Key name="10">
+            <Value string="Sentry"/>
+        </Key>
+        <Key name="11">
+            <Value string="Zealot"/>
+        </Key>
+        <Key name="7">
+            <Value string="Immortal"/>
+        </Key>
+        <Key name="12">
+            <Value string="PhotonCannon"/>
+        </Key>
+        <Key name="13">
+            <Value string="ShieldBattery"/>
+        </Key>
+        <Key name="5">
+            <Value string="DarkTemplar"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|Tips">
+        <Key name="CampaignTips.VoidThrasher">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.KerriganCelestialBeam">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidRift">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.Narud">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidCorruption">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|Perks">
+        <Key name="CampaignPerk.GPTier2Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power3">
+            <State.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionBestTime">
+        <Key name="SC2Epilogue01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-4">
+            <Value int="2290"/>
+        </Key>
+        <Key name="SC2Epilogue03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-4">
+            <Value int="1722"/>
+        </Key>
+        <Key name="PPurifier02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur05-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur06-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PMoebius01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur04-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar02-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue01-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-4">
+            <Value int="1792"/>
+        </Key>
+        <Key name="PAiur04-2">
+            <Value int="0"/>
+        </Key>
+        <Key name="SC2Epilogue02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PTaldarim02-2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionObjectives">
+        <Key name="MissionObjective.SC2Epilogue02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.SC2Epilogue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="4"/>
+        </Key>
+        <Key name="MissionObjective.SC2Epilogue02Bonus02">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|Perks">
+        <Key name="CampaignPerk.GPTier2Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power3">
+            <State.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|ArmyCategory">
+        <Key name="Archon">
+            <Value int="1"/>
+        </Key>
+        <Key name="Sentry">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhotonCannon">
+            <Value int="1"/>
+        </Key>
+        <Key name="WarpGate">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplar">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zealot">
+            <Value int="1"/>
+        </Key>
+        <Key name="Phoenix">
+            <Value int="1"/>
+        </Key>
+        <Key name="Carrier">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stalker">
+            <Value int="1"/>
+        </Key>
+        <Key name="ShieldBattery">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRay">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplar">
+            <Value int="1"/>
+        </Key>
+        <Key name="Colossus">
+            <Value int="1"/>
+        </Key>
+        <Key name="Immortal">
+            <Value int="1"/>
+        </Key>
+        <Key name="KhaydarinMonolith">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionCompletedAge">
+        <Key name="PMoebius01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur05">
+            <Value int="4"/>
+        </Key>
+        <Key name="PShakuras02">
+            <Value int="4"/>
+        </Key>
+        <Key name="PUlnar03">
+            <Value int="4"/>
+        </Key>
+        <Key name="PTaldarim02">
+            <Value int="4"/>
+        </Key>
+        <Key name="SC2Epilogue03">
+            <Value int="1"/>
+        </Key>
+        <Key name="PAiur04">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur06">
+            <Value int="4"/>
+        </Key>
+        <Key name="SC2Epilogue01">
+            <Value int="3"/>
+        </Key>
+        <Key name="SC2Epilogue02">
+            <Value int="2"/>
+        </Key>
+        <Key name="PKorhal01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PPurifier02">
+            <Value int="4"/>
+        </Key>
+        <Key name="PShakuras01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PPurifier03">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur02">
+            <Value int="4"/>
+        </Key>
+        <Key name="PUlnar02">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PAiur03">
+            <Value int="4"/>
+        </Key>
+        <Key name="PPurifier01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PKorhal02">
+            <Value int="4"/>
+        </Key>
+        <Key name="PUlnar01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PTaldarim01">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|CampaignStats">
+        <Key name="MissionCompletedCount">
+            <Value int="22"/>
+        </Key>
+        <Key name="MissionCompletedCountNext">
+            <Value int="23"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue02|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|CampaignLastInfo">
+        <Key name="Location">
+            <Value string="EpilogueArc"/>
+        </Key>
+        <Key name="LastMission">
+            <Value string="SC2Epilogue03"/>
+        </Key>
+        <Key name="LastSuccessfulMission">
+            <Value string="SC2Epilogue03"/>
+        </Key>
+        <Key name="LastMapSuccess">
+            <Value flag="1"/>
+        </Key>
+        <Key name="LastMap">
+            <Value string="SC2Epilogue03"/>
+        </Key>
+        <Key name="LastMissionSuccess">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|ArmyUnit">
+        <Key name="PhoenixShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="ImmortalShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="DarkTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColossusPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="CarrierTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="HighTemplarTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="StalkerAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayShakuras">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayAiur">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="VoidRayTaldarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryTalDarim">
+            <Value int="1"/>
+        </Key>
+        <Key name="SentryPurifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="PhoenixAiur">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|Scenes">
+        <Key name="Scenes.CoreUlnar03Post">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.MoebiusArrival">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur04Briefing">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.EpilogueEnd">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.AiurIntro">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.KorhalTravel">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Purifier01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.UlnarTravel">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.UlnarArrival">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Taldarim01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.AiurUnlock">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.ShipRoomIntro">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Ulnar03MissionEnd">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.RohanaUlnar03">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Moebius01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur06Briefing">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.PreserverIntro">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Ulnar02Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.UlnarComplete">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Epilogue01MissionStart">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.XelNagaKerrigan">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.Protoss02">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur02Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.ShakurasEnd">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur05Briefing">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Shakuras01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Purifier01Travel">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Purifier02Arrival">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Protoss06">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.ProtossStinger">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.CampaignIntro">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.KorhalEnd">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Aiur03Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Shakuras02Briefing">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Ulnar03Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Taldarim02Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Purifier03MissionEnd">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.EpilogueStart">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.ShakurasTravel">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.KerriganIntro">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.TaldarimTravel">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Liberation">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Epilogue01Debrief">
+            <Played.0.Int int="1"/>
+        </Key>
+        <Key name="Scenes.Korhal01Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Korhal02Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+        <Key name="Scenes.Purifier03Debrief">
+            <Played.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|SpearofAdun">
+        <Key name="SpearofAdunUpgrade.ShipShieldUpgrades">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipSupplyUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipStructureBuildUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|Perks">
+        <Key name="CampaignPerk.GPTier2Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier6Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier5Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier2Power1">
+            <State.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier4Power3">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier3Power2">
+            <State.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignPerk.GPTier1Power3">
+            <State.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="SC2Epilogue03|SpearofAdun">
+        <Key name="SpearofAdunUpgrade.ShipShieldUpgrades">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipSupplyUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+        <Key name="SpearofAdunUpgrade.ShipStructureBuildUpgrade">
+            <Level.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|StoryStates">
+        <Key name="StoryStates.ArcsVisitedCount">
+            <Value.0.Int int="9"/>
+        </Key>
+        <Key name="StoryStates.MissionCompletedCount">
+            <Value.0.Int int="22"/>
+        </Key>
+        <Key name="StoryStates.ArcsCompletedCount">
+            <Value.0.Int int="9"/>
+        </Key>
+        <Key name="StoryStates.Can Travel">
+            <Value.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|Tips">
+        <Key name="CampaignTips.VoidThrasher">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.KerriganCelestialBeam">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.KerriganAscended">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidRift">
+            <Created.0.Int int="2"/>
+        </Key>
+        <Key name="CampaignTips.AmonVoidChasms">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Narud">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.AmonVoidConstructs">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidCorruption">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.AmonVoidCrystals">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|WriterStates"/>
+    <Section name="PCampaign|HelpUnitsPanel">
+        <Key name="4">
+            <Value string="Colossus"/>
+        </Key>
+        <Key name="14">
+            <Value string="Phoenix"/>
+        </Key>
+        <Key name="9">
+            <Value string="VoidRay"/>
+        </Key>
+        <Key name="1">
+            <Value string="Archon"/>
+        </Key>
+        <Key name="6">
+            <Value string="HighTemplar"/>
+        </Key>
+        <Key name="3">
+            <Value string="Carrier"/>
+        </Key>
+        <Key name="8">
+            <Value string="Stalker"/>
+        </Key>
+        <Key name="0">
+            <Value int="14"/>
+        </Key>
+        <Key name="2">
+            <Value string="KhaydarinMonolith"/>
+        </Key>
+        <Key name="10">
+            <Value string="Sentry"/>
+        </Key>
+        <Key name="11">
+            <Value string="Zealot"/>
+        </Key>
+        <Key name="7">
+            <Value string="Immortal"/>
+        </Key>
+        <Key name="12">
+            <Value string="PhotonCannon"/>
+        </Key>
+        <Key name="13">
+            <Value string="ShieldBattery"/>
+        </Key>
+        <Key name="5">
+            <Value string="DarkTemplar"/>
+        </Key>
+    </Section>
+</Bank>

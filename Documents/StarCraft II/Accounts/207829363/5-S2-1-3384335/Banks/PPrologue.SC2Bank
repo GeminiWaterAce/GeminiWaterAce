@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="VoidPrologue01|MissionObjectives">
+        <Key name="MissionObjective.Prologue01Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+        <Key name="MissionObjective.Prologue03Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+        <Key name="MissionObjective.Prologue02Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|CampaignSetting">
+        <Key name="Difficulty">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|MissionBestTime">
+        <Key name="VoidPrologue03-4">
+            <Value int="1453"/>
+        </Key>
+        <Key name="VoidPrologue01-4">
+            <Value int="1672"/>
+        </Key>
+        <Key name="VoidPrologue02-4">
+            <Value int="2341"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|MissionAvailableAge"/>
+    <Section name="VoidPrologue01|MissionAvailableAge">
+        <Key name="VoidPrologue01">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue03|MissionObjectives">
+        <Key name="MissionObjective.Prologue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Prologue03Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+        <Key name="MissionObjective.Prologue02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|MissionObjectives">
+        <Key name="MissionObjective.Prologue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Prologue03Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+        <Key name="MissionObjective.Prologue02Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="3"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue03|MissionAvailableAge">
+        <Key name="VoidPrologue03">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|CampaignLastInfo">
+        <Key name="LastMission">
+            <Value string="VoidPrologue03"/>
+        </Key>
+        <Key name="LastSuccessfulMission">
+            <Value string="VoidPrologue03"/>
+        </Key>
+        <Key name="LastMapSuccess">
+            <Value flag="1"/>
+        </Key>
+        <Key name="LastMap">
+            <Value string="VoidPrologue03"/>
+        </Key>
+        <Key name="LastMissionSuccess">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|MissionCompletedAge">
+        <Key name="VoidPrologue01">
+            <Value int="3"/>
+        </Key>
+        <Key name="VoidPrologue02">
+            <Value int="2"/>
+        </Key>
+        <Key name="VoidPrologue03">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue03|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue01|Tips"/>
+    <Section name="VoidPrologue02|Tips">
+        <Key name="CampaignTips.HighTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Sentry">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Stalker">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Colossus">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Immortal">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.DarkTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.BewareZerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zealot">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue03|Tips">
+        <Key name="CampaignTips.HighTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Sentry">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Stalker">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Colossus">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Immortal">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.DarkTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.BewareZerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidRay">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.NaturalGas">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zealot">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tempest">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Phoenix">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Carrier">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionObjectives">
+        <Key name="MissionObjective.Prologue01Bonus01">
+            <Complete.0.Int int="1"/>
+            <Available.0.Int int="0"/>
+            <Progress.0.Int int="1"/>
+        </Key>
+        <Key name="MissionObjective.Prologue03Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+        <Key name="MissionObjective.Prologue02Bonus01">
+            <Progress.0.Int int="0"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionCompletedAge">
+        <Key name="VoidPrologue01">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|CampaignStats">
+        <Key name="MissionCompletedCount">
+            <Value int="3"/>
+        </Key>
+        <Key name="MissionCompletedCountNext">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionAvailableAge">
+        <Key name="VoidPrologue02">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|WriterStates"/>
+    <Section name="VoidPrologue01|MissionSectionExist">
+        <Key name="Value">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue03|MissionCompletedAge">
+        <Key name="VoidPrologue01">
+            <Value int="2"/>
+        </Key>
+        <Key name="VoidPrologue02">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="PPrologue|Tips">
+        <Key name="CampaignTips.HighTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Sentry">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Stalker">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Colossus">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Immortal">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.DarkTemplar">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidArmor">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.BewareZerg">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.VoidRay">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zeratul">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.NaturalGas">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.ShadowStrike">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Zealot">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Tempest">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Phoenix">
+            <Created.0.Int int="1"/>
+        </Key>
+        <Key name="CampaignTips.Carrier">
+            <Created.0.Int int="1"/>
+        </Key>
+    </Section>
+</Bank>

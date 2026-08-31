@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="NStory|ArmyCategory">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellion">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="NStory|ArmyUnit">
+        <Key name="Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="Battlecruiser">
+            <Value int="1"/>
+        </Key>
+        <Key name="Banshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raven">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hellbat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marine">
+            <Value int="1"/>
+        </Key>
+        <Key name="SiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Liberator">
+            <Value int="1"/>
+        </Key>
+        <Key name="Marauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Reaper">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>
