@@ -3123,8 +3123,8 @@
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "capture_mode": "window",
                 "window": "Resonance#3A A Plague Tale Legacy - 1.2.0.0 (20260814_1010):AceApp:Resonance.exe",
+                "capture_mode": "window",
                 "capture_cursor": false,
                 "rgb10a2_space": "2100pq"
             },
@@ -3162,7 +3162,7 @@
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -11,
+    "scaling_level": -12,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
