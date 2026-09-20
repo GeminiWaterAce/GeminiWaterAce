@@ -30,8 +30,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "共鸣 瘟疫传说传承",
-    "current_program_scene": "共鸣 瘟疫传说传承",
+    "current_scene": "魔兽争霸3重铸版",
+    "current_program_scene": "魔兽争霸3重铸版",
     "scene_order": [
         {
             "name": "边境猎人艾尔莎的命运之轮"
@@ -1603,12 +1603,12 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 1,
+                "id_counter": 2,
                 "custom_size": false,
                 "items": [
                     {
                         "name": "魔兽争霸3重铸版游戏",
-                        "source_uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
+                        "source_uuid": "7701baf0-4d1d-4478-9cd4-13bdcfb851ef",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -1624,7 +1624,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 1,
+                        "id": 2,
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
@@ -1676,47 +1676,13 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": []
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536870916,
-            "name": "魔兽争霸3重铸版游戏",
-            "uuid": "30bd5708-59ab-4b7c-9f1e-6b3d4cf3e1be",
-            "id": "game_capture",
-            "versioned_id": "game_capture",
-            "settings": {
-                "window": "HWiNFO® 64 v8.22-5670 - 传感器状态:#2232770:HWiNFO64.EXE",
-                "capture_mode": "window"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "hotkey_start": [],
-                "hotkey_stop": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
             "private_settings": {}
         },
         {
@@ -3127,6 +3093,40 @@
                 "capture_mode": "window",
                 "capture_cursor": false,
                 "rgb10a2_space": "2100pq"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "hotkey_start": [],
+                "hotkey_stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536870916,
+            "name": "魔兽争霸3重铸版游戏",
+            "uuid": "7701baf0-4d1d-4478-9cd4-13bdcfb851ef",
+            "id": "game_capture",
+            "versioned_id": "game_capture",
+            "settings": {
+                "window": "Warcraft III:OsWindow:Warcraft III.exe",
+                "capture_mode": "window"
             },
             "mixers": 255,
             "sync": 0,
