@@ -899,7 +899,6 @@
 /AppData/Local/BeastOfReincarnation/Saved/SaveGames/borSaveDataMetabup*.sav
 /Documents/Warcraft III/*.txt
 /Documents/Warcraft III/BlizzardBrowser
-/Documents/Warcraft III/CustomKeyBindings
 /Documents/Warcraft III/Errors
 /Documents/Warcraft III/Logs
 /Documents/Warcraft III/Maps
@@ -923,3 +922,6 @@
 /AppData/Local/dlss5-swapper-updater
 /AppData/Local/KoeiTecmo/DW3CE_RE_Demo
 /AppData/Local/Remedy/CONTROLResonant/*.ini
+/AppData/Local/CrashBandicoot4/Saved/SaveGames/*.vdf
+/AppData/Local/Afterimage/Saved/Crashes
+/AppData/Roaming/GOG Galaxy Notifications Renderer
