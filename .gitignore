@@ -402,15 +402,7 @@
 /AppData/Local/NVIDIA Corporation
 /AppData/Local/Ubisoft Game Launcher
 /AppData/Roaming/obs-studio/plugin_config
-/AppData/Local/b1/Saved_WeGame/Config
-/AppData/Local/b1/Saved_WeGame/Logs
-/AppData/Local/b1/Saved_WeGame/webcache_4147
-/AppData/Local/b1/Saved_WeGame/*.ushaderprecache
-/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/ArchiveSnapshot
-/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/GMCmdPack
-/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.lock
-/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.txt
-/AppData/Local/b1/Saved_WeGame/PersistentDownloadDir/*.ini
+/AppData/Local/b1/Saved_WeGame/
 /AppData/Local/Softdeluxe
 /Videos
 /3D Objects
@@ -934,3 +926,4 @@
 /Saved Games/Order of the Sinking Star/settings.menu_state
 /AppData/Roaming/obs-studio/basic/profiles/直播/service.json
 /AppData/Roaming/obs-studio/*.ini
+/AppData/Roaming/SEGA/Judgment/Steam/*.ini
